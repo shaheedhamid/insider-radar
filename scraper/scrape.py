@@ -21,7 +21,7 @@ from bs4 import BeautifulSoup
 BASE_URL = "http://openinsider.com/screener"
 PARAMS = {
     "s": "", "o": "", "pl": "", "ph": "", "ll": "", "lh": "",
-    "fd": 730,          # last 730 days (~2 years)
+    "fd": 7,            # last 7 days — keeps result count well under cnt cap
     "fdr": "",
     "td": 0, "tdr": "",
     "fdlyl": "", "fdlyh": "", "daysago": "",
