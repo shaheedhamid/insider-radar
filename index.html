@@ -506,8 +506,8 @@
   <div class="filter-group">
     <label>Min Value</label>
     <div class="slider-wrap">
-      <input type="range" id="min-value-slider" min="0" max="10" step="1" value="0" />
-      <span id="min-value-label">$100K</span>
+      <input type="range" id="min-value-slider" min="0" max="11" step="1" value="0" />
+      <span id="min-value-label">All</span>
     </div>
   </div>
 
@@ -593,8 +593,9 @@
   const DATA_URL = 'data/latest.json';
   const REFRESH_INTERVAL_MS = 30 * 60 * 1000; // 30 minutes
 
-  // Slider steps: index → minimum value in dollars
+  // Slider steps: index → minimum value in dollars (0 = no minimum)
   const VALUE_STEPS = [
+    0,
     100_000,
     250_000,
     500_000,
@@ -659,7 +660,7 @@
   }
 
   function sliderLabel(idx) {
-    return formatCurrency(VALUE_STEPS[idx]);
+    return idx === 0 ? 'All' : formatCurrency(VALUE_STEPS[idx]);
   }
 
   /* ------------------------------------------------------------------ */
