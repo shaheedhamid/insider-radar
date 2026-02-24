@@ -1,0 +1,934 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Insider Radar — Insider Buying Dashboard</title>
+  <style>
+    /* ------------------------------------------------------------------ */
+    /* Reset & base                                                          */
+    /* ------------------------------------------------------------------ */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:          #0f1117;
+      --surface:     #1a1d27;
+      --surface2:    #21263a;
+      --border:      #2e3450;
+      --text:        #e2e8f0;
+      --muted:       #8892b0;
+      --accent:      #38bdf8;
+      --accent2:     #818cf8;
+      --green:       #22c55e;
+      --green-bg:    rgba(34,197,94,.12);
+      --yellow:      #eab308;
+      --yellow-bg:   rgba(234,179,8,.1);
+      --cluster:     #f97316;
+      --cluster-bg:  rgba(249,115,22,.15);
+      --radius:      8px;
+      --shadow:      0 4px 24px rgba(0,0,0,.4);
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Inter', system-ui, -apple-system, sans-serif;
+      font-size: 14px;
+      min-height: 100vh;
+      padding: 0 0 40px;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* ------------------------------------------------------------------ */
+    /* Header                                                               */
+    /* ------------------------------------------------------------------ */
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 18px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 12px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: var(--shadow);
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .brand-icon {
+      width: 36px;
+      height: 36px;
+      background: linear-gradient(135deg, var(--accent), var(--accent2));
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 20px;
+    }
+
+    .brand h1 {
+      font-size: 20px;
+      font-weight: 700;
+      background: linear-gradient(90deg, var(--accent), var(--accent2));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .header-meta {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+
+    #last-updated {
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    #trade-count {
+      font-size: 12px;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 3px 12px;
+      color: var(--accent);
+      font-weight: 600;
+    }
+
+    .refresh-indicator {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--green);
+      box-shadow: 0 0 6px var(--green);
+      display: inline-block;
+    }
+
+    .refresh-indicator.loading {
+      background: var(--yellow);
+      box-shadow: 0 0 6px var(--yellow);
+      animation: pulse 1s infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: .3; }
+    }
+
+    /* ------------------------------------------------------------------ */
+    /* Filters bar                                                           */
+    /* ------------------------------------------------------------------ */
+    .filters {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 14px 24px;
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 14px;
+    }
+
+    .filter-group {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .filter-group label {
+      font-size: 12px;
+      color: var(--muted);
+      white-space: nowrap;
+      font-weight: 500;
+    }
+
+    .filter-group select,
+    .filter-group input[type="text"] {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      color: var(--text);
+      border-radius: var(--radius);
+      padding: 6px 10px;
+      font-size: 13px;
+      outline: none;
+      transition: border-color .2s;
+    }
+
+    .filter-group select:focus,
+    .filter-group input[type="text"]:focus {
+      border-color: var(--accent);
+    }
+
+    .filter-group select option { background: var(--surface2); }
+
+    .slider-wrap {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    input[type="range"] {
+      -webkit-appearance: none;
+      width: 120px;
+      height: 4px;
+      background: var(--border);
+      border-radius: 2px;
+      outline: none;
+      cursor: pointer;
+    }
+
+    input[type="range"]::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      background: var(--accent);
+      cursor: pointer;
+    }
+
+    #min-value-label {
+      font-size: 12px;
+      color: var(--accent);
+      font-weight: 600;
+      min-width: 56px;
+    }
+
+    .btn-reset {
+      background: transparent;
+      border: 1px solid var(--border);
+      color: var(--muted);
+      border-radius: var(--radius);
+      padding: 6px 12px;
+      font-size: 12px;
+      cursor: pointer;
+      transition: all .2s;
+    }
+
+    .btn-reset:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    /* ------------------------------------------------------------------ */
+    /* Table container                                                       */
+    /* ------------------------------------------------------------------ */
+    main {
+      padding: 20px 24px;
+      overflow-x: auto;
+    }
+
+    #no-results {
+      text-align: center;
+      padding: 60px 0;
+      color: var(--muted);
+      display: none;
+    }
+
+    #no-results .icon { font-size: 40px; margin-bottom: 12px; }
+
+    /* ------------------------------------------------------------------ */
+    /* Table                                                                 */
+    /* ------------------------------------------------------------------ */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: var(--surface);
+      border-radius: var(--radius);
+      overflow: hidden;
+      box-shadow: var(--shadow);
+      min-width: 860px;
+    }
+
+    thead tr {
+      background: var(--surface2);
+    }
+
+    th {
+      padding: 12px 14px;
+      text-align: left;
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: .06em;
+      white-space: nowrap;
+      cursor: pointer;
+      user-select: none;
+      border-bottom: 1px solid var(--border);
+      position: relative;
+    }
+
+    th:hover { color: var(--text); }
+
+    th .sort-arrow {
+      margin-left: 4px;
+      opacity: .4;
+      font-style: normal;
+    }
+
+    th.sort-asc .sort-arrow::after  { content: " ▲"; opacity: 1; }
+    th.sort-desc .sort-arrow::after { content: " ▼"; opacity: 1; }
+    th:not(.sort-asc):not(.sort-desc) .sort-arrow::after { content: " ⇅"; }
+
+    tbody tr {
+      border-bottom: 1px solid var(--border);
+      transition: background .15s;
+    }
+
+    tbody tr:last-child { border-bottom: none; }
+    tbody tr:hover { background: var(--surface2); }
+
+    /* Role-based row highlighting */
+    tbody tr.row-ceo    { background: var(--green-bg); }
+    tbody tr.row-ceo:hover  { background: rgba(34,197,94,.18); }
+    tbody tr.row-vp     { background: var(--yellow-bg); }
+    tbody tr.row-vp:hover   { background: rgba(234,179,8,.16); }
+
+    td {
+      padding: 11px 14px;
+      font-size: 13px;
+      white-space: nowrap;
+    }
+
+    .td-ticker {
+      font-weight: 700;
+      color: var(--accent);
+      font-size: 14px;
+    }
+
+    .td-company {
+      color: var(--text);
+      max-width: 180px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .td-value {
+      font-weight: 600;
+      color: var(--green);
+    }
+
+    .td-date { color: var(--muted); font-size: 12px; }
+
+    .badge-cluster {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      background: var(--cluster-bg);
+      color: var(--cluster);
+      border: 1px solid rgba(249,115,22,.3);
+      border-radius: 20px;
+      padding: 2px 9px;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: .03em;
+      white-space: nowrap;
+    }
+
+    .badge-title {
+      display: inline-block;
+      border-radius: 4px;
+      padding: 2px 7px;
+      font-size: 11px;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+
+    .badge-title.ceo-chair {
+      background: var(--green-bg);
+      color: var(--green);
+    }
+
+    .badge-title.vp {
+      background: var(--yellow-bg);
+      color: var(--yellow);
+    }
+
+    .badge-title.dir {
+      background: rgba(129,140,248,.12);
+      color: var(--accent2);
+    }
+
+    .badge-title.other {
+      background: var(--surface2);
+      color: var(--muted);
+    }
+
+    /* ------------------------------------------------------------------ */
+    /* Loading skeleton                                                      */
+    /* ------------------------------------------------------------------ */
+    .skeleton-row td {
+      padding: 12px 14px;
+    }
+
+    .skeleton-cell {
+      height: 14px;
+      border-radius: 4px;
+      background: linear-gradient(90deg, var(--surface2) 25%, var(--border) 50%, var(--surface2) 75%);
+      background-size: 200% 100%;
+      animation: shimmer 1.4s infinite;
+    }
+
+    @keyframes shimmer {
+      0%   { background-position: 200% 0; }
+      100% { background-position: -200% 0; }
+    }
+
+    /* ------------------------------------------------------------------ */
+    /* Error banner                                                          */
+    /* ------------------------------------------------------------------ */
+    #error-banner {
+      display: none;
+      background: rgba(239,68,68,.15);
+      border: 1px solid rgba(239,68,68,.35);
+      color: #fca5a5;
+      border-radius: var(--radius);
+      padding: 12px 18px;
+      margin: 0 24px 16px;
+      font-size: 13px;
+    }
+
+    /* ------------------------------------------------------------------ */
+    /* Stats bar                                                             */
+    /* ------------------------------------------------------------------ */
+    .stats {
+      display: flex;
+      gap: 14px;
+      padding: 0 24px 16px;
+      flex-wrap: wrap;
+    }
+
+    .stat-card {
+      flex: 1;
+      min-width: 130px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 14px 18px;
+    }
+
+    .stat-card .stat-label {
+      font-size: 11px;
+      color: var(--muted);
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: .06em;
+      margin-bottom: 6px;
+    }
+
+    .stat-card .stat-value {
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--text);
+    }
+
+    .stat-card .stat-value.green { color: var(--green); }
+    .stat-card .stat-value.accent { color: var(--accent); }
+    .stat-card .stat-value.orange { color: var(--cluster); }
+
+    /* ------------------------------------------------------------------ */
+    /* Footer                                                                */
+    /* ------------------------------------------------------------------ */
+    footer {
+      text-align: center;
+      padding: 24px;
+      color: var(--muted);
+      font-size: 12px;
+      border-top: 1px solid var(--border);
+      margin-top: 16px;
+    }
+
+    footer a { color: var(--muted); }
+    footer a:hover { color: var(--accent); }
+
+    /* ------------------------------------------------------------------ */
+    /* Responsive                                                            */
+    /* ------------------------------------------------------------------ */
+    @media (max-width: 768px) {
+      header { padding: 14px 16px; }
+      .filters { padding: 12px 16px; gap: 10px; }
+      main { padding: 14px 16px; }
+      .stats { padding: 0 16px 12px; }
+      #error-banner { margin: 0 16px 12px; }
+      input[type="range"] { width: 90px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ====================================================================== -->
+<!-- Header                                                                   -->
+<!-- ====================================================================== -->
+<header>
+  <div class="brand">
+    <div class="brand-icon">📡</div>
+    <h1>Insider Radar</h1>
+  </div>
+  <div class="header-meta">
+    <span id="last-updated">Loading…</span>
+    <span id="trade-count">0 trades</span>
+    <span class="refresh-indicator" id="refresh-dot" title="Data status"></span>
+  </div>
+</header>
+
+<!-- ====================================================================== -->
+<!-- Filters                                                                   -->
+<!-- ====================================================================== -->
+<div class="filters">
+  <div class="filter-group">
+    <label for="search-input">Search</label>
+    <input type="text" id="search-input" placeholder="Ticker or company…" style="width:200px" />
+  </div>
+
+  <div class="filter-group">
+    <label for="title-filter">Title</label>
+    <select id="title-filter">
+      <option value="all">All Titles</option>
+      <option value="ceo">CEO / President</option>
+      <option value="director">Director / Chairman</option>
+      <option value="vp">VP / SVP / EVP</option>
+      <option value="cfo">CFO</option>
+      <option value="other">Other</option>
+    </select>
+  </div>
+
+  <div class="filter-group">
+    <label>Min Value</label>
+    <div class="slider-wrap">
+      <input type="range" id="min-value-slider" min="0" max="10" step="1" value="0" />
+      <span id="min-value-label">$100K</span>
+    </div>
+  </div>
+
+  <button class="btn-reset" id="btn-reset">Reset filters</button>
+</div>
+
+<!-- ====================================================================== -->
+<!-- Error banner                                                              -->
+<!-- ====================================================================== -->
+<div id="error-banner"></div>
+
+<!-- ====================================================================== -->
+<!-- Stats                                                                     -->
+<!-- ====================================================================== -->
+<div class="stats" id="stats-bar">
+  <div class="stat-card">
+    <div class="stat-label">Visible Trades</div>
+    <div class="stat-value accent" id="stat-visible">—</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-label">Cluster Buys</div>
+    <div class="stat-value orange" id="stat-clusters">—</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-label">Total Value</div>
+    <div class="stat-value green" id="stat-total-value">—</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-label">Unique Tickers</div>
+    <div class="stat-value" id="stat-tickers">—</div>
+  </div>
+</div>
+
+<!-- ====================================================================== -->
+<!-- Table                                                                     -->
+<!-- ====================================================================== -->
+<main>
+  <div id="no-results">
+    <div class="icon">🔍</div>
+    <p>No trades match your filters.</p>
+  </div>
+
+  <table id="trades-table">
+    <thead>
+      <tr>
+        <th data-col="filing_date">Filing Date<i class="sort-arrow"></i></th>
+        <th data-col="ticker">Ticker<i class="sort-arrow"></i></th>
+        <th data-col="company">Company<i class="sort-arrow"></i></th>
+        <th data-col="insider_name">Insider<i class="sort-arrow"></i></th>
+        <th data-col="title">Title<i class="sort-arrow"></i></th>
+        <th data-col="value" class="sort-desc">Trade Value<i class="sort-arrow"></i></th>
+        <th data-col="qty">Shares<i class="sort-arrow"></i></th>
+        <th data-col="price">Price<i class="sort-arrow"></i></th>
+        <th data-col="cluster_buy">Flag<i class="sort-arrow"></i></th>
+      </tr>
+    </thead>
+    <tbody id="table-body">
+      <!-- Loading skeletons -->
+      <tr class="skeleton-row"><td colspan="9"><div class="skeleton-cell" style="width:100%"></div></td></tr>
+      <tr class="skeleton-row"><td colspan="9"><div class="skeleton-cell" style="width:90%"></div></td></tr>
+      <tr class="skeleton-row"><td colspan="9"><div class="skeleton-cell" style="width:95%"></div></td></tr>
+      <tr class="skeleton-row"><td colspan="9"><div class="skeleton-cell" style="width:80%"></div></td></tr>
+      <tr class="skeleton-row"><td colspan="9"><div class="skeleton-cell" style="width:88%"></div></td></tr>
+    </tbody>
+  </table>
+</main>
+
+<footer>
+  Data sourced from <a href="http://openinsider.com" target="_blank" rel="noopener">OpenInsider</a>.
+  Not financial advice. &mdash; Auto-refreshes every 30 minutes.
+</footer>
+
+<!-- ====================================================================== -->
+<!-- JavaScript                                                                -->
+<!-- ====================================================================== -->
+<script>
+(function () {
+  'use strict';
+
+  /* ------------------------------------------------------------------ */
+  /* State                                                                */
+  /* ------------------------------------------------------------------ */
+  const DATA_URL = 'data/latest.json';
+  const REFRESH_INTERVAL_MS = 30 * 60 * 1000; // 30 minutes
+
+  // Slider steps: index → minimum value in dollars
+  const VALUE_STEPS = [
+    100_000,
+    250_000,
+    500_000,
+    1_000_000,
+    2_500_000,
+    5_000_000,
+    10_000_000,
+    25_000_000,
+    50_000_000,
+    100_000_000,
+    500_000_000,
+  ];
+
+  let allTrades   = [];
+  let sortCol     = 'value';
+  let sortDir     = 'desc';   // 'asc' | 'desc'
+
+  /* ------------------------------------------------------------------ */
+  /* DOM refs                                                              */
+  /* ------------------------------------------------------------------ */
+  const lastUpdatedEl   = document.getElementById('last-updated');
+  const tradeCountEl    = document.getElementById('trade-count');
+  const refreshDotEl    = document.getElementById('refresh-dot');
+  const errorBannerEl   = document.getElementById('error-banner');
+  const tableBodyEl     = document.getElementById('table-body');
+  const noResultsEl     = document.getElementById('no-results');
+  const searchInputEl   = document.getElementById('search-input');
+  const titleFilterEl   = document.getElementById('title-filter');
+  const minValueSlider  = document.getElementById('min-value-slider');
+  const minValueLabel   = document.getElementById('min-value-label');
+  const btnReset        = document.getElementById('btn-reset');
+  const tableEl         = document.getElementById('trades-table');
+
+  const statVisible     = document.getElementById('stat-visible');
+  const statClusters    = document.getElementById('stat-clusters');
+  const statTotalValue  = document.getElementById('stat-total-value');
+  const statTickers     = document.getElementById('stat-tickers');
+
+  /* ------------------------------------------------------------------ */
+  /* Utilities                                                             */
+  /* ------------------------------------------------------------------ */
+  function parseNumber(v) {
+    if (v === null || v === undefined || v === '') return 0;
+    const s = String(v).replace(/[$,\s%+]/g, '');
+    const n = parseFloat(s);
+    return isNaN(n) ? 0 : n;
+  }
+
+  function formatCurrency(n) {
+    if (n === 0) return '—';
+    if (n >= 1_000_000_000) return '$' + (n / 1_000_000_000).toFixed(1) + 'B';
+    if (n >= 1_000_000)     return '$' + (n / 1_000_000).toFixed(1) + 'M';
+    if (n >= 1_000)         return '$' + (n / 1_000).toFixed(0) + 'K';
+    return '$' + n.toFixed(0);
+  }
+
+  function formatShares(n) {
+    if (n === 0) return '—';
+    if (n >= 1_000_000) return (n / 1_000_000).toFixed(2) + 'M';
+    if (n >= 1_000)     return (n / 1_000).toFixed(1) + 'K';
+    return n.toLocaleString();
+  }
+
+  function sliderLabel(idx) {
+    return formatCurrency(VALUE_STEPS[idx]);
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* Title classification                                                  */
+  /* ------------------------------------------------------------------ */
+  function classifyTitle(title) {
+    const t = (title || '').toLowerCase();
+    if (/\b(ceo|chief executive|president)\b/.test(t))           return 'ceo';
+    if (/\b(chair|chairman|chairwoman|director|board)\b/.test(t)) return 'director';
+    if (/\b(cfo|chief financial)\b/.test(t))                      return 'cfo';
+    if (/\b([se]vp|svp|evp|vp|vice president)\b/.test(t))        return 'vp';
+    return 'other';
+  }
+
+  function titleBadge(title) {
+    const cls = classifyTitle(title);
+    const labels = { ceo: 'CEO', director: 'Director', cfo: 'CFO', vp: 'VP', other: 'Other' };
+    const cssClasses = {
+      ceo: 'ceo-chair', director: 'dir', cfo: 'vp', vp: 'vp', other: 'other'
+    };
+    const display = title.length > 22 ? title.substring(0, 22) + '…' : title;
+    return `<span class="badge-title ${cssClasses[cls]}" title="${escHtml(title)}">${escHtml(display)}</span>`;
+  }
+
+  function escHtml(str) {
+    return String(str)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* Row classification for row-level color                               */
+  /* ------------------------------------------------------------------ */
+  function rowClass(trade) {
+    const cls = classifyTitle(trade.title || '');
+    if (cls === 'ceo') return 'row-ceo';
+    if (cls === 'vp' || cls === 'cfo') return 'row-vp';
+    if (cls === 'director') return 'row-ceo';  // directors get green too
+    return '';
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* Filtering                                                             */
+  /* ------------------------------------------------------------------ */
+  function getFilters() {
+    return {
+      search:   searchInputEl.value.trim().toLowerCase(),
+      title:    titleFilterEl.value,
+      minValue: VALUE_STEPS[parseInt(minValueSlider.value, 10)],
+    };
+  }
+
+  function applyFilters(trades) {
+    const { search, title, minValue } = getFilters();
+    return trades.filter(t => {
+      const val = parseNumber(t.value);
+      if (val < minValue) return false;
+
+      if (title !== 'all') {
+        if (classifyTitle(t.title) !== title) return false;
+      }
+
+      if (search) {
+        const hay = ((t.ticker || '') + ' ' + (t.company || '')).toLowerCase();
+        if (!hay.includes(search)) return false;
+      }
+
+      return true;
+    });
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* Sorting                                                               */
+  /* ------------------------------------------------------------------ */
+  function sortTrades(trades) {
+    return [...trades].sort((a, b) => {
+      let av = a[sortCol];
+      let bv = b[sortCol];
+
+      // Numeric columns
+      const numericCols = ['value', 'qty', 'price'];
+      if (numericCols.includes(sortCol)) {
+        av = parseNumber(av);
+        bv = parseNumber(bv);
+      }
+
+      // Boolean columns
+      if (sortCol === 'cluster_buy') {
+        av = av ? 1 : 0;
+        bv = bv ? 1 : 0;
+      }
+
+      if (av < bv) return sortDir === 'asc' ? -1 : 1;
+      if (av > bv) return sortDir === 'asc' ? 1 : -1;
+      return 0;
+    });
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* Render                                                                */
+  /* ------------------------------------------------------------------ */
+  function renderTable() {
+    const filtered = applyFilters(allTrades);
+    const sorted   = sortTrades(filtered);
+
+    // Stats
+    const totalValue   = filtered.reduce((s, t) => s + parseNumber(t.value), 0);
+    const clusterCount = filtered.filter(t => t.cluster_buy).length;
+    const uniqueTickers= new Set(filtered.map(t => t.ticker)).size;
+
+    statVisible.textContent    = filtered.length.toLocaleString();
+    statClusters.textContent   = clusterCount.toLocaleString();
+    statTotalValue.textContent = formatCurrency(totalValue);
+    statTickers.textContent    = uniqueTickers.toLocaleString();
+
+    if (sorted.length === 0) {
+      tableBodyEl.innerHTML = '';
+      noResultsEl.style.display = 'block';
+      return;
+    }
+    noResultsEl.style.display = 'none';
+
+    const rows = sorted.map(t => {
+      const val   = parseNumber(t.value);
+      const qty   = parseNumber(t.qty);
+      const price = parseNumber(t.price);
+      const rc    = rowClass(t);
+      const clusterBadge = t.cluster_buy
+        ? '<span class="badge-cluster">🔥 Cluster</span>'
+        : '';
+
+      return `<tr class="${rc}">
+        <td class="td-date">${escHtml(t.filing_date || '—')}</td>
+        <td class="td-ticker">${escHtml(t.ticker || '—')}</td>
+        <td class="td-company" title="${escHtml(t.company || '')}">${escHtml(t.company || '—')}</td>
+        <td>${escHtml(t.insider_name || '—')}</td>
+        <td>${titleBadge(t.title || 'Unknown')}</td>
+        <td class="td-value">${formatCurrency(val)}</td>
+        <td>${formatShares(qty)}</td>
+        <td>${price > 0 ? '$' + price.toFixed(2) : '—'}</td>
+        <td>${clusterBadge}</td>
+      </tr>`;
+    }).join('');
+
+    tableBodyEl.innerHTML = rows;
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* Sort header clicks                                                    */
+  /* ------------------------------------------------------------------ */
+  tableEl.querySelectorAll('th[data-col]').forEach(th => {
+    th.addEventListener('click', () => {
+      const col = th.dataset.col;
+      if (col === sortCol) {
+        sortDir = sortDir === 'asc' ? 'desc' : 'asc';
+      } else {
+        sortCol = col;
+        sortDir = 'desc';
+      }
+      // Update header classes
+      tableEl.querySelectorAll('th').forEach(h => {
+        h.classList.remove('sort-asc', 'sort-desc');
+      });
+      th.classList.add(sortDir === 'asc' ? 'sort-asc' : 'sort-desc');
+      renderTable();
+    });
+  });
+
+  // Mark initial sort column
+  (function () {
+    const initTh = tableEl.querySelector(`th[data-col="${sortCol}"]`);
+    if (initTh) initTh.classList.add('sort-desc');
+  })();
+
+  /* ------------------------------------------------------------------ */
+  /* Filter events                                                         */
+  /* ------------------------------------------------------------------ */
+  function onFilterChange() { renderTable(); }
+
+  searchInputEl.addEventListener('input', onFilterChange);
+  titleFilterEl.addEventListener('change', onFilterChange);
+  minValueSlider.addEventListener('input', () => {
+    minValueLabel.textContent = sliderLabel(parseInt(minValueSlider.value, 10));
+    onFilterChange();
+  });
+
+  btnReset.addEventListener('click', () => {
+    searchInputEl.value    = '';
+    titleFilterEl.value    = 'all';
+    minValueSlider.value   = 0;
+    minValueLabel.textContent = sliderLabel(0);
+    onFilterChange();
+  });
+
+  /* ------------------------------------------------------------------ */
+  /* Data fetching                                                         */
+  /* ------------------------------------------------------------------ */
+  function showError(msg) {
+    errorBannerEl.textContent = msg;
+    errorBannerEl.style.display = 'block';
+  }
+
+  function hideError() {
+    errorBannerEl.style.display = 'none';
+  }
+
+  function setLoading(isLoading) {
+    if (isLoading) {
+      refreshDotEl.classList.add('loading');
+    } else {
+      refreshDotEl.classList.remove('loading');
+    }
+  }
+
+  function formatTimestamp(isoStr) {
+    if (!isoStr) return 'Unknown';
+    try {
+      const d = new Date(isoStr);
+      return d.toLocaleString(undefined, {
+        month: 'short', day: 'numeric', year: 'numeric',
+        hour: '2-digit', minute: '2-digit', timeZoneName: 'short'
+      });
+    } catch {
+      return isoStr;
+    }
+  }
+
+  async function fetchData() {
+    setLoading(true);
+    try {
+      const url = DATA_URL + '?_=' + Date.now(); // cache-busting
+      const resp = await fetch(url);
+      if (!resp.ok) throw new Error(`HTTP ${resp.status}: ${resp.statusText}`);
+      const json = await resp.json();
+
+      allTrades = json.trades || [];
+      const count = json.trade_count || allTrades.length;
+
+      lastUpdatedEl.textContent = 'Updated: ' + formatTimestamp(json.last_updated);
+      tradeCountEl.textContent  = count.toLocaleString() + ' trades';
+
+      hideError();
+      renderTable();
+    } catch (err) {
+      showError('Could not load data: ' + err.message + '. The data file may not exist yet — run the scraper first.');
+      // Keep skeleton visible if first load, otherwise keep stale data
+      if (allTrades.length === 0) {
+        tableBodyEl.innerHTML = `
+          <tr><td colspan="9" style="text-align:center;padding:40px;color:var(--muted)">
+            No data available yet. Run the scraper to populate data.
+          </td></tr>`;
+      }
+    } finally {
+      setLoading(false);
+    }
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* Bootstrap                                                             */
+  /* ------------------------------------------------------------------ */
+  // Initial load
+  fetchData();
+
+  // Auto-refresh every 30 minutes
+  setInterval(fetchData, REFRESH_INTERVAL_MS);
+})();
+</script>
+
+</body>
+</html>
