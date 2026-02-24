@@ -1,0 +1,101 @@
+filing_date,trade_date,ticker,company,insider_name,title,trade_type,price,qty,owned,delta_own,value,cluster_buy
+2026-02-23,2026-02-23,GNK,Genco Shipping & Trading Ltd,Adamo Joseph,Chief Accounting Officer,S - Sale+OE,23.67,-6340,38519,-14%,-150068,True
+2026-02-23,2026-02-23,GNK,Genco Shipping & Trading Ltd,Wobensmith John C,"COB, CEO,, Pres",S - Sale+OE,23.66,-39244,564617,-6%,-928513,True
+2026-02-23,2026-02-23,GNK,Genco Shipping & Trading Ltd,Christensen Jesper,Chief Commercial Officer,S - Sale+OE,23.66,-18450,98299,-16%,-436527,True
+2026-02-23,2026-02-23,GNK,Genco Shipping & Trading Ltd,Allen Peter George,CFO,S - Sale+OE,23.66,-13315,66702,-17%,-315006,True
+2026-02-23,2026-02-20,ARDX,"Ardelyx, Inc.",Mott David M,Dir,P - Purchase,5.84,333333,3302918,+11%,1946331,True
+2026-02-23,2026-02-23,TDW,Tidewater Inc,Hudson Daniel A.,"EVP, GC",S - Sale,77.50,-15000,50986,-23%,-1162500,False
+2026-02-23,2026-02-18,PLSE,"Pulse Biosciences, Inc.",Danahy Kevin Patrick,Chief Commercial Officer,S - Sale+OE,23.64,-5000,43298,-10%,-118200,False
+2026-02-23,2026-02-20,ARDX,"Ardelyx, Inc.",Reilly Joseph James,See Remarks,S - Sale,5.85,-4991,151790,-3%,-29181,True
+2026-02-23,2026-02-19,AVTR,"Avantor, Inc.",Lucier Gregory T,Dir,P - Purchase,9.16,50000,58736,+572%,458000,False
+2026-02-23,2026-02-20,ARDX,"Ardelyx, Inc.",Williams Laura A,See Remarks,S - Sale,5.85,-8176,436082,-2%,-47803,True
+2026-02-23,2026-02-20,ARDX,"Ardelyx, Inc.",Kelliher Mike,See Remarks,S - Sale,5.85,-9595,364666,-3%,-56099,True
+2026-02-23,2026-02-20,ARDX,"Ardelyx, Inc.",Raab Michael,"Pres, CEO",S - Sale,5.85,-45982,1882350,-2%,-268841,True
+2026-02-23,2026-02-20,ARDX,"Ardelyx, Inc.",Foster Eric Duane,Chief Commercial Officer,S - Sale,5.85,-10439,425970,-2%,-61034,True
+2026-02-23,2026-02-19,ROIV,Roivant Sciences Ltd.,Torti Frank,"Pres, Vant Chair",S - Sale+OE,27.35,-3000000,13736547,-18%,-82039460,False
+2026-02-23,2026-02-19,NET,"Cloudflare, Inc.",Zatlyn Michelle,"Pres, Board Co-Chair",S - Sale+OE,184.61,-86362,460940,-16%,-15943326,False
+2026-02-23,2026-02-19,ABCB,Ameris Bancorp,Lahaise James A,Chief Strategy Officer,S - Sale,82.93,-6641,111470,-6%,-550738,False
+2026-02-23,2026-02-19,RPC,"Ridgepost Capital, Inc.",Stewart Robert B Jr,Dir,P - Purchase,8.65,10000,144525,+7%,86500,False
+2026-02-23,2026-02-19,KRYS,"Krystal Biotech, Inc.",Rossi Dino A,Dir,S - Sale+OE,261.41,-18950,78691,-19%,-4953694,False
+2026-02-23,2026-02-20,USNA,Usana Health Sciences Inc,Foukas Joshua,GC,S - Sale+OE,21.35,-4461,0,-100%,-95220,False
+2026-02-23,2026-02-19,IR,Ingersoll Rand Inc.,Humphrey John,Dir,S - Sale,95.90,-4300,23983,-15%,-412370,True
+2026-02-23,2026-02-20,IR,Ingersoll Rand Inc.,Kini Vikram,"SVP, CFO",S - Sale+OE,96.50,-28367,98517,-22%,-2737416,True
+2026-02-23,2026-02-19,MC,Moelis & Co,Watanabe Osamu R.,"GC, Secretary",S - Sale+OE,62.23,-2765,4981,-36%,-172066,False
+2026-02-23,2026-02-19,EXEL,"Exelixis, Inc.",Aftab Dana,"EVP, Research, Development",S - Sale,44.35,-29873,669859,-4%,-1324868,False
+2026-02-23,2026-02-19,TKR,Timken Co,Kyle Richard G,Dir,S - Sale,106.72,-10000,263272,-4%,-1067200,False
+2026-02-23,2026-02-20,FSBC,Five Star Bancorp,Lee Michael Eugene,"SVP, Chief Regulatory Officer",S - Sale,39.30,-1200,35272,-3%,-47160,False
+2026-02-23,2026-02-19,CENT,Central Garden & Pet Co,Ranelli John,Dir,S - Sale,34.50,-3668,11269,-25%,-126534,False
+2026-02-23,2026-02-20,IOT,Samsara Inc.,Eltoukhy Adam,See remarks,S - Sale,26.79,-4688,363846,-1%,-125612,False
+2026-02-23,2026-02-23,GRMN,Garmin Ltd,Minard Laurie A,"VP, HR",S - Sale,247.28,-837,5781,-13%,-206976,False
+2026-02-23,2026-02-19,AMRC,"Ameresco, Inc.",Stavropoulos Nickolas,Dir,S - Sale+OE,34.15,-16100,14111,-53%,-549755,False
+2026-02-23,2026-02-20,ENTG,Entegris Inc,Colella Joseph,"SVP, GC",S - Sale,131.49,-1580,45835,-3%,-207754,True
+2026-02-23,2026-02-20,ENTG,Entegris Inc,Blachier Olivier,"SVP, Chief Strategy Officer",S - Sale,131.49,-1664,29497,-5%,-218799,True
+2026-02-23,2026-02-19,RUSHA,Rush Enterprises Inc Tx,Goldstone Michael L,"SVP, GC, Corp. Sec.",S - Sale+OE,71.86,-4500,12590,-26%,-323383,True
+2026-02-23,2026-02-19,RUSHA,Rush Enterprises Inc Tx,McRoberts Michael,Senior Advisor and Director,S - Sale+OE,70.81,-8000,16229,-33%,-566470,True
+2026-02-23,2026-02-19,RUSHA,Rush Enterprises Inc Tx,Pollard Jody,SVP,S - Sale+OE,71.92,-11250,3385,-77%,-809087,True
+2026-02-23,2026-02-20,ENTG,Entegris Inc,Lagorga Linda,"SVP, CFO",S - Sale+OE,135.00,-11438,33810,-25%,-1544130,True
+2026-02-23,2026-02-19,LEE,"Lee Enterprises, Inc",Hoffmann David Henry,"Dir, 10%",P - Purchase,8.65,36400,11592039,0%,314784,False
+2026-02-23,2026-02-23,RXT,"Rackspace Technology, Inc.",Marino Mark A.,CFO,S - Sale,1.63,-234683,2193115,-10%,-382533,False
+2026-02-23,2026-02-20,ITRI,"Itron, Inc.",Wright David Marshall,"VP, Corp. Controller, CAO",S - Sale,100.17,-264,9124,-3%,-26444,True
+2026-02-23,2026-02-19,CRCT,"Cricut, Inc.",Ashish Arora,"CEO, 10%",S - Sale,4.56,-180000,3798453,-5%,-821664,False
+2026-02-23,2026-02-20,ITRI,"Itron, Inc.",Reeves Donald L. III,"SVP, Outcomes",S - Sale,100.17,-1071,32069,-3%,-107278,True
+2026-02-23,2026-02-20,ITRI,"Itron, Inc.",Ware Christopher E.,"SVP, GC, Corp. Secretary",S - Sale,100.17,-763,31043,-2%,-76427,True
+2026-02-23,2026-02-20,ITRI,"Itron, Inc.",Pulatie-Hahn Laurie Ann,"SVP, HR",S - Sale,100.17,-729,32950,-2%,-73021,True
+2026-02-23,2026-02-20,ITRI,"Itron, Inc.",Hooper Joan S,"SVP, CFO",S - Sale,100.17,-1426,122770,-1%,-142837,True
+2026-02-23,2026-02-20,ITRI,"Itron, Inc.",Marcolini John F.,"SVP, Networked Solutions",S - Sale,100.17,-1074,25838,-4%,-107579,True
+2026-02-23,2026-02-20,ITRI,"Itron, Inc.",Deitrich Thomas,"Pres, CEO",S - Sale,100.17,-3061,397073,-1%,-306609,True
+2026-02-23,2026-02-20,KAR,"Openlane, Inc.",Coyle James P,"EVP, Pres, Marketplace",S - Sale+OE,28.83,-88444,73237,-55%,-2549487,False
+2026-02-23,2026-02-20,ITRI,"Itron, Inc.",Patrick Justin K,"SVP, Device Solutions",S - Sale,100.17,-828,33516,-2%,-82938,True
+2026-02-23,2026-02-19,LPX,Louisiana-Pacific Corp,Grasberger F Nicholas  III,Dir,P - Purchase,85.49,20000,38954,+106%,1709800,False
+2026-02-23,2026-02-20,WMT,Walmart Inc.,Watkins Latriece,EVP,S - Sale,121.46,-10000,109958,-8%,-1214630,True
+2026-02-23,2026-02-20,FFIN,First Financial Bankshares Inc,Haney Geoff,Dir,P - Purchase,33.18,10200,32146,+46%,338436,False
+2026-02-23,2026-02-20,GPN,Global Payments Inc,Johnson Joia M,Dir,P - Purchase,81.90,1213,16567,+8%,99345,False
+2026-02-23,2026-02-20,WMT,Walmart Inc.,Nicholas Christopher James,EVP,S - Sale,122.00,-34082,533466,-6%,-4158004,True
+2026-02-23,2026-02-19,WMT,Walmart Inc.,Furner John R.,"Pres, CEO",S - Sale,129.10,-13125,729585,-2%,-1694479,True
+2026-02-23,2026-02-19,WERN,Werner Enterprises Inc,Downing Eric J,"EVP, COO",S - Sale,34.89,-2846,55365,-5%,-99292,False
+2026-02-23,2026-02-10,CMI,Cummins Inc,Bush Jennifer Mary,"VP, Pres - Power Systems",S - Sale+OE,584.93,-4270,14011,-23%,-2497658,True
+2026-02-23,2026-02-20,AMAL,Amalgamated Financial Corp.,Graham Tyrone,"EVP, CHRO",S - Sale,39.91,-2285,13443,-15%,-91194,True
+2026-02-23,2026-02-20,LZB,La-Z-Boy Inc,Leggett Michael Adam,"SVP, Chief Supply Chain Off",S - Sale,37.00,-2200,42473,-5%,-81400,False
+2026-02-23,2026-02-23,GWRE,"Guidewire Software, Inc.",Rosenbaum Michael George,CEO,S - Sale,125.50,-1200,229543,-1%,-150600,False
+2026-02-23,2026-02-20,ANIP,Ani Pharmaceuticals Inc,Mutz Christopher,HEAD OF RARE DISEASE,S - Sale,78.02,-5323,84840,-6%,-415300,True
+2026-02-23,2026-02-19,ANIP,Ani Pharmaceuticals Inc,Davis Krista,"SVP, CHRO",S - Sale,77.74,-3814,49263,-7%,-296495,True
+2026-02-23,2026-02-19,PFLT,Pennantpark Floating Rate Capital Ltd.,Briones Jose A,Dir,P - Purchase,8.48,5895,350314,+2%,49990,False
+2026-02-23,2026-02-20,ZANDZ,"Zillow Group, Inc.",Frink Lloyd D,"Co -Exec. COB, Pres",S - Sale+OE,45.29,-39663,2947685,-1%,-1796191,False
+2026-02-23,2026-02-19,GKOS,Glaukos Corp,Weisner Aimee S,Dir,S - Sale+OE,117.38,-15000,48311,-24%,-1760761,False
+2026-02-23,2026-02-23,CMI,Cummins Inc,Newsome Earl,VP - CIO,S - Sale,583.67,-1300,3389,-28%,-758776,True
+2026-02-23,2026-02-20,CNDT,Conduent Inc,Agadi Harshavardhan V,CEO,P - Purchase,1.56,117099,2233928,+6%,182909,False
+2026-02-23,2026-02-23,STX,Seagate Technology Holdings Plc,Chong Kian Fatt,EVP Global Operations,S - Sale+OE,416.48,-5846,0,-100%,-2434740,False
+2026-02-23,2026-02-20,JNJ,Johnson & Johnson,Schmid Timothy,"EVP, WW Chair, MedTech",S - Sale,245.66,-1322,26238,-5%,-324763,False
+2026-02-23,2026-02-20,NTCT,Netscout Systems Inc,Downing John,"EVP, World-Wide Sales",S - Sale,30.00,-3000,129494,-2%,-90000,False
+2026-02-23,2026-02-19,PTCT,"Ptc Therapeutics, Inc.",Boulding Mark Elliott,"EVP, CLO",S - Sale,69.48,-3019,105212,-3%,-209763,False
+2026-02-23,2026-02-19,HBAN,Huntington Bancshares Inc /Md/,Torgow Gary,Dir,P - Purchase,17.81,14200,949016,+2%,252902,False
+2026-02-23,2026-02-23,RTX,Rtx Corp,Williams Dantaya M,"EVP, CHRO",S - Sale,202.83,-12713,21720,-37%,-2578611,True
+2026-02-23,2026-02-19,RTX,Rtx Corp,Mitchill Neil G. Jr,"EVP, CFO",S - Sale+OE,205.56,-35755,61031,-37%,-7349900,True
+2026-02-23,2026-02-19,RTX,Rtx Corp,Maharajh Ramsaran,"EVP, GC",S - Sale,204.65,-15124,17118,-47%,-3095124,True
+2026-02-23,2026-02-19,RTX,Rtx Corp,Calio Christopher T.,"COB, Pres, CEO",S - Sale+OE,203.80,-63568,94695,-40%,-12955182,True
+2026-02-23,2026-02-20,PLBC,Plumas Bancorp,Robison Kenneth Edward III,Dir,S - Sale,52.76,-800,24761,-3%,-42205,False
+2026-02-23,2026-02-20,ACLS,Axcelis Technologies Inc,Titinger Jorge,Dir,S - Sale,80.00,-1000,6477,-13%,-80000,False
+2026-02-23,2026-02-19,GOLD,"Gold.Com, Inc.",Benjamin Jeffrey D,Dir,S - Sale,58.41,-75000,1425508,-5%,-4380691,False
+2026-02-23,2026-02-23,SNA,Snap-On Inc,Pinchuk Nicholas T,"COB, Pres, CEO",S - Sale+OE,383.36,-23229,847430,-3%,-8905029,False
+2026-02-23,2026-02-20,CGEM,"Cullinan Therapeutics, Inc.",Jones Jeffrey Alan,Chief Medical Officer,S - Sale,13.62,-4982,164550,-3%,-67855,True
+2026-02-23,2026-02-20,CGEM,"Cullinan Therapeutics, Inc.",Michaelson Jennifer,Chief Scientific Officer,S - Sale+OE,14.08,-11742,181977,-6%,-165366,True
+2026-02-23,2026-02-20,CGEM,"Cullinan Therapeutics, Inc.",Sumer Jacquelyn L,GC,S - Sale,13.62,-3742,131690,-3%,-50966,True
+2026-02-23,2026-02-20,CGEM,"Cullinan Therapeutics, Inc.",Ahmed Nadim,"Pres, CEO",S - Sale,13.62,-16381,404318,-4%,-223109,True
+2026-02-23,2026-02-20,CGEM,"Cullinan Therapeutics, Inc.",Fenton Mary Kay,CFO,S - Sale,13.62,-4398,126380,-3%,-59901,True
+2026-02-23,2026-02-19,AMAL,Amalgamated Financial Corp.,Tenner Mandy,"EVP, GC",S - Sale,40.44,-1360,21720,-6%,-54998,True
+2026-02-23,2026-02-20,FFIV,"F5, Inc.",Dreyer Michael L,Dir,S - Sale,282.41,-3067,1309,-70%,-866137,False
+2026-02-23,2026-02-19,REGN,"Regeneron Pharmaceuticals, Inc.",Zoghbi Huda Y,Dir,S - Sale+OE,781.33,-1638,1703,-49%,-1279812,False
+2026-02-23,2026-02-19,FSLY,"Fastly, Inc.",Compton Charles Lacey III,CEO,S - Sale,18.88,-14797,584519,-2%,-279402,True
+2026-02-23,2026-02-19,FSLY,"Fastly, Inc.",Bergman Artur,CTO,S - Sale,19.45,-74457,6017358,-1%,-1448203,True
+2026-02-23,2026-02-19,ESP,Espey Mfg & Electronics Corp,Wool Michael W,Dir,S - Sale+OE,57.90,-1000,19242,-5%,-57900,False
+2026-02-23,2026-02-23,IBEX,Ibex Ltd,Dechant Robert Thomas,CEO,S - Sale,28.46,-6000,275406,-2%,-170753,False
+2026-02-23,2026-02-19,CRS,Carpenter Technology Corp,Karol Steven E,Dir,S - Sale,380.61,-6500,402381,-2%,-2473929,False
+2026-02-23,2026-02-23,STAG,"Stag Industrial, Inc.",Crooker William R,"CEO, Pres",S - Sale+OE,39.17,-93732,0,-100%,-3671829,True
+2026-02-23,2026-02-19,FIG,"Figma, Inc.",Herb Tyler,Chief Accounting Officer,S - Sale,26.00,-1492,194434,-1%,-38792,True
+2026-02-23,2026-02-19,FIG,"Figma, Inc.",Mulligan Brendan,"GC, Secretary",S - Sale,26.00,-5227,845262,-1%,-135902,True
+2026-02-23,2026-02-19,ODFL,"Old Dominion Freight Line, Inc.",Congdon David S,Exec COB,S - Sale,194.77,-52000,7762480,-1%,-10127840,False
+2026-02-23,2026-02-23,STAG,"Stag Industrial, Inc.",Pinard Matts,"EVP, CFO, Treasurer",S - Sale+OE,39.18,-25242,951,-96%,-988924,True
+2026-02-23,2026-02-20,VERX,"Vertex, Inc.",Andersen Eric C.,Dir,P - Purchase,12.91,40000,150341,+36%,516400,False
+2026-02-23,2026-02-23,CME,Cme Group Inc.,Durkin Bryan T,Dir,S - Sale,309.65,-4200,43007,-9%,-1300530,False
+2026-02-23,2026-02-19,STAG,"Stag Industrial, Inc.",Colbert Virgis,Dir,S - Sale,38.08,-18000,4210,-81%,-685477,True
+2026-02-23,2026-02-19,UWMC,Uwm Holdings Corp,Mat Ishbia,"Pres, CEO, 10%",S - Sale+OE,4.64,-1898622,4876396,-28%,-8815935,False
