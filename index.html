@@ -453,6 +453,36 @@
     footer a:hover { color: var(--accent); }
 
     /* ------------------------------------------------------------------ */
+    /* Grouped row / expand styles                                          */
+    /* ------------------------------------------------------------------ */
+    .expand-arrow {
+      display: inline-block;
+      width: 16px;
+      font-size: 9px;
+      color: var(--accent);
+      cursor: pointer;
+      vertical-align: middle;
+      transition: color .15s;
+      user-select: none;
+    }
+
+    .group-row td { font-weight: 500; }
+    .group-row:hover .expand-arrow { color: var(--text); }
+
+    .child-row { background: rgba(255,255,255,.025) !important; }
+    .child-row.row-ceo { background: rgba(34,197,94,.06) !important; }
+    .child-row.row-vp  { background: rgba(234,179,8,.05) !important; }
+    .child-row:hover   { background: rgba(255,255,255,.055) !important; }
+    .child-row td:first-child { border-left: 2px solid var(--border); padding-left: 26px; }
+    .child-row .td-ticker { color: var(--muted); font-weight: 400; padding-left: 26px; }
+
+    .group-insiders {
+      font-size: 12px;
+      color: var(--muted);
+      font-style: italic;
+    }
+
+    /* ------------------------------------------------------------------ */
     /* Responsive                                                            */
     /* ------------------------------------------------------------------ */
     @media (max-width: 768px) {
@@ -612,6 +642,7 @@
   let allTrades   = [];
   let sortCol     = 'value';
   let sortDir     = 'desc';   // 'asc' | 'desc'
+  let expandedTickers = new Set();
 
   /* ------------------------------------------------------------------ */
   /* DOM refs                                                              */
@@ -762,52 +793,153 @@
   }
 
   /* ------------------------------------------------------------------ */
+  /* Group helpers                                                         */
+  /* ------------------------------------------------------------------ */
+  function getSortVal(trades) {
+    const numCols = ['value', 'qty', 'price'];
+    if (numCols.includes(sortCol)) {
+      return trades.reduce((s, t) => s + parseNumber(t[sortCol]), 0);
+    }
+    if (sortCol === 'cluster_buy') {
+      return trades.some(t => t.cluster_buy) ? 1 : 0;
+    }
+    // For string cols use max value across the group
+    return trades.reduce((best, t) => {
+      const v = String(t[sortCol] || '');
+      return v > best ? v : best;
+    }, '');
+  }
+
+  function bestRowClass(trades) {
+    const cs = trades.map(t => rowClass(t));
+    if (cs.includes('row-ceo')) return 'row-ceo';
+    if (cs.includes('row-vp'))  return 'row-vp';
+    return '';
+  }
+
+  /* ------------------------------------------------------------------ */
   /* Render                                                                */
   /* ------------------------------------------------------------------ */
   function renderTable() {
     const filtered = applyFilters(allTrades);
-    const sorted   = sortTrades(filtered);
 
-    // Stats
-    const totalValue   = filtered.reduce((s, t) => s + parseNumber(t.value), 0);
-    const clusterCount = filtered.filter(t => t.cluster_buy).length;
-    const uniqueTickers= new Set(filtered.map(t => t.ticker)).size;
+    // Stats (always based on individual trades)
+    const totalValue    = filtered.reduce((s, t) => s + parseNumber(t.value), 0);
+    const clusterCount  = filtered.filter(t => t.cluster_buy).length;
+    const uniqueTickers = new Set(filtered.map(t => t.ticker)).size;
 
     statVisible.textContent    = filtered.length.toLocaleString();
     statClusters.textContent   = clusterCount.toLocaleString();
     statTotalValue.textContent = formatCurrency(totalValue);
     statTickers.textContent    = uniqueTickers.toLocaleString();
 
-    if (sorted.length === 0) {
+    if (filtered.length === 0) {
       tableBodyEl.innerHTML = '';
       noResultsEl.style.display = 'block';
       return;
     }
     noResultsEl.style.display = 'none';
 
-    const rows = sorted.map(t => {
-      const val   = parseNumber(t.value);
-      const qty   = parseNumber(t.qty);
-      const price = parseNumber(t.price);
-      const rc    = rowClass(t);
-      const clusterBadge = t.cluster_buy
-        ? '<span class="badge-cluster">🔥 Cluster</span>'
-        : '';
+    // Group by ticker
+    const groupMap = new Map();
+    filtered.forEach(t => {
+      if (!groupMap.has(t.ticker)) groupMap.set(t.ticker, []);
+      groupMap.get(t.ticker).push(t);
+    });
 
-      return `<tr class="${rc}">
-        <td class="td-date">${escHtml(t.filing_date || '—')}</td>
-        <td class="td-ticker">${escHtml(t.ticker || '—')}</td>
-        <td class="td-company" title="${escHtml(t.company || '')}">${escHtml(t.company || '—')}</td>
-        <td>${escHtml(t.insider_name || '—')}</td>
-        <td>${titleBadge(t.title || 'Unknown')}</td>
-        <td class="td-value">${formatCurrency(val)}</td>
-        <td>${formatShares(qty)}</td>
-        <td>${price > 0 ? '$' + price.toFixed(2) : '—'}</td>
-        <td>${clusterBadge}</td>
-      </tr>`;
-    }).join('');
+    // Build group objects
+    let groups = Array.from(groupMap.values()).map(trades => ({
+      ticker:     trades[0].ticker,
+      company:    trades[0].company,
+      totalValue: trades.reduce((s, t) => s + parseNumber(t.value), 0),
+      totalQty:   trades.reduce((s, t) => s + parseNumber(t.qty), 0),
+      clusterBuy: trades.some(t => t.cluster_buy),
+      count:      trades.length,
+      trades:     sortTrades(trades),
+      sortVal:    getSortVal(trades),
+    }));
 
-    tableBodyEl.innerHTML = rows;
+    // Sort groups by current sort column aggregate
+    groups.sort((a, b) => {
+      if (a.sortVal < b.sortVal) return sortDir === 'asc' ? -1 : 1;
+      if (a.sortVal > b.sortVal) return sortDir === 'asc' ? 1 : -1;
+      return 0;
+    });
+
+    const rows = [];
+    groups.forEach(g => {
+      const isExpanded   = expandedTickers.has(g.ticker);
+      const multi        = g.count > 1;
+      const rc           = bestRowClass(g.trades);
+      const clusterBadge = g.clusterBuy ? '<span class="badge-cluster">🔥 Cluster</span>' : '';
+
+      if (multi) {
+        const latestDate = g.trades.reduce((m, t) => (t.filing_date > m ? t.filing_date : m), '');
+        const arrow = isExpanded ? '▼' : '▶';
+        rows.push(`<tr class="group-row ${rc}" data-ticker="${escHtml(g.ticker)}" style="cursor:pointer">
+          <td class="td-date">${escHtml(latestDate)}</td>
+          <td class="td-ticker"><span class="expand-arrow">${arrow}</span> ${escHtml(g.ticker)}</td>
+          <td class="td-company" title="${escHtml(g.company)}">${escHtml(g.company)}</td>
+          <td><span class="group-insiders">${g.count} insiders</span></td>
+          <td>—</td>
+          <td class="td-value">${formatCurrency(g.totalValue)}</td>
+          <td>${formatShares(g.totalQty)}</td>
+          <td>—</td>
+          <td>${clusterBadge}</td>
+        </tr>`);
+
+        if (isExpanded) {
+          g.trades.forEach(t => {
+            const val   = parseNumber(t.value);
+            const qty   = parseNumber(t.qty);
+            const price = parseNumber(t.price);
+            const trc   = rowClass(t);
+            rows.push(`<tr class="child-row ${trc}">
+              <td class="td-date">${escHtml(t.filing_date || '—')}</td>
+              <td class="td-ticker">${escHtml(t.ticker || '—')}</td>
+              <td class="td-company" title="${escHtml(t.company || '')}">${escHtml(t.company || '—')}</td>
+              <td>${escHtml(t.insider_name || '—')}</td>
+              <td>${titleBadge(t.title || 'Unknown')}</td>
+              <td class="td-value">${formatCurrency(val)}</td>
+              <td>${formatShares(qty)}</td>
+              <td>${price > 0 ? '$' + price.toFixed(2) : '—'}</td>
+              <td>${t.cluster_buy ? '<span class="badge-cluster">🔥 Cluster</span>' : ''}</td>
+            </tr>`);
+          });
+        }
+      } else {
+        const t     = g.trades[0];
+        const val   = parseNumber(t.value);
+        const qty   = parseNumber(t.qty);
+        const price = parseNumber(t.price);
+        rows.push(`<tr class="${rc}">
+          <td class="td-date">${escHtml(t.filing_date || '—')}</td>
+          <td class="td-ticker">${escHtml(t.ticker || '—')}</td>
+          <td class="td-company" title="${escHtml(t.company || '')}">${escHtml(t.company || '—')}</td>
+          <td>${escHtml(t.insider_name || '—')}</td>
+          <td>${titleBadge(t.title || 'Unknown')}</td>
+          <td class="td-value">${formatCurrency(val)}</td>
+          <td>${formatShares(qty)}</td>
+          <td>${price > 0 ? '$' + price.toFixed(2) : '—'}</td>
+          <td>${t.cluster_buy ? '<span class="badge-cluster">🔥 Cluster</span>' : ''}</td>
+        </tr>`);
+      }
+    });
+
+    tableBodyEl.innerHTML = rows.join('');
+
+    // Attach expand/collapse handlers
+    tableBodyEl.querySelectorAll('tr.group-row').forEach(row => {
+      row.addEventListener('click', () => {
+        const ticker = row.dataset.ticker;
+        if (expandedTickers.has(ticker)) {
+          expandedTickers.delete(ticker);
+        } else {
+          expandedTickers.add(ticker);
+        }
+        renderTable();
+      });
+    });
   }
 
   /* ------------------------------------------------------------------ */
