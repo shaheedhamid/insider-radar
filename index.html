@@ -343,6 +343,9 @@
       align-items: center;
       flex-wrap: wrap;
       gap: 10px;
+      position: sticky;
+      top: 64px;        /* sits flush below the 64px sticky header */
+      z-index: 190;
     }
 
     .filter-group {
@@ -531,9 +534,7 @@
 
     /* sticky header */
     thead {
-      position: sticky;
-      top: 64px;
-      z-index: 10;
+      /* NOT sticky — position:sticky breaks inside overflow-x:auto containers */
     }
 
     thead tr {
@@ -813,7 +814,7 @@
       .stats { grid-template-columns: repeat(2, 1fr); }
       .stat-value { font-size: 22px; }
       header { height: 56px; }
-      thead { top: 56px; }
+      .filters-wrap { top: 56px; }
     }
   </style>
 </head>
