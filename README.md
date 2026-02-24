@@ -21,7 +21,7 @@ insider-radar/
 │   ├── scrape.py           # Python scraper
 │   └── requirements.txt    # Python dependencies
 ├── data/
-│   ├── latest.json         # Last 60 days of trades (overwritten each run)
+│   ├── latest.json         # Last 1000 days of trades (overwritten each run)
 │   └── history.csv         # Full trade history (append-only)
 └── .github/
     └── workflows/
@@ -84,7 +84,7 @@ python -m http.server 8000
 
 | File | Description |
 |------|-------------|
-| `data/latest.json` | Trades from the last 60 days. Overwritten on every run. Served directly to the dashboard. |
+| `data/latest.json` | Trades from the last 1000 days. Overwritten on every run. Served directly to the dashboard. |
 | `data/history.csv` | Append-only CSV log of all trades ever seen. Never overwritten. |
 
 ### `data/latest.json` schema
@@ -127,7 +127,7 @@ Edit constants at the top of `scraper/scrape.py` to adjust behaviour:
 |----------|---------|-------------|
 | `CLUSTER_WINDOW_DAYS` | 14 | Days to look back for cluster detection |
 | `CLUSTER_MIN_INSIDERS` | 2 | Insiders required to flag a cluster buy |
-| `HISTORY_DAYS` | 60 | Days of data kept in `latest.json` |
+| `HISTORY_DAYS` | 1000 | Days of data kept in `latest.json` |
 
 ## Schedule
 
