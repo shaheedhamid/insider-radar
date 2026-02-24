@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-24T19:43:36Z",
-  "trade_count": 5924,
+  "last_updated": "2026-02-24T19:48:36Z",
+  "trade_count": 5923,
   "trades": [
     {
       "filing_date": "2026-02-23",
@@ -68175,21 +68175,6 @@
       "owned": "819952",
       "delta_own": "+64%",
       "value": "771084",
-      "cluster_buy": false
-    },
-    {
-      "filing_date": "2024-12-20",
-      "trade_date": "2024-12-18",
-      "ticker": "TYG",
-      "company": "Tortoise Energy Infrastructure Corp",
-      "insider_name": "Prudential Financial Inc",
-      "title": "10%",
-      "trade_type": "P - Purchase",
-      "price": "20991100.00",
-      "qty": "26500000",
-      "owned": "1500000",
-      "delta_own": "-106%",
-      "value": "2147483647",
       "cluster_buy": false
     },
     {

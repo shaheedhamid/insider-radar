@@ -289,11 +289,12 @@ def save_history_csv(new_trades: list[dict]) -> int:
 
 def save_latest_json(trades: list[dict]) -> None:
     """Save the most recent HISTORY_DAYS of trades to latest.json (overwrite)."""
+    INT32_MAX = 2_147_483_647  # OpenInsider overflow sentinel — exclude
     cutoff = (datetime.utcnow() - timedelta(days=HISTORY_DAYS)).strftime("%Y-%m-%d")
     filtered = [
         t for t in trades
         if t.get("filing_date", "") >= cutoff
-        and parse_value(t.get("value", "0")) >= MIN_TRADE_VALUE
+        and MIN_TRADE_VALUE <= parse_value(t.get("value", "0")) < INT32_MAX
     ]
 
     payload = {

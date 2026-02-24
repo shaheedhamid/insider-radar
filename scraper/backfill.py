@@ -115,7 +115,8 @@ def fetch_page(page: int) -> list[dict]:
 
     # In-code safety filter (server params may not be 100% reliable)
     trades = [t for t in trades if t["trade_type"].startswith("P")]
-    trades = [t for t in trades if parse_value(t["value"]) >= MIN_TRADE_VALUE]
+    INT32_MAX = 2_147_483_647  # OpenInsider overflow sentinel — exclude
+    trades = [t for t in trades if MIN_TRADE_VALUE <= parse_value(t["value"]) < INT32_MAX]
     return trades
 
 
