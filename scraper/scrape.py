@@ -26,7 +26,7 @@ PARAMS = {
     "ph": "",
     "ls": "",
     "lsh": "",
-    "fd": 30,           # last 30 days
+    "fd": 365,           # last 365 days
     "fdr": "",
     "td": 0,
     "tdr": "",
@@ -36,7 +36,7 @@ PARAMS = {
     "dlh": "",
     "minprice": "",
     "maxprice": "",
-    "minvalue": 100000,  # minimum $100k trade value
+    "minvalue": 90000,  # minimum $90k trade value
     "maxvalue": "",
     "oc": "P",           # open market purchases only
     "vl": 25,
