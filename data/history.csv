@@ -57,3 +57,4 @@ filing_date,trade_date,ticker,company,insider_name,title,trade_type,price,qty,ow
 2026-02-18,2026-02-13,LXRX,"Lexicon Pharmaceuticals, Inc.",Debbane Raymond,Dir,P - Purchase,1.31,268497,51408909,+1%,352889,False
 2026-02-18,2026-02-18,FCPT,"Four Corners Property Trust, Inc.",Lenehan William H,"Pres, CEO",P - Purchase,24.73,10080,757980,+1%,249321,False
 2026-02-24,2026-02-20,KELYA,Kelly Services Inc,Hunt James Christopher,Dir,P - Purchase,9.57,10000,15976,+167%,95733,False
+2026-02-24,2026-02-20,ITIC,Investors Title Co,Scott James E,Dir,P - Purchase,220.71,500,600,+500%,110355,False

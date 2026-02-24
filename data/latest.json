@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-24T12:55:49Z",
-  "trade_count": 56,
+  "last_updated": "2026-02-24T17:01:07Z",
+  "trade_count": 57,
   "trades": [
     {
       "filing_date": "2026-02-23",
@@ -840,6 +840,21 @@
       "owned": "15976",
       "delta_own": "+167%",
       "value": "95733",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-02-24",
+      "trade_date": "2026-02-20",
+      "ticker": "ITIC",
+      "company": "Investors Title Co",
+      "insider_name": "Scott James E",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "220.71",
+      "qty": "500",
+      "owned": "600",
+      "delta_own": "+500%",
+      "value": "110355",
       "cluster_buy": false
     }
   ]
