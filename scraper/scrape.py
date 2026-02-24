@@ -181,7 +181,9 @@ def fetch_trades() -> list[dict]:
             "cluster_buy":  False,
         })
 
-    print(f"Parsed {len(trades)} trades from the page.")
+    # Defensive filter: keep only open-market purchases regardless of API param
+    trades = [t for t in trades if t["trade_type"].startswith("P")]
+    print(f"Parsed {len(trades)} purchase trades from the page.")
     return trades
 
 
