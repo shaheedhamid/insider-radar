@@ -4992,3 +4992,935 @@ filing_date,trade_date,ticker,company,insider_name,title,trade_type,price,qty,ow
 2024-11-14,2024-11-14,WSC,Willscot Holdings Corp,Soultz Bradley Lee,CEO,P - Purchase,35.41,5000,725287,+1%,177037,True
 2024-11-14,2024-11-12,BH,Biglari Holdings Inc.,"Biglari, Sardar","COB, CEO, 10%",P - Purchase,316.87,18215,1515108,+1%,5771814,False
 2024-11-14,2024-11-12,RXST,"Rxsight, Inc.",Corley Jesse Anderson,Dir,P - Purchase,45.14,22476,538370,+4%,1014570,False
+2026-02-24,2026-02-23,OGE,Oge Energy Corp.,Ganske Lyle G.,Dir,P - Purchase,47.99,10420,10420,New,500067,False
+2026-02-23,2026-02-19,BLCO,Bausch & Lomb Corp,Ling Karen,Dir,P - Purchase,17.74,4000,45676,+10%,70968,False
+2026-02-23,2026-02-19,AMRZ,Amrize Ltd,Johnston Ian A,CFO,P - Purchase,63.92,1200,18544,+7%,76702,False
+2026-02-20,2026-02-12,TLPH,"Talphera, Inc.",Angotti Vincent J.,CEO,P - Purchase,0.81,105364,577395,+22%,85587,False
+2026-02-20,2026-02-20,OFG,Ofg Bancorp,Franqui Annette,Dir,P - Purchase,42.07,1540,3440,+81%,64780,False
+2026-02-20,2026-02-17,BX,Blackstone Inc.,Porat Ruth,Dir,P - Purchase,130.68,525,48365,+1%,68553,False
+2026-02-20,2026-02-18,GNSS,Genasys Inc.,Dodd William H,Dir,P - Purchase,1.98,25457,129163,+25%,50405,False
+2026-02-20,2026-02-18,CNDT,Conduent Inc,Palau Hernandez Margarita,Dir,P - Purchase,1.45,50000,452996,+12%,72650,True
+2026-02-20,2026-02-19,CNDT,Conduent Inc,Fucci Michael,Dir,P - Purchase,1.44,60000,166102,+57%,86580,True
+2026-02-20,2026-02-18,CSBB,"Csb Bancorp, Inc.",Steiner Eddie L,"Pres, CEO",P - Purchase,56.95,1270,75023,+2%,72333,False
+2026-02-19,2026-02-13,QDEL,Quidelortho Corp,Busky Joseph M.,CFO,P - Purchase,23.66,3370,51702,+7%,79742,True
+2026-02-18,2026-02-18,STEX,Streamex Corp.,Lekstrom Morgan Lee,"Exec COB, 10%",P - Purchase,2.50,20000,122500,+20%,50000,True
+2026-02-18,2026-02-13,CHGG,"Chegg, Inc",Rosensweig Daniel,"Pres, CEO, EXEC COB",P - Purchase,0.56,100000,7674917,+1%,56360,False
+2026-02-17,2026-02-17,CNVS,Cineverse Corp.,Huidor Mark Antonio,"Pres Tech, Chief Product Off",P - Purchase,2.00,37500,190061,+25%,75000,True
+2026-02-17,2026-02-17,CNVS,Cineverse Corp.,Lindsey Mark Wayne,CFO,P - Purchase,2.00,35000,154168,+29%,70000,True
+2026-02-17,2026-02-17,CNVS,Cineverse Corp.,Macias Yolanda,Chief Motion Pictures Officer,P - Purchase,2.00,30000,121906,+33%,60000,True
+2026-02-17,2026-02-17,CNVS,Cineverse Corp.,Torres Mark,Chief People Officer,P - Purchase,2.00,25000,183274,+16%,50000,True
+2026-02-17,2026-02-17,CNVS,Cineverse Corp.,Loffredo Gary S,"CLO, Secretary, Sr Advisor",P - Purchase,2.00,30000,200337,+18%,60000,True
+2026-02-17,2026-02-17,CNVS,Cineverse Corp.,Opeka Erick,"CSO, Pres",P - Purchase,2.00,30000,224146,+15%,60000,True
+2026-02-17,2026-02-12,COCH,"Envoy Medical, Inc.",Potashnick Robert,Interim CFO,P - Purchase,0.40,212500,212500,New,85000,True
+2026-02-13,2026-02-13,CHUC,"Charlie'S Holdings, Inc.",Stump Ryan,COO,P - Purchase,0.20,250000,29701755,+1%,50000,True
+2026-02-13,2026-02-13,CHUC,"Charlie'S Holdings, Inc.",Sicignano Henry III,Pres,P - Purchase,0.20,250000,9950001,+3%,50000,True
+2026-02-13,2026-02-11,SNES,"Senestech, Inc.",Glenbrook Capital Management,10%,P - Purchase,1.81,31346,1244054,+3%,56667,False
+2026-02-13,2026-02-13,CHUC,"Charlie'S Holdings, Inc.",Carmines Edward,Dir,P - Purchase,0.20,250000,2256481,+12%,50000,True
+2026-02-13,2026-02-12,DLHC,Dlh Holdings Corp.,Mink Brook Asset Management LLC,10%,P - Purchase,5.50,13896,2644770,+1%,76428,False
+2026-02-13,2026-02-12,WTW,Willis Towers Watson Plc,Hammond Michael P.,Dir,P - Purchase,278.86,241,2505,+11%,67205,True
+2026-02-13,2026-02-13,QDEL,Quidelortho Corp,Busky Joseph M.,CFO,P - Purchase,23.66,3370,51702,+7%,79742,True
+2026-02-13,2026-02-10,RBBN,Ribbon Communications Inc.,McClelland Bruce William,"Pres, CEO",P - Purchase,2.01,37000,1516164,+3%,74307,False
+2026-02-13,2026-02-12,BWFG,"Bankwell Financial Group, Inc.",Seidman Lawrence B,Dir,P - Purchase,48.11,1600,792128,0%,76982,False
+2026-02-13,2026-02-11,ONCY,Oncolytics Biotech Inc,Seizinger Bernd R.,Dir,P - Purchase,0.83,100000,566991,+21%,83454,False
+2026-02-12,2026-02-10,TBBK,"Bancorp, Inc.",Cohn Matthew,Dir,P - Purchase,60.18,1080,231969,0%,65000,True
+2026-02-12,2026-02-11,TECX,"Tectonic Therapeutic, Inc.",Reicin Alise,CEO,P - Purchase,21.10,2500,362077,+1%,52750,True
+2026-02-10,2026-02-09,VRNS,Varonis Systems Inc,Bass David,"EVP Engineering, CTO",P - Purchase,23.47,2980,1042924,0%,69941,True
+2026-02-10,2026-02-06,LADR,Ladder Capital Corp,Harris Brian,CEO,P - Purchase,10.32,5000,8195053,0%,51600,False
+2026-02-10,2026-02-09,RAL,Ralliant Corp,Sacks Anelise Angelino,Dir,P - Purchase,41.25,2000,5403,+59%,82500,True
+2026-02-09,2026-02-09,MMS,"Maximus, Inc.",Mutryn David,CFO,P - Purchase,75.63,1000,40037,+3%,75625,True
+2026-02-09,2026-02-02,URI,"United Rentals, Inc.",Singh Shiv,Dir,P - Purchase,783.36,68,7600,+1%,53268,False
+2026-02-09,2026-02-06,BV,"Brightview Holdings, Inc.",Cornog William L,Dir,P - Purchase,13.46,5000,121531,+4%,67300,False
+2026-02-09,2026-02-06,RAL,Ralliant Corp,Moorthy Ganesh,Dir,P - Purchase,39.74,2000,8434,+31%,79480,True
+2026-02-05,2026-02-04,PFBX,Peoples Financial Corp /Ms/,Stilwell Joseph,10%,P - Purchase,20.56,3822,734884,+1%,78578,False
+2026-02-04,2026-02-02,TCBI,Texas Capital Bancshares Inc/Tx,Stallings Robert W,Dir,P - Purchase,21.08,4115,813615,+1%,86760,True
+2026-02-04,2026-02-04,RRBI,Red River Bancshares Inc,Price Teddy Ray,Dir,P - Purchase,90.12,747,447531,0%,67322,False
+2026-02-03,2026-02-02,KMI,"Kinder Morgan, Inc.",Smith William A,Dir,P - Purchase,29.75,3000,50668,+6%,89236,False
+2026-02-03,2026-02-02,SIGI,Selective Insurance Group Inc,Bacus Lisa R,Dir,P - Purchase,84.81,600,6778,+10%,50886,False
+2026-02-03,2026-01-30,AGYS,Agilysys Inc,Keating Melvin L,Dir,P - Purchase,83.96,600,35007,+2%,50379,False
+2026-02-03,2026-02-03,STEX,Streamex Corp.,Lekstrom Morgan Lee,"Dir, 10%",P - Purchase,3.06,23500,102500,+30%,71910,True
+2026-02-02,2026-01-30,ELUT,Elutia Inc.,Rakin Kevin,"Dir, 10%",P - Purchase,1.06,70000,5225098,+1%,74200,False
+2026-02-02,2026-02-02,CMTV,Community Bancorp /Vt,Lamberton Wayne,Dir,P - Purchase,31.19,2000,8565,+30%,62380,True
+2026-01-30,2025-11-12,AGL,"Agilon Health, Inc.",Wulf John William,Dir,P - Purchase,0.63,81000,365857,+28%,50941,False
+2026-01-29,2026-01-27,NYC,American Strategic Investment Co.,Schorsch Nicholas S,10%,P - Purchase,11.14,4992,1619509,0%,55594,False
+2026-01-28,2025-11-19,Q,"Qnity Electronics, Inc.",Green Byron,Dir,P - Purchase,79.12,1000,1637,+157%,79120,True
+2026-01-28,2026-01-26,SQNS,Sequans Communications,Asher Daniel,10%,P - Purchase,5.12,12300,191355500,0%,62974,False
+2026-01-28,2026-01-27,NWFL,Norwood Financial Corp,Carroll Joseph W,Dir,P - Purchase,27.91,2000,46198,+5%,55820,True
+2026-01-27,2026-01-26,STEX,Streamex Corp.,Lekstrom Morgan Lee,"Dir, 10%",P - Purchase,3.30,23000,71000,+48%,75900,True
+2026-01-23,2026-01-20,NYC,American Strategic Investment Co.,Schorsch Nicholas S,10%,P - Purchase,10.57,5460,1614517,0%,57726,False
+2026-01-21,2026-01-21,CABA,"Cabaletta Bio, Inc.",Tomasello Shawn,Dir,P - Purchase,2.21,22725,22725,New,50322,True
+2026-01-21,2026-01-21,CABA,"Cabaletta Bio, Inc.",Gavel Steve,CHIEF COMMERCIAL OFFICER,P - Purchase,2.27,22170,22170,New,50215,True
+2026-01-20,2026-01-15,FIS,"Fidelity National Information Services, Inc.",Goldstein Jeffrey A,Dir,P - Purchase,64.11,941,14529,+7%,60328,False
+2026-01-16,2024-10-18,PETV,"Petvivo Holdings, Inc.","A.L. Sarroff Fund, LLC",10%,P - Purchase,0.50,154840,7740579,+2%,77999,False
+2026-01-16,2026-01-14,ACRV,"Acrivon Therapeutics, Inc.",Blume-Jensen Peter,"Pres, CEO",P - Purchase,1.68,49000,2410477,+2%,82124,False
+2026-01-16,2026-01-14,NEWT,"Newtekone, Inc.",Sloane Barry,"Pres, COB, CEO",P - Purchase,13.91,3595,1194180,0%,50006,False
+2026-01-15,2026-01-13,GLSI,"Greenwich Lifesciences, Inc.",Patel Snehal,"CEO, CFO, 10%",P - Purchase,29.83,1800,5604102,0%,53694,False
+2026-01-14,2026-01-06,IVFH,Innovative Food Holdings Inc,Schubert Gary,CEO,P - Purchase,0.30,166666,532569,+46%,50000,True
+2026-01-14,2026-01-12,IMRX,Immuneering Corp,Feinberg Peter,Dir,P - Purchase,4.35,20000,1161064,+2%,86904,True
+2026-01-14,2026-01-12,GLSI,"Greenwich Lifesciences, Inc.",Patel Snehal,"CEO, CFO, 10%",P - Purchase,27.54,2900,5602302,0%,79866,False
+2026-01-13,2026-01-12,COSM,Cosmos Health Inc.,Siokas Grigorios,"CEO, 10%",P - Purchase,0.50,113185,7244979,+2%,57000,False
+2026-01-09,2026-01-08,LMNR,Limoneira Co,Slater Scott S,Dir,P - Purchase,12.85,5000,64447,+8%,64250,True
+2026-01-09,2026-01-06,IVFH,Innovative Food Holdings Inc,Schmulen Mark,Dir,P - Purchase,0.30,288890,345234,+513%,86667,True
+2026-01-09,2026-01-08,COSM,Cosmos Health Inc.,Siokas Grigorios,"CEO, 10%",P - Purchase,0.52,156190,7131794,+2%,81000,False
+2026-01-08,2026-01-07,COSM,Cosmos Health Inc.,Siokas Grigorios,"CEO, 10%",P - Purchase,0.52,124880,6975604,+2%,65000,False
+2026-01-07,2026-01-05,PMCB,"Pharmacyte Biotech, Inc.",Silverman Joshua,"CEO, Pres",P - Purchase,0.80,100000,466250,+27%,80476,False
+2026-01-07,2026-01-05,INDV,Indivior Plc,Wheadon David E.,Dir,P - Purchase,35.39,1771,14395,+14%,62680,False
+2026-01-07,2026-01-06,COSM,Cosmos Health Inc.,Siokas Grigorios,"CEO, 10%",P - Purchase,0.54,133953,6850724,+2%,72000,False
+2026-01-05,2025-12-29,NNUP,Nocopi Technologies Inc/Md/,Westenburg Kevin Camerer,Pres,P - Purchase,1.50,33333,200533,+20%,50000,False
+2026-01-05,2025-12-31,SPG,Simon Property Group Inc.,Smith Daniel C.,Dir,P - Purchase,186.00,347,32680,+1%,64542,True
+2026-01-05,2025-12-31,SPG,Simon Property Group Inc.,Leibowitz Reuben S,Dir,P - Purchase,186.00,480,70539,+1%,89280,True
+2026-01-05,2025-12-31,SPG,Simon Property Group Inc.,Glasscock Larry C,Dir,P - Purchase,186.00,363,43899,+1%,67518,True
+2026-01-05,2026-01-02,VKI,Invesco Advantage Municipal Income Trust II,Bank of America Corp /de/,10%,P - Purchase,9.08,8531,0,-100%,77502,False
+2026-01-05,2026-01-02,NZF,Nuveen Municipal Credit Income Fund,Bank of America Corp /de/,10%,P - Purchase,12.61,6075,0,-100%,76606,False
+2026-01-05,2026-01-02,NAD,Nuveen Quality Municipal Income Fund,Bank of America Corp /de/,10%,P - Purchase,12.01,6374,0,-100%,76520,False
+2026-01-02,2025-12-30,BETR,Better Home & Finance Holding Co,Menon Bhaskar,Dir,P - Purchase,33.94,1500,1500,New,50910,False
+2026-01-02,2025-12-29,BDL,Flanigans Enterprises Inc,Flanigan James II,"CEO, Pres",P - Purchase,29.94,1866,981996,0%,55866,False
+2026-01-02,2025-12-30,CME,Cme Group Inc.,Shepard William R,Dir,P - Purchase,278.37,262,261187,0%,73008,False
+2026-01-02,2025-12-30,GLSI,"Greenwich Lifesciences, Inc.",Patel Snehal,"CEO, CFO, 10%",P - Purchase,21.73,2900,5595102,0%,63017,False
+2025-12-31,2025-12-30,STRR,"Star Equity Holdings, Inc.",Eberwein Jeffrey E.,"CEO, 10%",P - Purchase,11.21,7268,1795041,0%,81503,False
+2025-12-29,2025-12-24,ASTS,"Ast Spacemobile, Inc.",Larson Keith R,Dir,P - Purchase,80.00,625,2015,+45%,50000,False
+2025-12-29,2025-12-24,SPRU,Spruce Power Holding Corp,Steel Partners Holdings L.P.,10%,P - Purchase,5.03,10208,3188767,0%,51303,False
+2025-12-29,2025-12-23,DLTH,Duluth Holdings Inc.,Schlecht Richard W,"SVP, Product Dev., Sourcing",P - Purchase,2.19,28554,440893,+7%,62394,False
+2025-12-29,2025-12-24,COCP,"Cocrystal Pharma, Inc.",Frost Phillip Md Et Al,"Dir, 10%",P - Purchase,0.97,65000,1795651,+4%,63202,False
+2025-12-23,2025-12-19,AGIG,"Abundia Global Impact Group, Inc.",Gillespie Edward Oliver,CEO,P - Purchase,1.85,38461,38461,New,71261,False
+2025-12-23,2025-12-19,SPRU,Spruce Power Holding Corp,Steel Partners Holdings L.P.,10%,P - Purchase,5.05,17033,3178559,+1%,85989,False
+2025-12-23,2025-12-19,GPUS,"Hyperscale Data, Inc.",Ault Milton C III,"Exec COB, 10%",P - Purchase,0.23,315000,975671,+48%,73323,False
+2025-12-23,2025-12-23,ALT,"Altimmune, Inc.",Gill John,Dir,P - Purchase,4.10,12500,12500,New,51250,True
+2025-12-23,2025-12-19,BMNM,"Bimini Capital Management, Inc.",Griffith Ashley B,Dir,P - Purchase,1.55,50000,50000,New,77500,True
+2025-12-23,2025-12-17,ESOA,Energy Services of America Corp,Reynolds Douglas V,"Pres, 10%",P - Purchase,8.31,9100,1919284,0%,75615,False
+2025-12-23,2025-12-22,MAIA,"Maia Biotechnology, Inc.",Smith Stan,Dir,P - Purchase,1.22,57189,1435218,+4%,69999,True
+2025-12-22,2025-12-19,FWDI,"Forward Industries, Inc.",Navi Ryan David,Chief Investment Officer,P - Purchase,7.08,10000,10000,New,70800,False
+2025-12-22,2025-12-22,ALT,"Altimmune, Inc.",Durso Jerome Benedict,Dir,P - Purchase,4.13,12500,12500,New,51569,True
+2025-12-19,2025-12-18,COO,"Cooper Companies, Inc.",Rivas Maria,Dir,P - Purchase,82.13,1000,11141,+10%,82130,True
+2025-12-19,2025-12-18,GLSI,"Greenwich Lifesciences, Inc.",Patel Snehal,"CEO, CFO, 10%",P - Purchase,12.62,4100,5592202,0%,51742,False
+2025-12-18,2025-12-16,NRDE,Nu Ride Inc.,Esopus Creek Value Series Fund LP - Series A,Dir,P - Purchase,1.45,40000,763000,+6%,58025,False
+2025-12-17,2025-12-15,PLUG,Plug Power Inc,Crespo Jose Luis,See Remarks,P - Purchase,2.34,37300,368632,+11%,87282,False
+2025-12-17,2025-12-17,ASTS,"Ast Spacemobile, Inc.",Larson Keith R,Dir,P - Purchase,70.02,715,1390,+106%,50064,False
+2025-12-17,2025-12-17,PFBX,Peoples Financial Corp /Ms/,Dennis Padrick D,Dir,P - Purchase,20.30,3000,17084,+21%,60900,False
+2025-12-16,2025-12-15,COSM,Cosmos Health Inc.,Siokas Grigorios,"CEO, 10%",P - Purchase,0.42,168472,6628457,+3%,70000,False
+2025-12-15,2025-12-15,RZLT,"Rezolute, Inc.",Evans Daron,CFO,P - Purchase,1.77,45000,512900,+10%,79578,True
+2025-12-15,2025-12-15,RZLT,"Rezolute, Inc.",Elam Nevan C,CEO,P - Purchase,1.59,32000,641119,+5%,50880,True
+2025-12-15,2025-12-11,BFLY,"Butterfly Network, Inc.",Robbins Larry,"Dir, 10%",P - Purchase,3.02,21370,19247247,0%,64471,True
+2025-12-15,2025-12-11,AFCG,Advanced Flower Capital Inc.,Tannenbaum Leonard M,"Dir, 10%",P - Purchase,3.05,25000,6260405,0%,76250,False
+2025-12-12,2025-12-12,BLNK,Blink Charging Co.,Bercovich Michael,CFO,P - Purchase,0.77,65333,188563,+53%,50392,False
+2025-12-12,2025-12-10,CJMB,Callan Jmb Inc.,Williams Wayne D,"CEO, COB, Pres, 10%",P - Purchase,1.65,44545,2356670,+2%,73499,False
+2025-12-12,2025-12-11,APLE,"Apple Hospitality Reit, Inc.",Knight Glade M,Exec COB,P - Purchase,11.91,5000,10816233,0%,59550,False
+2025-12-12,2025-12-11,MLP,Maui Land & Pineapple Co Inc,Case Stephen M,"Dir, 10%",P - Purchase,16.79,5000,12054961,0%,83950,False
+2025-12-12,2025-12-10,LUCY,Innovative Eyewear Inc,Galkin Vladimir,10%,P - Purchase,1.50,58723,938770,+7%,88255,False
+2025-12-11,2025-12-10,SURG,"Surgepays, Inc.",May David Allen,Dir,P - Purchase,1.60,38422,158116,+32%,61647,False
+2025-12-11,2025-11-28,CNTM,"Connectm Technology Solutions, Inc.",Panigrahi Bhaskar,See Remarks,P - Purchase,0.23,297400,9335406,+3%,67478,False
+2025-12-11,2025-11-13,WULF,Terawulf Inc.,Bucella Michael C.,Dir,P - Purchase,12.01,4178,266958,+2%,50178,False
+2025-12-11,2025-12-09,LSAK,Lesaka Technologies Inc,Smith Daniel Luke,Group CFO,P - Purchase,4.34,17264,250500,+7%,74867,False
+2025-12-11,2025-11-14,SLSN,"Solesence, Inc.",Whitmore R Janet,Dir,P - Purchase,1.80,35056,4133340,+1%,63274,False
+2025-12-10,2025-12-08,DOMH,Dominari Holdings Inc.,Hayes Anthony,CEO,P - Purchase,3.87,23000,1750873,+1%,89054,True
+2025-12-10,2025-12-08,TENX,"Tenax Therapeutics, Inc.",Rich Stuart,Chief Medical Officer,P - Purchase,10.16,5000,12654,+65%,50793,False
+2025-12-10,2025-12-08,MLP,Maui Land & Pineapple Co Inc,Case Stephen M,"Dir, 10%",P - Purchase,16.37,3450,12049961,0%,56471,False
+2025-12-10,2025-12-08,ATEX,Anterix Inc.,Lang Scott A.,"Pres, CEO",P - Purchase,20.41,2450,7100,+53%,50005,False
+2025-12-10,2025-12-09,SRTA,"Strata Critical Medical, Inc.",Heyburn William A.,"Co-CEO, CFO",P - Purchase,4.47,17000,1403436,+1%,76044,False
+2025-12-10,2025-12-08,NGS,Natural Gas Services Group Inc,Holley Jean K,Dir,P - Purchase,32.04,2190,14390,+18%,70168,False
+2025-12-09,2025-12-05,LSAK,Lesaka Technologies Inc,Smith Daniel Luke,Group CFO,P - Purchase,4.18,13236,233236,+6%,55337,False
+2025-12-09,2025-12-08,VSTS,Vestis Corp,Goetz William,Dir,P - Purchase,7.42,6746,29877,+29%,50082,True
+2025-12-09,2025-12-08,ECBK,"Ecb Bancorp, Inc. /Md/",Sullivan Maura Ellen,Dir,P - Purchase,16.85,3500,3500,New,58977,False
+2025-12-09,2025-12-05,JYNT,Joint Corp,Jobson Charles E,10%,P - Purchase,8.41,10000,1615027,+1%,84100,False
+2025-12-09,2025-12-09,SVCO,"Silvaco Group, Inc.",Rhines Walden C,CEO,P - Purchase,4.01,13100,105918,+14%,52501,True
+2025-12-08,2025-12-05,NSC,Norfolk Southern Corp,Clyburn William Jr.,Dir,P - Purchase,294.79,204,405,+101%,60137,False
+2025-12-05,2025-12-03,SELF,"Global Self Storage, Inc.",Winmill Mark Campbell,"Pres, CEO",P - Purchase,5.12,16400,339238,+5%,83983,True
+2025-12-05,2025-12-04,SBSI,Southside Bancshares Inc,Buie Herbert C,Dir,P - Purchase,30.68,1807,657128,0%,55439,False
+2025-12-05,2025-12-04,GRNT,"Granite Ridge Resources, Inc.",Miller Matthew Reade,Dir,P - Purchase,5.33,9388,1297518,+1%,50038,False
+2025-12-05,2025-12-03,NXPI,Nxp Semiconductors N.V.,Southern Julie,Chair,P - Purchase,225.48,225,11937,+2%,50733,False
+2025-12-04,2025-12-02,APCX,Apptech Payments Corp.,Lord Albert L,Dir,P - Purchase,0.43,120000,3016194,+4%,52132,False
+2025-12-04,2025-12-03,MSBI,"Midland States Bancorp, Inc.",Bingham Richard Dean,Dir,P - Purchase,17.56,5000,27700,+22%,87800,True
+2025-12-04,2025-12-03,MSBI,"Midland States Bancorp, Inc.",Casey Daniel Edward,CROF,P - Purchase,17.89,5000,28254,+22%,89443,True
+2025-12-04,2025-11-26,MAIA,"Maia Biotechnology, Inc.",Vitoc Vlad,"CEO, 10%",P - Purchase,1.11,72000,1113521,+7%,79849,False
+2025-12-03,2025-12-03,WAFD,Wafd Inc,Beardall Brent J,"Pres, CEO",P - Purchase,16.85,3000,374124,+1%,50550,False
+2025-12-03,2025-12-02,INV,"Innventure, Inc.",Otworth Michael,Exec COB,P - Purchase,5.06,12000,3492607,0%,60720,True
+2025-12-03,2025-12-01,UFI,Unifi Inc,Langone Kenneth G,"Dir, 10%",P - Purchase,3.49,21988,2585794,+1%,76700,False
+2025-12-02,2025-12-01,SMRT,"Smartrent, Inc.",Martell Frank,CEO,P - Purchase,1.69,47278,1195482,+4%,79934,True
+2025-12-02,2025-12-02,SMRT,"Smartrent, Inc.",Bohjalian Thomas N,Dir,P - Purchase,1.68,50000,350000,+17%,84165,True
+2025-12-02,2025-11-28,BMEA,"Biomea Fusion, Inc.",Erdtmann Rainer M,See Remarks,P - Purchase,1.09,50000,2542820,+2%,54552,True
+2025-12-01,2025-12-01,AVBC,"Avidia Bancorp, Inc.",Ball James N,Dir,P - Purchase,16.13,5000,45000,+13%,80656,True
+2025-12-01,2025-11-26,SUNC,Sunococorp LLC,Jennings Michael,Dir,P - Purchase,52.00,1000,8590,+13%,52000,False
+2025-12-01,2025-11-28,MAIA,"Maia Biotechnology, Inc.",Vitoc Vlad,"CEO, 10%",P - Purchase,1.11,72000,1063421,+7%,79849,False
+2025-11-28,2025-11-25,ENOV,Enovis Corp,Kleckner John,Principal Accounting Officer,P - Purchase,30.32,2468,12302,+25%,74830,False
+2025-11-28,2025-11-26,EONR,Eon Resources Inc.,Salvucci Joseph V Sr,Dir,P - Purchase,0.43,118237,2047358,+6%,50866,False
+2025-11-28,2025-11-25,DMLP,"Dorchester Minerals, L.P.",Moriyama Leslie A,CFO,P - Purchase,21.50,3041,83673,+4%,65382,True
+2025-11-26,2025-11-26,INV,"Innventure, Inc.",Haskell Gregory W,CEO,P - Purchase,5.14,10000,762115,+1%,51400,True
+2025-11-26,2025-11-24,BRN,Barnwell Industries Inc,Grossman Kenneth S,Dir,P - Purchase,1.10,59563,271603,+28%,65519,True
+2025-11-26,2025-11-24,BRN,Barnwell Industries Inc,Horowitz Joshua,Dir,P - Purchase,1.10,59563,508151,+13%,65519,True
+2025-11-26,2025-11-26,LFT,"Lument Finance Trust, Inc.",Flynn James Peter,CEO,P - Purchase,1.60,55000,378939,+17%,87967,False
+2025-11-26,2025-11-25,DMLP,"Dorchester Minerals, L.P.",Ehrman Bradley J,CEO,P - Purchase,21.50,3487,136389,+3%,74979,True
+2025-11-26,2025-11-24,STKL,Sunopta Inc.,Gaba Greg,CFO,P - Purchase,3.39,15000,110970,+16%,50850,False
+2025-11-26,2025-11-25,AEBI,Aebi Schmidt Holding AG,Fruithof Barend Gerrit,Group CEO,P - Purchase,12.01,5000,1835368,0%,60026,True
+2025-11-26,2025-11-25,AUID,Authid Inc.,Jisser Ken,Dir,P - Purchase,1.24,40650,92125,+79%,50406,True
+2025-11-25,2025-11-25,DFDV,Defi Development Corp.,White Parker,"COO, Chief Investment Officer, 10%",P - Purchase,6.91,10044,3079448,0%,69424,False
+2025-11-25,2025-11-21,CBC,"Central Bancompany, Inc.",Kruse Charles E,Dir,P - Purchase,21.00,2500,7500,+50%,52500,True
+2025-11-25,2025-11-21,CBC,"Central Bancompany, Inc.",Westhues Daniel Harold,"SEVP, Chief Customer Officer",P - Purchase,21.00,4200,162750,+3%,88200,True
+2025-11-25,2025-11-21,CBC,"Central Bancompany, Inc.",Hallgren Eric Andrew,"EVP, Chief Credit Officer",P - Purchase,21.00,2500,8050,+45%,52500,True
+2025-11-25,2025-11-25,CGEH,"Capstone Green Energy Holdings, Inc.",Miller John P.,Interim CFO,P - Purchase,2.00,25000,51807,+93%,50000,True
+2025-11-25,2025-11-25,ALIT,"Alight, Inc. / Delaware",Rajgopal Kausik,Dir,P - Purchase,2.24,40000,125202,+47%,89596,True
+2025-11-25,2025-11-25,VAC,Marriott Vacations Worldwide Corp,Gray Jonice M,Dir,P - Purchase,54.47,1100,13205,+9%,59917,True
+2025-11-25,2025-11-24,MRP,"Millrose Properties, Inc.",Lynch Kathleen B.,Dir,P - Purchase,31.74,1860,9510,+24%,59033,False
+2025-11-25,2025-11-24,HBNC,Horizon Bancorp Inc /In/,Magnesen Larry S,Dir,P - Purchase,16.41,4000,7262,+123%,65640,False
+2025-11-25,2025-11-24,AVBC,"Avidia Bancorp, Inc.",Nelson Jonathan Michael,"CFO, Treasurer",P - Purchase,15.41,3245,33279,+11%,50005,True
+2025-11-24,2025-11-20,FOSL,"Fossil Group, Inc.",Tifford Gail B,Dir,P - Purchase,2.40,33000,135925,+32%,79200,True
+2025-11-24,2025-11-21,BBWI,"Bath & Body Works, Inc.",Hondal Francis,Dir,P - Purchase,15.00,3343,21554,+18%,50128,True
+2025-11-24,2025-11-24,WEST,Westrock Coffee Co,Ford Joe T,Dir,P - Purchase,4.12,20000,4300192,0%,82400,True
+2025-11-24,2025-11-24,JACK,Jack In the Box Inc,Tucker Lance F.,"Dir, CEO",P - Purchase,17.29,5000,84555,+6%,86450,False
+2025-11-24,2025-11-20,MLP,Maui Land & Pineapple Co Inc,Randle Race A.,CEO,P - Purchase,14.34,5000,56597,+10%,71680,True
+2025-11-24,2025-11-21,AVBC,"Avidia Bancorp, Inc.",Cozzone Robert D,"Pres, CEO",P - Purchase,15.33,3261,60560,+6%,50004,True
+2025-11-24,2025-11-21,SELF,"Global Self Storage, Inc.",Winmill & Co. Inc,"See ""Explanation of Responses""",P - Purchase,5.11,10290,131817,+8%,52577,True
+2025-11-24,2025-11-21,CWCO,Consolidated Water Co. Ltd.,Adamson Kimberly Anne,Dir,P - Purchase,33.82,2619,2619,New,88575,False
+2025-11-24,2025-11-05,SCKT,"Socket Mobile, Inc.",Lazarev Ivan,Dir,P - Purchase,1.12,50096,71638,+233%,56024,False
+2025-11-24,2025-11-20,QNBC,Qnb Corp.,Bimes Randy S.,Dir,P - Purchase,35.10,1985,263469,+1%,69674,False
+2025-11-24,2025-11-21,OTH,Off the Hook Ys Inc.,Simmons Andrew James,"VP, Dir",P - Purchase,3.19,15873,15873,New,50613,True
+2025-11-24,2025-11-19,EGBN,Eagle Bancorp Inc,Mathews Louis P. Jr.,Dir,P - Purchase,17.02,3000,10157,+42%,51060,True
+2025-11-24,2025-11-20,RXO,"Rxo, Inc.",Cooper Troy A.,Dir,P - Purchase,10.61,8317,275416,+3%,88243,True
+2025-11-24,2025-11-21,TTRX,Turn Therapeutics Inc.,Golden Arthur F,Dir,P - Purchase,2.87,20532,50734,+68%,58927,False
+2025-11-21,2025-11-21,ANVS,"Annovis Bio, Inc.",Hoffman Michael B,Dir,P - Purchase,3.50,20000,2713896,+1%,69900,False
+2025-11-21,2025-11-21,AEBI,Aebi Schmidt Holding AG,Schewerda Steffen,"Pres Vehicle Soln, CEO NA",P - Purchase,10.68,5000,70375,+8%,53400,True
+2025-11-21,2025-11-21,FCF,First Commonwealth Financial Corp /Pa/,McCuen Michael P,"EVP, Chief Banking Officer",P - Purchase,16.19,3090,62111,+5%,50027,False
+2025-11-21,2025-11-19,LPRO,Open Lending Corp,Sather Matthew,Chief Underwriting Officer,P - Purchase,1.52,40000,44363,+917%,60800,False
+2025-11-21,2025-11-21,EVLV,"Evolv Technologies Holdings, Inc.",Charlton Kevin M.,Dir,P - Purchase,5.68,15000,376041,+4%,85196,True
+2025-11-21,2025-11-20,GLRE,"Greenlight Capital Re, Ltd.",Foley Ursuline F,Dir,P - Purchase,12.92,5000,54100,+10%,64591,True
+2025-11-20,2025-11-18,NRDE,Nu Ride Inc.,Zyngier Alexandre,Dir,P - Purchase,1.36,57252,370261,+18%,77761,True
+2025-11-20,2025-09-11,GPUS,"Hyperscale Data, Inc.",Ault Milton C III,"Exec COB, 10%",P - Purchase,0.24,259956,298571,+673%,61315,False
+2025-11-20,2025-11-19,SELF,"Global Self Storage, Inc.",Winmill & Co. Inc,"See ""Explanation of Responses""",P - Purchase,5.11,12096,121527,+11%,61812,True
+2025-11-20,2025-11-18,SATS,Echostar Corp,Brokaw George R,Dir,P - Purchase,68.07,1000,2754,+57%,68070,False
+2025-11-20,2025-11-19,MPB,Mid Penn Bancorp Inc,Noone John E,Dir,P - Purchase,28.28,2000,77475,+3%,56561,False
+2025-11-19,2025-11-17,TENX,"Tenax Therapeutics, Inc.",McGauley Thomas,Interim CFO,P - Purchase,7.27,8000,8000,New,58164,False
+2025-11-19,2025-11-18,ETN,Eaton Corp Plc,Johnson Gerald,Dir,P - Purchase,339.89,200,400,+100%,67978,False
+2025-11-19,2025-11-18,UTZ,"Utz Brands, Inc.",Lissette Dylan,Dir,P - Purchase,9.99,7010,175523,+4%,70029,True
+2025-11-19,2025-11-18,GCBC,Greene County Bancorp Inc,Hada Tejraj S,Dir,P - Purchase,21.96,3000,27923,+12%,65880,False
+2025-11-19,2025-11-17,ARX,Accelerant Holdings,Sternberg Matthew David,"COO, Risk Exchange",P - Purchase,13.10,5700,157964,+4%,74696,True
+2025-11-19,2025-11-18,GLRE,"Greenlight Capital Re, Ltd.",Platt Joseph P Jr,Dir,P - Purchase,12.97,5000,229619,+2%,64863,True
+2025-11-19,2025-11-17,TISI,Team Inc,Horton Anthony R,Dir,P - Purchase,15.68,4000,9082,+79%,62720,True
+2025-11-18,2025-11-14,MYE,Myers Industries Inc,Rutty Samantha,"EVP, CFO",P - Purchase,17.50,3000,3000,New,52500,True
+2025-11-18,2025-11-17,SELF,"Global Self Storage, Inc.",Winmill & Co. Inc,"See ""Explanation of Responses""",P - Purchase,5.14,11844,109431,+12%,60882,False
+2025-11-18,2025-11-17,AEBI,Aebi Schmidt Holding AG,Schenkirsch Thomas,Chief Group Services,P - Purchase,10.90,6500,104530,+7%,70850,True
+2025-11-18,2025-11-14,MNR,Mach Natural Resources LP,McMullen William Wallace,"See Remarks, 10%",P - Purchase,11.85,4608,74820632,0%,54605,True
+2025-11-18,2025-11-14,STXS,"Stereotaxis, Inc.",Isaac Paul J,See Remarks,P - Purchase,2.22,30000,2883856,+1%,66600,False
+2025-11-17,2025-11-14,EGBN,Eagle Bancorp Inc,Newell Eric R,"Senior EVP, CFO",P - Purchase,16.55,3050,33615,+10%,50474,True
+2025-11-17,2025-11-13,CRWS,Crown Crafts Inc,Ratajczak Donald R,Dir,P - Purchase,2.75,30000,331181,+10%,82350,False
+2025-11-17,2025-11-14,AEBI,Aebi Schmidt Holding AG,Portmann Marco,CFO,P - Purchase,11.20,5000,25000,+25%,56000,True
+2025-11-17,2025-11-14,ICFI,"Icf International, Inc.",Mehl Randall,Dir,P - Purchase,77.57,1000,20474,+5%,77569,False
+2025-11-17,2025-11-14,TDOC,"Teladoc Health, Inc.",Paulus Kenneth H,Dir,P - Purchase,6.94,10000,10000,New,69400,False
+2025-11-17,2025-11-13,CRVO,Cervomed Inc.,Gregoire Sylvie,"Dir, 10%",P - Purchase,7.53,7847,1474978,+1%,59101,True
+2025-11-17,2025-11-13,CRVO,Cervomed Inc.,Alam John J,"CEO, Pres, 10%",P - Purchase,7.53,7847,1474978,+1%,59101,True
+2025-11-17,2025-11-14,CRVO,Cervomed Inc.,Winton Matthew,"Chief Commercial, Business",P - Purchase,7.57,10000,10000,New,75700,True
+2025-11-14,2025-11-12,EML,Eastern Co,Disanto Frederick D.,Dir,P - Purchase,19.48,2571,147693,+2%,50094,False
+2025-11-14,2025-11-13,SELF,"Global Self Storage, Inc.",Winmill & Co. Inc,"See ""Explanation of Responses""",P - Purchase,5.06,13729,97587,+16%,69484,False
+2025-11-14,2025-11-12,AMCR,Amcor Plc,Long Nicholas T.,Dir,P - Purchase,8.54,10000,63151,+19%,85374,True
+2025-11-14,2025-05-20,GLGI,"Greystone Logistics, Inc.",Lockard Drew T.,Dir,P - Purchase,1.22,64600,76600,+538%,79070,False
+2025-11-14,2025-11-10,AVO,"Mission Produce, Inc.",Globalharvest Holdings Venture Ltd,10%,P - Purchase,12.46,5262,7245999,0%,65565,False
+2025-11-14,2025-11-12,SEZL,Sezzle Inc.,Brehm Kyle M.,Dir,P - Purchase,57.50,1217,24129,+5%,69978,False
+2025-11-14,2025-11-12,LNC,Lincoln National Corp,Ryan Owen,Dir,P - Purchase,42.17,2000,12000,+20%,84340,False
+2025-11-13,2025-11-13,AEYE,Audioeye Inc,Hawkins James B,Dir,P - Purchase,11.90,6000,160850,+4%,71420,False
+2025-11-13,2025-11-12,MDRR,"Medalist Diversified Reit, Inc.",Kavanaugh Frank,"COB, CEO, Pres, 10%",P - Purchase,13.28,5959,203979,+3%,79137,False
+2025-11-13,2025-11-11,EXFY,"Expensify, Inc.",Christen Timothy L,Dir,P - Purchase,1.43,40000,289754,+16%,57200,False
+2025-11-13,2025-11-10,BX,Blackstone Inc.,Porat Ruth,Dir,P - Purchase,146.24,402,47840,+1%,58835,True
+2025-11-13,2025-11-10,CPS,Cooper-Standard Holdings Inc.,Mastrocola David John,Dir,P - Purchase,29.05,2000,18115,+12%,58100,False
+2025-11-13,2025-11-12,BFS,"Saul Centers, Inc.",Collich John,"SVP, Chief Acq., Dev. Officer",P - Purchase,29.99,2000,55136,+4%,59987,True
+2025-11-13,2025-11-10,SENS,"Senseonics Holdings, Inc.",Steven Edelman,Dir,P - Purchase,6.55,10000,74708,+15%,65500,True
+2025-11-13,2025-11-13,AVBC,"Avidia Bancorp, Inc.",Jensen Barry H,"EVP, Chief Admin Officer",P - Purchase,15.24,5000,30100,+20%,76225,True
+2025-11-13,2025-11-10,ARQ,"Arq, Inc.",Voncannon Jay Loring,CFO,P - Purchase,3.66,15000,65000,+30%,54970,True
+2025-11-12,2025-11-07,BLLN,"Billiontoone, Inc.",Tsao David,CTO,P - Purchase,60.00,1000,1000,New,60000,True
+2025-11-12,2025-11-11,TRS,Trimas Corp,Fielkow Jeffrey A,Dir,P - Purchase,31.46,2000,18653,+12%,62920,False
+2025-11-12,2025-11-10,LOOP,"Loop Industries, Inc.",Hart Spencer,Dir,P - Purchase,1.32,50000,410370,+14%,66070,False
+2025-11-12,2025-11-11,NUS,"Nu Skin Enterprises, Inc.",Hatchett Steven Keith,Chief Product Officer,P - Purchase,9.61,5500,167565,+3%,52855,False
+2025-11-12,2025-11-07,SXC,"Suncoke Energy, Inc.",Hardesty Phillip Michael,SVP,P - Purchase,6.64,12000,262683,+5%,79631,False
+2025-11-12,2025-11-10,PRSU,"Pursuit Attractions & Hospitality, Inc.",Barry David W,"Pres, CEO",P - Purchase,33.32,2245,112474,+2%,74803,False
+2025-11-12,2025-11-10,AVBC,"Avidia Bancorp, Inc.",Cozzone Robert D,"Pres, CEO",P - Purchase,15.43,3240,57299,+6%,50003,True
+2025-11-12,2025-11-11,GOOD,Gladstone Commercial Corp,Gerson Gary,CFO,P - Purchase,11.05,7900,24052,+49%,87295,True
+2025-11-12,2025-11-11,RNST,Renasant Corp,Levy Jonathan A,Dir,P - Purchase,34.79,2000,22311,+10%,69578,False
+2025-11-12,2025-11-10,PRMB,Primo Brands Corp,Cramer Michael John,Dir,P - Purchase,15.73,5000,17762,+39%,78651,True
+2025-11-12,2025-11-07,MRAI,"Marpai, Inc.",Shiv Sagiv,Dir,P - Purchase,1.00,50000,272000,+23%,50000,True
+2025-11-12,2025-11-07,MRAI,"Marpai, Inc.",Pons Robert M,Dir,P - Purchase,1.00,50000,359200,+16%,50000,True
+2025-11-12,2025-11-07,GLSI,"Greenwich Lifesciences, Inc.",Patel Snehal,"CEO, CFO, 10%",P - Purchase,8.43,10600,5583502,0%,89358,False
+2025-11-12,2025-11-10,WU,Western Union Co,Angelini Giovanni,"Pres Europe, Africa, MEPA",P - Purchase,8.95,10000,186932,+6%,89540,False
+2025-11-10,2025-11-07,UTZ,"Utz Brands, Inc.",Lissette Dylan,Dir,P - Purchase,9.99,7901,168513,+5%,78909,True
+2025-11-10,2025-11-06,MMLP,Martin Midstream Partners L.P.,Martin Product Sales LLC,10%,P - Purchase,2.58,28114,2734952,+1%,72656,False
+2025-11-10,2025-11-10,FDBC,Fidelity D & D Bancorp Inc,Cali Brian J,COB,P - Purchase,44.50,1951,419589,0%,86820,False
+2025-11-10,2025-11-06,NWPP,New Peoples Bankshares Inc,White Blaine Scott,"Dir, 10%",P - Purchase,3.43,16000,5733956,0%,54880,False
+2025-11-10,2025-11-07,GOOD,Gladstone Commercial Corp,Cooper Arthur S.,Pres,P - Purchase,10.70,7002,34574,+25%,74921,True
+2025-11-10,2025-11-07,ITGR,Integer Holdings Corp,Smith Diron,"EVP, Chief  Financial Officer",P - Purchase,67.19,1116,7698,+17%,74967,True
+2025-11-10,2025-11-07,KREF,Kkr Real Estate Finance Trust Inc.,Lee Christen E.J.,Dir,P - Purchase,7.80,10000,254173,+4%,77978,True
+2025-11-10,2025-11-07,SENS,"Senseonics Holdings, Inc.",Roeder Douglas A,Dir,P - Purchase,5.83,15000,99727,+18%,87450,True
+2025-11-10,2025-11-06,MTDR,Matador Resources Co,Macalik Robert T,"EVP, CFO",P - Purchase,38.25,1500,144000,+1%,57375,True
+2025-11-07,2025-11-05,BETA,"Beta Technologies, Inc.",Churchill David Lawrence,CTO,P - Purchase,34.00,1500,436351,0%,51000,True
+2025-11-07,2025-11-05,BETA,"Beta Technologies, Inc.",Dunkiel Brian,SEE REMARKS,P - Purchase,34.00,1500,66908,+2%,51000,True
+2025-11-07,2025-11-07,LENZ,"Lenz Therapeutics, Inc.",Chevallard Daniel R.,CFO,P - Purchase,22.76,2198,5386,+69%,50017,True
+2025-11-07,2025-11-06,XZO,"Exzeo Group, Inc.",Spencer Loreen M,Dir,P - Purchase,21.00,4000,110000,+4%,84000,True
+2025-11-07,2025-11-06,RRBI,Red River Bancshares Inc,Price Teddy Ray,Dir,P - Purchase,65.76,1046,446586,0%,68788,False
+2025-11-06,2025-11-05,AVBC,"Avidia Bancorp, Inc.",Cozzone Robert D,"Pres, CEO",P - Purchase,15.26,3277,54059,+6%,50006,True
+2025-11-06,2025-11-04,BPRN,"Princeton Bancorp, Inc.",Tuchman Martin,"Dir, 10%",P - Purchase,32.25,2003,768982,0%,64598,True
+2025-11-06,2025-11-05,NVCT,"Nuvectis Pharma, Inc.",Sanchez Juan,Dir,P - Purchase,5.79,13000,78565,+20%,75270,True
+2025-11-06,2025-11-05,NVCT,"Nuvectis Pharma, Inc.",Kaplan Matthew L.,Dir,P - Purchase,5.84,11000,124760,+10%,64240,True
+2025-11-05,2025-11-04,CHCT,Community Healthcare Trust Inc,Cotman Cathrine,Dir,P - Purchase,14.66,4000,37635,+12%,58640,False
+2025-11-05,2025-11-03,ILMN,"Illumina, Inc.",Gottlieb Scott,Dir,P - Purchase,122.13,500,12523,+4%,61065,False
+2025-11-05,2025-11-03,MVBF,Mvb Financial Corp,Sumbs Michael Robert,CFO,P - Purchase,26.00,2000,2000,New,52000,False
+2025-11-04,2025-11-03,CRTO,Criteo S.A.,Van Der Kooi Frederik,Dir,P - Purchase,22.61,2299,16600,+16%,51980,True
+2025-11-04,2025-11-03,UTZ,"Utz Brands, Inc.",Friedman Howard A,CEO,P - Purchase,10.58,7200,279279,+3%,76183,True
+2025-11-03,2025-11-03,MYE,Myers Industries Inc,Ludwig Helmuth,Dir,P - Purchase,17.21,5000,13436,+59%,86050,True
+2025-11-03,2025-10-31,MAA,Mid America Apartment Communities Inc.,Bolton H Eric Jr,"Pres, CEO",P - Purchase,129.36,578,330444,0%,74769,False
+2025-11-03,2025-10-31,CFFN,"Capitol Federal Financial, Inc.",Jackson Rick C,EVP,P - Purchase,6.05,10000,240768,+4%,60499,False
+2025-11-03,2025-11-03,BPRN,"Princeton Bancorp, Inc.",Barrett Susan,Dir,P - Purchase,31.50,1600,4802,+50%,50400,True
+2025-11-03,2025-10-31,NBTB,Nbt Bancorp Inc,Delaney Timothy E,Dir,P - Purchase,40.50,2000,41894,+5%,81000,False
+2025-11-03,2025-10-31,FFIN,First Financial Bankshares Inc,Davis Sally Pope,Dir,P - Purchase,30.73,1700,6971,+32%,52241,True
+2025-10-31,2025-10-30,CNXC,Concentrix Corp,Caldwell Christopher A,"Pres, CEO",P - Purchase,42.03,2000,286661,+1%,84056,False
+2025-10-31,2025-10-30,FMAO,Farmers & Merchants Bancorp Inc,Planson Steven J,Dir,P - Purchase,23.42,2329,62002,+4%,54545,False
+2025-10-30,2025-10-28,CLST,"Catalyst Bancorp, Inc.",Kleiser Kirk E.,Dir,P - Purchase,13.41,4750,52271,+10%,63696,False
+2025-10-30,2025-10-29,MRP,"Millrose Properties, Inc.",Gorson Matthew B.,Dir,P - Purchase,32.69,2500,18160,+16%,81725,True
+2025-10-29,2025-10-23,TTRX,Turn Therapeutics Inc.,Chesed Abraham,Board Observer,P - Purchase,4.60,14286,1447268,+1%,65716,True
+2025-10-29,2025-10-28,WDFC,Wd 40 Co,Brass Steven A,"Pres, CEO",P - Purchase,200.46,362,33761,+1%,72567,True
+2025-10-29,2025-10-27,GSHD,"Goosehead Insurance, Inc.",Jones Mark E. Jr.,"CFO, COO, 10%",P - Purchase,74.44,873,4364,+25%,64986,False
+2025-10-29,2025-10-29,OBK,"Origin Bancorp, Inc.",Hall Martin Lance,"OBK COO, Origin Bank Pres, CEO",P - Purchase,34.50,1500,65283,+2%,51750,True
+2025-10-29,2025-10-28,CHMG,Chemung Financial Corp,Streeter Jeffrey B,Dir,P - Purchase,51.64,1316,30542,+5%,67952,False
+2025-10-29,2025-10-28,FFIN,First Financial Bankshares Inc,Hickox Michelle S,"EVP, CFO",P - Purchase,31.15,2000,24461,+9%,62300,True
+2025-10-29,2025-10-28,NBBK,"Nb Bancorp, Inc.",Pascucci Hope,Dir,P - Purchase,18.07,4688,200000,+2%,84702,False
+2025-10-28,2025-10-27,MCB,Metropolitan Bank Holding Corp.,Dougherty Daniel F,"EVP, CFO",P - Purchase,71.66,1000,27890,+4%,71660,False
+2025-10-28,2025-10-28,BHRB,Burke & Herbert Financial Services Corp.,McLaughlin Shawn Patrick,Dir,P - Purchase,61.00,1000,68000,+1%,61000,False
+2025-10-28,2025-10-27,MPB,Mid Penn Bancorp Inc,Noone John E,Dir,P - Purchase,29.51,2000,75475,+3%,59025,False
+2025-10-23,2025-10-22,SFNC,Simmons First National Corp,Garner David W,"EVP, Chief Accounting Officer",P - Purchase,17.66,3000,78345,+4%,52980,True
+2025-10-17,2025-10-15,FIS,"Fidelity National Information Services, Inc.",Goldstein Jeffrey A,Dir,P - Purchase,67.66,889,13588,+7%,60150,False
+2025-10-16,2025-10-14,REFI,"Chicago Atlantic Real Estate Finance, Inc.",Kite David,COO,P - Purchase,12.51,5000,59516,+9%,62525,True
+2025-10-16,2025-10-14,REFI,"Chicago Atlantic Real Estate Finance, Inc.",Konigsberg Brandon,Dir,P - Purchase,12.33,7000,27546,+34%,86296,True
+2025-10-15,2025-10-14,VNRX,Volitionrx Ltd,Reynolds Cameron John,"Pres, CEO",P - Purchase,0.51,110000,3576641,+3%,56100,False
+2025-10-14,2025-10-10,NMZ,Nuveen Municipal High Income Opportunity Fund,Bank of America Corp /de/,10%,P - Purchase,10.56,6440,0,-100%,68006,False
+2025-10-09,2025-10-07,LAW,"Cs Disco, Inc.",Bogan Thomas F,Dir,P - Purchase,5.95,13680,139258,+11%,81396,False
+2025-10-09,2025-10-08,PLCE,"Childrens Place, Inc.",Umair Muhammad,"Pres, INTERIM CEO",P - Purchase,7.00,7143,277667,+3%,50001,False
+2025-10-09,2025-10-08,CPSH,Cps Technologies Corp/De/,Hughes Francis J Jr,Dir,P - Purchase,3.00,18333,438009,+4%,54999,True
+2025-10-09,2025-10-08,CPSH,Cps Technologies Corp/De/,Cavoli Ivo James,Dir,P - Purchase,3.00,25000,49185,+103%,75000,True
+2025-10-09,2025-08-14,ALTS,Alt5 Sigma Corp,Danziger David C.,Dir,P - Purchase,7.30,10000,20000,+100%,73000,False
+2025-10-08,2025-10-06,DLHC,Dlh Holdings Corp.,Mink Brook Asset Management LLC,10%,P - Purchase,5.50,13276,2579625,+1%,73018,False
+2025-10-07,2025-10-03,IMRX,Immuneering Corp,Feinberg Peter,Dir,P - Purchase,6.67,7500,1141064,+1%,50025,False
+2025-10-06,2025-10-02,MKZR,"Mackenzie Realty Capital, Inc.",Dixon Robert E,"CEO, Pres",P - Purchase,5.06,15000,124719,+14%,75880,True
+2025-10-06,2025-10-02,MKZR,"Mackenzie Realty Capital, Inc.",Sherpa Angche,CFO,P - Purchase,5.06,15000,92584,+19%,75880,True
+2025-10-06,2025-09-25,MUNEX,"Blackrock Municipal Credit Alpha Portfolio, Inc.",Bank of America Corp /de/,10%,P - Purchase,12.64,4780,0,-100%,60419,False
+2025-10-06,2025-10-02,MKZR,"Mackenzie Realty Capital, Inc.",Simpson Christine Elizabeth,Chief Portfolio Manager,P - Purchase,5.06,15000,92674,+19%,75880,True
+2025-10-06,2025-10-02,MKZR,"Mackenzie Realty Capital, Inc.",Fuller Glen W,TREASURER,P - Purchase,5.06,15000,92424,+19%,75880,True
+2025-10-06,2025-10-02,MKZR,"Mackenzie Realty Capital, Inc.",Patterson Charles E. II,"GC, Secretary",P - Purchase,5.06,15000,92424,+19%,75880,True
+2025-10-06,2025-10-02,MKZR,"Mackenzie Realty Capital, Inc.",Bluth Jeri Ruth,Chief Compliance Officer,P - Purchase,5.06,15000,92424,+19%,75880,True
+2025-10-03,2025-10-02,UUU,"Universal Safety Products, Inc.",Ault Milton C III,Dir,P - Purchase,4.71,14697,75407,+24%,69282,False
+2025-10-03,2025-10-01,GGROU,Golden Growers Cooperative,Johnson Chris A,Dir,P - Purchase,5.00,16000,61000,+36%,80000,True
+2025-10-02,2025-10-02,SPWH,"Sportsman'S Warehouse Holdings, Inc.",McBee Richard D,Dir,P - Purchase,2.47,25000,364886,+7%,61750,True
+2025-10-02,2025-09-11,EFC,Ellington Financial Inc.,Simon Ronald I,Dir,P - Purchase,13.56,5544,80000,+7%,75176,False
+2025-10-02,2025-09-11,EARN,Ellington Credit Co,Simon Ronald I,Dir,P - Purchase,5.68,10536,80000,+15%,59843,False
+2025-10-02,2025-09-30,EPSN,Epsilon Energy Ltd.,Williamson Andrew,CFO,P - Purchase,4.94,12500,169275,+8%,61750,False
+2025-10-01,2025-09-29,STRR,"Star Equity Holdings, Inc.",Eberwein Jeffrey E.,"CEO, 10%",P - Purchase,11.27,7600,1812819,0%,85670,False
+2025-10-01,2025-09-30,SPG,Simon Property Group Inc /De/,Leibowitz Reuben S,Dir,P - Purchase,185.95,464,70059,+1%,86281,True
+2025-10-01,2025-09-30,SPG,Simon Property Group Inc /De/,Smith Daniel C.,Dir,P - Purchase,185.95,335,32333,+1%,62293,True
+2025-10-01,2025-09-30,SPG,Simon Property Group Inc /De/,Glasscock Larry C,Dir,P - Purchase,185.95,351,43536,+1%,65268,True
+2025-10-01,2025-09-29,PHXE.,"Phoenix Energy One, LLC",Allen Brandon K.,COO,P - Purchase,20.00,2500,2500,New,50000,True
+2025-10-01,2025-09-30,IMRX,Immuneering Corp,Feinberg Peter,Dir,P - Purchase,7.03,7500,1133564,+1%,52730,False
+2025-09-29,2025-09-26,DX,Dynex Capital Inc,Popenoe Smriti Laxman,"Co-CEO, Pres",P - Purchase,12.16,4260,407338,+1%,51784,True
+2025-09-29,2025-09-26,DX,Dynex Capital Inc,Colligan Robert S,"CFO, COO",P - Purchase,12.12,4200,120857,+4%,50904,True
+2025-09-29,2025-09-25,MUNEX,"Blackrock Municipal Credit Alpha Portfolio, Inc.",Bank of America Corp /de/,10%,P - Purchase,12.64,4780,0,-100%,60419,False
+2025-09-26,2025-09-25,CME,Cme Group Inc.,Shepard William R,Dir,P - Purchase,265.19,274,260925,0%,72672,False
+2025-09-25,2025-09-22,NYC,American Strategic Investment Co.,Schorsch Nicholas S,10%,P - Purchase,9.99,5589,1573181,0%,55815,False
+2025-09-25,2025-09-24,GLIBK,"Gci Liberty, Inc.",Malone John C,"Dir, 10%",P - Purchase,35.00,2319,1334682,0%,81165,False
+2025-09-23,2025-09-22,BUKS,Butler National Corp,Daly Joseph Patrick,"Dir, 10%",P - Purchase,1.79,47425,8810000,+1%,85092,False
+2025-09-23,2025-09-19,KRNY,Kearny Financial Corp.,Montanaro Leopold W,Dir,P - Purchase,6.57,10000,265227,+4%,65700,False
+2025-09-23,2025-09-19,BCDA,"Biocardia, Inc.",Altman Peter,"Pres, CEO",P - Purchase,1.25,48000,216762,+28%,60000,True
+2025-09-22,2025-09-18,NXXT,"Nextnrg, Inc.",Oppen Sean Matthew,Dir,P - Purchase,1.71,35000,263976,+15%,59700,True
+2025-09-22,2025-09-19,ONEW,Onewater Marine Inc.,Singleton Philip Austin Jr.,CEO - See Remarks,P - Purchase,15.37,3654,1768087,0%,56162,False
+2025-09-19,2025-09-19,NRGV,"Energy Vault Holdings, Inc.",Piconi Robert,"CEO, 10%",P - Purchase,3.02,17500,28815776,0%,52875,False
+2025-09-18,2025-09-08,FRPT,"Freshpet, Inc.",George Walter N.,Dir,P - Purchase,52.57,1000,46527,+2%,52570,True
+2025-09-18,2025-09-17,PFBX,Peoples Financial Corp /Ms/,Stilwell Joseph,10%,P - Purchase,20.20,3000,687779,0%,60600,False
+2025-09-18,2025-09-16,CCEL,Cryo Cell International Inc,Portnoy David,"COB, Co-CEO, 10%",P - Purchase,4.45,17175,1679847,+1%,76486,False
+2025-09-18,2025-09-17,WSBC,Wesbanco Inc,Proctor Gregory S Jr,Dir,P - Purchase,25.00,2000,2000,New,50000,True
+2025-09-18,2025-09-17,WSBC,Wesbanco Inc,Bookmyer John,Dir,P - Purchase,25.00,2000,2000,New,50000,True
+2025-09-18,2025-09-15,MBIN,Merchants Bancorp,Sievers Sean A.,CFO,P - Purchase,24.87,3000,11207,+37%,74610,False
+2025-09-17,2025-09-15,EONR,Eon Resources Inc.,Salvucci Joseph V Jr,Dir,P - Purchase,0.38,156000,317784,+96%,59576,False
+2025-09-16,2025-09-16,SMRT,"Smartrent, Inc.",Martell Frank,CEO,P - Purchase,1.58,50000,898204,+6%,79115,False
+2025-09-16,2025-09-15,DLHC,Dlh Holdings Corp.,Mink Brook Asset Management LLC,10%,P - Purchase,5.50,15597,2566349,+1%,85784,False
+2025-09-16,2025-09-12,GCTS,"Gct Semiconductor Holding, Inc.",Shin Hyunsoo,Class II Director,P - Purchase,1.51,44067,694321,+7%,66541,False
+2025-09-16,2025-09-16,NRGV,"Energy Vault Holdings, Inc.",Piconi Robert,"CEO, 10%",P - Purchase,2.21,25000,28748276,0%,55285,False
+2025-09-16,2025-09-12,BUSE,First Busey Corp /Nv/,Jensen Karen M,Dir,P - Purchase,24.60,3000,86798,+4%,73800,True
+2025-09-15,2025-09-10,EP,Empire Petroleum Corp,Mulacek Phil E,"Dir, 10%",P - Purchase,4.09,15983,7197476,0%,65354,False
+2025-09-15,2025-09-08,SVCO,"Silvaco Group, Inc.",Ngai Anthony K.K.,Dir,P - Purchase,5.28,11700,80777,+17%,61789,False
+2025-09-15,2025-09-12,GHM,Graham Corp,Gregorio Mauro,Dir,P - Purchase,49.01,1200,1200,New,58812,False
+2025-09-15,2025-09-11,AVBC,"Avidia Bancorp, Inc.",Cozzone Robert D,"Pres, CEO",P - Purchase,15.51,3224,41017,+9%,50000,True
+2025-09-11,2025-09-11,RAPP,"Rapport Therapeutics, Inc.",Young Wendy B.,Dir,P - Purchase,22.60,3500,9500,+58%,79100,True
+2025-09-11,2025-09-11,CTO,"Cto Realty Growth, Inc.",Albright John P,"Pres, CEO",P - Purchase,16.53,4200,632902,+1%,69443,False
+2025-09-10,2025-09-08,BDCO,Blue Dolphin Energy Co,"Lazarus Energy Holdings, LLC",10%,P - Purchase,1.44,35000,8475000,0%,50430,False
+2025-09-10,2025-09-08,MLP,Maui Land & Pineapple Co Inc,Case Stephen M,"Dir, 10%",P - Purchase,16.94,5000,12007905,0%,84675,False
+2025-09-10,2025-09-09,AVBC,"Avidia Bancorp, Inc.",Cozzone Robert D,"Pres, CEO",P - Purchase,15.50,3226,37793,+9%,50008,True
+2025-09-09,2025-09-08,MDU,Mdu Resources Group Inc,Vollmer Jason L,CFO,P - Purchase,16.08,5000,352943,+1%,80375,False
+2025-09-09,2025-09-08,SFD,Smithfield Foods Inc,France Steven,"Pres, Packaged Meats",P - Purchase,23.25,2500,70000,+4%,58125,True
+2025-09-09,2025-09-08,SFD,Smithfield Foods Inc,Watts Keller D.,Chief Business Officer,P - Purchase,23.25,3833,74857,+5%,89117,True
+2025-09-09,2025-09-09,SEI,"Solaris Energy Infrastructure, Inc.",Ramachandran Kyle S.,"Pres, CFO",P - Purchase,25.00,2000,917015,0%,50000,True
+2025-09-08,2025-09-08,AFCG,Advanced Flower Capital Inc.,Neville Daniel,CEO,P - Purchase,4.44,12388,209649,+6%,55003,True
+2025-09-08,2025-09-04,SHEN,Shenandoah Telecommunications Co/Va/,"Ecp Controlco, LLC",10%,P - Purchase,13.25,5068,3441252,0%,67149,True
+2025-09-08,2025-09-04,SHEN,Shenandoah Telecommunications Co/Va/,"Ecp Fiber Holdings Gp, LLC",10%,P - Purchase,13.25,5068,3441252,0%,67149,True
+2025-09-08,2025-09-05,ADC,Agree Realty Corp,Lehmkuhl Greg,Dir,P - Purchase,72.84,750,27684,+3%,54630,False
+2025-09-05,2025-09-04,PGEN,"Precigen, Inc.",Agee Nancy H,Dir,P - Purchase,4.60,15000,217841,+7%,69000,False
+2025-09-05,2025-09-03,SND,"Smart Sand, Inc.",Young Charles Edwin,"CEO, 10%",P - Purchase,1.91,39031,7320328,+1%,74421,False
+2025-09-04,2025-09-02,ORI,Old Republic International Corp,Risch Therace,Dir,P - Purchase,39.90,1500,9625,+18%,59850,False
+2025-09-03,2025-09-02,BLSK,"Bolt Projects Holdings, Inc.",Widmaier Daniel Matthew,CEO,P - Purchase,3.81,13374,36805,+57%,50955,False
+2025-09-03,2025-09-03,AVBC,"Avidia Bancorp, Inc.",Nelson Jonathan Michael,"CFO, Treasurer",P - Purchase,15.45,3240,30034,+12%,50058,True
+2025-09-03,2025-08-29,AVBC,"Avidia Bancorp, Inc.",Cozzone Robert D,"Pres, CEO",P - Purchase,15.63,3199,31288,+11%,50000,True
+2025-08-28,2025-08-25,COTY,Coty Inc.,Mercier Laurent,CFO,P - Purchase,3.94,15500,405216,+4%,61017,True
+2025-08-28,2025-08-27,SELF,"Global Self Storage, Inc.",Winmill & Co. Inc,"See ""Explanation of Responses""",P - Purchase,5.39,12686,71142,+22%,68438,False
+2025-08-28,2025-06-20,BLIN,"Bridgeline Digital, Inc.",Kahn Roger E.,"Pres, CEO, 10%",P - Purchase,1.41,54500,1297333,+4%,77010,False
+2025-08-28,2025-08-26,ISPO,Inspirato Inc,Zamani Payam,"CEO, 10%",P - Purchase,2.96,20000,5458928,0%,59200,False
+2025-08-28,2025-08-28,AVBC,"Avidia Bancorp, Inc.",Nelson Jonathan Michael,"CFO, Treasurer",P - Purchase,15.47,3240,26794,+14%,50123,True
+2025-08-27,2025-08-26,HSON,"Hudson Global, Inc.",Coleman Richard Kenneth Jr.,COO,P - Purchase,9.11,6813,19486,+54%,62082,False
+2025-08-27,2025-08-25,WASH,Washington Trust Bancorp Inc,Dimuccio Robert A,Dir,P - Purchase,29.69,3000,23346,+15%,89070,False
+2025-08-27,2025-08-25,BFLY,"Butterfly Network, Inc.",Cashman Steve,Chief Business Officer,P - Purchase,1.64,50000,2324474,+2%,81953,False
+2025-08-26,2025-08-22,SST,"System1, Inc.",Cee Holdings Trust,10%,P - Purchase,7.32,11015,919555,+1%,80630,False
+2025-08-26,2025-08-22,SHEN,Shenandoah Telecommunications Co/Va/,"Ecp Fiber Holdings Gp, LLC",10%,P - Purchase,13.09,5500,3343622,0%,72008,True
+2025-08-26,2025-08-22,SHEN,Shenandoah Telecommunications Co/Va/,"Ecp Controlco, LLC",10%,P - Purchase,13.09,5500,3343622,0%,72008,True
+2025-08-26,2025-08-22,MX,Magnachip Semiconductor Corp,Martino Camillo,See Remarks,P - Purchase,2.84,30000,299127,+11%,85290,False
+2025-08-26,2025-08-25,SELF,"Global Self Storage, Inc.",Winmill & Co. Inc,"See ""Explanation of Responses""",P - Purchase,5.24,15611,58456,+36%,81808,False
+2025-08-26,2025-08-22,TSQ,"Townsquare Media, Inc.",Kaplan Stephen A,Dir,P - Purchase,6.92,10000,208618,+5%,69200,False
+2025-08-26,2025-08-25,SCWO,374Water Inc.,Pawloski James,Dir,P - Purchase,0.26,193300,193300,New,50819,False
+2025-08-26,2025-08-26,CBKM,Consumers Bancorp Inc /Oh/,Lober Ralph J II,"CEO, Pres",P - Purchase,20.70,3000,74298,+4%,62100,False
+2025-08-26,2025-08-25,MYO,"Myomo, Inc.",Kirk Thomas F,Dir,P - Purchase,1.15,50000,474420,+12%,57500,False
+2025-08-25,2025-08-21,CLDI,"Calidi Biotherapeutics, Inc.",Poma Eric E,CEO,P - Purchase,2.00,25000,25000,New,50000,True
+2025-08-25,2025-08-14,BRBR,"Bellring Brands, Inc.",Conway Shawn,Dir,P - Purchase,37.98,1316,8001,+20%,50000,True
+2025-08-25,2025-08-21,MLP,Maui Land & Pineapple Co Inc,Case Stephen M,"Dir, 10%",P - Purchase,16.34,5000,11998872,0%,81675,False
+2025-08-25,2025-08-22,INR,"Infinity Natural Resources, Inc.",Arnold Zack David,See Remarks,P - Purchase,13.88,5500,5500,New,76362,True
+2025-08-25,2025-08-21,MKZR,"Mackenzie Realty Capital, Inc.",Simpson Christine Elizabeth,Chief Portfolio Manager,P - Purchase,5.10,15146,76683,+25%,77245,True
+2025-08-25,2025-08-21,MKZR,"Mackenzie Realty Capital, Inc.",Sherpa Angche,CFO,P - Purchase,5.10,15146,76593,+25%,77245,True
+2025-08-25,2025-08-21,MKZR,"Mackenzie Realty Capital, Inc.",Bluth Jeri Ruth,Chief Compliance Officer,P - Purchase,5.10,15146,76433,+25%,77245,True
+2025-08-25,2025-08-21,MKZR,"Mackenzie Realty Capital, Inc.",Fuller Glen W,TREASURER,P - Purchase,5.10,15146,76433,+25%,77245,True
+2025-08-25,2025-08-21,MKZR,"Mackenzie Realty Capital, Inc.",Patterson Charles E. II,"GC, Secretary",P - Purchase,5.10,15146,76433,+25%,77245,True
+2025-08-25,2025-08-21,MKZR,"Mackenzie Realty Capital, Inc.",Dixon Robert E,"CEO, Pres",P - Purchase,5.10,15146,108728,+16%,77245,True
+2025-08-25,2025-08-21,WATT,Energous Corp,Burak Mallorie Sara,"CEO, CFO",P - Purchase,7.88,6400,10132,+171%,50408,False
+2025-08-25,2025-08-22,PSTV,"Plus Therapeutics, Inc.",Lenk Robert P,Dir,P - Purchase,0.49,110000,139327,+375%,53779,False
+2025-08-22,2025-08-21,TPL,Texas Pacific Land Corp,Oliver Eric L,Dir,P - Purchase,881.27,100,402489,0%,88127,False
+2025-08-22,2025-08-19,CBAN,Colony Bankcorp Inc,Bateman Leonard H Jr,"EVP, Chief Credit Officer",P - Purchase,16.40,5170,32655,+19%,84787,False
+2025-08-22,2025-08-20,GBLI,"Global Indemnity Group, LLC",Brown Joseph W,Chief Exec,P - Purchase,30.00,2000,174904,+1%,60000,True
+2025-08-21,2025-08-19,ECIA,Encision Inc,Fries Robert H,Dir,P - Purchase,0.10,750000,1340000,+127%,75000,True
+2025-08-21,2025-08-19,AMCR,Amcor Plc,Sterrett Stephen E,Dir,P - Purchase,8.55,10000,368091,+3%,85500,False
+2025-08-21,2025-08-19,MLP,Maui Land & Pineapple Co Inc,Case Stephen M,"Dir, 10%",P - Purchase,16.47,5000,11993872,0%,82325,False
+2025-08-21,2025-08-19,APLE,"Apple Hospitality Reit, Inc.",Knight Glade M,Exec COB,P - Purchase,12.29,5000,10811233,0%,61451,False
+2025-08-21,2025-08-21,AEBI,Aebi Schmidt Holding AG,Fruithof Barend Gerrit,Group CEO,P - Purchase,11.65,6000,1830368,0%,69902,True
+2025-08-20,2025-08-19,RCEL,"Avita Medical, Inc.",McNamara Robert,Dir,P - Purchase,5.00,10000,76771,+15%,50000,False
+2025-08-20,2025-08-19,PEW,Grabagun Digital Holdings Inc.,Reisdorf Kelly L,Dir,P - Purchase,5.32,10000,10000,New,53173,True
+2025-08-20,2025-08-19,PEW,Grabagun Digital Holdings Inc.,Cox Chris W.,Dir,P - Purchase,5.11,10000,10000,New,51095,True
+2025-08-20,2025-08-20,ENOV,Enovis Corp,Berry Phillip Benjamin (Ben),"SVP, CFO",P - Purchase,29.71,2500,116729,+2%,74275,True
+2025-08-20,2025-08-18,NWTG,"Newton Golf Company, Inc.",Hoge Brett Widney,Dir,P - Purchase,1.66,36506,134118,+37%,60656,False
+2025-08-20,2025-08-19,GOSS,"Gossamer Bio, Inc.",Milligan Sandra,Dir,P - Purchase,1.92,26050,58050,+81%,50016,False
+2025-08-20,2025-08-18,ALXO,Alx Oncology Holdings Inc,Shantharam Harish,CFO,P - Purchase,0.78,75000,75000,New,58403,False
+2025-08-20,2025-08-19,EONR,Eon Resources Inc.,Salvucci Joseph V Sr,Dir,P - Purchase,0.35,200000,1829121,+12%,70460,False
+2025-08-20,2025-08-19,STRZ,Starz Entertainment Corp /Cn/,Mann Bruce,Dir,P - Purchase,12.67,5000,11112,+82%,63350,True
+2025-08-20,2025-08-19,BFC,Bank First Corp,Stayer-Suprick Michael S,Dir,P - Purchase,122.67,410,3965,+12%,50295,False
+2025-08-20,2025-08-18,EPSN,Epsilon Energy Ltd.,Williamson Andrew,CFO,P - Purchase,5.64,10000,156775,+7%,56400,True
+2025-08-20,2025-08-18,EPSN,Epsilon Energy Ltd.,Stabell Jason,CEO,P - Purchase,5.67,15000,757010,+2%,85110,True
+2025-08-19,2025-08-18,AEYE,Audioeye Inc,Hawkins James B,Dir,P - Purchase,10.95,8000,146183,+6%,87560,False
+2025-08-19,2025-08-18,MBWM,Mercantile Bank Corp,Ramaker David B,Dir,P - Purchase,46.71,1500,15014,+11%,70065,False
+2025-08-19,2025-08-15,CCEL,Cryo Cell International Inc,Portnoy David,"COB, Co-CEO, 10%",P - Purchase,4.41,19301,1596204,+1%,85078,False
+2025-08-19,2025-08-19,MDU,Mdu Resources Group Inc,Vollmer Jason L,CFO,P - Purchase,16.28,5000,347943,+1%,81375,False
+2025-08-19,2025-07-17,VXRT,"Vaxart, Inc.",Finney Kevin,Dir,P - Purchase,0.37,166668,204771,+437%,61934,False
+2025-08-19,2025-08-18,PRGO,Perrigo Co Plc,Bezerra Eduardo Guarita,"EVP, CFO",P - Purchase,22.74,3000,48949,+7%,68207,True
+2025-08-19,2025-08-18,XBP,"Xbp Global Holdings, Inc.",Klein Randal T,Dir,P - Purchase,0.54,150000,150000,New,80325,False
+2025-08-19,2025-08-18,MYO,"Myomo, Inc.",Kirk Thomas F,Dir,P - Purchase,1.10,50000,424420,+13%,55000,False
+2025-08-18,2025-08-14,FPI,Farmland Partners Inc.,Sherrick Bruce J,Dir,P - Purchase,10.76,8000,32000,+33%,86056,False
+2025-08-18,2025-08-14,CE,Celanese Corp,Murray Mark Christopher,SVP - Acetyls,P - Purchase,41.83,2017,17000,+13%,84371,True
+2025-08-18,2025-08-14,CE,Celanese Corp,Sutton Scott McDougald,Dir,P - Purchase,40.89,2000,20376,+11%,81787,True
+2025-08-18,2025-08-18,RICK,"Rci Hospitality Holdings, Inc.",Langan Eric Scott,"Pres, CEO",P - Purchase,36.74,1370,706370,0%,50336,False
+2025-08-18,2025-08-15,AEBI,Aebi Schmidt Holding AG,Portmann Marco,Group CFO,P - Purchase,12.25,5000,20000,+33%,61250,True
+2025-08-15,2025-08-14,BRBR,"Bellring Brands, Inc.",Conway Shawn,Dir,P - Purchase,37.98,1316,8001,+20%,50000,True
+2025-08-15,2025-08-13,DYNR,"Dynaresource, Inc.",Diepholz Koy W,10%,P - Purchase,1.50,50000,3230700,+2%,75000,False
+2025-08-15,2025-08-13,MIAX,"Miami International Holdings, Inc.",Jayabalan Harish,"EVP, CISO, CRO",P - Purchase,23.00,2500,6443,+63%,57500,True
+2025-08-15,2025-08-13,MIAX,"Miami International Holdings, Inc.",Nazarali Jamil,Dir,P - Purchase,23.00,2500,2500,New,57500,True
+2025-08-15,2025-08-13,GPMT,Granite Point Mortgage Trust Inc.,Nikolic Lazar,Dir,P - Purchase,19.61,3000,38221,+9%,58830,False
+2025-08-15,2025-08-13,MDRR,"Medalist Diversified Reit, Inc.",Kavanaugh Frank,"COB, CEO, Pres, 10%",P - Purchase,11.04,5480,5480,New,60491,False
+2025-08-15,2025-08-15,PNFP,Pinnacle Financial Partners Inc,Burns Gregory L,Dir,P - Purchase,92.50,652,21558,+3%,60310,True
+2025-08-14,2025-08-14,KODK,Eastman Kodak Co,Katz Philippe D,"Dir, 10%",P - Purchase,5.67,10000,4416100,0%,56700,True
+2025-08-14,2025-08-13,CLOV,"Clover Health Investments, Corp. /De",Loengard Anna U,Dir,P - Purchase,2.59,26500,505301,+6%,68755,True
+2025-08-13,2025-08-13,MXCT,"Maxcyte, Inc.",Swirsky Douglas J,CFO,P - Purchase,1.29,50000,161811,+45%,64500,True
+2025-08-13,2025-08-13,MXCT,"Maxcyte, Inc.",Brooke William W,Dir,P - Purchase,1.29,50000,150879,+50%,64500,True
+2025-08-13,2025-08-12,CAPL,Crossamerica Partners LP,Reilly John B. III,"Dir, 10%",P - Purchase,20.01,2706,4967317,0%,54143,True
+2025-08-13,2025-08-12,CAPL,Crossamerica Partners LP,Topper Joseph V. Jr.,"Dir, 10%",P - Purchase,20.01,2706,1857649,0%,54143,True
+2025-08-13,2025-08-13,ESTA,Establishment Labs Holdings Inc.,Lewin Nicholas Sheridan,Dir,P - Purchase,34.30,2300,1092413,0%,78880,True
+2025-08-13,2025-08-12,TROX,Tronox Holdings Plc,Johnston Peter,Dir,P - Purchase,3.21,20000,191513,+12%,64200,True
+2025-08-13,2025-08-12,PRGS,Progress Software Corp /Ma,Gawlick Rainer,Dir,P - Purchase,43.48,1710,55544,+3%,74351,False
+2025-08-13,2025-08-11,ECOR,"Electrocore, Inc.",Errico Thomas J.,Dir,P - Purchase,4.47,15000,281401,+6%,67050,False
+2025-08-12,2025-08-08,TLYS,"Tilly'S, Inc.",Shay Capital LLC,10%,P - Purchase,1.37,60000,3360000,+2%,82079,False
+2025-08-12,2025-08-08,HRTG,"Heritage Insurance Holdings, Inc.",Whiting Paul L,Dir,P - Purchase,20.50,2500,147997,+2%,51248,False
+2025-08-12,2025-08-11,MMI,"Marcus & Millichap, Inc.",Martin Lauralee,Dir,P - Purchase,29.34,1721,17748,+11%,50492,False
+2025-08-12,2025-08-12,LLY,Eli Lilly & Co,Sulzberger Gabrielle,Dir,P - Purchase,641.18,117,2703,+5%,75018,True
+2025-08-12,2025-08-11,AZTA,"Azenta, Inc.",Lin Lawrence Y.,"EVP, CFO, Treasurer",P - Purchase,27.96,2500,46013,+6%,69900,False
+2025-08-12,2025-08-08,AMRZ,Amrize Ltd,Poletti Samuel Jonas,"Chief Strategy, M, A Officer",P - Purchase,46.22,1280,3389,+61%,59162,True
+2025-08-12,2025-08-11,NBBK,"Nb Bancorp, Inc.",Darcey William,Dir,P - Purchase,17.30,5000,160237,+3%,86499,False
+2025-08-11,2025-08-08,EHAB,"Enhabit, Inc.",Solomon Ryan,CFO,P - Purchase,7.64,10000,193468,+5%,76400,False
+2025-08-11,2025-08-08,GBLI,"Global Indemnity Group, LLC",Reddy Praveen Kotha,"Pres, CEO, Penn-America UW LLC",P - Purchase,28.30,2000,5100,+65%,56600,True
+2025-08-11,2025-08-08,SBH,"Sally Beauty Holdings, Inc.",Paulonis Denise,"Pres, CEO",P - Purchase,11.74,4500,366865,+1%,52830,False
+2025-08-08,2025-08-06,PINE,"Alpine Income Property Trust, Inc.",Greathouse Steven Robert,SVP - INVESTMENTS,P - Purchase,14.31,3500,10756,+48%,50082,True
+2025-08-08,2025-08-08,AIG,"American International Group, Inc.",Inglis John C,Dir,P - Purchase,77.04,653,2652,+33%,50307,False
+2025-08-07,2025-08-05,CLAR,Clarus Corp,Sokolow Nicolas,Dir,P - Purchase,3.25,20000,774485,+3%,64986,True
+2025-08-07,2025-08-06,TFX,Teleflex Inc,Haggerty Gretchen R,Dir,P - Purchase,114.75,500,6305,+9%,57375,True
+2025-08-07,2025-08-05,PRLB,Proto Labs Inc,Gawlick Rainer,Dir,P - Purchase,43.79,1715,43883,+4%,75105,True
+2025-08-07,2025-08-07,AVBC,"Avidia Bancorp, Inc.",Jensen Barry H,"EVP, Chief Admin Officer",P - Purchase,14.30,5000,8100,+161%,71500,True
+2025-08-07,2025-08-05,BPRN,"Princeton Bancorp, Inc.",Tuchman Martin,"Dir, 10%",P - Purchase,30.90,2039,751979,0%,63009,False
+2025-08-07,2025-08-07,KMPR,Kemper Corp,Flint Christopher Wade,"EVP, Pres, Kemper Life",P - Purchase,50.12,1000,10197,+11%,50115,True
+2025-08-06,2025-08-04,PRLB,Proto Labs Inc,Krishna Suresh,"Pres, CEO",P - Purchase,43.51,1725,18021,+11%,75055,True
+2025-08-06,2025-08-06,NSP,"Insperity, Inc.",Ramchand Latha,Dir,P - Purchase,50.64,1000,15120,+7%,50640,True
+2025-08-06,2025-08-05,IBCP,Independent Bank Corp /Mi/,Mohr Gavin A.,EVP,P - Purchase,29.64,2000,24528,+9%,59280,False
+2025-08-06,2025-08-04,EFSC,Enterprise Financial Services Corp,Finn Michael E,Dir,P - Purchase,54.11,1500,4361,+52%,81165,False
+2025-08-06,2025-08-05,VNRX,Volitionrx Ltd,Innes Guy Archibald,Dir,P - Purchase,0.64,78125,3340828,+2%,50000,True
+2025-08-06,2025-08-05,VNRX,Volitionrx Ltd,Reynolds Cameron John,"Pres, CEO",P - Purchase,0.64,78125,3651641,+2%,50000,True
+2025-08-05,2025-08-01,SI,"Shoulder Innovations, Inc.",Buchholz Richard,Dir,P - Purchase,15.00,5000,12666,+65%,75000,True
+2025-08-05,2025-08-04,CHE,Chemed Corp,Walsh George J III,Dir,P - Purchase,417.10,200,3957,+5%,83420,False
+2025-08-05,2025-08-05,AVBC,"Avidia Bancorp, Inc.",Saul Kennedy O,Dir,P - Purchase,14.48,4150,4150,New,60087,True
+2025-08-05,2025-08-01,MBIN,Merchants Bancorp,Sievers Sean A.,CFO,P - Purchase,29.75,2500,8207,+44%,74375,True
+2025-08-05,2025-08-01,BPRN,"Princeton Bancorp, Inc.",Tuchman Martin,"Dir, 10%",P - Purchase,30.12,2961,749940,0%,89197,False
+2025-08-04,2025-08-04,OBIO,"Orchestra Biomed Holdings, Inc.",Hochman David P,See Remarks,P - Purchase,2.75,20000,903931,+2%,55000,True
+2025-08-04,2025-08-01,RNST,Renasant Corp,Levy Jonathan A,Dir,P - Purchase,35.64,2000,20311,+11%,71289,False
+2025-08-04,2025-08-01,PNFP,Pinnacle Financial Partners Inc,Farnsworth Thomas C III,Dir,P - Purchase,84.94,1000,30277,+3%,84940,True
+2025-08-04,2025-08-01,CNOB,"Connectone Bancorp, Inc.",O'Donnell Susan C,Dir,P - Purchase,22.30,2691,8523,+46%,60000,True
+2025-08-01,2025-07-31,PSX,Phillips 66,Cornelius Sigmund L,Dir,P - Purchase,123.55,500,21543,+2%,61775,True
+2025-08-01,2025-07-30,NSPR,"Inspiremd, Inc.",Kester Thomas J,Dir,P - Purchase,2.42,30991,420758,+8%,74998,True
+2025-08-01,2025-07-30,NSPR,"Inspiremd, Inc.",Stuka Paul,Dir,P - Purchase,2.42,20661,804479,+3%,50000,True
+2025-08-01,2025-08-01,TNL,Travel & Leisure Co.,Brown Michael Dean,See Remarks,P - Purchase,58.39,1500,684311,0%,87585,False
+2025-08-01,2025-07-31,BFST,"Business First Bancshares, Inc.",Ducrest John P.,Dir,P - Purchase,23.62,2225,19752,+13%,52555,False
+2025-08-01,2025-07-30,PLBC,Plumas Bancorp,Patel Sushil Amathalal,Dir,P - Purchase,41.16,1300,3685,+55%,53502,False
+2025-08-01,2025-07-31,BUSE,First Busey Corp /Nv/,Bradshaw Stanley J,Dir,P - Purchase,22.35,3000,498568,+1%,67050,True
+2025-08-01,2025-07-30,BFH,"Bread Financial Holdings, Inc.",Fawcett John J.,Dir,P - Purchase,61.79,1027,10302,+11%,63459,False
+2025-07-31,2025-07-29,TBBK,"Bancorp, Inc.",Cohn Matthew,Dir,P - Purchase,64.80,1350,226132,+1%,87479,False
+2025-07-31,2025-07-31,PNFP,Pinnacle Financial Partners Inc,Carpenter Harold R,"EVP, CFO",P - Purchase,89.73,1000,118612,+1%,89730,True
+2025-07-31,2025-07-30,CIVB,"Civista Bancshares, Inc.",Weaks Nathan E,Subsidiary Director,P - Purchase,19.70,3000,21905,+16%,59114,False
+2025-07-31,2025-06-11,SNYR,Synergy Chc Corp.,Ross Jack,"CEO, COB, 10%",P - Purchase,2.85,27900,4795757,+1%,79578,False
+2025-07-30,2025-07-30,BXSY,Bexil Investment Trust,Winmill & Co. Inc,"See ""Explanation of Responses""",P - Purchase,13.80,6255,227570,+3%,86319,False
+2025-07-30,2025-07-29,MPB,Mid Penn Bancorp Inc,Noone John E,Dir,P - Purchase,27.25,2000,73426,+3%,54492,False
+2025-07-29,2025-07-28,KMI,"Kinder Morgan, Inc.",Chronis Amy W,Dir,P - Purchase,27.21,2759,34764,+9%,75059,False
+2025-07-29,2025-07-25,BUSE,First Busey Corp /Nv/,Jensen Karen M,Dir,P - Purchase,23.25,2500,83798,+3%,58125,True
+2025-07-29,2025-07-25,BUSE,First Busey Corp /Nv/,Bradshaw Stanley J,Dir,P - Purchase,23.25,2500,495568,+1%,58125,True
+2025-07-28,2025-07-25,MH,"McGraw Hill, Inc.",Tiska Tracey,"EVP, CHRO",P - Purchase,17.00,4000,4000,New,68000,True
+2025-07-28,2025-07-25,MH,"McGraw Hill, Inc.",Sallmann Robert,"EVP, CFO",P - Purchase,17.00,3000,3000,New,51000,True
+2025-07-24,2025-07-23,SFNC,Simmons First National Corp,Teubner Russell William,Dir,P - Purchase,18.50,4050,80256,+5%,74925,True
+2025-07-24,2025-06-13,BLNE,"Beeline Holdings, Inc.",Liuzza Nicholas Reyland Jr,"CEO, 10%",P - Purchase,0.66,113500,2105264,+6%,74914,False
+2025-07-22,2025-07-21,PETS,Petmed Express Inc,Nina Capital Holdings Inc.,10%,P - Purchase,3.50,25000,2575000,+1%,87425,True
+2025-07-21,2025-07-18,PETS,Petmed Express Inc,Silvercape Investments Ltd,10%,P - Purchase,3.23,17565,2360496,+1%,56735,True
+2025-07-18,2025-03-13,CBAN,Colony Bankcorp Inc,Canup Edward G,CHIEF BANKING OFFICER,P - Purchase,16.28,3146,21532,+17%,51215,False
+2025-07-17,2025-07-15,FIS,"Fidelity National Information Services, Inc.",Goldstein Jeffrey A,Dir,P - Purchase,79.29,757,12699,+6%,60023,False
+2025-07-17,2025-07-16,RVYL,Ryvyl Inc.,S8 Global Fintech & Regtech Fund,10%,P - Purchase,0.36,200000,3604845,+6%,71180,False
+2025-07-16,2025-07-15,SSGC,Safespace Global Corp,Hillis Dustin Michael,"Pres, Chief Strat Officer",P - Purchase,0.42,122500,7254500,+2%,51536,False
+2025-07-15,2025-07-14,NTWK,Netsol Technologies Inc,Ghauri Naeem,Pres,P - Purchase,3.85,18279,459853,+4%,70374,False
+2025-07-15,2025-07-11,CIVB,"Civista Bancshares, Inc.",Dutton Richard J,SVP,P - Purchase,21.25,4000,35853,+13%,85000,False
+2025-07-10,2025-07-08,NMP,Nmp Acquisition Corp.,Next Move Capital LLC,10%,P - Purchase,10.00,7500,112500,+7%,75000,False
+2025-07-10,2025-07-08,NXDT,Nexpoint Diversified Real Estate Trust,Laffer Arthur B,Dir,P - Purchase,4.84,10500,199111,+6%,50820,False
+2025-07-09,2025-07-08,GEF,"Greif, Inc",Hilsheimer Lawrence A.,"EVP, CFO",P - Purchase,72.51,925,268265,0%,67073,False
+2025-07-07,2025-07-07,CMTV,Community Bancorp /Vt,Moore Jeffrey Lee,Dir,P - Purchase,20.05,3662,21090,+21%,73423,False
+2025-07-07,2025-07-02,HURC,Hurco Companies Inc,Doar Michael,Exec COB,P - Purchase,20.40,3000,226460,+1%,61196,False
+2025-07-02,2025-06-30,NYC,American Strategic Investment Co.,Schorsch Nicholas S,10%,P - Purchase,14.12,4920,1562159,0%,69475,False
+2025-07-02,2025-06-30,XOMA,Xoma Royalty Corp,Sitko Bradley,Chief Investment Officer,P - Purchase,25.39,2000,25029,+9%,50780,False
+2025-07-02,2025-06-30,FGBI,"First Guaranty Bancshares, Inc.",Walker Robert W,Dir,P - Purchase,8.10,8000,18000,+80%,64800,True
+2025-07-01,2025-06-26,INTG,Intergroup Corp,Winfield John V,"Pres, CEO, 10%",P - Purchase,14.37,3700,1456879,0%,53158,True
+2025-07-01,2025-06-30,SPG,Simon Property Group Inc /De/,Smith Daniel C.,Dir,P - Purchase,159.29,378,31998,+1%,60212,True
+2025-07-01,2025-06-30,SPG,Simon Property Group Inc /De/,Leibowitz Reuben S,Dir,P - Purchase,159.29,522,69595,+1%,83149,True
+2025-07-01,2025-06-30,SPG,Simon Property Group Inc /De/,Glasscock Larry C,Dir,P - Purchase,159.29,396,43185,+1%,63079,True
+2025-07-01,2025-06-30,PRME,"Prime Medicine, Inc.",Liu David R.,10%,P - Purchase,2.52,21000,20240945,0%,52830,False
+2025-06-30,2025-06-27,PLAB,Photronics Inc,Garcia David A.,Dir,P - Purchase,19.00,2650,10198,+35%,50350,False
+2025-06-26,2025-06-24,NAMS,Newamsterdam Pharma Co N.V.,Topper James N,Dir,P - Purchase,18.38,3780,6827133,0%,69466,False
+2025-06-26,2025-06-25,CME,Cme Group Inc.,Shepard William R,Dir,P - Purchase,270.53,267,260651,0%,72336,False
+2025-06-26,2025-06-26,CTO,"Cto Realty Growth, Inc.",Albright John P,"Pres, CEO",P - Purchase,17.05,3800,628702,+1%,64808,False
+2025-06-25,2025-06-23,DLHC,Dlh Holdings Corp.,Mink Brook Asset Management LLC,10%,P - Purchase,5.49,11248,2313685,0%,61743,False
+2025-06-25,2025-06-13,IBCP,Independent Bank Corp /Mi/,Beia Terance L,Dir,P - Purchase,30.65,1821,40001,+5%,55814,False
+2025-06-23,2025-06-20,RRGB,Red Robin Gourmet Burgers Inc,Ackil Anthony S,Dir,P - Purchase,5.03,14910,103802,+17%,74997,False
+2025-06-23,2025-06-18,IMRX,Immuneering Corp,Feinberg Peter,Dir,P - Purchase,2.53,25000,1121064,+2%,63188,True
+2025-06-20,2025-06-20,FRHC,Freedom Holding Corp.,Tashtitov Askar,Pres,P - Purchase,140.75,600,137208,0%,84450,True
+2025-06-20,2025-06-18,DLTR,"Dollar Tree, Inc.",Maheshwari Aditya,Chief Accounting Officer,P - Purchase,98.20,610,4841,+14%,59899,False
+2025-06-20,2025-06-18,IMRX,Immuneering Corp,Zeskind Benjamin J.,"Pres, CEO, 10%",P - Purchase,2.39,21000,3197779,+1%,50144,True
+2025-06-18,2025-06-16,NUVB,Nuvation Bio Inc.,Wentworth Kerry,Chief Regulatory Officer,P - Purchase,1.79,50000,50000,New,89740,True
+2025-06-18,2025-06-17,CIA,"Citizens, Inc.",Stenberg Jon,"Pres, CEO",P - Purchase,3.33,19914,328143,+6%,66407,False
+2025-06-18,2025-06-18,ENRT,Enertopia Corp.,McAllister Robert,"Pres  CEO, 10%",P - Purchase,0.10,500000,1457750,+52%,50000,False
+2025-06-18,2025-06-17,IMRX,Immuneering Corp,Schall Thomas J.,Dir,P - Purchase,2.21,40485,43385,>999%,89278,True
+2025-06-17,2025-06-13,MLP,Maui Land & Pineapple Co Inc,Case Stephen M,"Dir, 10%",P - Purchase,17.43,3339,11988872,0%,58199,False
+2025-06-17,2025-06-16,SUNS,"Sunrise Realty Trust, Inc.",Tannenbaum Leonard M,"Exec COB, 10%",P - Purchase,10.86,6000,3381805,0%,65160,False
+2025-06-16,2025-06-16,PAYS,"Paysign, Inc.",Henry Daniel R,Dir,P - Purchase,4.96,10084,129884,+8%,50000,False
+2025-06-16,2025-06-13,TERN,"Terns Pharmaceuticals, Inc.",Gengos Andrew,CFO,P - Purchase,3.81,15000,15000,New,57083,True
+2025-06-16,2025-06-13,BARK,"Bark, Inc.",Ibrahim Zahir,CFO,P - Purchase,0.86,58823,3548925,+2%,50523,False
+2025-06-16,2025-06-12,BRT,Brt Apartments Corp.,Gould Investors L P,10%,P - Purchase,15.93,5000,3979170,0%,79670,True
+2025-06-16,2025-06-12,BRT,Brt Apartments Corp.,Gould Jeffrey,"Pres, CEO",P - Purchase,15.93,5000,4559829,0%,79670,True
+2025-06-16,2025-06-12,BRT,Brt Apartments Corp.,Gould Matthew J,SVP,P - Purchase,15.93,5000,4550727,0%,79670,True
+2025-06-16,2025-06-13,ARAY,Accuray Inc,Whitters Joseph E,Dir,P - Purchase,1.25,50000,611053,+9%,62335,False
+2025-06-16,2025-06-13,BLNE,"Beeline Holdings, Inc.",Liuzza Nicholas Reyland Jr,"CEO, 10%",P - Purchase,0.66,113500,2105264,+6%,74914,False
+2025-06-16,2025-06-12,SNRG,Susglobal Energy Corp.,Hazout Marc,"Exec. COB, Pres, CEO, 10%",P - Purchase,0.02,2500000,41725742,+6%,50000,False
+2025-06-16,2025-06-10,STKL,Sunopta Inc.,Kocher Brian W,CEO,P - Purchase,5.72,10000,181792,+6%,57194,False
+2025-06-16,2025-06-13,BCBP,Bcb Bancorp Inc,Hogan Mark D,Dir,P - Purchase,7.74,10000,721480,+1%,77441,False
+2025-06-13,2025-06-13,CHYM,"Chime Financial, Inc.",Marshall Cynthia,Dir,P - Purchase,27.00,2250,65542,+4%,60750,False
+2025-06-13,2025-06-12,SST,"System1, Inc.",Civantos John,Dir,P - Purchase,3.89,18842,49455,+62%,73295,False
+2025-06-13,2025-06-13,ULBI,Ultralife Corp,Whitmore Bradford T,"Dir, 10%",P - Purchase,7.64,10000,6246881,0%,76392,False
+2025-06-13,2025-06-12,BUSE,First Busey Corp /Nv/,Caple Steven W,Dir,P - Purchase,22.40,3385,8344,+68%,75820,True
+2025-06-13,2025-06-13,BY,"Byline Bancorp, Inc.",Herseth Mary Jo S.,Dir,P - Purchase,25.33,2000,18500,+12%,50654,True
+2025-06-13,2025-06-13,STRZ,Starz Entertainment Corp /Cn/,Mann Bruce,Dir,P - Purchase,16.77,5000,5000,New,83850,True
+2025-06-13,2025-06-10,STKL,Sunopta Inc.,Kocher Brian W,CEO,P - Purchase,5.72,10000,84000,+14%,57194,False
+2025-06-12,2025-06-10,STKL,Sunopta Inc.,Kocher Brian W,CEO,P - Purchase,5.72,10000,10000,New,57194,False
+2025-06-12,2025-06-12,INUV,"Inuvo, Inc.",Howe Richard K,"COB, CEO",P - Purchase,3.65,15000,455991,+3%,54690,False
+2025-06-12,2025-06-10,BBSI,Barrett Business Services Inc,Finn Mark Steven,Dir,P - Purchase,42.20,2000,13850,+17%,84393,False
+2025-06-12,2025-06-11,BY,"Byline Bancorp, Inc.",Cabrera Phillip R.,Dir,P - Purchase,24.75,2360,19831,+14%,58410,True
+2025-06-11,2025-06-10,VREO,Vireo Growth Inc.,"Chicago Atlantic Opportunity Portfolio, LP",10%,P - Purchase,0.40,169600,111482755,0%,67991,False
+2025-06-11,2025-06-11,VSH,Vishay Intertechnology Inc,Cody Michael J,Dir,P - Purchase,16.12,3500,60169,+6%,56420,False
+2025-06-11,2025-06-09,HRTG,"Heritage Insurance Holdings, Inc.",Whiting Paul L,Dir,P - Purchase,22.36,2500,142947,+2%,55900,False
+2025-06-11,2025-06-09,SPWH,"Sportsman'S Warehouse Holdings, Inc.",Stone Paul,"Pres, CEO",P - Purchase,3.13,24002,1037323,+2%,75006,True
+2025-06-10,2025-06-09,CNTX,Context Therapeutics Inc.,Lehr Martin A.,CEO,P - Purchase,0.70,100000,1079891,+10%,70080,False
+2025-06-09,2025-06-05,BRT,Brt Apartments Corp.,Gould Jeffrey,"Pres, CEO",P - Purchase,15.93,3626,4554829,0%,57753,True
+2025-06-09,2025-06-05,BRT,Brt Apartments Corp.,Gould Investors L P,10%,P - Purchase,15.93,3626,3974170,0%,57753,True
+2025-06-09,2025-06-05,BRT,Brt Apartments Corp.,Gould Matthew J,SVP,P - Purchase,15.93,3626,4545727,0%,57753,True
+2025-06-09,2025-06-05,OVBC,Ohio Valley Banc Corp,Roberts Edward Bryant,Dir,P - Purchase,31.56,2500,5693,+78%,78908,False
+2025-06-09,2025-06-06,UEIC,Universal Electronics Inc,Chahil Satjiv S,Dir,P - Purchase,6.78,8935,150000,+6%,60579,True
+2025-06-09,2025-06-06,EFSC,Enterprise Financial Services Corp,Finn Michael E,Dir,P - Purchase,52.50,1500,2861,+110%,78748,False
+2025-06-06,2025-06-06,AWR,American States Water Co,Eichelberger Thomas A.,Dir,P - Purchase,76.81,897,8467,+12%,68899,False
+2025-06-06,2025-06-05,IOVA,"Iovance Biotherapeutics, Inc.",Kirby Daniel Gordon,Chief Commercial Officer,P - Purchase,1.84,30000,30000,New,55200,False
+2025-06-06,2025-06-05,MG,"Mistras Group, Inc.",Stamatakis Manuel N.,Exec COB,P - Purchase,7.71,10000,384299,+3%,77100,False
+2025-06-05,2025-06-05,LUNG,Pulmonx Corp,Florin Daniel P,Dir,P - Purchase,3.06,23321,117231,+25%,71362,False
+2025-06-05,2025-06-03,MAIA,"Maia Biotechnology, Inc.",Smith Stan,Dir,P - Purchase,1.50,33333,1305059,+3%,50000,False
+2025-06-05,2025-06-04,IMUX,"Immunic, Inc.",Neermann Joerg,Dir,P - Purchase,0.77,100000,200000,+100%,76700,True
+2025-06-05,2025-05-06,IOR,Income Opportunity Realty Investors Inc /Tx/,Transcontinental Realty Investors Inc,10%,P - Purchase,17.80,3041,3435222,0%,54134,False
+2025-06-05,2025-06-03,BPRN,"Princeton Bancorp, Inc.",Tuchman Martin,"Dir, 10%",P - Purchase,30.42,2423,743935,0%,73702,False
+2025-06-04,2025-06-02,CREX,"Creative Realities, Inc.",Mills Richard C,CEO,P - Purchase,3.26,16000,331926,+5%,52182,False
+2025-06-04,2025-06-02,MLP,Maui Land & Pineapple Co Inc,Case Stephen M,"Dir, 10%",P - Purchase,15.82,3390,11983236,0%,53621,False
+2025-06-04,2025-06-02,CDTX,"Cidara Therapeutics, Inc.",Mineo Chrysa,Dir,P - Purchase,22.26,3320,3320,New,73896,False
+2025-06-04,2025-06-02,VREO,Vireo Growth Inc.,"Chicago Atlantic Opportunity Portfolio, LP",10%,P - Purchase,0.40,182700,111200655,0%,72962,False
+2025-06-03,2025-06-03,BBSI,Barrett Business Services Inc,Finn Mark Steven,Dir,P - Purchase,41.78,2000,11850,+20%,83560,False
+2025-06-03,2025-06-02,UEIC,Universal Electronics Inc,Singer Eric,"Dir, 10%",P - Purchase,6.65,8890,1605944,+1%,59114,True
+2025-06-03,2025-06-03,WEN,Wendy'S Co,Radkoski Lindsay J.,"CMO, U.S.",P - Purchase,11.68,5050,28956,+21%,58984,False
+2025-06-03,2025-05-30,MATV,"Mativ Holdings, Inc.",Levi Marco,Dir,P - Purchase,5.78,10000,44732,+29%,57800,True
+2025-06-02,2025-05-30,EML,Eastern Co,Disanto Frederick D.,Dir,P - Purchase,22.54,3923,130813,+3%,88431,False
+2025-06-02,2025-05-30,BUSE,First Busey Corp /Nv/,Jensen Karen M,Dir,P - Purchase,22.00,4000,76068,+6%,88000,True
+2025-06-02,2025-05-30,ILPT,Industrial Logistics Properties Trust,Morea Joseph,Dir,P - Purchase,3.31,20000,112191,+22%,66228,False
+2025-05-30,2025-05-29,MATV,"Mativ Holdings, Inc.",Ritrievi Kimberly E,Dir,P - Purchase,5.88,10000,30640,+48%,58800,True
+2025-05-30,2025-05-28,WSR,Whitestone Reit,Miller Donald A,Dir,P - Purchase,12.35,5000,21708,+30%,61750,False
+2025-05-30,2025-05-21,BDL,Flanigans Enterprises Inc,Bucci August,COO,P - Purchase,26.73,2000,4600,+77%,53460,True
+2025-05-30,2025-05-29,BHRB,Burke & Herbert Financial Services Corp.,McLaughlin Shawn Patrick,Dir,P - Purchase,56.25,1000,67000,+2%,56250,True
+2025-05-30,2025-05-28,BLSK,"Bolt Projects Holdings, Inc.",Befumo Randy,INTERIM CFO,P - Purchase,2.28,29500,51763,+133%,67260,False
+2025-05-29,2025-05-28,STC,Stewart Information Services Corp,Bradley C Allen Jr,Dir,P - Purchase,59.63,1000,20243,+5%,59633,False
+2025-05-29,2025-05-23,BATRA,"Atlanta Braves Holdings, Inc.",Gabelli Mario J,10%,P - Purchase,43.45,2000,135252,+2%,86900,False
+2025-05-28,2025-05-14,PAYS,"Paysign, Inc.",Henry Daniel R,Dir,P - Purchase,3.42,19800,99800,+25%,67716,False
+2025-05-28,2025-05-23,TTSH,"Tile Shop Holdings, Inc.","Fund 1 Investments, LLC",10%,P - Purchase,5.84,11254,12833936,0%,65731,False
+2025-05-28,2025-05-27,PEB,Pebblebrook Hotel Trust,Bortz Jon E,"COB, CEO",P - Purchase,9.00,6000,1802110,0%,54000,True
+2025-05-28,2025-05-23,CE,Celanese Corp,Murray Mark Christopher,SVP - Acetyls,P - Purchase,52.18,1479,15468,+11%,77174,False
+2025-05-28,2025-05-23,ULBI,Ultralife Corp,Whitmore Bradford T,"Dir, 10%",P - Purchase,5.41,11980,6236881,0%,64778,False
+2025-05-28,2025-05-23,NWTG,"Newton Golf Company, Inc.",Hoge Brett Widney,Dir,P - Purchase,1.73,40579,97612,+71%,70013,False
+2025-05-27,2025-05-22,COCH,"Envoy Medical, Inc.",Brynelsen Charles,Dir,P - Purchase,1.65,50000,50000,New,82403,False
+2025-05-27,2025-05-27,FLO,Flowers Foods Inc,McFadden William Jameson,Dir,P - Purchase,16.92,3000,534017,+1%,50760,True
+2025-05-27,2025-05-22,PROP,Prairie Operating Co.,Kovalik Edward,CEO,P - Purchase,3.62,13840,1339055,+1%,50119,True
+2025-05-27,2025-05-23,OPAL,Opal Fuels Inc.,Maurer Jonathan Gilbert,Co-CEO,P - Purchase,2.74,25000,176716,+16%,68500,True
+2025-05-27,2025-05-22,ABR,Arbor Realty Trust Inc,Elenio Paul,CFO,P - Purchase,8.48,10000,334641,+3%,84750,True
+2025-05-27,2025-05-23,GCTS,"Gct Semiconductor Holding, Inc.",Shin Hyunsoo,Class II Dir,P - Purchase,1.04,77000,247248,+45%,80080,False
+2025-05-27,2025-05-23,SEI,"Solaris Energy Infrastructure, Inc.",Teague Aj,Dir,P - Purchase,26.75,2000,104459,+2%,53500,True
+2025-05-27,2025-05-27,FLO,Flowers Foods Inc,Chubb Thomas Caldecot III,Dir,P - Purchase,16.88,3000,45861,+7%,50640,True
+2025-05-27,2025-05-23,BCBP,Bcb Bancorp Inc,Hogan Mark D,Dir,P - Purchase,8.04,10000,711480,+1%,80380,False
+2025-05-23,2025-05-13,INN,"Summit Hotel Properties, Inc.",Storey Thomas W.,Dir,P - Purchase,4.62,16270,231337,+8%,75167,False
+2025-05-23,2025-05-22,PHIN,Phinia Inc.,Walsh Meggan M.,Dir,P - Purchase,42.71,1400,7492,+23%,59795,False
+2025-05-23,2025-05-21,ADV,Advantage Solutions Inc.,Kilts James M,Dir,P - Purchase,1.20,60059,1079944,+6%,71879,True
+2025-05-23,2025-05-23,PEB,Pebblebrook Hotel Trust,Jackson Ron E.,Dir,P - Purchase,8.91,10000,106898,+10%,89100,True
+2025-05-23,2025-05-22,HCC,"Warrior Met Coal, Inc.",Richardson Jack K.,COO,P - Purchase,46.43,1815,188933,+1%,84270,False
+2025-05-23,2025-05-12,FGBI,"First Guaranty Bancshares, Inc.",Smith Edgar R. III,Dir,P - Purchase,9.66,6725,2718824,0%,64964,False
+2025-05-23,2025-05-21,ARQT,"Arcutis Biotherapeutics, Inc.",Heron Patrick J,Dir,P - Purchase,13.66,5040,8850339,0%,68821,False
+2025-05-23,2025-05-22,COSM,Cosmos Health Inc.,Siokas Grigorios,"CEO, 10%",P - Purchase,0.44,141825,6124880,+2%,62800,False
+2025-05-23,2025-05-22,ROLR,"High Roller Technologies, Inc.",Eachus Brandon Christopher,"Dir, 10%",P - Purchase,2.00,25000,3389751,+1%,50000,False
+2025-05-23,2025-05-21,MRP,"Millrose Properties, Inc.",Pasha Adil,CTO,P - Purchase,28.34,2500,2500,New,70855,True
+2025-05-22,2025-05-22,KINS,"Kingstone Companies, Inc.",Golden Meryl S.,"CEO, Pres",P - Purchase,15.93,5000,252747,+2%,79650,True
+2025-05-22,2025-05-21,PRPO,"Precipio, Inc.",Sandberg Richard A,Dir,P - Purchase,9.27,8035,73350,+12%,74474,False
+2025-05-22,2025-05-21,SDHC,Smith Douglas Homes Corp.,Devendorf Russell,See Remarks,P - Purchase,16.80,3000,299952,+1%,50389,True
+2025-05-22,2025-05-21,OPAL,Opal Fuels Inc.,Comora Adam,Co-CEO,P - Purchase,2.49,25000,206417,+14%,62334,True
+2025-05-22,2025-05-21,COSM,Cosmos Health Inc.,Siokas Grigorios,"CEO, 10%",P - Purchase,0.47,174172,5983055,+3%,82000,False
+2025-05-21,2025-05-21,GROV,"Grove Collaborative Holdings, Inc.",Replogle John B,Dir,P - Purchase,1.18,42735,497912,+9%,50423,False
+2025-05-21,2025-05-19,CC,Chemours Co,Hostetter Shane,CFO,P - Purchase,11.28,4450,59694,+8%,50196,True
+2025-05-21,2025-05-20,EML,Eastern Co,Disanto Frederick D.,Dir,P - Purchase,23.37,2396,128890,+2%,55994,False
+2025-05-21,2025-05-19,FPI,Farmland Partners Inc.,Sherrick Bruce J,Dir,P - Purchase,10.47,7000,24000,+41%,73290,False
+2025-05-21,2025-05-19,AEON,"Aeon Biopharma, Inc.",Fischer Jost,Dir,P - Purchase,0.50,110000,206785,+114%,55300,False
+2025-05-21,2025-05-19,ADV,Advantage Solutions Inc.,Kilts James M,Dir,P - Purchase,1.25,52862,1019885,+5%,66029,True
+2025-05-21,2025-05-19,NWTG,"Newton Golf Company, Inc.",Hoge Brett Widney,Dir,P - Purchase,1.78,30000,57033,+111%,53475,False
+2025-05-21,2025-05-16,OPAL,Opal Fuels Inc.,Nisar Nadeem,Dir,P - Purchase,2.55,25000,111712,+29%,63750,True
+2025-05-21,2025-05-20,PFBX,Peoples Financial Corp /Ms/,Stilwell Joseph,10%,P - Purchase,19.51,2997,676701,0%,58461,False
+2025-05-21,2025-05-20,COSM,Cosmos Health Inc.,Siokas Grigorios,"CEO, 10%",P - Purchase,0.45,147563,5808883,+3%,65961,False
+2025-05-20,2025-05-20,PSQH,"Psq Holdings, Inc.",Langston Willie,Dir,P - Purchase,1.95,27000,274776,+11%,52704,False
+2025-05-20,2025-05-16,RLMD,"Relmada Therapeutics, Inc.",Kelly Paul Edward,COO,P - Purchase,0.43,200000,412295,+94%,86060,True
+2025-05-20,2025-05-19,SELF,"Global Self Storage, Inc.",Winmill Mark Campbell,"Pres, CEO",P - Purchase,5.67,10000,322838,+3%,56700,True
+2025-05-20,2025-05-16,HCWB,Hcw Biologics Inc.,Wong Hing C,"CEO, 10%",P - Purchase,7.45,8054,501911,+2%,60002,True
+2025-05-20,2025-05-16,ARQ,"Arq, Inc.",Wong Joseph M,CTO,P - Purchase,4.61,16000,370790,+5%,73760,True
+2025-05-20,2025-05-16,TCBI,Texas Capital Bancshares Inc/Tx,Stallings Robert W,Dir,P - Purchase,19.92,4500,754000,+1%,89635,False
+2025-05-20,2025-05-19,IFF,International Flavors & Fragrances Inc,Palau Hernandez Margarita,Dir,P - Purchase,77.42,850,2393,+55%,65807,True
+2025-05-19,2025-05-15,VISL,"Vislink Technologies, Inc.","Hale Capital Partners, LP",10%,P - Purchase,2.51,20500,416503,+5%,51455,False
+2025-05-19,2025-05-19,MODG,Topgolf Callaway Brands Corp.,Hickey Glenn F.,"EVP, Pres, Callaway Golf",P - Purchase,6.86,10000,93367,+12%,68600,True
+2025-05-19,2025-05-15,CVRX,"Cvrx, Inc.",Nielsen Kirk G.,Dir,P - Purchase,5.45,10966,1910134,+1%,59795,False
+2025-05-19,2025-05-15,UDMY,"Udemy, Inc.",Sarrazin Hugo,"Pres, CEO",P - Purchase,6.98,7200,1072655,+1%,50282,False
+2025-05-19,2025-05-16,VNDA,Vanda Pharmaceuticals Inc.,Polymeropoulos Mihael Hristos,"Pres, CEO",P - Purchase,4.22,20000,2315731,+1%,84472,False
+2025-05-19,2025-05-15,OXBR,Oxbridge Re Holdings Ltd,Madhu Sanjay,"CEO, Pres",P - Purchase,2.10,25000,482410,+5%,52508,False
+2025-05-19,2025-05-15,MASS,908 Devices Inc.,Knopp Kevin J.,"Pres, CEO",P - Purchase,4.44,15000,1263956,+1%,66596,False
+2025-05-19,2025-05-14,TARA,"Protara Therapeutics, Inc.",Levy Richard S,Dir,P - Purchase,3.19,20000,51000,+65%,63800,False
+2025-05-19,2025-05-16,EYPT,"Eyepoint Pharmaceuticals, Inc.",Zaderej Karen L.,Dir,P - Purchase,5.90,10000,36500,+38%,59000,False
+2025-05-16,2025-05-14,HTLD,Heartland Express Inc,Pratt James G,Dir,P - Purchase,8.96,6571,30000,+28%,58876,True
+2025-05-16,2025-05-15,GPMT,Granite Point Mortgage Trust Inc.,Halter Patrick Gregory,Dir,P - Purchase,2.38,29000,63001,+85%,69020,True
+2025-05-16,2025-05-14,BRT,Brt Apartments Corp.,Gould Investors L P,10%,P - Purchase,15.05,5000,3929184,0%,75250,True
+2025-05-16,2025-05-14,DLHC,Dlh Holdings Corp.,Mink Brook Asset Management LLC,10%,P - Purchase,4.86,14851,2111234,+1%,72222,False
+2025-05-16,2025-05-15,SWIM,"Latham Group, Inc.",Gloe Oliver C.,CFO,P - Purchase,6.10,13500,466630,+3%,82350,False
+2025-05-16,2025-05-14,TARA,"Protara Therapeutics, Inc.",Levy Richard S,Dir,P - Purchase,3.19,20000,51000,+65%,63800,False
+2025-05-16,2025-05-14,SNRG,Susglobal Energy Corp.,Hazout Marc,"Exec. COB, Pres, CEO, 10%",P - Purchase,0.02,2500000,39225742,+7%,50000,False
+2025-05-16,2025-05-14,ACNT,Ascent Industries Co.,Pan Anthony X,"VP, Sales, Bus. Development",P - Purchase,11.66,5400,17263,+46%,62990,False
+2025-05-16,2025-05-15,RVP,Retractable Technologies Inc,Shaw Thomas J,"Pres, CEO, 10%",P - Purchase,0.75,86014,16208394,+1%,64846,False
+2025-05-15,2025-05-13,APUS,"Apimeds Pharmaceuticals Us, Inc.",Kim Christopher,"COB, CMO",P - Purchase,1.83,27500,27500,New,50359,True
+2025-05-15,2025-05-15,TNXP,Tonix Pharmaceuticals Holding Corp.,Lederman Seth,CEO,P - Purchase,21.55,4000,4007,>999%,86200,False
+2025-05-15,2025-05-13,ERII,"Energy Recovery, Inc.",Moon David W,"Pres, CEO",P - Purchase,12.20,4200,205367,+2%,51240,True
+2025-05-15,2025-05-14,ERII,"Energy Recovery, Inc.",Tondreau Pamela L.,Dir,P - Purchase,12.28,4200,41043,+11%,51570,True
+2025-05-15,2025-05-13,ARQ,"Arq, Inc.",Rasmus Robert E.,CEO,P - Purchase,3.94,15456,1004279,+2%,60947,True
+2025-05-15,2025-05-14,ADV,Advantage Solutions Inc.,Peacock David A,CEO,P - Purchase,1.15,75000,3558533,+2%,86123,True
+2025-05-15,2025-05-13,BNL,"Broadstone Net Lease, Inc.",Imperiale Richard P,Dir,P - Purchase,15.86,5000,16263,+44%,79275,True
+2025-05-15,2025-05-14,EYPT,"Eyepoint Pharmaceuticals, Inc.",Zaderej Karen L.,Dir,P - Purchase,5.45,10000,26500,+61%,54450,False
+2025-05-14,2025-05-12,APUS,"Apimeds Pharmaceuticals Us, Inc.",Koo Jakap,Dir,P - Purchase,1.99,28500,643885,+5%,56715,True
+2025-05-14,2025-05-13,PSQH,"Psq Holdings, Inc.",Langston Willie,Dir,P - Purchase,2.05,25000,247776,+11%,51200,False
+2025-05-14,2025-05-14,MASS,908 Devices Inc.,Knopp Kevin J.,"Pres, CEO",P - Purchase,4.32,15000,1248956,+1%,64788,False
+2025-05-14,2025-05-13,G,Genpact Ltd,Gangestad Nicholas C,Dir,P - Purchase,43.97,2000,2000,New,87940,False
+2025-05-14,2025-05-12,TCBI,Texas Capital Bancshares Inc/Tx,Stallings Robert W,Dir,P - Purchase,20.05,4200,749500,+1%,84210,False
+2025-05-14,2025-05-13,SNBR,Sleep Number Corp,Eyler Phillip,Dir,P - Purchase,9.03,8300,20972,+65%,74942,True
+2025-05-13,2025-05-13,FLL,Full House Resorts Inc,Green Eric J,Dir,P - Purchase,3.40,25000,206952,+14%,85028,False
+2025-05-13,2025-05-12,APO,"Apollo Global Management, Inc.",Richards Pauline,Dir,P - Purchase,141.95,550,86404,+1%,78071,False
+2025-05-13,2025-05-09,ARQT,"Arcutis Biotherapeutics, Inc.",Heron Patrick J,Dir,P - Purchase,13.60,6300,8834105,0%,85691,False
+2025-05-13,2025-05-12,NEWT,"Newtekone, Inc.",Salute Richard J,Dir,P - Purchase,11.07,5000,39222,+15%,55338,True
+2025-05-12,2025-05-08,OCUL,"Ocular Therapeutix, Inc",Lindstrom Richard L Md,Dir,P - Purchase,6.96,10000,172704,+6%,69600,False
+2025-05-12,2025-05-08,ENRT,Enertopia Corp.,McAllister Robert,"Pres  CEO, 10%",P - Purchase,0.10,500000,957750,+109%,50000,False
+2025-05-12,2025-05-08,VSTS,Vestis Corp,Seward William J.,"EVP, COO",P - Purchase,6.23,10000,130862,+8%,62299,True
+2025-05-12,2025-05-08,MVBF,Mvb Financial Corp,Rodriguez Joseph Ryan,Chief Risk Officer,P - Purchase,18.00,4125,4125,New,74250,False
+2025-05-12,2025-05-09,OFIX,Orthofix Medical Inc.,Bazaar Alan Lee,Dir,P - Purchase,12.60,3990,28733,+16%,50292,True
+2025-05-12,2025-05-08,BNL,"Broadstone Net Lease, Inc.",Imperiale Richard P,Dir,P - Purchase,16.31,5000,11263,+80%,81562,True
+2025-05-12,2025-05-12,PENN,"Penn Entertainment, Inc.",Rogers Christopher Byron,See Remarks,P - Purchase,16.00,3737,91217,+4%,59792,True
+2025-05-12,2025-05-09,ENR,"Energizer Holdings, Inc.",Lavigne Mark Stephen,"Pres, CEO",P - Purchase,21.67,4000,277645,+1%,86680,True
+2025-05-09,2025-05-07,PRAA,Pra Group Inc,Paschke Brett Lee,Dir,P - Purchase,13.39,5000,42306,+13%,66950,True
+2025-05-09,2025-05-08,HCWB,Hcw Biologics Inc.,Winer Gary M,Dir,P - Purchase,26.00,2308,2733,+543%,60008,True
+2025-05-09,2025-05-09,NEO,Neogenomics Inc,Tetrault Lynn A.,Dir,P - Purchase,8.14,7000,68398,+11%,56974,True
+2025-05-09,2025-05-07,ONEW,Onewater Marine Inc.,Roy J Steven,Dir,P - Purchase,12.22,5001,25761,+24%,61112,True
+2025-05-09,2025-05-07,FSUN,Firstsun Capital Bancorp,Fleshood John,Dir,P - Purchase,35.38,2000,3803,+111%,70750,False
+2025-05-09,2025-05-07,SNBR,Sleep Number Corp,Lee Francis K,"EVP, CFO",P - Purchase,7.12,7200,92970,+8%,51263,True
+2025-05-09,2025-05-07,TROX,Tronox Holdings Plc,Neuman Jeffrey N,"SVP, GC, Sec.",P - Purchase,4.89,10266,320591,+3%,50196,False
+2025-05-08,2025-05-06,FNMA,Federal National Mortgage Association Fannie Mae,Stucky Michael,Dir,P - Purchase,6.41,8000,0,-100%,51280,False
+2025-05-08,2025-05-07,THRY,"Thryv Holdings, Inc.",Walsh Joe,"COB, CEO",P - Purchase,13.40,5000,2211249,0%,67000,False
+2025-05-08,2025-05-07,REYN,Reynolds Consumer Products Inc.,Stangl Rolf,Dir,P - Purchase,22.75,2500,21889,+13%,56875,False
+2025-05-08,2025-05-06,CCO,"Clear Channel Outdoor Holdings, Inc.",Wells Scott,CEO,P - Purchase,1.08,50000,3432205,+1%,54000,True
+2025-05-08,2025-05-07,CFFN,"Capitol Federal Financial, Inc.",Jackson Rick C,EVP,P - Purchase,5.69,15000,230107,+7%,85350,True
+2025-05-08,2025-05-06,RGR,Sturm Ruger & Co Inc,Lowney Timothy,VP of Operations,P - Purchase,33.37,2200,8874,+33%,73414,True
+2025-05-07,2025-04-03,FF,Futurefuel Corp.,Rowe Richard P.,Dir,P - Purchase,3.95,15000,20000,+300%,59250,False
+2025-05-07,2025-05-05,MMLP,Martin Midstream Partners L.P.,Martin Product Sales LLC,10%,P - Purchase,2.98,26600,1499280,+2%,79392,False
+2025-05-07,2025-05-06,REYN,Reynolds Consumer Products Inc.,Stangl Rolf,Dir,P - Purchase,23.22,2500,19389,+15%,58050,False
+2025-05-07,2025-05-05,NEO,Neogenomics Inc,Perez David Brian,Dir,P - Purchase,7.63,10000,31636,+46%,76300,True
+2025-05-07,2025-05-07,BHRB,Burke & Herbert Financial Services Corp.,McLaughlin Shawn Patrick,Dir,P - Purchase,56.50,1000,65000,+2%,56500,True
+2025-05-07,2025-05-06,OGN,Organon & Co.,Weaver Kirke,"Gen. Counsel, Corp. Secy.",P - Purchase,9.21,8045,52489,+18%,74054,True
+2025-05-07,2025-05-05,BPRN,"Princeton Bancorp, Inc.",Tuchman Martin,"Dir, 10%",P - Purchase,31.11,2473,735723,0%,76945,False
+2025-05-06,2025-05-05,UTZ,"Utz Brands, Inc.",Whyte Chad,"EVP, Supply Chain",P - Purchase,11.96,5000,58717,+9%,59815,True
+2025-05-06,2025-05-06,HL,Hecla Mining Co/De/,Krcmarov Robert,"Pres, CEO",P - Purchase,4.72,14867,346453,+4%,70108,True
+2025-05-06,2025-05-05,LXU,"Lsb Industries, Inc.",Chandler John D,Dir,P - Purchase,6.57,8000,8000,New,52560,False
+2025-05-06,2025-05-06,BNL,"Broadstone Net Lease, Inc.",Fennell Kevin,"EVP, CFO, Treasurer",P - Purchase,15.87,5000,178429,+3%,79350,True
+2025-05-06,2025-05-05,BNL,"Broadstone Net Lease, Inc.",Watters James H,Dir,P - Purchase,16.06,4000,122362,+3%,64220,True
+2025-05-05,2025-05-05,UTZ,"Utz Brands, Inc.",Brown Timothy,Dir,P - Purchase,11.96,5000,67573,+8%,59785,True
+2025-05-05,2025-05-05,UTZ,"Utz Brands, Inc.",Friedman Howard A,CEO,P - Purchase,11.85,6350,272079,+2%,75257,True
+2025-05-05,2025-05-02,MTX,Minerals Technologies Inc,Johnson Kristina M,Dir,P - Purchase,53.79,1000,1400,+250%,53785,True
+2025-05-05,2025-05-01,MTDR,Matador Resources Co,Calvert Christopher P,"EVP, COO",P - Purchase,41.13,1500,121793,+1%,61695,True
+2025-05-02,2025-04-30,CHCT,Community Healthcare Trust Inc,Cotman Cathrine,Dir,P - Purchase,17.10,3000,27385,+12%,51300,True
+2025-05-02,2025-05-02,SHBI,Shore Bancshares Inc,Wayson Konrad,Dir,P - Purchase,14.25,5000,80974,+7%,71248,False
+2025-05-02,2025-05-01,DHIL,Diamond Hill Investment Group Inc,Cooley Richard Scott,Dir,P - Purchase,127.50,692,13427,+5%,88230,False
+2025-05-02,2025-05-01,MTDR,Matador Resources Co,Macalik Robert T,"EVP, Chief Accounting Officer",P - Purchase,40.50,1500,141305,+1%,60750,True
+2025-05-01,2025-04-30,MTDR,Matador Resources Co,Parker Timothy E.,Dir,P - Purchase,39.84,2000,85790,+2%,79680,True
+2025-05-01,2025-04-30,MTX,Minerals Technologies Inc,Aldag Erik,"SVP FINANCE, TREASURY, CFO",P - Purchase,50.37,1000,5110,+24%,50370,True
+2025-04-30,2025-04-28,BPRN,"Princeton Bancorp, Inc.",Tuchman Martin,Dir,P - Purchase,30.22,2000,732250,0%,60430,False
+2025-04-30,2025-04-28,CCO,"Clear Channel Outdoor Holdings, Inc.",Moreno Arturo R,10%,P - Purchase,1.02,83378,62227107,0%,85046,True
+2025-04-30,2025-03-31,FGBI,"First Guaranty Bancshares, Inc.",Walker Robert W,Dir,P - Purchase,8.47,6000,6000,New,50820,True
+2025-04-30,2025-04-29,TFIN,"Triumph Financial, Inc.",Barnes Harrison B.,Dir,P - Purchase,53.65,1000,34315,+3%,53650,True
+2025-04-29,2025-04-28,NA,Pismo Coast Village Inc,Pappi George Jr,"Pres of the Board, CEO",P - Purchase,58000.00,1,3,+50%,58000,False
+2025-04-29,2025-04-28,AVTR,"Avantor, Inc.",Kang Lan,Dir,P - Purchase,12.57,5000,35215,+17%,62850,True
+2025-04-29,2025-04-29,DOC,"Healthpeak Properties, Inc.",Lias-Booker Ava,Dir,P - Purchase,17.83,5000,35561,+16%,89150,True
+2025-04-29,2025-04-28,TCBX,"Third Coast Bancshares, Inc.",Bobbora William,See Remarks,P - Purchase,28.51,2400,58511,+4%,68424,True
+2025-04-29,2025-04-25,CDXS,"Codexis, Inc.",Opaleye Management Inc.,10%,P - Purchase,2.24,25000,9880000,0%,55915,False
+2025-04-29,2025-04-29,NBBK,"Nb Bancorp, Inc.",Orfanello Francis,Dir,P - Purchase,17.09,5000,137737,+4%,85450,False
+2025-04-28,2025-04-24,PMT,Pennymac Mortgage Investment Trust,Lynch Catherine A.,Dir,P - Purchase,12.12,4146,50522,+9%,50266,False
+2025-04-28,2025-04-28,DOC,"Healthpeak Properties, Inc.",Thomas John T,Dir,P - Purchase,17.84,4200,817840,+1%,74928,True
+2025-04-28,2025-04-25,JMSB,"John Marshall Bancorp, Inc.",Carstater Kent,CFO,P - Purchase,15.77,5000,48131,+12%,78864,False
+2025-04-28,2025-04-25,THRM,Gentherm Inc,Presley William T.,"Pres, CEO",P - Purchase,24.67,3000,161103,+2%,74010,True
+2025-04-28,2025-04-25,TFIN,"Triumph Financial, Inc.",Deadman Davis R,Dir,P - Purchase,53.50,1500,35720,+4%,80250,True
+2025-04-28,2025-04-25,CWBC,Community West Bancshares,Bartlein Robert,Dir,P - Purchase,17.18,3001,440877,+1%,51567,False
+2025-04-28,2025-04-28,QCRH,Qcr Holdings Inc,Helling Larry J,"CEO, QCRH, CRBT",P - Purchase,64.53,1000,102381,+1%,64528,False
+2025-04-28,2025-02-07,ZBIO,"Zenas Biopharma, Inc.",Xiao Ting,Dir,P - Purchase,7.76,10000,10000,New,77600,False
+2025-04-25,2025-04-24,KMX,Carmax Inc,Steenrod Mitchell D,Dir,P - Purchase,65.49,1300,33577,+4%,85137,False
+2025-04-25,2025-04-24,COSM,Cosmos Health Inc.,Siokas Grigorios,"CEO, 10%",P - Purchase,0.40,177234,5327448,+3%,71000,False
+2025-04-24,2025-04-23,TCBI,Texas Capital Bancshares Inc/Tx,Stallings Robert W,Dir,P - Purchase,35.93,1500,738000,0%,53900,False
+2025-04-24,2025-04-23,TFIN,"Triumph Financial, Inc.",Bradford Debra A,Dir,P - Purchase,49.39,1508,10014,+18%,74480,True
+2025-04-24,2025-04-23,COSM,Cosmos Health Inc.,Siokas Grigorios,"CEO, 10%",P - Purchase,0.40,205000,5150214,+4%,82000,False
+2025-04-23,2025-04-22,BYRN,Byrna Technologies Inc.,Rooney Emily,Dir,P - Purchase,20.50,2500,37564,+7%,51238,False
+2025-04-23,2025-04-21,CCO,"Clear Channel Outdoor Holdings, Inc.",Moreno Arturo R,10%,P - Purchase,0.96,83221,61499128,0%,79846,False
+2025-04-23,2025-04-11,AIM,Aim Immunotech Inc.,Equels Thomas K,"CEO, Pres",P - Purchase,0.03,1968504,3867533,+104%,50000,True
+2025-04-23,2025-04-11,AIM,Aim Immunotech Inc.,Kellner Ted D,Dir,P - Purchase,0.03,1968504,3720504,+112%,50000,True
+2025-04-23,2025-04-23,NEOG,Neogen Corp,Rocklin Amy M,GC,P - Purchase,4.99,12500,36287,+53%,62375,True
+2025-04-23,2025-04-22,COSM,Cosmos Health Inc.,Siokas Grigorios,"CEO, 10%",P - Purchase,0.36,175000,4945214,+4%,63000,False
+2025-04-21,2025-04-17,LCGMF,Lion Copper & Gold Corp.,Banning John,CEO,P - Purchase,0.11,578785,578785,New,63073,False
+2025-04-18,2025-02-28,LCTC,"Lifeloc Technologies, Inc",Siecke Donald E.,Dir,P - Purchase,3.80,16000,555352,+3%,60800,False
+2025-04-18,2025-04-16,PROK,Prokidney Corp.,Control Empresarial De Capitales S.A. De C.V.,"Add'l Rep. Persons-see Ex.99-1, 10%",P - Purchase,0.75,100000,73430330,0%,74820,False
+2025-04-17,2025-04-16,TTSH,"Tile Shop Holdings, Inc.","Fund 1 Investments, LLC",10%,P - Purchase,5.38,15000,12784033,0%,80655,False
+2025-04-17,2025-04-15,FIS,"Fidelity National Information Services, Inc.",Goldstein Jeffrey A,Dir,P - Purchase,72.04,844,11942,+8%,60802,False
+2025-04-15,2025-04-11,NYC,American Strategic Investment Co.,Schorsch Nicholas S,10%,P - Purchase,12.41,5141,1541517,0%,63797,False
+2025-04-15,2025-04-11,WDFC,Wd 40 Co,Hyzer Sara Kathleen,"VP, Finance, CFO",P - Purchase,222.83,256,4072,+7%,57044,False
+2025-04-15,2025-03-26,NBY,"Novabay Pharmaceuticals, Inc.",Poplar Point Capital Partners LP,10%,P - Purchase,0.60,123365,991569,+14%,74519,False
+2025-04-15,2025-02-03,NBY,"Novabay Pharmaceuticals, Inc.",Poplar Point Capital Partners LP,10%,P - Purchase,0.66,84487,705172,+14%,55527,False
+2025-04-15,2025-01-27,NBY,"Novabay Pharmaceuticals, Inc.",Poplar Point Capital Partners LP,10%,P - Purchase,0.66,102388,620685,+20%,67700,False
+2025-04-14,2025-04-08,NUTX,"Nutex Health, Inc.",Bates Jon Christian,CFO,P - Purchase,81.81,1000,4888,+26%,81810,False
+2025-04-10,2025-04-08,NYC,American Strategic Investment Co.,Schorsch Nicholas S,10%,P - Purchase,11.71,4983,1536376,0%,58350,False
+2025-04-10,2025-04-10,CVGW,Calavo Growers Inc,Snyder James E,CFO,P - Purchase,23.33,3213,5157,+165%,74959,True
+2025-04-10,2025-04-10,NEOG,Neogen Corp,Moylan John Patrick,Chief Accounting Officer,P - Purchase,5.07,10000,10000,New,50700,True
+2025-04-08,2025-04-07,RGP,"Resources Connection, Inc.",Patel Bhadreskumar,COO,P - Purchase,5.05,9900,128830,+8%,50003,True
+2025-04-08,2025-04-07,CNFR,"Conifer Holdings, Inc.",Sarafa Joseph D,Dir,P - Purchase,0.53,100000,350000,+40%,53000,False
+2025-04-08,2025-04-08,HUMA,"Humacyte, Inc.",Sebelius Kathleen,Dir,P - Purchase,1.32,50000,91207,+121%,66000,False
+2025-04-08,2025-03-18,ACUT,Accustem Sciences Inc.,Cerrone Gabriele M,"Dir, 10%",P - Purchase,0.51,152802,4872759,+3%,78291,False
+2025-04-07,2025-04-03,GDRZF,Gold Reserve Ltd,"Camac Capital, LLC",10%,P - Purchase,1.67,32475,20174758,0%,54321,False
+2025-04-07,2025-04-07,NXDT,Nexpoint Diversified Real Estate Trust,Laffer Arthur B,Dir,P - Purchase,3.24,26900,156711,+21%,87156,True
+2025-04-07,2025-04-04,NMTC,Neuroone Medical Technologies Corp,Rosa David A,"CEO, Pres",P - Purchase,0.50,100000,1161289,+9%,50000,True
+2025-04-07,2025-04-03,EU,Encore Energy Corp.,Sheriff William M,Exec COB,P - Purchase,1.21,50000,2357931,+2%,60500,False
+2025-04-07,2025-04-03,VTLE,"Vital Energy, Inc.",Campbell Richard D,10%,P - Purchase,17.75,5000,81144,+7%,88750,False
+2025-04-07,2025-04-04,PFBX,Peoples Financial Corp /Ms/,Stilwell Joseph,10%,P - Purchase,14.50,5000,670969,+1%,72500,False
+2025-04-04,2025-04-03,FF,Futurefuel Corp.,Rowe Richard P.,Dir,P - Purchase,3.95,15000,20000,+300%,59250,False
+2025-04-03,2025-04-02,OXM,Oxford Industries Inc,McGuirt Milford W,Dir,P - Purchase,58.70,1000,7180,+16%,58700,False
+2025-04-03,2025-04-01,FGBI,"First Guaranty Bancshares, Inc.",Reynolds Marshall T,Dir,P - Purchase,8.47,8460,2000598,0%,71656,True
+2025-04-03,2025-03-20,EMYB,"Embassy Bancorp, Inc.",Banko Frank III,Dir,P - Purchase,15.74,4076,532904,+1%,64149,False
+2025-04-02,2025-04-01,REI,"Ring Energy, Inc.",Crum John A,Dir,P - Purchase,1.15,50000,564125,+10%,57500,False
+2025-04-02,2024-05-22,AIG,"American International Group, Inc.",Inglis John C,Dir,P - Purchase,78.64,644,1988,+48%,50658,False
+2025-04-02,2025-03-31,SPG,Simon Property Group Inc /De/,Smith Daniel C.,Dir,P - Purchase,164.80,346,30459,+1%,57021,True
+2025-04-02,2025-03-31,SPG,Simon Property Group Inc /De/,Leibowitz Reuben S,Dir,P - Purchase,164.80,482,67801,+1%,79434,True
+2025-04-02,2025-03-31,SPG,Simon Property Group Inc /De/,Hubbard Allan B,Dir,P - Purchase,164.80,395,35077,+1%,65096,True
+2025-04-02,2025-03-31,SPG,Simon Property Group Inc /De/,Glasscock Larry C,Dir,P - Purchase,164.80,361,41438,+1%,59493,True
+2025-04-02,2025-04-01,CTGO,"Contango Ore, Inc.",Van Nieuwenhuyse Rick,"Pres, CEO",P - Purchase,10.22,5000,550869,+1%,51100,False
+2025-04-01,2025-03-28,CATX,"Perspective Therapeutics, Inc.",Spoor Johan M.,CEO,P - Purchase,2.24,26676,87683,+44%,59673,True
+2025-04-01,2025-03-28,CATX,"Perspective Therapeutics, Inc.",Graham Juan,CFO,P - Purchase,2.25,33333,35354,>999%,74946,True
+2025-04-01,2025-03-31,PGC,Peapack Gladstone Financial Corp,Gramigna Edward A Jr,Dir,P - Purchase,28.43,3000,26155,+13%,85280,True
+2025-03-31,2025-03-27,RFIL,R F Industries Ltd,Holdsworth Mark Keith,Dir,P - Purchase,4.72,15000,877259,+2%,70805,False
+2025-03-31,2025-03-27,GDRZF,Gold Reserve Ltd,"Camac Capital, LLC",10%,P - Purchase,1.77,37000,20142283,0%,65600,False
+2025-03-31,2025-03-31,DAKT,Daktronics Inc /Sd/,Siegel Andrew David,Dir,P - Purchase,11.83,7200,204291,+4%,85140,False
+2025-03-31,2025-03-28,RLJ,Rlj Lodging Trust,Gibson Patricia L,Dir,P - Purchase,8.03,10000,124217,+9%,80298,False
+2025-03-31,2025-03-28,SAIC,Science Applications International Corp,Reagan James,Dir,P - Purchase,112.10,450,4167,+12%,50447,True
+2025-03-28,2025-03-26,FLWS,1 800 Flowers Com Inc,"Fund 1 Investments, LLC",10%,P - Purchase,5.97,12000,8167969,0%,71658,False
+2025-03-28,2011-07-26,HCA,"Hca Healthcare, Inc.",Bank of America Corp /de/,10%,P - Purchase,25.67,3436,0,-100%,88208,False
+2025-03-28,2025-03-26,BLIN,"Bridgeline Digital, Inc.",Kahn Roger E.,"Pres, CEO, 10%",P - Purchase,1.52,33334,1056832,+3%,50668,True
+2025-03-28,2025-03-28,CFFN,"Capitol Federal Financial, Inc.",Johnson Jeffrey M,Dir,P - Purchase,5.63,10000,112900,+10%,56300,True
+2025-03-28,2025-03-26,RZLT,"Rezolute, Inc.",Evans Daron,CFO,P - Purchase,2.89,20000,329900,+6%,57700,False
+2025-03-27,2025-03-26,CME,Cme Group Inc.,Shepard William R,Dir,P - Purchase,262.62,274,259504,0%,71995,False
+2025-03-27,2025-03-27,SAIC,Science Applications International Corp,McGuirt Milford W,Dir,P - Purchase,110.58,500,6841,+8%,55290,True
+2025-03-27,2025-02-21,MBCN,Middlefield Banc Corp,Digeronimo Kevin A,Dir,P - Purchase,25.65,1950,4666,+72%,50018,False
+2025-03-27,2025-03-25,PRLD,Prelude Therapeutics Inc,Combs Andrew,Chief Chemistry Officer,P - Purchase,0.69,100000,480123,+26%,69250,True
+2025-03-27,2025-03-26,CFFN,"Capitol Federal Financial, Inc.",Morris James G.,Dir,P - Purchase,5.66,15000,100995,+17%,84971,True
+2025-03-26,2025-03-25,IMNM,Immunome Inc.,Bienaime Jean Jacques,Dir,P - Purchase,7.78,7800,31415,+33%,60684,True
+2025-03-25,2025-03-24,GLUE,"Monte Rosa Therapeutics, Inc.",Leo Chandra P.,Dir,P - Purchase,5.84,10000,10000,New,58383,False
+2025-03-25,2025-03-24,IMNM,Immunome Inc.,Bienaime Jean Jacques,Dir,P - Purchase,8.21,7000,23615,+42%,57470,True
+2025-03-25,2025-03-25,SAIC,Science Applications International Corp,Difronzo Vincent P.,"EVP,-Air Force, Comb Commands",P - Purchase,108.85,597,9135,+7%,64984,True
+2025-03-25,2025-03-21,PLYM,"Plymouth Industrial Reit, Inc.",Guinee John W III,Dir,P - Purchase,17.00,5250,40800,+15%,89250,False
+2025-03-25,2025-03-25,GEL,Genesis Energy LP,Gaspard Garland G,SVP,P - Purchase,15.96,5016,24541,+26%,80030,False
+2025-03-25,2025-03-24,FGEN,Fibrogen Inc,Wettig Thane,CEO,P - Purchase,0.35,145000,544329,+36%,50663,True
+2025-03-24,2025-03-20,AHH,"Armada Hoffler Properties, Inc.",Kirk A Russell,Dir,P - Purchase,7.70,10000,118751,+9%,77000,False
+2025-03-24,2025-03-20,BLNE,"Beeline Holdings, Inc.",Liuzza Nicholas Reyland Jr,"CEO, 10%",P - Purchase,2.62,26000,1880522,+1%,68233,False
+2025-03-24,2025-03-20,EMYB,"Embassy Bancorp, Inc.",Banko Frank III,Dir,P - Purchase,15.74,4053,532881,+1%,63798,False
+2025-03-24,2025-03-21,ACNT,Ascent Industries Co.,Srinivas Ravi Ramesh,"VP, Operations - Chemicals",P - Purchase,12.65,4000,12000,+50%,50610,False
+2025-03-21,2025-03-19,ORRF,Orrstown Financial Services Inc,Brunner Brian D,Dir,P - Purchase,30.87,2500,50330,+5%,77175,True
+2025-03-21,2025-03-19,NAUT,"Nautilus Biotechnology, Inc.",Patel Sujal M,"CEO, Pres,, Secretary, 10%",P - Purchase,1.00,77233,17236232,0%,76918,False
+2025-03-21,2025-03-19,ZVRA,"Zevra Therapeutics, Inc.",Bode John B,Dir,P - Purchase,7.96,10000,40000,+33%,79624,False
+2025-03-21,2025-03-20,PM,"Sinclair, Inc.",Smith David D,"Exec COB, 10%",P - Purchase,16.44,4616,972205,0%,75897,False
+2025-03-20,2025-03-18,ADV,Advantage Solutions Inc.,Kilts James M,Dir,P - Purchase,1.57,36181,929477,+4%,56678,True
+2025-03-20,2025-03-19,CMCO,Columbus McKinnon Corp,Bohl Kathryn V,Dir,P - Purchase,17.99,2819,26805,+12%,50714,True
+2025-03-20,2025-03-17,RIOT,"Riot Platforms, Inc.",Mouton Douglas,Dir,P - Purchase,7.74,8384,20384,+70%,64892,False
+2025-03-19,2025-03-17,RDW,Redwire Corp,Isham Joanne O'Rourke,Dir,P - Purchase,11.02,4578,83595,+6%,50451,True
+2025-03-18,2025-03-14,MX,Magnachip Semiconductor Corp,Lee Ilbok,Dir,P - Purchase,3.86,20000,219181,+10%,77180,True
+2025-03-18,2025-03-14,GBLI,"Global Indemnity Group, LLC",Reddy Praveen Kotha,"Pres, CEO, Penn-America UW LLC",P - Purchase,35.96,1500,1500,New,53940,False
+2025-03-17,2025-03-13,INVE,"Identiv, Inc.",Newquist Kirsten F.,CEO,P - Purchase,3.32,19000,258931,+8%,63107,False
+2025-03-17,2025-03-14,HRTG,"Heritage Insurance Holdings, Inc.",Garateix Ernie J,CEO,P - Purchase,12.77,5000,1270808,0%,63850,True
+2025-03-17,2025-03-14,HRTG,"Heritage Insurance Holdings, Inc.",Lusk Kirk,CFO,P - Purchase,13.85,6000,618756,+1%,83100,True
+2025-03-17,2025-03-13,OB,Outbrain Inc.,Kostman David,CEO,P - Purchase,3.98,20000,828940,+2%,79600,False
+2025-03-17,2025-03-13,MX,Magnachip Semiconductor Corp,Martino Camillo,Dir,P - Purchase,3.66,20000,215880,+10%,73120,True
+2025-03-17,2025-03-13,MX,Magnachip Semiconductor Corp,Nathan Gilbert E,Dir,P - Purchase,3.68,20000,261373,+8%,73592,True
+2025-03-17,2025-03-14,ORN,Orion Group Holdings Inc,Earle Edward Chipman,"EVP, GC",P - Purchase,5.48,10000,91234,+12%,54842,False
+2025-03-17,2025-03-14,DK,"Delek Us Holdings, Inc.",Yemin Ezra Uzi,COB,P - Purchase,15.40,4875,1022331,0%,75064,False
+2025-03-14,2025-03-12,GDRZF,Gold Reserve Ltd,"Camac Capital, LLC",10%,P - Purchase,2.05,31154,19671883,0%,64006,False
+2025-03-14,2025-03-12,TCBI,Texas Capital Bancshares Inc/tx,Stallings Robert W,Dir,P - Purchase,20.07,3000,721170,0%,60200,False
+2025-03-14,2025-03-12,RC,Ready Capital Corp,Ahlborn Andrew,CFO,P - Purchase,5.04,10000,310808,+3%,50395,True
+2025-03-14,2025-03-14,TCBX,"Third Coast Bancshares, Inc.",Bobbora William,See Remarks,P - Purchase,32.35,2000,50318,+4%,64702,False
+2025-03-14,2025-03-13,FSBC,Five Star Bancorp,Lucas Donna,Dir,P - Purchase,28.43,2650,12076,+28%,75340,False
+2025-03-14,2025-03-05,AAON,"Aaon, Inc.",Stewart David Raymond,Dir,P - Purchase,80.86,1000,10052,+11%,80860,False
+2025-03-14,2025-03-12,DHIL,Diamond Hill Investment Group Inc,Cooley Richard Scott,Dir,P - Purchase,144.00,500,10659,+5%,72000,False
+2025-03-14,2025-03-13,DK,"Delek Us Holdings, Inc.",Yemin Ezra Uzi,COB,P - Purchase,14.52,5240,1017456,+1%,76059,False
+2025-03-14,2025-03-12,PRLD,Prelude Therapeutics Inc,Vaddi Krishna,CEO,P - Purchase,0.71,97500,2934533,+3%,69564,True
+2025-03-14,2025-03-13,ALT,"Altimmune, Inc.",Weaver Gregory L,CFO,P - Purchase,5.20,10000,10000,New,51996,False
+2025-03-13,2025-03-12,SGHT,"Sight Sciences, Inc.",Raheja Manohar K.,"EVP, Research, Development",P - Purchase,2.66,20000,155000,+15%,53250,False
+2025-03-13,2025-03-11,BKU,"Bankunited, Inc.",Sobti Sanjiv,Dir,P - Purchase,32.07,2000,20782,+11%,64140,False
+2025-03-13,2025-03-13,ARCB,Arcbest Corp /de/,Beasley John Matthew,CFO,P - Purchase,74.89,700,8142,+9%,52423,False
+2025-03-13,2025-03-12,RAPP,"Rapport Therapeutics, Inc.",Young Wendy B.,Dir,P - Purchase,10.21,6000,6000,New,61250,True
+2025-03-13,2025-03-12,CMTG,"Claros Mortgage Trust, Inc.",McGillis Mike,"Pres, CFO",P - Purchase,3.30,24115,475945,+5%,79510,True
+2025-03-13,2025-03-12,CE,Celanese Corp,Moorthy Ganesh,Dir,P - Purchase,53.29,1000,4639,+27%,53290,True
+2025-03-13,2025-03-11,CLAR,Clarus Corp,Sokolow Nicolas,Dir,P - Purchase,4.09,22000,754485,+3%,89877,False
+2025-03-13,2025-03-11,UCB,United Community Banks Inc,Davis Sally Pope,Dir,P - Purchase,28.19,1800,3264,+123%,50742,False
+2025-03-13,2025-03-12,ABCB,Ameris Bancorp,Strange Douglas D,Chief Credit Officer,P - Purchase,56.95,1000,19608,+5%,56953,False
+2025-03-13,2025-03-13,BHRB,Burke & Herbert Financial Services Corp.,Barnwell Julian Forrest Jr.,Dir,P - Purchase,58.38,1140,400963,0%,66559,False
+2025-03-13,2025-03-11,GEF,"Greif, Inc",Miller Frank Calhoun V,Dir,P - Purchase,58.50,1000,7931,+14%,58500,True
+2025-03-13,2025-03-12,DK,"Delek Us Holdings, Inc.",Yemin Ezra Uzi,COB,P - Purchase,14.50,5085,1012216,+1%,73739,False
+2025-03-12,2021-10-15,DTM,"Dt Midstream, Inc.",Skaggs Robert C Jr,Dir,P - Purchase,86.37,1013,38653,+3%,87480,False
+2025-03-12,2025-03-11,DRH,Diamondrock Hospitality Co,Donnelly Jeffrey,CEO,P - Purchase,7.98,10000,672894,+2%,79800,False
+2025-03-12,2025-03-11,AAP,Advance Auto Parts Inc,Okelly Shane M,"Dir, Pres, CEO",P - Purchase,36.79,1500,183121,+1%,55185,True
+2025-03-12,2025-03-11,SEI,"Solaris Energy Infrastructure, Inc.",Argo Laurie H,Dir,P - Purchase,22.43,4000,46064,+10%,89720,True
+2025-03-12,2025-03-10,CULP,Culp Inc,Culp Robert George IV,"Pres, CEO",P - Purchase,4.94,14001,377285,+4%,69165,True
+2025-03-12,2025-03-11,PFBX,Peoples Financial Corp /ms/,Stilwell Joseph,10%,P - Purchase,19.25,4224,665435,+1%,81312,False
+2025-03-12,2025-03-10,GTLS,Chart Industries Inc,Harty Linda S,Dir,P - Purchase,140.85,500,16684,+3%,70423,True
+2025-03-11,2025-03-07,UCTT,"Ultra Clean Holdings, Inc.",Bentinck Bill,"Pres, Services Business",P - Purchase,25.17,3000,60695,+5%,75510,True
+2025-03-11,2025-03-10,SRE,Sempra,Mears Michael N,Dir,P - Purchase,67.70,1000,5000,+25%,67700,True
+2025-03-11,2025-03-10,RC,Ready Capital Corp,Taylor Gary,COO,P - Purchase,5.23,10000,211097,+5%,52300,True
+2025-03-11,2025-03-10,STXS,"Stereotaxis, Inc.",Isaac Paul J,See Remarks,P - Purchase,1.81,38000,2853856,+1%,68780,False
+2025-03-11,2025-03-10,BHRB,Burke & Herbert Financial Services Corp.,Barnwell Julian Forrest Jr.,Dir,P - Purchase,58.80,1000,399823,0%,58798,False
+2025-03-10,2025-03-06,MITK,Mitek Systems Inc,Rossi Mark,Dir,P - Purchase,9.01,7500,36244,+26%,67550,True
+2025-03-10,2025-03-07,RC,Ready Capital Corp,Zausmer Adam,Chief Credit Officer,P - Purchase,5.42,10000,301105,+3%,54200,True
+2025-03-10,2025-03-07,CE,Celanese Corp,Moorthy Ganesh,Dir,P - Purchase,54.67,1000,3639,+38%,54670,True
+2025-03-10,2025-03-06,MIRM,"Mirum Pharmaceuticals, Inc.",Heron Patrick J,Dir,P - Purchase,43.69,1915,3732737,0%,83661,False
+2025-03-10,2025-03-07,CE,Celanese Corp,Kissire Deborah J.,Dir,P - Purchase,54.28,1000,2214,+82%,54280,True
+2025-03-10,2025-03-10,ABCL,Abcellera Biologics Inc.,Montalbano John S.,Dir,P - Purchase,2.30,25000,176000,+17%,57500,True
+2025-03-10,2025-03-07,VRME,"Verifyme, Inc.",Stedham Adam H,"CEO, Pres",P - Purchase,0.70,95000,367348,+35%,66330,False
+2025-03-10,2024-09-27,BIOA,"Bioage Labs, Inc.",Hemrajani Rekha,Dir,P - Purchase,18.00,3000,3000,New,54000,False
+2025-03-10,2025-03-10,DLX,Deluxe Corp,McCarthy Barry C,"Pres, CEO",P - Purchase,16.45,3926,272851,+1%,64583,False
+2025-03-10,2025-03-07,BHRB,Burke & Herbert Financial Services Corp.,Barnwell Julian Forrest Jr.,Dir,P - Purchase,59.75,1000,398823,0%,59750,False
+2025-03-10,2025-03-07,NTST,Netstreit Corp.,Manheimer Mark,"Pres, CEO, Secretary",P - Purchase,15.22,3616,295252,+1%,55049,False
+2025-03-10,2025-03-06,EVH,"Evolent Health, Inc.",Glass Russell Monroe,Dir,P - Purchase,9.27,5400,20318,+36%,50058,True
+2025-03-10,2025-03-07,AMPY,Amplify Energy Corp.,Frew James,SEE REMARKS,P - Purchase,3.85,15000,54222,+38%,57750,True
+2025-03-10,2025-03-07,AMPY,Amplify Energy Corp.,Willsher Martyn,SEE REMARKS,P - Purchase,3.84,15000,310794,+5%,57600,True
+2025-03-07,2025-03-07,ATGE,Adtalem Global Education Inc.,Malafronte Michael W,Lead Independent Director,P - Purchase,87.21,1000,99445,+1%,87210,False
+2025-03-07,2025-03-05,NBTB,Nbt Bancorp Inc,Kingsley Scott Allen,"Pres, CEO NBT Bancorp",P - Purchase,44.90,2000,39308,+5%,89800,False
+2025-03-07,2025-03-06,IE,Ivanhoe Electric Inc.,Neeser Jordan,CFO,P - Purchase,5.88,10000,50000,+25%,58775,True
+2025-03-07,2025-03-06,CORZ,"Core Scientific, Inc./Tx",Weiss Eric Stanton,Dir,P - Purchase,8.46,6000,221687,+3%,50750,True
+2025-03-07,2025-03-05,MTDR,Matador Resources Co,Macalik Robert T,"EVP, Chief Accounting Officer",P - Purchase,47.98,1200,139805,+1%,57576,True
+2025-03-06,2025-03-06,GTLS,Chart Industries Inc,Evanko Jillian C.,"Pres, CEO",P - Purchase,150.35,350,137666,0%,52623,True
+2025-03-06,2025-03-04,AMRC,"Ameresco, Inc.",Wisneski Francis V Jr,Dir,P - Purchase,9.52,5708,19946,+40%,54324,True
+2025-03-06,2025-03-06,VNDA,Vanda Pharmaceuticals Inc.,Polymeropoulos Mihael Hristos,"Pres, CEO",P - Purchase,5.02,10000,2295731,0%,50150,False
+2025-03-06,2025-03-05,FLNC,"Fluence Energy, Inc.",Bulls Herman E,Dir,P - Purchase,5.41,10000,115861,+9%,54090,False
+2025-03-06,2025-03-05,BSVN,Bank7 Corp.,Haines Douglas A,"Reg. Pres of West. OK, KS",P - Purchase,39.91,1433,18542,+8%,57191,False
+2025-03-06,2025-03-04,NAMS,Newamsterdam Pharma Co N.V.,Topper James N,Dir,P - Purchase,21.02,4005,6813434,0%,84203,False
+2025-03-06,2025-03-05,NPKI,Npk International Inc.,Minge John C,Dir,P - Purchase,5.38,10000,230287,+5%,53800,False
+2025-03-06,2025-03-05,MRP,"Millrose Properties, Inc.",Migoya Carlos A,Dir,P - Purchase,22.45,3458,10106,+52%,77621,True
+2025-03-06,2025-03-04,MIRM,"Mirum Pharmaceuticals, Inc.",Heron Patrick J,Dir,P - Purchase,45.40,1602,3730822,0%,72724,False
+2025-03-06,2025-03-05,CRC,California Resources Corp,Chapman James N,Dir,P - Purchase,39.42,2000,43445,+5%,78840,False
+2025-03-06,2025-03-04,GO,Grocery Outlet Holding Corp.,Jaros Carey F.,Dir,P - Purchase,11.40,5000,25374,+25%,57000,True
+2025-03-06,2025-03-04,LSF,"Laird Superfood, Inc.",Vieth Jason D.,CEO,P - Purchase,5.37,10000,686580,+1%,53650,False
+2025-03-06,2025-03-04,GTE,Gran Tierra Energy Inc.,Smith David P,Dir,P - Purchase,4.28,12000,67500,+22%,51315,False
+2025-03-06,2025-03-04,CBZ,"Cbiz, Inc.",Young Rodney A,Dir,P - Purchase,76.18,1000,3949,+34%,76180,False
+2025-03-06,2025-03-05,TDW,Tidewater Inc,Robotti Robert,Dir,P - Purchase,40.95,1770,2183670,0%,72477,False
+2025-03-06,2025-03-05,DHIL,Diamond Hill Investment Group Inc,Cooley Richard Scott,Dir,P - Purchase,146.00,500,10159,+5%,73000,False
+2025-03-06,2025-03-05,MTDR,Matador Resources Co,Parker Timothy E.,Dir,P - Purchase,44.67,2000,83790,+2%,89340,True
+2025-03-05,2025-03-05,VNDA,Vanda Pharmaceuticals Inc.,Polymeropoulos Mihael Hristos,"Pres, CEO",P - Purchase,5.02,10000,2285731,0%,50200,False
+2025-03-05,2025-03-05,MKZR,"Mackenzie Realty Capital, Inc.",Dixon Robert E,"CEO, Pres",P - Purchase,1.85,40000,89935,+80%,73972,False
+2025-03-05,2025-03-03,MAIA,"Maia Biotechnology, Inc.",Guerrero Ramiro,Dir,P - Purchase,1.50,33333,568218,+6%,50000,True
+2025-03-05,2025-02-24,MAIA,"Maia Biotechnology, Inc.",Smith Stan,Dir,P - Purchase,1.50,50000,1180060,+4%,75000,True
+2025-03-05,2025-03-04,MCFT,"Mastercraft Boat Holdings, Inc.",Nelson Bradley M.,CEO,P - Purchase,16.72,5000,85451,+6%,83600,False
+2025-03-05,2025-03-05,AORT,"Artivion, Inc.",Semedo Anthony B.,Dir,P - Purchase,25.31,2100,36259,+6%,53141,False
+2025-03-05,2025-03-03,TALK,"Talkspace, Inc.",Harris Ian Jiro,CFO,P - Purchase,2.79,30844,615015,+5%,86037,True
+2025-03-05,2025-03-03,BCDA,"Biocardia, Inc.",Stertzer Simon H,Dir,P - Purchase,2.30,38289,137600,+39%,88065,False
+2025-03-05,2025-03-03,MGY,Magnolia Oil & Gas Corp,Stavros Christopher G,"CEO, Dir",P - Purchase,22.06,2500,892372,0%,55138,False
+2025-03-04,2025-03-03,CZR,"Caesars Entertainment, Inc.",Tomick David P,Dir,P - Purchase,33.36,1850,43192,+4%,61716,True
+2025-03-04,2025-03-03,MRP,"Millrose Properties, Inc.",Migoya Carlos A,Dir,P - Purchase,22.89,3259,6648,+96%,74599,True
+2025-03-04,2025-03-03,COSM,Cosmos Health Inc.,Siokas Grigorios,"CEO, 10%",P - Purchase,0.49,132572,4029588,+3%,65000,False
+2025-03-04,2025-03-03,PFBX,Peoples Financial Corp /ms/,Stilwell Joseph,10%,P - Purchase,19.25,3000,656011,0%,57750,False
+2025-03-04,2025-02-28,LTRX,Lantronix Inc,Palatnik Kevin S.,Dir,P - Purchase,2.54,20000,20000,New,50750,False
+2025-03-03,2025-02-28,TRS,Trimas Corp,Fielkow Jeffrey A,Dir,P - Purchase,20.78,2500,12013,+26%,51950,True
+2025-03-03,2025-02-28,WBTN,Webtoon Entertainment Inc.,Lee David J.,See Remarks,P - Purchase,9.00,7205,291053,+3%,64845,False
+2025-03-03,2025-03-03,THRY,"Thryv Holdings, Inc.",Walsh Joe,"COB, CEO",P - Purchase,16.45,5000,2229018,0%,82250,False
+2025-03-03,2025-02-27,APLE,"Apple Hospitality Reit, Inc.",Knight Glade M,Exec COB,P - Purchase,14.54,5000,10747879,0%,72700,True
+2025-03-03,2025-02-28,CCO,"Clear Channel Outdoor Holdings, Inc.",Wells Scott,CEO,P - Purchase,1.26,50000,3565144,+1%,63000,True
+2025-03-03,2025-01-23,SNYR,Synergy Chc Corp.,Ross Jack,"CEO, COB, 10%",P - Purchase,3.92,15200,4732127,0%,59521,False
+2025-02-28,2025-02-26,CDE,"Coeur Mining, Inc.",Whelan Thomas S,"SVP, CFO",P - Purchase,5.25,10000,628085,+2%,52500,False
+2025-02-28,2025-02-27,JELD,"Jeld-Wen Holding, Inc.",Wynne Steven E,Dir,P - Purchase,6.01,10000,94870,+12%,60100,True
+2025-02-28,2024-08-05,RF,Regions Financial Corp,Suquet Jose S,Dir,P - Purchase,23.96,2408,33711,+8%,57687,False
+2025-02-27,2025-02-26,AENT,Alliance Entertainment Holding Corp,Walker Jeffrey Clinton,"CEO, 10%",P - Purchase,1.12,69184,23005262,0%,77830,False
+2025-02-27,2025-02-25,SEPN,"Septerna, Inc.",Labrucherie Gil M,CFO,P - Purchase,5.69,10000,40000,+33%,56867,True
+2025-02-27,2025-02-25,PCG,Pg&e Corp,Bahri Rajat,Dir,P - Purchase,15.79,3170,61533,+5%,50054,True
+2025-02-27,2025-02-21,TCBI,Texas Capital Bancshares Inc/tx,Stallings Robert W,Dir,P - Purchase,21.26,2500,711170,0%,53150,False
+2025-02-27,2025-02-26,TBI,"Trueblue, Inc.",Owen Taryn R,"CEO, Pres",P - Purchase,5.94,12735,414932,+3%,75646,False
+2025-02-27,2025-02-26,MTDR,Matador Resources Co,Elsener William Thomas,"EVP, Reservoir Engineering",P - Purchase,52.40,1000,109747,+1%,52400,True
