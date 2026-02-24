@@ -26,7 +26,7 @@ PARAMS = {
     "td": 0, "tdr": "",
     "fdlyl": "", "fdlyh": "", "daysago": "",
     "xp": 1,
-    "vl": 90,           # minimum value $90K (server-side filter, $K units)
+    "vl": 50,           # minimum value $50K (server-side filter, $K units)
     "vh": "",
     "ocl": "", "och": "",
     "sic1": -1, "sicl": 100, "sich": 9999,
@@ -42,7 +42,7 @@ PARAMS = {
     "page": 1,
 }
 
-MIN_TRADE_VALUE = 90_000  # minimum trade value in dollars (enforced in-code)
+MIN_TRADE_VALUE = 50_000  # minimum trade value in dollars (enforced in-code)
 
 HEADERS = {
     "User-Agent": (

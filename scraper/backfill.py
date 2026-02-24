@@ -4,7 +4,7 @@ One-time historical backfill for Insider Radar.
 
 Uses the correct OpenInsider screener URL (provided by user):
   fd=730    → last 730 days (~2 years)
-  vl=90     → minimum value $90K  (OpenInsider uses $K units)
+  vl=50     → minimum value $50K  (OpenInsider uses $K units)
   page=N    → page-based pagination (1 … MAX_PAGES)
   cnt=1000  → 1000 rows per page
 
@@ -43,7 +43,7 @@ BACKFILL_PARAMS = {
     "td": 0, "tdr": "",
     "fdlyl": "", "fdlyh": "", "daysago": "",
     "xp": 1,            # required by this endpoint
-    "vl": 90,           # minimum value in $K  (= $90,000)
+    "vl": 50,           # minimum value in $K  (= $50,000)
     "vh": "",
     "ocl": "", "och": "",
     "sic1": -1, "sicl": 100, "sich": 9999,
