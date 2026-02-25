@@ -26,6 +26,7 @@ from scrape import (
     DATA_DIR,
     clean_number,
     parse_date,
+    parse_time,
     parse_value,
     detect_clusters,
     save_history_csv,
@@ -84,7 +85,9 @@ def fetch_page(page: int) -> list[dict]:
         if len(cells) < 16:
             continue
 
-        filing_date = parse_date(cells[1].get_text(strip=True))
+        filing_raw  = cells[1].get_text(strip=True)
+        filing_date = parse_date(filing_raw)
+        filing_time = parse_time(filing_raw)
         trade_date  = parse_date(cells[2].get_text(strip=True))
         ticker      = cells[3].get_text(strip=True)
         company     = cells[4].get_text(strip=True)
@@ -99,6 +102,7 @@ def fetch_page(page: int) -> list[dict]:
 
         trades.append({
             "filing_date":  filing_date,
+            "filing_time":  filing_time,
             "trade_date":   trade_date,
             "ticker":       ticker,
             "company":      company,

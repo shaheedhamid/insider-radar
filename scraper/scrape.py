@@ -58,6 +58,7 @@ HISTORY_CSV = os.path.join(DATA_DIR, "history.csv")
 
 CSV_FIELDNAMES = [
     "filing_date",
+    "filing_time",
     "trade_date",
     "ticker",
     "company",
@@ -109,6 +110,12 @@ def parse_date(text: str) -> str:
     return text
 
 
+def parse_time(text: str) -> str:
+    """Return HH:MM from a datetime string, or empty string."""
+    match = re.search(r"(\d{2}:\d{2})(?::\d{2})?", text.strip())
+    return match.group(1) if match else ""
+
+
 # ---------------------------------------------------------------------------
 # Scraping
 # ---------------------------------------------------------------------------
@@ -144,7 +151,9 @@ def fetch_trades() -> list[dict]:
         # 0: X (checkbox), 1: Filing Date, 2: Trade Date, 3: Ticker, 4: Company Name
         # 5: Insider Name, 6: Title, 7: Trade Type, 8: Price, 9: Qty, 10: Owned
         # 11: ΔOwn, 12: Value, 13: 1d, 14: 1w, 15: 1m, 16: 6m
-        filing_date = parse_date(cells[1].get_text(strip=True))
+        filing_raw  = cells[1].get_text(strip=True)
+        filing_date = parse_date(filing_raw)
+        filing_time = parse_time(filing_raw)
         trade_date  = parse_date(cells[2].get_text(strip=True))
         ticker      = cells[3].get_text(strip=True)
         company     = cells[4].get_text(strip=True)
@@ -159,6 +168,7 @@ def fetch_trades() -> list[dict]:
 
         trades.append({
             "filing_date":  filing_date,
+            "filing_time":  filing_time,
             "trade_date":   trade_date,
             "ticker":       ticker,
             "company":      company,

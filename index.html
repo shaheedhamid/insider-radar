@@ -596,6 +596,13 @@
       letter-spacing: .02em;
     }
 
+    .td-time {
+      font-size: 11px;
+      font-family: var(--font-mono);
+      color: var(--muted);
+      letter-spacing: .02em;
+    }
+
     .td-ticker {
       font-size: 14px;
       font-weight: 700;
@@ -983,6 +990,7 @@
       <thead>
         <tr>
           <th data-col="filing_date">Date<i class="sort-arrow"></i></th>
+          <th data-col="filing_time">Time<i class="sort-arrow"></i></th>
           <th data-col="ticker">Ticker<i class="sort-arrow"></i></th>
           <th data-col="company">Company<i class="sort-arrow"></i></th>
           <th data-col="insider_name">Insider<i class="sort-arrow"></i></th>
@@ -994,12 +1002,12 @@
         </tr>
       </thead>
       <tbody id="table-body">
-        <tr class="skeleton-row"><td colspan="9"><div class="skeleton-cell" style="width:100%"></div></td></tr>
-        <tr class="skeleton-row"><td colspan="9"><div class="skeleton-cell" style="width:92%"></div></td></tr>
-        <tr class="skeleton-row"><td colspan="9"><div class="skeleton-cell" style="width:96%"></div></td></tr>
-        <tr class="skeleton-row"><td colspan="9"><div class="skeleton-cell" style="width:85%"></div></td></tr>
-        <tr class="skeleton-row"><td colspan="9"><div class="skeleton-cell" style="width:90%"></div></td></tr>
-        <tr class="skeleton-row"><td colspan="9"><div class="skeleton-cell" style="width:78%"></div></td></tr>
+        <tr class="skeleton-row"><td colspan="10"><div class="skeleton-cell" style="width:100%"></div></td></tr>
+        <tr class="skeleton-row"><td colspan="10"><div class="skeleton-cell" style="width:92%"></div></td></tr>
+        <tr class="skeleton-row"><td colspan="10"><div class="skeleton-cell" style="width:96%"></div></td></tr>
+        <tr class="skeleton-row"><td colspan="10"><div class="skeleton-cell" style="width:85%"></div></td></tr>
+        <tr class="skeleton-row"><td colspan="10"><div class="skeleton-cell" style="width:90%"></div></td></tr>
+        <tr class="skeleton-row"><td colspan="10"><div class="skeleton-cell" style="width:78%"></div></td></tr>
       </tbody>
     </table>
   </div>
@@ -1246,10 +1254,13 @@
       const clusterBadge = g.clusterBuy ? clusterBadgeHTML : '';
 
       if (multi) {
-        const latestDate = g.trades.reduce((m, t) => (t.filing_date > m ? t.filing_date : m), '');
+        const latestTrade = g.trades.reduce((m, t) => (t.filing_date > m.filing_date ? t : m), g.trades[0]);
+        const latestDate = latestTrade.filing_date || '';
+        const latestTime = latestTrade.filing_time || '';
         const arrow = isExpanded ? '&#9660;' : '&#9654;';
         rows.push(`<tr class="group-row ${rc}" data-ticker="${escHtml(g.ticker)}" style="cursor:pointer">
           <td class="td-date">${escHtml(latestDate)}</td>
+          <td class="td-time">${escHtml(latestTime) || '—'}</td>
           <td class="td-ticker"><span class="expand-arrow">${arrow}</span>${escHtml(g.ticker)}</td>
           <td class="td-company" title="${escHtml(g.company)}">${escHtml(g.company)}</td>
           <td><span class="group-insiders">${g.count} insiders</span></td>
@@ -1268,6 +1279,7 @@
             const trc   = rowClass(t);
             rows.push(`<tr class="child-row ${trc}">
               <td class="td-date">${escHtml(t.filing_date || '—')}</td>
+              <td class="td-time">${escHtml(t.filing_time || '—')}</td>
               <td class="td-ticker">&nbsp;&nbsp;${escHtml(t.ticker || '—')}</td>
               <td class="td-company" title="${escHtml(t.company || '')}">${escHtml(t.company || '—')}</td>
               <td>${escHtml(t.insider_name || '—')}</td>
@@ -1286,6 +1298,7 @@
         const price = parseNumber(t.price);
         rows.push(`<tr class="${rc}">
           <td class="td-date">${escHtml(t.filing_date || '—')}</td>
+          <td class="td-time">${escHtml(t.filing_time || '—')}</td>
           <td class="td-ticker">${escHtml(t.ticker || '—')}</td>
           <td class="td-company" title="${escHtml(t.company || '')}">${escHtml(t.company || '—')}</td>
           <td>${escHtml(t.insider_name || '—')}</td>
@@ -1390,7 +1403,7 @@
       showError('Could not load data: ' + err.message + '. Run the scraper to populate data.');
       if (allTrades.length === 0) {
         tableBodyEl.innerHTML = `
-          <tr><td colspan="9" style="text-align:center;padding:60px;color:var(--muted)">
+          <tr><td colspan="10" style="text-align:center;padding:60px;color:var(--muted)">
             No data available. Run the scraper first.
           </td></tr>`;
       }
