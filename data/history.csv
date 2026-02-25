@@ -5951,3 +5951,9 @@ filing_date,trade_date,ticker,company,insider_name,title,trade_type,price,qty,ow
 2026-02-24,2026-02-20,CAR,"Avis Budget Group, Inc.",Pentwater Capital Management LP,10%,P - Purchase,94.26,425000,8059400,+6%,40060075,False
 2026-02-25,2026-02-23,LXRX,"Lexicon Pharmaceuticals, Inc.",Debbane Raymond,Dir,P - Purchase,1.47,100000,51658909,0%,147000,False
 2026-02-25,11:48,2026-02-23,HUM,Humana Inc,Shetty Sanjay K,"Pres, CenterWell",P - Purchase,185.21,810,11657,+7%,150016,False
+2026-02-25,16:17,2026-02-23,AMH,American Homes 4 Rent,Corrigan Jack E,Dir,P - Purchase,22.96,5000,50000,+11%,114776,True
+2026-02-25,16:15,2026-02-23,VERX,"Vertex, Inc.",Young Christopher David,"Pres, CEO",P - Purchase,12.18,60000,60000,New,730794,True
+2026-02-25,16:14,2026-02-23,AMH,American Homes 4 Rent,Benham Douglas N,Dir,P - Purchase,29.15,2000,42218,+5%,58300,True
+2026-02-25,16:06,2026-02-24,HLNE,Hamilton Lane Inc,Berkman David J,Dir,P - Purchase,101.00,10000,35000,+40%,1010000,True
+2026-02-25,14:51,2026-01-16,AERA,Ai Era Corp.,Deng Chiyuan,"CEO, 10%",P - Purchase,0.86,130000,2192489,+6%,111800,False
+2026-02-25,11:48,2026-02-23,HUM,Humana Inc,Shetty Sanjay K,"Pres, CenterWell",P - Purchase,185.21,810,11657,+7%,150016,False
