@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-24T22:57:00Z",
-  "trade_count": 5943,
+  "last_updated": "2026-02-25T02:28:15Z",
+  "trade_count": 5947,
   "trades": [
     {
       "filing_date": "2026-02-23",
@@ -2670,7 +2670,7 @@
       "owned": "34071",
       "delta_own": "+42%",
       "value": "1266100",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-02-10",
@@ -89145,6 +89145,66 @@
       "owned": "28444",
       "delta_own": "+29%",
       "value": "500747",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-02-24",
+      "trade_date": "2026-02-24",
+      "ticker": "UBER",
+      "company": "Uber Technologies, Inc",
+      "insider_name": "Krishnamurthy Balaji (A)",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "71.25",
+      "qty": "22453",
+      "owned": "28742",
+      "delta_own": "+357%",
+      "value": "1599780",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-02-24",
+      "trade_date": "2026-02-20",
+      "ticker": "ARES",
+      "company": "Ares Management Corp",
+      "insider_name": "Olian Judy D.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "124.43",
+      "qty": "480",
+      "owned": "29734",
+      "delta_own": "+2%",
+      "value": "59726",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-02-24",
+      "trade_date": "2026-02-20",
+      "ticker": "NP",
+      "company": "Neptune Insurance Holdings Inc.",
+      "insider_name": "Vostrizansky Michael Warren",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "21.50",
+      "qty": "23000",
+      "owned": "23000",
+      "delta_own": "New",
+      "value": "494415",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-02-24",
+      "trade_date": "2026-02-20",
+      "ticker": "OCUL",
+      "company": "Ocular Therapeutix, Inc",
+      "insider_name": "Lindstrom Richard L Md",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "7.66",
+      "qty": "60229",
+      "owned": "246933",
+      "delta_own": "+32%",
+      "value": "461354",
       "cluster_buy": false
     }
   ]

@@ -5944,3 +5944,7 @@ filing_date,trade_date,ticker,company,insider_name,title,trade_type,price,qty,ow
 2026-02-24,2026-02-20,AAT,"American Assets Trust, Inc.",Rady Ernest S,"Exec COB, 10%",P - Purchase,19.42,82386,13025335,+1%,1599720,False
 2026-02-24,2026-02-20,BLCO,Bausch & Lomb Corp,Robertson Russel C,Dir,P - Purchase,17.90,4400,76807,+6%,78760,True
 2026-02-24,2026-02-20,NBR,Nabors Industries Ltd,Yearwood John,Dir,P - Purchase,78.12,6410,28444,+29%,500747,False
+2026-02-24,2026-02-24,UBER,"Uber Technologies, Inc",Krishnamurthy Balaji (A),CFO,P - Purchase,71.25,22453,28742,+357%,1599780,False
+2026-02-24,2026-02-20,ARES,Ares Management Corp,Olian Judy D.,Dir,P - Purchase,124.43,480,29734,+2%,59726,False
+2026-02-24,2026-02-20,NP,Neptune Insurance Holdings Inc.,Vostrizansky Michael Warren,Dir,P - Purchase,21.50,23000,23000,New,494415,False
+2026-02-24,2026-02-20,OCUL,"Ocular Therapeutix, Inc",Lindstrom Richard L Md,Dir,P - Purchase,7.66,60229,246933,+32%,461354,False
