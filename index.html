@@ -1052,11 +1052,11 @@
   <div class="filter-group">
     <span class="filter-label">Period</span>
     <div class="date-range-group" id="date-range-group">
-      <button class="btn-range" data-range="7">7D</button>
+      <button class="btn-range active" data-range="7">7D</button>
       <button class="btn-range" data-range="30">30D</button>
       <button class="btn-range" data-range="90">90D</button>
       <button class="btn-range" data-range="365">1Y</button>
-      <button class="btn-range active" data-range="all">All</button>
+      <button class="btn-range" data-range="all">All</button>
     </div>
   </div>
 
@@ -1147,7 +1147,7 @@
   let sortCol         = 'filing_date';
   let sortDir         = 'desc';
   let expandedTickers = new Set();
-  let dateRange       = 'all';
+  let dateRange       = '7';
 
   /* ------------------------------------------------------------------ */
   /* DOM refs                                                              */
