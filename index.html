@@ -1104,10 +1104,10 @@
   /* ------------------------------------------------------------------ */
   function classifyTitle(title) {
     const t = (title || '').toLowerCase();
-    if (/\b(ceo|chief executive|president)\b/.test(t))            return 'ceo';
-    if (/\b(chair|chairman|chairwoman|director|board)\b/.test(t)) return 'director';
-    if (/\b(cfo|chief financial)\b/.test(t))                      return 'cfo';
-    if (/\b([se]vp|svp|evp|vp|vice president)\b/.test(t))        return 'vp';
+    if (/\b(ceo|chief executive|president|pres)\b/.test(t))                return 'ceo';
+    if (/\b(chair(man|woman)?|director|dir|board|cob)\b/.test(t))          return 'director';
+    if (/\b(cfo|chief financial)\b/.test(t))                               return 'cfo';
+    if (/\b([se]vp|svp|evp|vp|vice president)\b/.test(t))                 return 'vp';
     return 'other';
   }
 
