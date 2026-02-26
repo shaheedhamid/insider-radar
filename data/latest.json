@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-26T20:40:37Z",
-  "trade_count": 4988,
+  "last_updated": "2026-02-26T22:36:08Z",
+  "trade_count": 4992,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -79808,6 +79808,70 @@
       "owned": "71798",
       "delta_own": "+16%",
       "value": "58396",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-02-26",
+      "filing_time": "16:54",
+      "trade_date": "2026-02-24",
+      "ticker": "TBI",
+      "company": "Trueblue, Inc.",
+      "insider_name": "Owen Taryn R",
+      "title": "CEO, Pres",
+      "trade_type": "P - Purchase",
+      "price": "3.79",
+      "qty": "20400",
+      "owned": "791807",
+      "delta_own": "+3%",
+      "value": "77316",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-02-26",
+      "filing_time": "16:30",
+      "trade_date": "2026-02-24",
+      "ticker": "VNO",
+      "company": "Vornado Realty Trust",
+      "insider_name": "Tisch Daniel R",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "27.85",
+      "qty": "25000",
+      "owned": "30000",
+      "delta_own": "+500%",
+      "value": "696250",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-02-26",
+      "filing_time": "16:26",
+      "trade_date": "2026-02-24",
+      "ticker": "LEE",
+      "company": "Lee Enterprises, Inc",
+      "insider_name": "Hoffmann David Henry",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "8.84",
+      "qty": "44110",
+      "owned": "11636149",
+      "delta_own": "0%",
+      "value": "390078",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-02-26",
+      "filing_time": "16:16",
+      "trade_date": "2026-02-24",
+      "ticker": "AMH",
+      "company": "American Homes 4 Rent",
+      "insider_name": "Goldberg David",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "29.17",
+      "qty": "2000",
+      "owned": "61419",
+      "delta_own": "+3%",
+      "value": "58340",
       "cluster_buy": true
     }
   ]

@@ -4987,3 +4987,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-02-26,09:58,2026-02-23,BWFG,"Bankwell Financial Group, Inc.",Seidman Lawrence B,Dir,P - Purchase,47.40,10000,802128,+1%,473962,False
 2026-02-26,15:02,2026-02-25,SXC,"Suncoke Energy, Inc.",Hardesty Phillip Michael,SVP,P - Purchase,5.83,12500,298677,+4%,72872,True
 2026-02-26,15:01,2026-02-25,SXC,"Suncoke Energy, Inc.",Marinko Mark W.,"SVP, CFO",P - Purchase,5.84,10000,71798,+16%,58396,True
+2026-02-26,16:54,2026-02-24,TBI,"Trueblue, Inc.",Owen Taryn R,"CEO, Pres",P - Purchase,3.79,20400,791807,+3%,77316,False
+2026-02-26,16:30,2026-02-24,VNO,Vornado Realty Trust,Tisch Daniel R,Dir,P - Purchase,27.85,25000,30000,+500%,696250,False
+2026-02-26,16:26,2026-02-24,LEE,"Lee Enterprises, Inc",Hoffmann David Henry,"Dir, 10%",P - Purchase,8.84,44110,11636149,0%,390078,False
+2026-02-26,16:16,2026-02-24,AMH,American Homes 4 Rent,Goldberg David,Dir,P - Purchase,29.17,2000,61419,+3%,58340,True
