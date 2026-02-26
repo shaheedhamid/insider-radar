@@ -5924,33 +5924,10 @@ filing_date,trade_date,ticker,company,insider_name,title,trade_type,price,qty,ow
 2025-02-27,2025-02-21,TCBI,Texas Capital Bancshares Inc/tx,Stallings Robert W,Dir,P - Purchase,21.26,2500,711170,0%,53150,False
 2025-02-27,2025-02-26,TBI,"Trueblue, Inc.",Owen Taryn R,"CEO, Pres",P - Purchase,5.94,12735,414932,+3%,75646,False
 2025-02-27,2025-02-26,MTDR,Matador Resources Co,Elsener William Thomas,"EVP, Reservoir Engineering",P - Purchase,52.40,1000,109747,+1%,52400,True
-2026-02-26,2026-02-25,PODD,Insulet Corp,Minogue Michael R,Dir,P - Purchase,246.23,2030,18261,+13%,499847,True
-2026-02-25,2026-02-23,SONO,Sonos Inc,"Coliseum Capital Management, LLC",10%,P - Purchase,14.95,611279,33592405,+2%,9140036,False
-2026-02-25,2026-02-23,WRB,Berkley W R Corp,Mitsui Sumitomo Insurance Co Ltd,10%,P - Purchase,71.13,553654,58222274,+1%,39381432,False
-2026-02-25,2026-02-20,GSHD,"Goosehead Insurance, Inc.",Goldberg Louis,Dir,P - Purchase,44.85,5575,5575,New,250039,False
-2026-02-25,2026-02-11,JAGU,Jaguar Uranium Corp.,Isoenergy Ltd.,10%,P - Purchase,4.00,250000,3250000,+8%,1000000,False
-2026-02-25,2026-02-23,IBATF,International Battery Metals Ltd.,Warnock Jacob Aaron,"Dir, 10%",P - Purchase,0.08,26427053,109326104,+32%,2114164,False
-2026-02-25,2026-02-24,ALIT,"Alight, Inc. / Delaware",Verma Rohit,CEO,P - Purchase,0.77,100000,1022883,+11%,77040,False
-2026-02-25,2026-02-23,STEP,Stepstone Group Inc.,Mitchell Steven R,Dir,P - Purchase,44.23,12793,12793,New,565772,False
-2026-02-25,2026-02-23,KELYA,Kelly Services Inc,Hunt James Christopher,Dir,P - Purchase,9.43,10000,25976,+63%,94300,False
-2026-02-25,2026-02-23,TYL,Tyler Technologies Inc,Teed Andrew D.,Dir,P - Purchase,309.91,1600,7118,+29%,495856,True
-2026-02-25,2026-02-23,TCBI,Texas Capital Bancshares Inc/Tx,Stallings Robert W,Dir,P - Purchase,22.20,40000,880500,+5%,888000,False
-2026-02-25,2026-02-23,POOL,Pool Corp,St Romain Kenneth G,SVP,P - Purchase,218.67,5560,82845,+7%,1215810,False
-2026-02-25,2026-02-24,ZION,"Zions Bancorporation, National Association /Ut/",Simmons Harris H,"COB, CEO",P - Purchase,59.03,4500,1317493,0%,265635,False
-2026-02-25,2026-02-25,IBM,International Business Machines Corp,Miebach Michael,Dir,P - Purchase,233.33,434,434,New,101264,False
-2026-02-25,2026-02-24,NEU,Newmarket Corp,Xu Ting,Dir,P - Purchase,619.21,400,929,+76%,247684,False
-2026-02-25,2026-02-23,AMH,American Homes 4 Rent,Corrigan Jack E,Dir,P - Purchase,22.96,5000,50000,+11%,114776,True
-2026-02-25,2026-02-23,VERX,"Vertex, Inc.",Young Christopher David,"Pres, CEO",P - Purchase,12.18,60000,60000,New,730794,True
-2026-02-25,2026-02-23,AMH,American Homes 4 Rent,Benham Douglas N,Dir,P - Purchase,29.15,2000,42218,+5%,58300,True
-2026-02-25,2026-02-24,HLNE,Hamilton Lane Inc,Berkman David J,Dir,P - Purchase,101.00,10000,35000,+40%,1010000,True
-2026-02-25,2026-01-16,AERA,Ai Era Corp.,Deng Chiyuan,"CEO, 10%",P - Purchase,0.86,130000,2192489,+6%,111800,False
-2026-02-25,2026-02-23,HUM,Humana Inc,Shetty Sanjay K,"Pres, CenterWell",P - Purchase,185.21,810,11657,+7%,150016,False
-2026-02-25,2026-02-23,LXRX,"Lexicon Pharmaceuticals, Inc.",Debbane Raymond,Dir,P - Purchase,1.47,100000,51658909,0%,147000,False
-2026-02-24,2026-02-20,CAR,"Avis Budget Group, Inc.",Pentwater Capital Management LP,10%,P - Purchase,94.26,425000,8059400,+6%,40060075,False
-2026-02-24,2026-02-24,UBER,"Uber Technologies, Inc",Krishnamurthy Balaji (A),CFO,P - Purchase,71.25,22453,28742,+357%,1599780,False
-2026-02-24,2026-02-20,ARES,Ares Management Corp,Olian Judy D.,Dir,P - Purchase,124.43,480,29734,+2%,59726,False
-2026-02-24,2026-02-20,NP,Neptune Insurance Holdings Inc.,Vostrizansky Michael Warren,Dir,P - Purchase,21.50,23000,23000,New,494415,False
-2026-02-24,2026-02-20,OCUL,"Ocular Therapeutix, Inc",Lindstrom Richard L Md,Dir,P - Purchase,7.66,60229,246933,+32%,461354,False
+2026-02-24,2026-02-20,HLNE,Hamilton Lane Inc,Hirsch Erik R.,"Co-CEO, 10%",P - Purchase,107.13,9225,880275,+1%,988260,True
+2026-02-24,2026-02-20,HLNE,Hamilton Lane Inc,Delgado-Moreira Juan,"Co-CEO, 10%",P - Purchase,107.24,9225,1338047,+1%,989311,True
+2026-02-24,2026-02-20,HLNE,Hamilton Lane Inc,Kramer Andrea Anigati,"COO, 10%",P - Purchase,107.53,2325,219644,+1%,250011,True
+2026-02-24,2026-02-20,HLNE,Hamilton Lane Inc,Giannini Mario L,"Exec  Co-COB, 10%",P - Purchase,107.32,9225,1418054,+1%,990010,True
 2026-02-24,2026-02-20,FIG,"Figma, Inc.",Reed Andrew Phillips,Dir,P - Purchase,24.91,1466852,34004169,+5%,36537073,False
 2026-02-24,2026-02-20,ACOG,Alpha Cognition Inc.,Opaleye Management Inc.,10%,P - Purchase,5.86,171410,2364410,+8%,1003958,False
 2026-02-24,2026-02-24,EIG,"Employers Holdings, Inc.",Pedraja Michael,"EVP, CFO",P - Purchase,39.73,2000,19830,+11%,79460,False
@@ -5958,7 +5935,7 @@ filing_date,trade_date,ticker,company,insider_name,title,trade_type,price,qty,ow
 2026-02-24,2026-02-20,CVI,Cvr Energy Inc,Icahn Carl C,10%,P - Purchase,20.99,783404,71201875,+1%,16445044,False
 2026-02-24,2026-02-20,RYAN,"Ryan Specialty Holdings, Inc.",Ryan Patrick G Jr,Dir,P - Purchase,39.98,25865,684854,+4%,1033975,False
 2026-02-24,2026-02-20,TZOO,Travelzoo,Bartel Holger,Global CEO,P - Purchase,5.39,200000,200000,New,1077000,False
-2026-02-24,2026-02-20,TYL,Tyler Technologies Inc,Diaz-Pedrosa Abigail Marshall,Chief Administrative Officer,P - Purchase,325.08,610,1523,+67%,198296,True
+2026-02-24,2026-02-20,TYL,Tyler Technologies Inc,Diaz-Pedrosa Abigail Marshall,Chief Administrative Officer,P - Purchase,325.08,610,1523,+67%,198296,False
 2026-02-24,2026-02-20,UUU,"Universal Safety Products, Inc.",Ault Milton C III,"Dir, 10%",P - Purchase,4.77,14306,492963,+3%,68269,False
 2026-02-24,2026-02-20,VRSK,"Verisk Analytics, Inc.",Perry Christopher John,Dir,P - Purchase,180.00,1000,2994,+50%,180000,True
 2026-02-24,2026-02-20,VRSK,"Verisk Analytics, Inc.",Stevenson Kimberly S,Dir,P - Purchase,179.20,1000,4415,+29%,179200,True
@@ -5967,8 +5944,148 @@ filing_date,trade_date,ticker,company,insider_name,title,trade_type,price,qty,ow
 2026-02-24,2026-02-20,AAT,"American Assets Trust, Inc.",Rady Ernest S,"Exec COB, 10%",P - Purchase,19.42,82386,13025335,+1%,1599720,False
 2026-02-24,2026-02-20,BLCO,Bausch & Lomb Corp,Robertson Russel C,Dir,P - Purchase,17.90,4400,76807,+6%,78760,True
 2026-02-24,2026-02-20,NBR,Nabors Industries Ltd,Yearwood John,Dir,P - Purchase,78.12,6410,28444,+29%,500747,False
-2026-02-24,2026-02-20,HLNE,Hamilton Lane Inc,Hirsch Erik R.,"Co-CEO, 10%",P - Purchase,107.13,9225,880275,+1%,988260,True
-2026-02-24,2026-02-20,HLNE,Hamilton Lane Inc,Delgado-Moreira Juan,"Co-CEO, 10%",P - Purchase,107.24,9225,1338047,+1%,989311,True
-2026-02-24,2026-02-20,HLNE,Hamilton Lane Inc,Kramer Andrea Anigati,"COO, 10%",P - Purchase,107.53,2325,219644,+1%,250011,True
-2026-02-24,2026-02-20,HLNE,Hamilton Lane Inc,Giannini Mario L,"Exec  Co-COB, 10%",P - Purchase,107.32,9225,1418054,+1%,990010,True
-2026-02-26,2026-02-25,IPWR,Ideal Power Inc.,Somo David M,"Pres, CEO",P - Purchase,2.75,90909,338347,+37%,250000,False
+2026-02-24,2026-02-24,UBER,"Uber Technologies, Inc",Krishnamurthy Balaji (A),CFO,P - Purchase,71.25,22453,28742,+357%,1599780,False
+2026-02-24,2026-02-20,ARES,Ares Management Corp,Olian Judy D.,Dir,P - Purchase,124.43,480,29734,+2%,59726,False
+2026-02-24,2026-02-20,NP,Neptune Insurance Holdings Inc.,Vostrizansky Michael Warren,Dir,P - Purchase,21.50,23000,23000,New,494415,False
+2026-02-24,2026-02-20,OCUL,"Ocular Therapeutix, Inc",Lindstrom Richard L Md,Dir,P - Purchase,7.66,60229,246933,+32%,461354,False
+2026-02-24,2026-02-20,CAR,"Avis Budget Group, Inc.",Pentwater Capital Management LP,10%,P - Purchase,94.26,425000,8059400,+6%,40060075,False
+2026-02-25,2026-02-23,LXRX,"Lexicon Pharmaceuticals, Inc.",Debbane Raymond,Dir,P - Purchase,1.47,100000,51658909,0%,147000,False
+2026-02-25,11:48,2026-02-23,HUM,Humana Inc,Shetty Sanjay K,"Pres, CenterWell",P - Purchase,185.21,810,11657,+7%,150016,False
+2026-02-25,16:17,2026-02-23,AMH,American Homes 4 Rent,Corrigan Jack E,Dir,P - Purchase,22.96,5000,50000,+11%,114776,True
+2026-02-25,16:15,2026-02-23,VERX,"Vertex, Inc.",Young Christopher David,"Pres, CEO",P - Purchase,12.18,60000,60000,New,730794,True
+2026-02-25,16:14,2026-02-23,AMH,American Homes 4 Rent,Benham Douglas N,Dir,P - Purchase,29.15,2000,42218,+5%,58300,True
+2026-02-25,16:06,2026-02-24,HLNE,Hamilton Lane Inc,Berkman David J,Dir,P - Purchase,101.00,10000,35000,+40%,1010000,True
+2026-02-25,14:51,2026-01-16,AERA,Ai Era Corp.,Deng Chiyuan,"CEO, 10%",P - Purchase,0.86,130000,2192489,+6%,111800,False
+2026-02-25,11:48,2026-02-23,HUM,Humana Inc,Shetty Sanjay K,"Pres, CenterWell",P - Purchase,185.21,810,11657,+7%,150016,False
+2026-02-25,16:33,2026-02-24,ZION,"Zions Bancorporation, National Association /Ut/",Simmons Harris H,"COB, CEO",P - Purchase,59.03,4500,1317493,0%,265635,False
+2026-02-25,16:32,2026-02-25,IBM,International Business Machines Corp,Miebach Michael,Dir,P - Purchase,233.33,434,434,New,101264,False
+2026-02-25,16:30,2026-02-24,NEU,Newmarket Corp,Xu Ting,Dir,P - Purchase,619.21,400,929,+76%,247684,False
+2026-02-25,16:17,2026-02-23,AMH,American Homes 4 Rent,Corrigan Jack E,Dir,P - Purchase,22.96,5000,50000,+11%,114776,True
+2026-02-25,16:15,2026-02-23,VERX,"Vertex, Inc.",Young Christopher David,"Pres, CEO",P - Purchase,12.18,60000,60000,New,730794,True
+2026-02-25,16:14,2026-02-23,AMH,American Homes 4 Rent,Benham Douglas N,Dir,P - Purchase,29.15,2000,42218,+5%,58300,True
+2026-02-25,16:06,2026-02-24,HLNE,Hamilton Lane Inc,Berkman David J,Dir,P - Purchase,101.00,10000,35000,+40%,1010000,True
+2026-02-25,14:51,2026-01-16,AERA,Ai Era Corp.,Deng Chiyuan,"CEO, 10%",P - Purchase,0.86,130000,2192489,+6%,111800,False
+2026-02-25,11:48,2026-02-23,HUM,Humana Inc,Shetty Sanjay K,"Pres, CenterWell",P - Purchase,185.21,810,11657,+7%,150016,False
+2026-02-25,21:07,2026-02-23,SONO,Sonos Inc,"Coliseum Capital Management, LLC",10%,P - Purchase,14.95,611279,33592405,+2%,9140036,False
+2026-02-25,20:02,2026-02-23,WRB,Berkley W R Corp,Mitsui Sumitomo Insurance Co Ltd,10%,P - Purchase,71.13,553654,58222274,+1%,39381432,False
+2026-02-25,19:28,2026-02-20,GSHD,"Goosehead Insurance, Inc.",Goldberg Louis,Dir,P - Purchase,44.85,5575,5575,New,250039,False
+2026-02-25,19:21,2026-02-11,JAGU,Jaguar Uranium Corp.,Isoenergy Ltd.,10%,P - Purchase,4.00,250000,3250000,+8%,1000000,False
+2026-02-25,18:19,2026-02-23,IBATF,International Battery Metals Ltd.,Warnock Jacob Aaron,"Dir, 10%",P - Purchase,0.08,26427053,109326104,+32%,2114164,False
+2026-02-25,17:34,2026-02-24,ALIT,"Alight, Inc. / Delaware",Verma Rohit,CEO,P - Purchase,0.77,100000,1022883,+11%,77040,False
+2026-02-25,16:46,2026-02-23,STEP,Stepstone Group Inc.,Mitchell Steven R,Dir,P - Purchase,44.23,12793,12793,New,565772,False
+2026-02-25,16:45,2026-02-23,KELYA,Kelly Services Inc,Hunt James Christopher,Dir,P - Purchase,9.43,10000,25976,+63%,94300,False
+2026-02-25,16:40,2026-02-23,TYL,Tyler Technologies Inc,Teed Andrew D.,Dir,P - Purchase,309.91,1600,7118,+29%,495856,True
+2026-02-25,16:39,2026-02-23,TCBI,Texas Capital Bancshares Inc/Tx,Stallings Robert W,Dir,P - Purchase,22.20,40000,880500,+5%,888000,False
+2026-02-25,16:39,2026-02-23,POOL,Pool Corp,St Romain Kenneth G,SVP,P - Purchase,218.67,5560,82845,+7%,1215810,False
+2026-02-25,16:33,2026-02-24,ZION,"Zions Bancorporation, National Association /Ut/",Simmons Harris H,"COB, CEO",P - Purchase,59.03,4500,1317493,0%,265635,False
+2026-02-25,16:32,2026-02-25,IBM,International Business Machines Corp,Miebach Michael,Dir,P - Purchase,233.33,434,434,New,101264,False
+2026-02-25,16:30,2026-02-24,NEU,Newmarket Corp,Xu Ting,Dir,P - Purchase,619.21,400,929,+76%,247684,False
+2026-02-25,16:17,2026-02-23,AMH,American Homes 4 Rent,Corrigan Jack E,Dir,P - Purchase,22.96,5000,50000,+11%,114776,True
+2026-02-25,16:15,2026-02-23,VERX,"Vertex, Inc.",Young Christopher David,"Pres, CEO",P - Purchase,12.18,60000,60000,New,730794,True
+2026-02-25,16:14,2026-02-23,AMH,American Homes 4 Rent,Benham Douglas N,Dir,P - Purchase,29.15,2000,42218,+5%,58300,True
+2026-02-25,16:06,2026-02-24,HLNE,Hamilton Lane Inc,Berkman David J,Dir,P - Purchase,101.00,10000,35000,+40%,1010000,True
+2026-02-25,14:51,2026-01-16,AERA,Ai Era Corp.,Deng Chiyuan,"CEO, 10%",P - Purchase,0.86,130000,2192489,+6%,111800,False
+2026-02-25,11:48,2026-02-23,HUM,Humana Inc,Shetty Sanjay K,"Pres, CenterWell",P - Purchase,185.21,810,11657,+7%,150016,False
+2026-02-25,21:07,2026-02-23,SONO,Sonos Inc,"Coliseum Capital Management, LLC",10%,P - Purchase,14.95,611279,33592405,+2%,9140036,False
+2026-02-25,20:02,2026-02-23,WRB,Berkley W R Corp,Mitsui Sumitomo Insurance Co Ltd,10%,P - Purchase,71.13,553654,58222274,+1%,39381432,False
+2026-02-25,19:28,2026-02-20,GSHD,"Goosehead Insurance, Inc.",Goldberg Louis,Dir,P - Purchase,44.85,5575,5575,New,250039,False
+2026-02-25,19:21,2026-02-11,JAGU,Jaguar Uranium Corp.,Isoenergy Ltd.,10%,P - Purchase,4.00,250000,3250000,+8%,1000000,False
+2026-02-25,18:19,2026-02-23,IBATF,International Battery Metals Ltd.,Warnock Jacob Aaron,"Dir, 10%",P - Purchase,0.08,26427053,109326104,+32%,2114164,False
+2026-02-25,17:34,2026-02-24,ALIT,"Alight, Inc. / Delaware",Verma Rohit,CEO,P - Purchase,0.77,100000,1022883,+11%,77040,False
+2026-02-25,16:46,2026-02-23,STEP,Stepstone Group Inc.,Mitchell Steven R,Dir,P - Purchase,44.23,12793,12793,New,565772,False
+2026-02-25,16:45,2026-02-23,KELYA,Kelly Services Inc,Hunt James Christopher,Dir,P - Purchase,9.43,10000,25976,+63%,94300,False
+2026-02-25,16:40,2026-02-23,TYL,Tyler Technologies Inc,Teed Andrew D.,Dir,P - Purchase,309.91,1600,7118,+29%,495856,True
+2026-02-25,16:39,2026-02-23,TCBI,Texas Capital Bancshares Inc/Tx,Stallings Robert W,Dir,P - Purchase,22.20,40000,880500,+5%,888000,False
+2026-02-25,16:39,2026-02-23,POOL,Pool Corp,St Romain Kenneth G,SVP,P - Purchase,218.67,5560,82845,+7%,1215810,False
+2026-02-25,16:33,2026-02-24,ZION,"Zions Bancorporation, National Association /Ut/",Simmons Harris H,"COB, CEO",P - Purchase,59.03,4500,1317493,0%,265635,False
+2026-02-25,16:32,2026-02-25,IBM,International Business Machines Corp,Miebach Michael,Dir,P - Purchase,233.33,434,434,New,101264,False
+2026-02-25,16:30,2026-02-24,NEU,Newmarket Corp,Xu Ting,Dir,P - Purchase,619.21,400,929,+76%,247684,False
+2026-02-25,16:17,2026-02-23,AMH,American Homes 4 Rent,Corrigan Jack E,Dir,P - Purchase,22.96,5000,50000,+11%,114776,True
+2026-02-25,16:15,2026-02-23,VERX,"Vertex, Inc.",Young Christopher David,"Pres, CEO",P - Purchase,12.18,60000,60000,New,730794,True
+2026-02-25,16:14,2026-02-23,AMH,American Homes 4 Rent,Benham Douglas N,Dir,P - Purchase,29.15,2000,42218,+5%,58300,True
+2026-02-25,16:06,2026-02-24,HLNE,Hamilton Lane Inc,Berkman David J,Dir,P - Purchase,101.00,10000,35000,+40%,1010000,True
+2026-02-25,14:51,2026-01-16,AERA,Ai Era Corp.,Deng Chiyuan,"CEO, 10%",P - Purchase,0.86,130000,2192489,+6%,111800,False
+2026-02-25,11:48,2026-02-23,HUM,Humana Inc,Shetty Sanjay K,"Pres, CenterWell",P - Purchase,185.21,810,11657,+7%,150016,False
+2026-02-25,21:07,2026-02-23,SONO,Sonos Inc,"Coliseum Capital Management, LLC",10%,P - Purchase,14.95,611279,33592405,+2%,9140036,False
+2026-02-25,20:02,2026-02-23,WRB,Berkley W R Corp,Mitsui Sumitomo Insurance Co Ltd,10%,P - Purchase,71.13,553654,58222274,+1%,39381432,False
+2026-02-25,19:28,2026-02-20,GSHD,"Goosehead Insurance, Inc.",Goldberg Louis,Dir,P - Purchase,44.85,5575,5575,New,250039,False
+2026-02-25,19:21,2026-02-11,JAGU,Jaguar Uranium Corp.,Isoenergy Ltd.,10%,P - Purchase,4.00,250000,3250000,+8%,1000000,False
+2026-02-25,18:19,2026-02-23,IBATF,International Battery Metals Ltd.,Warnock Jacob Aaron,"Dir, 10%",P - Purchase,0.08,26427053,109326104,+32%,2114164,False
+2026-02-25,17:34,2026-02-24,ALIT,"Alight, Inc. / Delaware",Verma Rohit,CEO,P - Purchase,0.77,100000,1022883,+11%,77040,False
+2026-02-25,16:46,2026-02-23,STEP,Stepstone Group Inc.,Mitchell Steven R,Dir,P - Purchase,44.23,12793,12793,New,565772,False
+2026-02-25,16:45,2026-02-23,KELYA,Kelly Services Inc,Hunt James Christopher,Dir,P - Purchase,9.43,10000,25976,+63%,94300,False
+2026-02-25,16:40,2026-02-23,TYL,Tyler Technologies Inc,Teed Andrew D.,Dir,P - Purchase,309.91,1600,7118,+29%,495856,True
+2026-02-25,16:39,2026-02-23,TCBI,Texas Capital Bancshares Inc/Tx,Stallings Robert W,Dir,P - Purchase,22.20,40000,880500,+5%,888000,False
+2026-02-25,16:39,2026-02-23,POOL,Pool Corp,St Romain Kenneth G,SVP,P - Purchase,218.67,5560,82845,+7%,1215810,False
+2026-02-25,16:33,2026-02-24,ZION,"Zions Bancorporation, National Association /Ut/",Simmons Harris H,"COB, CEO",P - Purchase,59.03,4500,1317493,0%,265635,False
+2026-02-25,16:32,2026-02-25,IBM,International Business Machines Corp,Miebach Michael,Dir,P - Purchase,233.33,434,434,New,101264,False
+2026-02-25,16:30,2026-02-24,NEU,Newmarket Corp,Xu Ting,Dir,P - Purchase,619.21,400,929,+76%,247684,False
+2026-02-25,16:17,2026-02-23,AMH,American Homes 4 Rent,Corrigan Jack E,Dir,P - Purchase,22.96,5000,50000,+11%,114776,True
+2026-02-25,16:15,2026-02-23,VERX,"Vertex, Inc.",Young Christopher David,"Pres, CEO",P - Purchase,12.18,60000,60000,New,730794,True
+2026-02-25,16:14,2026-02-23,AMH,American Homes 4 Rent,Benham Douglas N,Dir,P - Purchase,29.15,2000,42218,+5%,58300,True
+2026-02-25,16:06,2026-02-24,HLNE,Hamilton Lane Inc,Berkman David J,Dir,P - Purchase,101.00,10000,35000,+40%,1010000,True
+2026-02-25,14:51,2026-01-16,AERA,Ai Era Corp.,Deng Chiyuan,"CEO, 10%",P - Purchase,0.86,130000,2192489,+6%,111800,False
+2026-02-25,11:48,2026-02-23,HUM,Humana Inc,Shetty Sanjay K,"Pres, CenterWell",P - Purchase,185.21,810,11657,+7%,150016,False
+2026-02-25,21:07,2026-02-23,SONO,Sonos Inc,"Coliseum Capital Management, LLC",10%,P - Purchase,14.95,611279,33592405,+2%,9140036,False
+2026-02-25,20:02,2026-02-23,WRB,Berkley W R Corp,Mitsui Sumitomo Insurance Co Ltd,10%,P - Purchase,71.13,553654,58222274,+1%,39381432,False
+2026-02-25,19:28,2026-02-20,GSHD,"Goosehead Insurance, Inc.",Goldberg Louis,Dir,P - Purchase,44.85,5575,5575,New,250039,False
+2026-02-25,19:21,2026-02-11,JAGU,Jaguar Uranium Corp.,Isoenergy Ltd.,10%,P - Purchase,4.00,250000,3250000,+8%,1000000,False
+2026-02-25,18:19,2026-02-23,IBATF,International Battery Metals Ltd.,Warnock Jacob Aaron,"Dir, 10%",P - Purchase,0.08,26427053,109326104,+32%,2114164,False
+2026-02-25,17:34,2026-02-24,ALIT,"Alight, Inc. / Delaware",Verma Rohit,CEO,P - Purchase,0.77,100000,1022883,+11%,77040,False
+2026-02-25,16:46,2026-02-23,STEP,Stepstone Group Inc.,Mitchell Steven R,Dir,P - Purchase,44.23,12793,12793,New,565772,False
+2026-02-25,16:45,2026-02-23,KELYA,Kelly Services Inc,Hunt James Christopher,Dir,P - Purchase,9.43,10000,25976,+63%,94300,False
+2026-02-25,16:40,2026-02-23,TYL,Tyler Technologies Inc,Teed Andrew D.,Dir,P - Purchase,309.91,1600,7118,+29%,495856,True
+2026-02-25,16:39,2026-02-23,TCBI,Texas Capital Bancshares Inc/Tx,Stallings Robert W,Dir,P - Purchase,22.20,40000,880500,+5%,888000,False
+2026-02-25,16:39,2026-02-23,POOL,Pool Corp,St Romain Kenneth G,SVP,P - Purchase,218.67,5560,82845,+7%,1215810,False
+2026-02-25,16:33,2026-02-24,ZION,"Zions Bancorporation, National Association /Ut/",Simmons Harris H,"COB, CEO",P - Purchase,59.03,4500,1317493,0%,265635,False
+2026-02-25,16:32,2026-02-25,IBM,International Business Machines Corp,Miebach Michael,Dir,P - Purchase,233.33,434,434,New,101264,False
+2026-02-25,16:30,2026-02-24,NEU,Newmarket Corp,Xu Ting,Dir,P - Purchase,619.21,400,929,+76%,247684,False
+2026-02-25,16:17,2026-02-23,AMH,American Homes 4 Rent,Corrigan Jack E,Dir,P - Purchase,22.96,5000,50000,+11%,114776,True
+2026-02-25,16:15,2026-02-23,VERX,"Vertex, Inc.",Young Christopher David,"Pres, CEO",P - Purchase,12.18,60000,60000,New,730794,True
+2026-02-25,16:14,2026-02-23,AMH,American Homes 4 Rent,Benham Douglas N,Dir,P - Purchase,29.15,2000,42218,+5%,58300,True
+2026-02-25,16:06,2026-02-24,HLNE,Hamilton Lane Inc,Berkman David J,Dir,P - Purchase,101.00,10000,35000,+40%,1010000,True
+2026-02-25,14:51,2026-01-16,AERA,Ai Era Corp.,Deng Chiyuan,"CEO, 10%",P - Purchase,0.86,130000,2192489,+6%,111800,False
+2026-02-25,11:48,2026-02-23,HUM,Humana Inc,Shetty Sanjay K,"Pres, CenterWell",P - Purchase,185.21,810,11657,+7%,150016,False
+2026-02-26,07:05,2026-02-25,PODD,Insulet Corp,Minogue Michael R,Dir,P - Purchase,246.23,2030,18261,+13%,499847,True
+2026-02-25,21:07,2026-02-23,SONO,Sonos Inc,"Coliseum Capital Management, LLC",10%,P - Purchase,14.95,611279,33592405,+2%,9140036,False
+2026-02-25,20:02,2026-02-23,WRB,Berkley W R Corp,Mitsui Sumitomo Insurance Co Ltd,10%,P - Purchase,71.13,553654,58222274,+1%,39381432,False
+2026-02-25,19:28,2026-02-20,GSHD,"Goosehead Insurance, Inc.",Goldberg Louis,Dir,P - Purchase,44.85,5575,5575,New,250039,False
+2026-02-25,19:21,2026-02-11,JAGU,Jaguar Uranium Corp.,Isoenergy Ltd.,10%,P - Purchase,4.00,250000,3250000,+8%,1000000,False
+2026-02-25,18:19,2026-02-23,IBATF,International Battery Metals Ltd.,Warnock Jacob Aaron,"Dir, 10%",P - Purchase,0.08,26427053,109326104,+32%,2114164,False
+2026-02-25,17:34,2026-02-24,ALIT,"Alight, Inc. / Delaware",Verma Rohit,CEO,P - Purchase,0.77,100000,1022883,+11%,77040,False
+2026-02-25,16:46,2026-02-23,STEP,Stepstone Group Inc.,Mitchell Steven R,Dir,P - Purchase,44.23,12793,12793,New,565772,False
+2026-02-25,16:45,2026-02-23,KELYA,Kelly Services Inc,Hunt James Christopher,Dir,P - Purchase,9.43,10000,25976,+63%,94300,False
+2026-02-25,16:40,2026-02-23,TYL,Tyler Technologies Inc,Teed Andrew D.,Dir,P - Purchase,309.91,1600,7118,+29%,495856,True
+2026-02-25,16:39,2026-02-23,TCBI,Texas Capital Bancshares Inc/Tx,Stallings Robert W,Dir,P - Purchase,22.20,40000,880500,+5%,888000,False
+2026-02-25,16:39,2026-02-23,POOL,Pool Corp,St Romain Kenneth G,SVP,P - Purchase,218.67,5560,82845,+7%,1215810,False
+2026-02-25,16:33,2026-02-24,ZION,"Zions Bancorporation, National Association /Ut/",Simmons Harris H,"COB, CEO",P - Purchase,59.03,4500,1317493,0%,265635,False
+2026-02-25,16:32,2026-02-25,IBM,International Business Machines Corp,Miebach Michael,Dir,P - Purchase,233.33,434,434,New,101264,False
+2026-02-25,16:30,2026-02-24,NEU,Newmarket Corp,Xu Ting,Dir,P - Purchase,619.21,400,929,+76%,247684,False
+2026-02-25,16:17,2026-02-23,AMH,American Homes 4 Rent,Corrigan Jack E,Dir,P - Purchase,22.96,5000,50000,+11%,114776,True
+2026-02-25,16:15,2026-02-23,VERX,"Vertex, Inc.",Young Christopher David,"Pres, CEO",P - Purchase,12.18,60000,60000,New,730794,True
+2026-02-25,16:14,2026-02-23,AMH,American Homes 4 Rent,Benham Douglas N,Dir,P - Purchase,29.15,2000,42218,+5%,58300,True
+2026-02-25,16:06,2026-02-24,HLNE,Hamilton Lane Inc,Berkman David J,Dir,P - Purchase,101.00,10000,35000,+40%,1010000,True
+2026-02-25,14:51,2026-01-16,AERA,Ai Era Corp.,Deng Chiyuan,"CEO, 10%",P - Purchase,0.86,130000,2192489,+6%,111800,False
+2026-02-25,11:48,2026-02-23,HUM,Humana Inc,Shetty Sanjay K,"Pres, CenterWell",P - Purchase,185.21,810,11657,+7%,150016,False
+2026-02-26,08:49,2026-02-25,IPWR,Ideal Power Inc.,Somo David M,"Pres, CEO",P - Purchase,2.75,90909,338347,+37%,250000,False
+2026-02-26,07:05,2026-02-25,PODD,Insulet Corp,Minogue Michael R,Dir,P - Purchase,246.23,2030,18261,+13%,499847,True
+2026-02-25,21:07,2026-02-23,SONO,Sonos Inc,"Coliseum Capital Management, LLC",10%,P - Purchase,14.95,611279,33592405,+2%,9140036,False
+2026-02-25,20:02,2026-02-23,WRB,Berkley W R Corp,Mitsui Sumitomo Insurance Co Ltd,10%,P - Purchase,71.13,553654,58222274,+1%,39381432,False
+2026-02-25,19:28,2026-02-20,GSHD,"Goosehead Insurance, Inc.",Goldberg Louis,Dir,P - Purchase,44.85,5575,5575,New,250039,False
+2026-02-25,19:21,2026-02-11,JAGU,Jaguar Uranium Corp.,Isoenergy Ltd.,10%,P - Purchase,4.00,250000,3250000,+8%,1000000,False
+2026-02-25,18:19,2026-02-23,IBATF,International Battery Metals Ltd.,Warnock Jacob Aaron,"Dir, 10%",P - Purchase,0.08,26427053,109326104,+32%,2114164,False
+2026-02-25,17:34,2026-02-24,ALIT,"Alight, Inc. / Delaware",Verma Rohit,CEO,P - Purchase,0.77,100000,1022883,+11%,77040,False
+2026-02-25,16:46,2026-02-23,STEP,Stepstone Group Inc.,Mitchell Steven R,Dir,P - Purchase,44.23,12793,12793,New,565772,False
+2026-02-25,16:45,2026-02-23,KELYA,Kelly Services Inc,Hunt James Christopher,Dir,P - Purchase,9.43,10000,25976,+63%,94300,False
+2026-02-25,16:40,2026-02-23,TYL,Tyler Technologies Inc,Teed Andrew D.,Dir,P - Purchase,309.91,1600,7118,+29%,495856,True
+2026-02-25,16:39,2026-02-23,TCBI,Texas Capital Bancshares Inc/Tx,Stallings Robert W,Dir,P - Purchase,22.20,40000,880500,+5%,888000,False
+2026-02-25,16:39,2026-02-23,POOL,Pool Corp,St Romain Kenneth G,SVP,P - Purchase,218.67,5560,82845,+7%,1215810,False
+2026-02-25,16:33,2026-02-24,ZION,"Zions Bancorporation, National Association /Ut/",Simmons Harris H,"COB, CEO",P - Purchase,59.03,4500,1317493,0%,265635,False
+2026-02-25,16:32,2026-02-25,IBM,International Business Machines Corp,Miebach Michael,Dir,P - Purchase,233.33,434,434,New,101264,False
+2026-02-25,16:30,2026-02-24,NEU,Newmarket Corp,Xu Ting,Dir,P - Purchase,619.21,400,929,+76%,247684,False
+2026-02-25,16:17,2026-02-23,AMH,American Homes 4 Rent,Corrigan Jack E,Dir,P - Purchase,22.96,5000,50000,+11%,114776,True
+2026-02-25,16:15,2026-02-23,VERX,"Vertex, Inc.",Young Christopher David,"Pres, CEO",P - Purchase,12.18,60000,60000,New,730794,True
+2026-02-25,16:14,2026-02-23,AMH,American Homes 4 Rent,Benham Douglas N,Dir,P - Purchase,29.15,2000,42218,+5%,58300,True
+2026-02-25,16:06,2026-02-24,HLNE,Hamilton Lane Inc,Berkman David J,Dir,P - Purchase,101.00,10000,35000,+40%,1010000,True
+2026-02-25,14:51,2026-01-16,AERA,Ai Era Corp.,Deng Chiyuan,"CEO, 10%",P - Purchase,0.86,130000,2192489,+6%,111800,False
+2026-02-25,11:48,2026-02-23,HUM,Humana Inc,Shetty Sanjay K,"Pres, CenterWell",P - Purchase,185.21,810,11657,+7%,150016,False
