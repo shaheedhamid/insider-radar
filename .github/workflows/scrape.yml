@@ -2,8 +2,8 @@ name: Scrape Insider Trades
 
 on:
   schedule:
-    # Every 4 hours
-    - cron: "0 */3 * * *"
+    # Every 2 hours
+    - cron: "0 */2 * * *"
   workflow_dispatch:  # Allow manual triggering
 
 permissions:

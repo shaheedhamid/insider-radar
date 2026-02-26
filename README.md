@@ -1,10 +1,10 @@
 # Insider Radar 📡
 
-A free, self-hosted GitHub Pages dashboard that tracks **insider buying activity** from [OpenInsider](http://openinsider.com). Data is automatically scraped every 4 hours via GitHub Actions and displayed in a clean, filterable dashboard.
+A free, self-hosted GitHub Pages dashboard that tracks **insider buying activity** from [OpenInsider](http://openinsider.com). Data is automatically scraped every 2 hours via GitHub Actions and displayed in a clean, filterable dashboard.
 
 ## Features
 
-- **Automatic scraping** every 4 hours — open market purchases only, minimum $100K trade value
+- **Automatic scraping** every 2 hours — open market purchases only, minimum $100K trade value
 - **Cluster buy detection** — flags tickers where 2+ insiders buy within 14 days
 - **Interactive filters** — search by ticker/company, filter by title (CEO/Director/VP), minimum value slider
 - **Sortable columns** — click any column header to sort
@@ -62,7 +62,7 @@ This allows the GitHub Actions bot to commit the updated data files automaticall
 
 ### 4. Run the scraper manually (optional first-time setup)
 
-After setting up the repo you can trigger the scraper immediately instead of waiting up to 4 hours:
+After setting up the repo you can trigger the scraper immediately instead of waiting up to 2 hours:
 
 1. Go to the **Actions** tab in your repository.
 2. Select **Scrape Insider Trades** from the left panel.
@@ -131,7 +131,7 @@ Edit constants at the top of `scraper/scrape.py` to adjust behaviour:
 
 ## Schedule
 
-The scraper runs on a `cron: "0 */4 * * *"` schedule (every 4 hours). You can also trigger it manually from the **Actions** tab.
+The scraper runs on a `cron: "0 */2 * * *"` schedule (every 2 hours). You can also trigger it manually from the **Actions** tab.
 
 > **Note:** GitHub Actions scheduled workflows may be delayed by up to 15–30 minutes during high-load periods. Free-tier repositories with no recent activity may have scheduled workflows paused — simply push a commit to re-enable them.
 
