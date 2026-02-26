@@ -537,6 +537,43 @@
       background: var(--gold-bg);
     }
 
+    /* date range picker */
+    .date-range-group {
+      display: flex;
+      align-items: center;
+      gap: 2px;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 2px;
+    }
+
+    .btn-range {
+      background: transparent;
+      border: 1px solid transparent;
+      color: var(--muted2);
+      border-radius: 6px;
+      padding: 4px 10px;
+      font-size: 11px;
+      font-weight: 600;
+      font-family: inherit;
+      cursor: pointer;
+      transition: all .15s;
+      letter-spacing: .03em;
+      white-space: nowrap;
+    }
+
+    .btn-range:hover {
+      color: var(--text);
+      background: var(--surface3);
+    }
+
+    .btn-range.active {
+      background: var(--gold-bg);
+      color: var(--gold);
+      border-color: rgba(240,168,0,.25);
+    }
+
     /* ================================================================== */
     /* TABLE SECTION                                                        */
     /* ================================================================== */
@@ -1012,6 +1049,17 @@
     </div>
   </div>
 
+  <div class="filter-group">
+    <span class="filter-label">Period</span>
+    <div class="date-range-group" id="date-range-group">
+      <button class="btn-range" data-range="7">7D</button>
+      <button class="btn-range" data-range="30">30D</button>
+      <button class="btn-range" data-range="90">90D</button>
+      <button class="btn-range" data-range="365">1Y</button>
+      <button class="btn-range active" data-range="all">All</button>
+    </div>
+  </div>
+
   <button class="btn-reset" id="btn-reset">↺ Reset</button>
 </div>
 
@@ -1099,6 +1147,7 @@
   let sortCol         = 'filing_date';
   let sortDir         = 'desc';
   let expandedTickers = new Set();
+  let dateRange       = 'all';
 
   /* ------------------------------------------------------------------ */
   /* DOM refs                                                              */
@@ -1113,8 +1162,9 @@
   const titleFilterEl  = document.getElementById('title-filter');
   const minValueSlider = document.getElementById('min-value-slider');
   const minValueLabel  = document.getElementById('min-value-label');
-  const btnReset       = document.getElementById('btn-reset');
-  const tableEl        = document.getElementById('trades-table');
+  const btnReset         = document.getElementById('btn-reset');
+  const tableEl          = document.getElementById('trades-table');
+  const dateRangeGroupEl = document.getElementById('date-range-group');
 
   const statVisible    = document.getElementById('stat-visible');
   const statClusters   = document.getElementById('stat-clusters');
@@ -1190,17 +1240,25 @@
   /* ------------------------------------------------------------------ */
   function getFilters() {
     return {
-      search:   searchInputEl.value.trim().toLowerCase(),
-      title:    titleFilterEl.value,
-      minValue: VALUE_STEPS[parseInt(minValueSlider.value, 10)],
+      search:    searchInputEl.value.trim().toLowerCase(),
+      title:     titleFilterEl.value,
+      minValue:  VALUE_STEPS[parseInt(minValueSlider.value, 10)],
+      dateRange: dateRange,
     };
   }
 
   function applyFilters(trades) {
-    const { search, title, minValue } = getFilters();
+    const { search, title, minValue, dateRange } = getFilters();
+    let cutoff = null;
+    if (dateRange !== 'all') {
+      const d = new Date();
+      d.setDate(d.getDate() - parseInt(dateRange, 10));
+      cutoff = d.toISOString().slice(0, 10);
+    }
     return trades.filter(t => {
       if (parseNumber(t.value) < minValue) return false;
       if (title !== 'all' && classifyTitle(t.title) !== title) return false;
+      if (cutoff && (t.filing_date || '') < cutoff) return false;
       if (search) {
         const hay = ((t.ticker || '') + ' ' + (t.company || '')).toLowerCase();
         if (!hay.includes(search)) return false;
@@ -1404,11 +1462,25 @@
     minValueLabel.textContent = sliderLabel(parseInt(minValueSlider.value, 10));
     renderTable();
   });
+
+  dateRangeGroupEl.querySelectorAll('.btn-range').forEach(btn => {
+    btn.addEventListener('click', () => {
+      dateRange = btn.dataset.range;
+      dateRangeGroupEl.querySelectorAll('.btn-range').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      renderTable();
+    });
+  });
+
   btnReset.addEventListener('click', () => {
-    searchInputEl.value        = '';
-    titleFilterEl.value        = 'all';
-    minValueSlider.value       = 0;
-    minValueLabel.textContent  = sliderLabel(0);
+    searchInputEl.value       = '';
+    titleFilterEl.value       = 'all';
+    minValueSlider.value      = 0;
+    minValueLabel.textContent = sliderLabel(0);
+    dateRange                 = 'all';
+    dateRangeGroupEl.querySelectorAll('.btn-range').forEach(b => {
+      b.classList.toggle('active', b.dataset.range === 'all');
+    });
     renderTable();
   });
 
