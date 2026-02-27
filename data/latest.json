@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-27T13:03:48Z",
-  "trade_count": 5002,
+  "last_updated": "2026-02-27T14:40:12Z",
+  "trade_count": 5003,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -80032,6 +80032,22 @@
       "owned": "71475",
       "delta_own": "+54%",
       "value": "56895",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-02-27",
+      "filing_time": "09:23",
+      "trade_date": "2026-02-25",
+      "ticker": "TPL",
+      "company": "Texas Pacific Land Corp",
+      "insider_name": "Epps Donna E",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "510.45",
+      "qty": "895",
+      "owned": "2921",
+      "delta_own": "+44%",
+      "value": "456853",
       "cluster_buy": false
     }
   ]
