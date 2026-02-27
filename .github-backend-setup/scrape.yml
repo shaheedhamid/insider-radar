@@ -4,10 +4,7 @@ on:
   schedule:
     # Every 2 hours
     - cron: "0 */2 * * *"
-  workflow_dispatch:  # Allow manual triggering
-
-permissions:
-  contents: write
+  workflow_dispatch: # Allow manual triggering
 
 jobs:
   scrape:
@@ -15,10 +12,24 @@ jobs:
     timeout-minutes: 15
 
     steps:
-      - name: Checkout repository
+      # 1. Check out THIS private repo (contains scraper/)
+      - name: Checkout backend repo
+        uses: actions/checkout@v4
+
+      # 2. Check out the PUBLIC repo so we can read + write data/
+      - name: Checkout public repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          repository: shaheedhamid/insider-radar
+          token: ${{ secrets.PUBLIC_REPO_TOKEN }}
+          path: public-repo
+
+      # 3. Copy existing data files into the workspace root so the scraper
+      #    finds them at the path it expects (../data relative to scraper/)
+      - name: Copy existing data into workspace
+        run: |
+          mkdir -p data
+          cp -r public-repo/data/. data/
 
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
@@ -39,12 +50,14 @@ jobs:
       - name: Run scraper
         run: python scraper/scrape.py
 
-      - name: Commit and push updated data files
+      # 4. Copy updated data/ back into the public repo checkout, then push
+      - name: Push updated data to public repo
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          cp -r data/. public-repo/data/
+          cd public-repo
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
           git add data/latest.json data/history.csv
-          # Only commit if there are changes
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
