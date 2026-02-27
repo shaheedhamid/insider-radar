@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-27T18:48:26Z",
-  "trade_count": 5005,
+  "last_updated": "2026-02-27T19:59:55Z",
+  "trade_count": 5008,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -80080,6 +80080,54 @@
       "owned": "9787322",
       "delta_own": "+87%",
       "value": "49999760",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-02-27",
+      "filing_time": "14:48",
+      "trade_date": "2026-02-27",
+      "ticker": "ABCL",
+      "company": "Abcellera Biologics Inc.",
+      "insider_name": "Booth Andrew",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "3.42",
+      "qty": "42600",
+      "owned": "326559",
+      "delta_own": "+15%",
+      "value": "145692",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-02-27",
+      "filing_time": "14:17",
+      "trade_date": "2026-02-25",
+      "ticker": "HMN",
+      "company": "Horace Mann Educators Corp /De/",
+      "insider_name": "Fetter Victor",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "42.73",
+      "qty": "3500",
+      "owned": "22292",
+      "delta_own": "+19%",
+      "value": "149540",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-02-27",
+      "filing_time": "13:48",
+      "trade_date": "2026-02-27",
+      "ticker": "LKFN",
+      "company": "Lakeland Financial Corp",
+      "insider_name": "Welch M Scott",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "57.95",
+      "qty": "10000",
+      "owned": "49000",
+      "delta_own": "+26%",
+      "value": "579500",
       "cluster_buy": false
     }
   ]
