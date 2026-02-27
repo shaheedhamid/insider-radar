@@ -1,10 +1,16 @@
 # Insider Radar 📡
 
-A free, self-hosted GitHub Pages dashboard that tracks **insider buying activity** from SEC Form 4 filings. Data is automatically scraped every 2 hours via GitHub Actions and displayed in a clean, filterable dashboard.
+A free GitHub Pages dashboard that tracks **insider buying activity** from SEC Form 4 filings. Data is automatically scraped every 2 hours and pushed here by a separate private backend repo.
+
+## Live Site
+
+```
+https://shaheedhamid.github.io/insider-radar/
+```
 
 ## Features
 
-- **Automatic scraping** every 2 hours — open market purchases only, minimum $100K trade value
+- **Automatic updates** every 2 hours — open market purchases only, minimum $100K trade value
 - **Cluster buy detection** — flags tickers where 2+ insiders buy within 14 days
 - **Interactive filters** — search by ticker/company, filter by title (CEO/Director/VP), minimum value slider
 - **Sortable columns** — click any column header to sort
@@ -12,80 +18,73 @@ A free, self-hosted GitHub Pages dashboard that tracks **insider buying activity
 - **Auto-refresh** — dashboard silently re-fetches data every 30 minutes
 - **Mobile responsive** — works on all screen sizes
 
+## Architecture
+
+This project is split across two repos:
+
+| Repo | Visibility | Contents |
+|------|-----------|----------|
+| [`insider-radar`](https://github.com/shaheedhamid/insider-radar) (this repo) | Public | `index.html` dashboard + `data/` JSON files served by GitHub Pages |
+| `insider-radar-backend` | Private | Python scraper + GitHub Actions workflow |
+
+The backend workflow runs every 2 hours, executes the scraper, and pushes updated JSON files to `data/` in this repo using a scoped `PUBLIC_REPO_TOKEN` secret.
+
 ## Project Structure
 
 ```
-insider-radar/
-├── index.html              # Dashboard (served by GitHub Pages)
+insider-radar/          ← this repo (public)
+├── index.html          # Dashboard served by GitHub Pages
+└── data/
+    ├── latest.json     # Last 1000 days of trades (updated every 2 hours)
+    └── history.csv     # Full trade history (append-only)
+
+insider-radar-backend/  ← separate private repo
 ├── scraper/
-│   ├── scrape.py           # Python scraper
-│   └── requirements.txt    # Python dependencies
-├── data/
-│   ├── latest.json         # Last 1000 days of trades (overwritten each run)
-│   └── history.csv         # Full trade history (append-only)
+│   ├── scrape.py       # Python scraper (SEC Form 4)
+│   └── requirements.txt
 └── .github/
     └── workflows/
-        └── scrape.yml      # GitHub Actions workflow
+        └── scrape.yml  # Runs scraper and pushes data/ here
 ```
 
 ## Setup
 
-### 1. Fork / Clone the repository
+### 1. Enable GitHub Pages on this repo
+
+1. Go to **Settings → Pages**.
+2. Under **Source**, select **Deploy from a branch**.
+3. Set the branch to `main` and folder to `/ (root)`.
+4. Click **Save**.
+
+Your dashboard will be live at `https://<your-username>.github.io/insider-radar/` within 1–2 minutes.
+
+### 2. Set up the private backend repo
+
+See the `insider-radar-backend` repo for full instructions. The short version:
+
+1. Create a private GitHub repo named `insider-radar-backend`.
+2. Add `scraper/` and `.github/workflows/scrape.yml`.
+3. Create a fine-grained Personal Access Token with **Contents: Read and write** scoped to *this* repo only.
+4. Add it as a secret named `PUBLIC_REPO_TOKEN` in the backend repo.
+5. Trigger the workflow manually once to confirm the first push works.
+
+### 3. Local preview
+
+Serve the frontend locally with any static file server:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/insider-radar.git
-cd insider-radar
-```
-
-### 2. Enable GitHub Pages
-
-1. Go to your repository on GitHub.
-2. Click **Settings** → **Pages** (left sidebar).
-3. Under **Source**, select **Deploy from a branch**.
-4. Set the **Branch** to `main` (or `master`) and the folder to `/ (root)`.
-5. Click **Save**.
-
-Your dashboard will be live at:
-```
-https://shaheedhamid.github.io/insider-radar/
-```
-
-> It may take 1–2 minutes after the first push for GitHub Pages to activate.
-
-### 3. Allow Actions to write to the repository
-
-1. Go to **Settings** → **Actions** → **General**.
-2. Under **Workflow permissions**, select **Read and write permissions**.
-3. Click **Save**.
-
-This allows the GitHub Actions bot to commit the updated data files automatically.
-
-### 4. Run the scraper manually (optional first-time setup)
-
-After setting up the repo you can trigger the scraper immediately instead of waiting up to 2 hours:
-
-1. Go to the **Actions** tab in your repository.
-2. Select **Scrape Insider Trades** from the left panel.
-3. Click **Run workflow** → **Run workflow**.
-
-This will populate `data/latest.json` and `data/history.csv` right away.
-
-### 5. Local development
-
-```bash
-pip install -r scraper/requirements.txt
-python scraper/scrape.py
-# Then open index.html in a browser (serve via a local HTTP server for fetch() to work):
 python -m http.server 8000
 # Open http://localhost:8000
 ```
+
+`data/latest.json` is already committed, so the dashboard loads with real data immediately.
 
 ## Data Files
 
 | File | Description |
 |------|-------------|
-| `data/latest.json` | Trades from the last 1000 days. Overwritten on every run. Served directly to the dashboard. |
-| `data/history.csv` | Append-only CSV log of all trades ever seen. Never overwritten. |
+| `data/latest.json` | Trades from the last 1000 days. Overwritten on every scraper run. |
+| `data/history.csv` | Append-only CSV log of all trades ever seen. |
 
 ### `data/latest.json` schema
 
@@ -115,29 +114,11 @@ python -m http.server 8000
 
 ## Cluster Buy Detection
 
-A **cluster buy** is flagged when **2 or more different insiders** purchase shares of the **same ticker within a 14-day window**. Research suggests cluster buys have stronger predictive value than single insider purchases.
-
-Cluster trades are displayed with a 🔥 **Cluster** badge in the dashboard.
-
-## Scraper Configuration
-
-Edit constants at the top of `scraper/scrape.py` to adjust behaviour:
-
-| Constant | Default | Description |
-|----------|---------|-------------|
-| `CLUSTER_WINDOW_DAYS` | 14 | Days to look back for cluster detection |
-| `CLUSTER_MIN_INSIDERS` | 2 | Insiders required to flag a cluster buy |
-| `HISTORY_DAYS` | 1000 | Days of data kept in `latest.json` |
-
-## Schedule
-
-The scraper runs on a `cron: "0 */2 * * *"` schedule (every 2 hours). You can also trigger it manually from the **Actions** tab.
-
-> **Note:** GitHub Actions scheduled workflows may be delayed by up to 15–30 minutes during high-load periods. Free-tier repositories with no recent activity may have scheduled workflows paused — simply push a commit to re-enable them.
+A **cluster buy** is flagged when **2 or more different insiders** purchase shares of the **same ticker within a 14-day window**. Cluster trades are displayed with a 🔥 **Cluster** badge in the dashboard.
 
 ## Disclaimer
 
-This dashboard is for **informational and educational purposes only**. Insider trading data is publicly disclosed and sourced from SEC Form 4 filings. Nothing here constitutes financial advice.
+This dashboard is for **informational and educational purposes only**. Data is sourced from publicly disclosed SEC Form 4 filings. Nothing here constitutes financial advice.
 
 ## License
 
