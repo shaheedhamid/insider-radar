@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-27T14:40:12Z",
-  "trade_count": 5003,
+  "last_updated": "2026-02-27T16:42:58Z",
+  "trade_count": 5005,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -80048,6 +80048,38 @@
       "owned": "2921",
       "delta_own": "+44%",
       "value": "456853",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-02-27",
+      "filing_time": "11:30",
+      "trade_date": "2026-02-25",
+      "ticker": "CMS",
+      "company": "Cms Energy Corp",
+      "insider_name": "Leopold Diane",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "76.70",
+      "qty": "2000",
+      "owned": "2769",
+      "delta_own": "+260%",
+      "value": "153398",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-02-27",
+      "filing_time": "09:59",
+      "trade_date": "2025-12-19",
+      "ticker": "LNPIX",
+      "company": "Lincoln Partners Group Royalty Fund",
+      "insider_name": "Lincoln National Life Insurance Co /In/",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "10.98",
+      "qty": "4554584",
+      "owned": "9787322",
+      "delta_own": "+87%",
+      "value": "49999760",
       "cluster_buy": false
     }
   ]
