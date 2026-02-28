@@ -5017,3 +5017,6 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-02-27,16:08,2026-02-25,POOL,Pool Corp,Hope James D,Dir,P - Purchase,213.64,1405,2570,+121%,300162,True
 2026-02-27,16:07,2026-02-27,RHP,"Ryman Hospitality Properties, Inc.",Reed Colin V,Exec. COB,P - Purchase,100.67,7800,1445099,+1%,785226,False
 2026-02-27,16:04,2026-02-24,FRHC,Freedom Holding Corp.,Lukyanov Sergey,*See Remarks,P - Purchase,120.52,20000,152425,+15%,2410320,False
+2026-02-27,19:30,2026-02-26,WRB,Berkley W R Corp,Mitsui Sumitomo Insurance Co Ltd,10%,P - Purchase,71.65,300000,58522274,+1%,21494315,False
+2026-02-27,18:39,2026-02-26,AXR,Amrep Corp.,Dahl James H,10%,P - Purchase,25.76,7000,964219,+1%,180315,False
+2026-02-27,17:25,2026-02-27,TRGS,Trg Latin America Acquisitions Corp.,Trg Latin America Acquisitions LLC,10%,P - Purchase,10.00,225000,225000,New,2250000,False

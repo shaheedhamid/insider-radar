@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-27T22:12:40Z",
-  "trade_count": 5018,
+  "last_updated": "2026-02-28T00:56:25Z",
+  "trade_count": 5021,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -80288,6 +80288,54 @@
       "owned": "152425",
       "delta_own": "+15%",
       "value": "2410320",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-02-27",
+      "filing_time": "19:30",
+      "trade_date": "2026-02-26",
+      "ticker": "WRB",
+      "company": "Berkley W R Corp",
+      "insider_name": "Mitsui Sumitomo Insurance Co Ltd",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "71.65",
+      "qty": "300000",
+      "owned": "58522274",
+      "delta_own": "+1%",
+      "value": "21494315",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-02-27",
+      "filing_time": "18:39",
+      "trade_date": "2026-02-26",
+      "ticker": "AXR",
+      "company": "Amrep Corp.",
+      "insider_name": "Dahl James H",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "25.76",
+      "qty": "7000",
+      "owned": "964219",
+      "delta_own": "+1%",
+      "value": "180315",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-02-27",
+      "filing_time": "17:25",
+      "trade_date": "2026-02-27",
+      "ticker": "TRGS",
+      "company": "Trg Latin America Acquisitions Corp.",
+      "insider_name": "Trg Latin America Acquisitions LLC",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "10.00",
+      "qty": "225000",
+      "owned": "225000",
+      "delta_own": "New",
+      "value": "2250000",
       "cluster_buy": false
     }
   ]
