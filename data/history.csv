@@ -5020,3 +5020,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-02-27,19:30,2026-02-26,WRB,Berkley W R Corp,Mitsui Sumitomo Insurance Co Ltd,10%,P - Purchase,71.65,300000,58522274,+1%,21494315,False
 2026-02-27,18:39,2026-02-26,AXR,Amrep Corp.,Dahl James H,10%,P - Purchase,25.76,7000,964219,+1%,180315,False
 2026-02-27,17:25,2026-02-27,TRGS,Trg Latin America Acquisitions Corp.,Trg Latin America Acquisitions LLC,10%,P - Purchase,10.00,225000,225000,New,2250000,False
+2026-02-27,21:55,2026-02-27,IONQ,"Ionq, Inc.",Teuber William J Jr,Dir,P - Purchase,38.39,3000,9413,+47%,115155,False
+2026-02-27,20:21,2026-02-27,REXR,"Rexford Industrial Realty, Inc.",Clark Laura E,COO,P - Purchase,37.73,5310,5310,New,200338,True
+2026-02-27,20:20,2026-02-27,REXR,"Rexford Industrial Realty, Inc.",Stockert David P,Dir,P - Purchase,37.39,5000,6829,+273%,186958,True
+2026-02-27,20:19,2026-02-27,REXR,"Rexford Industrial Realty, Inc.",Fitzmaurice Michael,CFO,P - Purchase,37.55,2650,14133,+23%,99508,True

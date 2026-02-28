@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-28T00:56:25Z",
-  "trade_count": 5021,
+  "last_updated": "2026-02-28T03:45:10Z",
+  "trade_count": 5025,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -80337,6 +80337,70 @@
       "delta_own": "New",
       "value": "2250000",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-02-27",
+      "filing_time": "21:55",
+      "trade_date": "2026-02-27",
+      "ticker": "IONQ",
+      "company": "Ionq, Inc.",
+      "insider_name": "Teuber William J Jr",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "38.39",
+      "qty": "3000",
+      "owned": "9413",
+      "delta_own": "+47%",
+      "value": "115155",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-02-27",
+      "filing_time": "20:21",
+      "trade_date": "2026-02-27",
+      "ticker": "REXR",
+      "company": "Rexford Industrial Realty, Inc.",
+      "insider_name": "Clark Laura E",
+      "title": "COO",
+      "trade_type": "P - Purchase",
+      "price": "37.73",
+      "qty": "5310",
+      "owned": "5310",
+      "delta_own": "New",
+      "value": "200338",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-02-27",
+      "filing_time": "20:20",
+      "trade_date": "2026-02-27",
+      "ticker": "REXR",
+      "company": "Rexford Industrial Realty, Inc.",
+      "insider_name": "Stockert David P",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "37.39",
+      "qty": "5000",
+      "owned": "6829",
+      "delta_own": "+273%",
+      "value": "186958",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-02-27",
+      "filing_time": "20:19",
+      "trade_date": "2026-02-27",
+      "ticker": "REXR",
+      "company": "Rexford Industrial Realty, Inc.",
+      "insider_name": "Fitzmaurice Michael",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "37.55",
+      "qty": "2650",
+      "owned": "14133",
+      "delta_own": "+23%",
+      "value": "99508",
+      "cluster_buy": true
     }
   ]
 }
