@@ -5029,3 +5029,4 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-02,08:39,2026-02-27,BCHT,Birchtech Corp.,Macpherson Richard,"Pres, CEO, 10%",P - Purchase,2.40,312500,2955095,+12%,750000,False
 2026-03-02,08:00,2026-02-27,PVLA,"Palvella Therapeutics, Inc.",Jenkins George M,Dir,P - Purchase,125.00,4000,200687,+2%,500000,True
 2026-03-02,08:00,2026-02-27,PVLA,"Palvella Therapeutics, Inc.",Heron Elaine J,Dir,P - Purchase,125.00,2400,53691,+5%,300000,True
+2026-03-02,14:16,2026-02-27,ABCL,Abcellera Biologics Inc.,Thermopylae Holdings Ltd.,10%,P - Purchase,3.44,38000,56134097,0%,130720,True

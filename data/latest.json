@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-02T18:30:53Z",
-  "trade_count": 5030,
+  "last_updated": "2026-03-02T20:22:57Z",
+  "trade_count": 5031,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -80480,6 +80480,22 @@
       "owned": "53691",
       "delta_own": "+5%",
       "value": "300000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-02",
+      "filing_time": "14:16",
+      "trade_date": "2026-02-27",
+      "ticker": "ABCL",
+      "company": "Abcellera Biologics Inc.",
+      "insider_name": "Thermopylae Holdings Ltd.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "3.44",
+      "qty": "38000",
+      "owned": "56134097",
+      "delta_own": "0%",
+      "value": "130720",
       "cluster_buy": true
     }
   ]
