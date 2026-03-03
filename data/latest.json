@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-03T12:30:25Z",
-  "trade_count": 5058,
+  "last_updated": "2026-03-03T14:35:27Z",
+  "trade_count": 5061,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -80928,6 +80928,54 @@
       "owned": "112",
       "delta_own": "+104%",
       "value": "100079",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-03",
+      "filing_time": "09:00",
+      "trade_date": "2026-03-02",
+      "ticker": "EOSE",
+      "company": "Eos Energy Enterprises, Inc.",
+      "insider_name": "Mastrangelo Joe",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "5.75",
+      "qty": "60000",
+      "owned": "1463226",
+      "delta_own": "+4%",
+      "value": "345000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-03",
+      "filing_time": "08:49",
+      "trade_date": "2026-03-01",
+      "ticker": "NMTC",
+      "company": "Neuroone Medical Technologies Corp",
+      "insider_name": "Wambeke David J.",
+      "title": "Chief Business Officer",
+      "trade_type": "P - Purchase",
+      "price": "0.67",
+      "qty": "1000000",
+      "owned": "1000000",
+      "delta_own": "New",
+      "value": "670400",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-03",
+      "filing_time": "08:30",
+      "trade_date": "2026-03-02",
+      "ticker": "PENN",
+      "company": "Penn Entertainment, Inc.",
+      "insider_name": "Scaccetti Jane",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "15.09",
+      "qty": "8000",
+      "owned": "117153",
+      "delta_own": "+7%",
+      "value": "120720",
       "cluster_buy": false
     }
   ]

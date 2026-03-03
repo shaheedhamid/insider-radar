@@ -5057,3 +5057,6 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-02,17:34,2026-02-26,TNC,Tennant Co,Huml David W.,"Pres, CEO",P - Purchase,64.39,4000,142827,+3%,257560,True
 2026-03-02,17:22,2026-02-26,LAW,"Cs Disco, Inc.",Srinivasan Krishna,Dir,P - Purchase,3.20,45000,7924265,+1%,143850,False
 2026-03-02,17:18,2026-02-27,MELI,Mercadolibre Inc,Melamud Marcelo,SVP - Chief Accounting Officer,P - Purchase,1755.77,57,112,+104%,100079,False
+2026-03-03,09:00,2026-03-02,EOSE,"Eos Energy Enterprises, Inc.",Mastrangelo Joe,CEO,P - Purchase,5.75,60000,1463226,+4%,345000,False
+2026-03-03,08:49,2026-03-01,NMTC,Neuroone Medical Technologies Corp,Wambeke David J.,Chief Business Officer,P - Purchase,0.67,1000000,1000000,New,670400,False
+2026-03-03,08:30,2026-03-02,PENN,"Penn Entertainment, Inc.",Scaccetti Jane,Dir,P - Purchase,15.09,8000,117153,+7%,120720,False
