@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-03T18:45:07Z",
-  "trade_count": 5063,
+  "last_updated": "2026-03-03T19:38:51Z",
+  "trade_count": 5064,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -81008,6 +81008,22 @@
       "owned": "3234800",
       "delta_own": "+1%",
       "value": "181512",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-03",
+      "filing_time": "13:54",
+      "trade_date": "2026-02-27",
+      "ticker": "LEE",
+      "company": "Lee Enterprises, Inc",
+      "insider_name": "Hoffmann David Henry",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "9.04",
+      "qty": "53200",
+      "owned": "11689349",
+      "delta_own": "0%",
+      "value": "480662",
       "cluster_buy": true
     }
   ]
