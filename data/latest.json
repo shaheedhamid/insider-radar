@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-03T16:33:21Z",
-  "trade_count": 5062,
+  "last_updated": "2026-03-03T18:34:36Z",
+  "trade_count": 5063,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -79856,7 +79856,7 @@
       "owned": "11636149",
       "delta_own": "0%",
       "value": "390078",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-02-26",
@@ -80992,6 +80992,22 @@
       "owned": "3200",
       "delta_own": "New",
       "value": "151360",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-03",
+      "filing_time": "11:47",
+      "trade_date": "2026-03-02",
+      "ticker": "LEE",
+      "company": "Lee Enterprises, Inc",
+      "insider_name": "Quint Digital Ltd",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "8.87",
+      "qty": "20454",
+      "owned": "3234800",
+      "delta_own": "+1%",
+      "value": "181512",
       "cluster_buy": true
     }
   ]

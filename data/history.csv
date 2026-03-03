@@ -5061,3 +5061,4 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-03,08:49,2026-03-01,NMTC,Neuroone Medical Technologies Corp,Wambeke David J.,Chief Business Officer,P - Purchase,0.67,1000000,1000000,New,670400,False
 2026-03-03,08:30,2026-03-02,PENN,"Penn Entertainment, Inc.",Scaccetti Jane,Dir,P - Purchase,15.09,8000,117153,+7%,120720,False
 2026-03-03,10:19,2026-03-02,SKWD,"Skyward Specialty Insurance Group, Inc.",Peirce Christopher Locke,Dir,P - Purchase,47.30,3200,3200,New,151360,True
+2026-03-03,11:47,2026-03-02,LEE,"Lee Enterprises, Inc",Quint Digital Ltd,10%,P - Purchase,8.87,20454,3234800,+1%,181512,True
