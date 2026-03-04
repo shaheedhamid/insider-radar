@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-04T10:35:43Z",
-  "trade_count": 5097,
+  "last_updated": "2026-03-04T11:29:05Z",
+  "trade_count": 5100,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -81553,6 +81553,54 @@
       "delta_own": "+41%",
       "value": "6100453",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-04",
+      "filing_time": "06:08",
+      "trade_date": "2026-03-03",
+      "ticker": "ACIW",
+      "company": "Aci Worldwide, Inc.",
+      "insider_name": "Benitez Juan II",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "41.90",
+      "qty": "2400",
+      "owned": "16881",
+      "delta_own": "+17%",
+      "value": "100551",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-04",
+      "filing_time": "06:07",
+      "trade_date": "2026-03-02",
+      "ticker": "FOUR",
+      "company": "Shift4 Payments, Inc.",
+      "insider_name": "Isaacman Jared",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "43.83",
+      "qty": "45693",
+      "owned": "23242724",
+      "delta_own": "0%",
+      "value": "2002948",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-04",
+      "filing_time": "06:05",
+      "trade_date": "2026-03-02",
+      "ticker": "ACIW",
+      "company": "Aci Worldwide, Inc.",
+      "insider_name": "Sanchez Adalio T",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "40.98",
+      "qty": "3000",
+      "owned": "95795",
+      "delta_own": "+3%",
+      "value": "122936",
+      "cluster_buy": true
     }
   ]
 }
