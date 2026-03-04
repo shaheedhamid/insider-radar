@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-04T01:57:10Z",
-  "trade_count": 5096,
+  "last_updated": "2026-03-04T04:11:25Z",
+  "trade_count": 5097,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -81536,6 +81536,22 @@
       "owned": "118235",
       "delta_own": "+7%",
       "value": "71680",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-03",
+      "filing_time": "21:06",
+      "trade_date": "2026-02-27",
+      "ticker": "THRY",
+      "company": "Thryv Holdings, Inc.",
+      "insider_name": "Paulson & Co. Inc.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "2.50",
+      "qty": "2437765",
+      "owned": "8443835",
+      "delta_own": "+41%",
+      "value": "6100453",
       "cluster_buy": false
     }
   ]

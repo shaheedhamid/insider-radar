@@ -5095,3 +5095,4 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-03,19:12,2026-03-02,XRAY,Dentsply Sirona Inc.,Lucier Gregory T,Dir,P - Purchase,14.15,50000,95901,+109%,707379,True
 2026-03-03,18:44,2026-03-02,BBSI,Barrett Business Services Inc,Finn Mark Steven,Dir,P - Purchase,27.66,2000,17943,+13%,55315,False
 2026-03-03,18:41,2026-02-27,AHCO,Adapthealth Corp.,Wolf Dale B,Dir,P - Purchase,8.96,8000,118235,+7%,71680,False
+2026-03-03,21:06,2026-02-27,THRY,"Thryv Holdings, Inc.",Paulson & Co. Inc.,10%,P - Purchase,2.50,2437765,8443835,+41%,6100453,False
