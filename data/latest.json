@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-04T22:30:11Z",
-  "trade_count": 5119,
+  "last_updated": "2026-03-04T23:28:52Z",
+  "trade_count": 5124,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -81905,6 +81905,86 @@
       "delta_own": "New",
       "value": "86750",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-04",
+      "filing_time": "18:09",
+      "trade_date": "2026-03-02",
+      "ticker": "TTEC",
+      "company": "Ttec Holdings, Inc.",
+      "insider_name": "Holtzman Marc",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "2.34",
+      "qty": "100000",
+      "owned": "173489",
+      "delta_own": "+136%",
+      "value": "234040",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-04",
+      "filing_time": "18:08",
+      "trade_date": "2026-03-02",
+      "ticker": "PMN",
+      "company": "Promis Neurosciences Inc.",
+      "insider_name": "Williams Eugene",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "23.11",
+      "qty": "4000",
+      "owned": "10397",
+      "delta_own": "+63%",
+      "value": "92420",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-04",
+      "filing_time": "17:40",
+      "trade_date": "2026-03-02",
+      "ticker": "GTE",
+      "company": "Gran Tierra Energy Inc.",
+      "insider_name": "Lm Asset Management Inc.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "6.43",
+      "qty": "94000",
+      "owned": "4537750",
+      "delta_own": "+2%",
+      "value": "604558",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-04",
+      "filing_time": "17:34",
+      "trade_date": "2026-03-04",
+      "ticker": "WULF",
+      "company": "Terawulf Inc.",
+      "insider_name": "Bucella Michael C.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "15.78",
+      "qty": "3171",
+      "owned": "270129",
+      "delta_own": "+1%",
+      "value": "50038",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-04",
+      "filing_time": "17:30",
+      "trade_date": "2026-03-02",
+      "ticker": "VITL",
+      "company": "Vital Farms, Inc.",
+      "insider_name": "Cyr William B.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "20.70",
+      "qty": "4750",
+      "owned": "7794",
+      "delta_own": "+156%",
+      "value": "98325",
+      "cluster_buy": false
     }
   ]
 }
