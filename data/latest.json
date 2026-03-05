@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-05T18:03:06Z",
-  "trade_count": 5139,
+  "last_updated": "2026-03-05T19:51:16Z",
+  "trade_count": 5140,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -82224,6 +82224,22 @@
       "owned": "18689678",
       "delta_own": "0%",
       "value": "158652",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-05",
+      "filing_time": "14:44",
+      "trade_date": "2026-03-04",
+      "ticker": "MIAX",
+      "company": "Miami International Holdings, Inc.",
+      "insider_name": "Stahl Murray",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "43.38",
+      "qty": "7200",
+      "owned": "4696666",
+      "delta_own": "0%",
+      "value": "312336",
       "cluster_buy": false
     }
   ]
