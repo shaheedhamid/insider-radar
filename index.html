@@ -1058,8 +1058,8 @@
   <div class="filter-group">
     <span class="filter-label">Period</span>
     <div class="date-range-group" id="date-range-group">
-      <button class="btn-range" data-range="1">1D</button>
-      <button class="btn-range active" data-range="7">7D</button>
+      <button class="btn-range active" data-range="1">1D</button>
+      <button class="btn-range" data-range="7">7D</button>
       <button class="btn-range" data-range="30">30D</button>
       <button class="btn-range" data-range="90">90D</button>
       <button class="btn-range" data-range="365">1Y</button>
@@ -1150,7 +1150,7 @@
   let sortCol         = 'filing_date';
   let sortDir         = 'desc';
   let expandedTickers = new Set();
-  let dateRange       = '7';
+  let dateRange       = '1';
   let minValue        = 0;
 
   /* ------------------------------------------------------------------ */
@@ -1478,10 +1478,10 @@
   btnReset.addEventListener('click', () => {
     searchInputEl.value = '';
     titleFilterEl.value = 'all';
-    dateRange           = '7';
+    dateRange           = '1';
     minValue            = 0;
     dateRangeGroupEl.querySelectorAll('.btn-range').forEach(b => {
-      b.classList.toggle('active', b.dataset.range === '7');
+      b.classList.toggle('active', b.dataset.range === '1');
     });
     minValueGroupEl.querySelectorAll('.btn-range').forEach(b => {
       b.classList.toggle('active', b.dataset.minval === '0');
