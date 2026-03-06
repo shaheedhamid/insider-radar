@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-06T20:37:19Z",
-  "trade_count": 5163,
+  "last_updated": "2026-03-06T21:34:04Z",
+  "trade_count": 5169,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -81104,7 +81104,7 @@
       "owned": "1040960",
       "delta_own": "+1%",
       "value": "474632",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-03",
@@ -82608,6 +82608,102 @@
       "owned": "85520",
       "delta_own": "+13%",
       "value": "180900",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-06",
+      "filing_time": "16:30",
+      "trade_date": "2026-03-05",
+      "ticker": "WD",
+      "company": "Walker & Dunlop, Inc.",
+      "insider_name": "Freedman Ernest Michael",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "49.21",
+      "qty": "5000",
+      "owned": "6097",
+      "delta_own": "+456%",
+      "value": "246044",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-06",
+      "filing_time": "16:30",
+      "trade_date": "2026-03-06",
+      "ticker": "FCPT",
+      "company": "Four Corners Property Trust, Inc.",
+      "insider_name": "Lenehan William H",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "25.49",
+      "qty": "7865",
+      "owned": "765845",
+      "delta_own": "+1%",
+      "value": "200487",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-06",
+      "filing_time": "16:26",
+      "trade_date": "2026-03-05",
+      "ticker": "PCB",
+      "company": "Pcb Bancorp",
+      "insider_name": "Lee Sang Young",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "22.19",
+      "qty": "8590",
+      "owned": "1601551",
+      "delta_own": "+1%",
+      "value": "190583",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-06",
+      "filing_time": "16:22",
+      "trade_date": "2026-03-06",
+      "ticker": "DCTH",
+      "company": "Delcath Systems, Inc.",
+      "insider_name": "Pennell Sandra",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "9.04",
+      "qty": "5533",
+      "owned": "77018",
+      "delta_own": "+8%",
+      "value": "50018",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-06",
+      "filing_time": "16:11",
+      "trade_date": "2026-03-05",
+      "ticker": "HYMC",
+      "company": "Hycroft Mining Holding Corp",
+      "insider_name": "Sprott Eric",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "40.85",
+      "qty": "100000",
+      "owned": "37103704",
+      "delta_own": "0%",
+      "value": "4085000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-06",
+      "filing_time": "16:05",
+      "trade_date": "2026-03-04",
+      "ticker": "ACOG",
+      "company": "Alpha Cognition Inc.",
+      "insider_name": "Opaleye Management Inc.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "5.80",
+      "qty": "66818",
+      "owned": "2506867",
+      "delta_own": "+3%",
+      "value": "387622",
       "cluster_buy": false
     }
   ]

@@ -5162,3 +5162,9 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-06,12:34,2026-03-05,FFIN,First Financial Bankshares Inc,Trotter Johnny,Dir,P - Purchase,30.02,4000,1023444,0%,120080,False
 2026-03-06,13:34,2026-03-04,LEE,"Lee Enterprises, Inc",Hoffmann David Henry,"Dir, 10%",P - Purchase,9.21,38000,11727349,0%,349980,True
 2026-03-06,13:13,2026-03-06,HR,Healthcare Realty Trust Inc,Bohjalian Thomas N,Dir,P - Purchase,18.09,10000,85520,+13%,180900,False
+2026-03-06,16:30,2026-03-05,WD,"Walker & Dunlop, Inc.",Freedman Ernest Michael,Dir,P - Purchase,49.21,5000,6097,+456%,246044,True
+2026-03-06,16:30,2026-03-06,FCPT,"Four Corners Property Trust, Inc.",Lenehan William H,"Pres, CEO",P - Purchase,25.49,7865,765845,+1%,200487,False
+2026-03-06,16:26,2026-03-05,PCB,Pcb Bancorp,Lee Sang Young,"Dir, 10%",P - Purchase,22.19,8590,1601551,+1%,190583,False
+2026-03-06,16:22,2026-03-06,DCTH,"Delcath Systems, Inc.",Pennell Sandra,CFO,P - Purchase,9.04,5533,77018,+8%,50018,False
+2026-03-06,16:11,2026-03-05,HYMC,Hycroft Mining Holding Corp,Sprott Eric,10%,P - Purchase,40.85,100000,37103704,0%,4085000,False
+2026-03-06,16:05,2026-03-04,ACOG,Alpha Cognition Inc.,Opaleye Management Inc.,10%,P - Purchase,5.80,66818,2506867,+3%,387622,False

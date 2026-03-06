@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-06T20:39:17Z",
-  "trade_count": 65,
+  "last_updated": "2026-03-06T21:36:17Z",
+  "trade_count": 66,
   "currency": "CAD",
   "trades": [
     {
@@ -767,6 +767,22 @@
       "owned": "",
       "delta_own": "",
       "value": "28000",
+      "currency": "CAD",
+      "exchange": "TSX",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-06",
+      "trade_date": "2026-03-06",
+      "ticker": "RY",
+      "company": "Royal Bank of Canada",
+      "insider_name": "Bibic, Mirko",
+      "title": "",
+      "price": "221.34",
+      "qty": "1126",
+      "owned": "",
+      "delta_own": "",
+      "value": "249228",
       "currency": "CAD",
       "exchange": "TSX",
       "cluster_buy": false
