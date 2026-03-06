@@ -15,8 +15,8 @@
   <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
   <meta http-equiv="Pragma" content="no-cache" />
   <meta http-equiv="Expires" content="0" />
-  <title>InsiderEdge — Institutional Buying Intelligence</title>
-  <meta name="description" content="Track real-time SEC Form 4 insider purchases. Spot cluster buys, filter by role, and follow smart money." />
+  <title>InsiderEdge Canada — Canadian Insider Buying Intelligence</title>
+  <meta name="description" content="Track real-time Canadian SEDI insider purchases on TSX and TSX-V. Spot cluster buys and follow smart money in Canada." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
   <style>
@@ -1012,7 +1012,7 @@
 
   <div class="header-right">
     <span id="trade-count">— trades</span>
-    <a href="canada.html" class="btn-canada">🇨🇦 Canada</a>
+    <a href="index.html" class="btn-canada">🇺🇸 US Market</a>
     <a href="https://discord.gg/k6Q5rtEPe" target="_blank" rel="noopener noreferrer" class="btn-discord">
       <svg width="16" height="16" viewBox="0 0 127.14 96.36" fill="currentColor" aria-hidden="true">
         <path d="M107.7,8.07A105.15,105.15,0,0,0,81.47,0a72.06,72.06,0,0,0-3.36,6.83A97.68,97.68,0,0,0,49,6.83,72.37,72.37,0,0,0,45.64,0,105.89,105.89,0,0,0,19.39,8.09C2.79,32.65-1.71,56.6.54,80.21h0A105.73,105.73,0,0,0,32.71,96.36,77.7,77.7,0,0,0,39.6,85.25a68.42,68.42,0,0,1-10.85-5.18c.91-.66,1.8-1.34,2.66-2a75.57,75.57,0,0,0,64.32,0c.87.71,1.76,1.39,2.66,2a68.68,68.68,0,0,1-10.87,5.19,77,77,0,0,0,6.89,11.1A105.25,105.25,0,0,0,126.6,80.22h0C129.24,52.84,122.09,29.11,107.7,8.07ZM42.45,65.69C36.18,65.69,31,60,31,53s5-12.74,11.43-12.74S54,46,53.89,53,48.84,65.69,42.45,65.69Zm42.24,0C78.41,65.69,73.25,60,73.25,53s5-12.74,11.44-12.74S96.23,46,96.12,53,91.08,65.69,84.69,65.69Z"/>
@@ -1202,7 +1202,7 @@
   </div>
 
   <div class="footer-links">
-    <a href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&type=4&dateb=&owner=include&count=40" target="_blank" rel="noopener">SEC EDGAR Form 4</a>
+    <a href="https://www.sedi.ca" target="_blank" rel="noopener">SEDI Canada</a>
   </div>
 
   <div class="footer-legal">
@@ -1222,7 +1222,7 @@
   /* ------------------------------------------------------------------ */
   /* State                                                                */
   /* ------------------------------------------------------------------ */
-  const DATA_URL = 'data/latest.json';
+  const DATA_URL = 'data/canada_latest.json';
   const REFRESH_INTERVAL_MS = 30 * 60 * 1000;
 
 
@@ -1266,7 +1266,7 @@
   }
 
   function formatCurrency(n) {
-    const sym = '$';
+    const sym = 'CAD$';
     if (n === 0) return '—';
     if (n >= 1_000_000_000) return sym + (n / 1_000_000_000).toFixed(2) + 'B';
     if (n >= 1_000_000)     return sym + (n / 1_000_000).toFixed(1) + 'M';
@@ -1639,7 +1639,7 @@
       hideError();
       renderTable();
     } catch (err) {
-      showError('Could not load data: ' + err.message + '. Run the scraper to populate data.');
+      showError('Could not load Canadian data: ' + err.message + '. Run the scraper to populate data.');
       if (allTrades.length === 0) {
         tableBodyEl.innerHTML = `
           <tr><td colspan="10" style="text-align:center;padding:60px;color:var(--muted)">
