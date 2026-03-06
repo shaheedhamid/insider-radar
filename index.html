@@ -1335,6 +1335,7 @@
     const uniqueTickers = new Set(filtered.map(t => t.ticker)).size;
 
     statVisible.textContent    = filtered.length.toLocaleString();
+    tradeCountEl.textContent   = filtered.length.toLocaleString() + ' trades';
     statClusters.textContent   = clusterCount.toLocaleString();
     statTotalValue.textContent = formatCurrency(totalValue);
     statTickers.textContent    = uniqueTickers.toLocaleString();
@@ -1357,6 +1358,7 @@
           const clusterCount2 = lastDayTrades.filter(t => t.cluster_buy).length;
           const uniqueTickers2 = new Set(lastDayTrades.map(t => t.ticker)).size;
           statVisible.textContent    = lastDayTrades.length.toLocaleString();
+          tradeCountEl.textContent   = lastDayTrades.length.toLocaleString() + ' trades';
           statClusters.textContent   = clusterCount2.toLocaleString();
           statTotalValue.textContent = formatCurrency(totalValue2);
           statTickers.textContent    = uniqueTickers2.toLocaleString();
@@ -1566,10 +1568,7 @@
       const json = await resp.json();
 
       allTrades = json.trades || [];
-      const count = json.trade_count || allTrades.length;
-
       lastUpdatedEl.textContent = formatTimestamp(json.last_updated);
-      tradeCountEl.textContent  = count.toLocaleString() + ' trades';
 
       hideError();
       renderTable();
