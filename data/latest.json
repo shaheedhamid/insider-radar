@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-05T23:50:40Z",
-  "trade_count": 5154,
+  "last_updated": "2026-03-06T02:00:30Z",
+  "trade_count": 5158,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -82464,6 +82464,70 @@
       "owned": "13778",
       "delta_own": "+13%",
       "value": "100057",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-05",
+      "filing_time": "19:30",
+      "trade_date": "2026-03-04",
+      "ticker": "KKR",
+      "company": "Kkr & Co. Inc.",
+      "insider_name": "Barakett Timothy R",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "94.47",
+      "qty": "50000",
+      "owned": "287771",
+      "delta_own": "+21%",
+      "value": "4723500",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-05",
+      "filing_time": "19:21",
+      "trade_date": "2026-01-14",
+      "ticker": "PAR",
+      "company": "Par Technology Corp",
+      "insider_name": "Voss Capital, LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "27.88",
+      "qty": "526202",
+      "owned": "5130100",
+      "delta_own": "+11%",
+      "value": "14669703",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-05",
+      "filing_time": "19:19",
+      "trade_date": "2026-03-03",
+      "ticker": "WGS",
+      "company": "Genedx Holdings Corp.",
+      "insider_name": "Meister Keith A.",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "79.40",
+      "qty": "169521",
+      "owned": "3581423",
+      "delta_own": "+5%",
+      "value": "13460090",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-05",
+      "filing_time": "18:55",
+      "trade_date": "2026-03-04",
+      "ticker": "AKBA",
+      "company": "Akebia Therapeutics, Inc.",
+      "insider_name": "Butler John P.",
+      "title": "CEO, Pres",
+      "trade_type": "P - Purchase",
+      "price": "1.25",
+      "qty": "69270",
+      "owned": "3526992",
+      "delta_own": "+2%",
+      "value": "86588",
       "cluster_buy": false
     }
   ]

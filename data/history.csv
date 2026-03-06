@@ -5153,3 +5153,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-05,17:00,2026-03-05,IHRT,"Iheartmedia, Inc.",Pittman Robert W,"COB, CEO",P - Purchase,3.25,32468,6236669,+1%,105576,False
 2026-03-05,16:59,2026-03-03,BA,Boeing Co,Buckley Mortimer J,Dir,P - Purchase,224.20,2230,4430,+101%,499966,False
 2026-03-05,16:49,2026-03-04,BALL,Ball Corp,Villatoro Fauze,"SVP, Pres South America",P - Purchase,64.51,1551,13778,+13%,100057,False
+2026-03-05,19:30,2026-03-04,KKR,Kkr & Co. Inc.,Barakett Timothy R,Dir,P - Purchase,94.47,50000,287771,+21%,4723500,True
+2026-03-05,19:21,2026-01-14,PAR,Par Technology Corp,"Voss Capital, LP",10%,P - Purchase,27.88,526202,5130100,+11%,14669703,False
+2026-03-05,19:19,2026-03-03,WGS,Genedx Holdings Corp.,Meister Keith A.,"Dir, 10%",P - Purchase,79.40,169521,3581423,+5%,13460090,False
+2026-03-05,18:55,2026-03-04,AKBA,"Akebia Therapeutics, Inc.",Butler John P.,"CEO, Pres",P - Purchase,1.25,69270,3526992,+2%,86588,False
