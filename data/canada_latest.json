@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-06T13:07:40Z",
-  "trade_count": 60,
+  "last_updated": "2026-03-06T14:42:53Z",
+  "trade_count": 63,
   "currency": "CAD",
   "trades": [
     {
@@ -191,6 +191,38 @@
       "owned": "",
       "delta_own": "",
       "value": "38500",
+      "currency": "CAD",
+      "exchange": "TSX",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-03",
+      "trade_date": "2026-02-27",
+      "ticker": "CAPR",
+      "company": "Caprock Mining Corp.",
+      "insider_name": "Guillemette, Frank",
+      "title": "",
+      "price": "0.107",
+      "qty": "296000",
+      "owned": "",
+      "delta_own": "",
+      "value": "31672",
+      "currency": "CAD",
+      "exchange": "TSX",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-03",
+      "trade_date": "2026-02-26",
+      "ticker": "CAPR",
+      "company": "Caprock Mining Corp.",
+      "insider_name": "Guillemette, Frank",
+      "title": "",
+      "price": "0.097",
+      "qty": "886000",
+      "owned": "",
+      "delta_own": "",
+      "value": "85942",
       "currency": "CAD",
       "exchange": "TSX",
       "cluster_buy": false
@@ -466,6 +498,22 @@
       "currency": "CAD",
       "exchange": "TSX",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-02-18",
+      "trade_date": "2026-02-18",
+      "ticker": "BOOM",
+      "company": "Galloper Gold Corp.",
+      "insider_name": "Jabrayan, Hratch",
+      "title": "",
+      "price": "0.090",
+      "qty": "312861",
+      "owned": "",
+      "delta_own": "",
+      "value": "28157",
+      "currency": "CAD",
+      "exchange": "TSX",
+      "cluster_buy": false
     },
     {
       "filing_date": "2026-02-18",
