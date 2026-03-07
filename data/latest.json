@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-06T23:31:53Z",
-  "trade_count": 5182,
+  "last_updated": "2026-03-07T04:56:25Z",
+  "trade_count": 5183,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -82912,6 +82912,22 @@
       "owned": "1565631",
       "delta_own": "0%",
       "value": "749875",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-06",
+      "filing_time": "18:40",
+      "trade_date": "2026-03-05",
+      "ticker": "LTC",
+      "company": "Ltc Properties Inc",
+      "insider_name": "Gruber David L",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "38.00",
+      "qty": "7000",
+      "owned": "36931",
+      "delta_own": "+23%",
+      "value": "266000",
       "cluster_buy": false
     }
   ]
