@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-07",
-  "entry_count": 476,
+  "last_updated": "2026-03-08",
+  "entry_count": 453,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -16,11 +16,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 3.35
+        "2026-03-07": 3.35,
+        "2026-03-08": 3.35
       },
       "latest_price": 3.35,
       "return_pct": 21.82,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|PODD|2026-02-25|Minogue Michael R",
@@ -36,11 +37,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 237.01
+        "2026-03-07": 237.01,
+        "2026-03-08": 237.01
       },
       "latest_price": 237.01,
       "return_pct": -3.74,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SONO|2026-02-23|Coliseum Capital Management, LLC",
@@ -56,11 +58,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 14.27
+        "2026-03-07": 14.27,
+        "2026-03-08": 14.27
       },
       "latest_price": 14.27,
       "return_pct": -4.55,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|WRB|2026-02-23|Mitsui Sumitomo Insurance Co Ltd",
@@ -76,11 +79,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 69.92
+        "2026-03-07": 69.92,
+        "2026-03-08": 69.92
       },
       "latest_price": 69.92,
       "return_pct": -1.7,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|GSHD|2026-02-20|Goldberg Louis",
@@ -96,11 +100,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 50.14
+        "2026-03-07": 50.14,
+        "2026-03-08": 50.14
       },
       "latest_price": 50.14,
       "return_pct": 11.79,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|JAGU|2026-02-11|Isoenergy Ltd.",
@@ -116,11 +121,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 2.37
+        "2026-03-07": 2.37,
+        "2026-03-08": 2.37
       },
       "latest_price": 2.37,
       "return_pct": -40.75,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|IBATF|2026-02-23|Warnock Jacob Aaron",
@@ -136,11 +142,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 0.166
+        "2026-03-07": 0.166,
+        "2026-03-08": 0.166
       },
       "latest_price": 0.166,
       "return_pct": 107.5,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ALIT|2026-02-24|Verma Rohit",
@@ -156,11 +163,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 0.932
+        "2026-03-07": 0.932,
+        "2026-03-08": 0.932
       },
       "latest_price": 0.932,
       "return_pct": 21.04,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|STEP|2026-02-23|Mitchell Steven R",
@@ -176,11 +184,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 45.66
+        "2026-03-07": 45.66,
+        "2026-03-08": 45.66
       },
       "latest_price": 45.66,
       "return_pct": 3.23,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|KELYA|2026-02-23|Hunt James Christopher",
@@ -196,11 +205,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 9.23
+        "2026-03-07": 9.23,
+        "2026-03-08": 9.23
       },
       "latest_price": 9.23,
       "return_pct": -2.12,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|TYL|2026-02-23|Teed Andrew D.",
@@ -216,11 +226,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 374.59
+        "2026-03-07": 374.59,
+        "2026-03-08": 374.59
       },
       "latest_price": 374.59,
       "return_pct": 20.87,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|TCBI|2026-02-23|Stallings Robert W",
@@ -236,11 +247,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 91.9
+        "2026-03-07": 91.9,
+        "2026-03-08": 91.9
       },
       "latest_price": 91.9,
       "return_pct": 313.96,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|POOL|2026-02-23|St Romain Kenneth G",
@@ -256,11 +268,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 213.66
+        "2026-03-07": 213.66,
+        "2026-03-08": 213.66
       },
       "latest_price": 213.66,
       "return_pct": -2.29,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ZION|2026-02-24|Simmons Harris H",
@@ -276,11 +289,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 55.74
+        "2026-03-07": 55.74,
+        "2026-03-08": 55.74
       },
       "latest_price": 55.74,
       "return_pct": -5.57,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|IBM|2026-02-25|Miebach Michael",
@@ -296,11 +310,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 258.85
+        "2026-03-07": 258.85,
+        "2026-03-08": 258.85
       },
       "latest_price": 258.85,
       "return_pct": 10.94,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|NEU|2026-02-24|Xu Ting",
@@ -316,11 +331,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 641.32
+        "2026-03-07": 641.32,
+        "2026-03-08": 641.32
       },
       "latest_price": 641.32,
       "return_pct": 3.57,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|AMH|2026-02-23|Corrigan Jack E",
@@ -336,11 +352,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 29.9
+        "2026-03-07": 29.9,
+        "2026-03-08": 29.9
       },
       "latest_price": 29.9,
       "return_pct": 30.23,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|VERX|2026-02-23|Young Christopher David",
@@ -356,11 +373,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 15.25
+        "2026-03-07": 15.25,
+        "2026-03-08": 15.25
       },
       "latest_price": 15.25,
       "return_pct": 25.21,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|AMH|2026-02-23|Benham Douglas N",
@@ -376,11 +394,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 29.9
+        "2026-03-07": 29.9,
+        "2026-03-08": 29.9
       },
       "latest_price": 29.9,
       "return_pct": 2.57,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|HLNE|2026-02-24|Berkman David J",
@@ -396,11 +415,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 106.57
+        "2026-03-07": 106.57,
+        "2026-03-08": 106.57
       },
       "latest_price": 106.57,
       "return_pct": 5.51,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|HUM|2026-02-23|Shetty Sanjay K",
@@ -416,11 +436,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 179.15
+        "2026-03-07": 179.15,
+        "2026-03-08": 179.15
       },
       "latest_price": 179.15,
       "return_pct": -3.27,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|LXRX|2026-02-23|Debbane Raymond",
@@ -436,11 +457,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 1.71
+        "2026-03-07": 1.71,
+        "2026-03-08": 1.71
       },
       "latest_price": 1.71,
       "return_pct": 16.33,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CAR|2026-02-20|Pentwater Capital Management LP",
@@ -456,11 +478,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 97.51
+        "2026-03-07": 97.51,
+        "2026-03-08": 97.51
       },
       "latest_price": 97.51,
       "return_pct": 3.45,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|UBER|2026-02-24|Krishnamurthy Balaji (A)",
@@ -476,11 +499,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 75.13
+        "2026-03-07": 75.13,
+        "2026-03-08": 75.13
       },
       "latest_price": 75.13,
       "return_pct": 5.45,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ARES|2026-02-20|Olian Judy D.",
@@ -496,11 +520,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 110.01
+        "2026-03-07": 110.01,
+        "2026-03-08": 110.01
       },
       "latest_price": 110.01,
       "return_pct": -11.59,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|NP|2026-02-20|Vostrizansky Michael Warren",
@@ -516,11 +541,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 20.3
+        "2026-03-07": 20.3,
+        "2026-03-08": 20.3
       },
       "latest_price": 20.3,
       "return_pct": -5.58,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|OCUL|2026-02-20|Lindstrom Richard L Md",
@@ -536,11 +562,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 10.27
+        "2026-03-07": 10.27,
+        "2026-03-08": 10.27
       },
       "latest_price": 10.27,
       "return_pct": 34.07,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|FIG|2026-02-20|Reed Andrew Phillips",
@@ -556,11 +583,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 29.11
+        "2026-03-07": 29.11,
+        "2026-03-08": 29.11
       },
       "latest_price": 29.11,
       "return_pct": 16.86,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ACOG|2026-02-20|Opaleye Management Inc.",
@@ -576,11 +604,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 5.79
+        "2026-03-07": 5.79,
+        "2026-03-08": 5.79
       },
       "latest_price": 5.79,
       "return_pct": -1.19,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|EIG|2026-02-24|Pedraja Michael",
@@ -596,11 +625,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 40.35
+        "2026-03-07": 40.35,
+        "2026-03-08": 40.35
       },
       "latest_price": 40.35,
       "return_pct": 1.56,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SSTI|2026-02-23|Veradace Partners LP",
@@ -616,11 +646,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 7.2
+        "2026-03-07": 7.2,
+        "2026-03-08": 7.2
       },
       "latest_price": 7.2,
       "return_pct": 1.27,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CVI|2026-02-20|Icahn Carl C",
@@ -636,11 +667,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 26.83
+        "2026-03-07": 26.83,
+        "2026-03-08": 26.83
       },
       "latest_price": 26.83,
       "return_pct": 27.82,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|RYAN|2026-02-20|Ryan Patrick G Jr",
@@ -656,11 +688,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 39.72
+        "2026-03-07": 39.72,
+        "2026-03-08": 39.72
       },
       "latest_price": 39.72,
       "return_pct": -0.65,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|TZOO|2026-02-20|Bartel Holger",
@@ -676,11 +709,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 6.72
+        "2026-03-07": 6.72,
+        "2026-03-08": 6.72
       },
       "latest_price": 6.72,
       "return_pct": 24.68,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|TYL|2026-02-20|Diaz-Pedrosa Abigail Marshall",
@@ -696,11 +730,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 374.59
+        "2026-03-07": 374.59,
+        "2026-03-08": 374.59
       },
       "latest_price": 374.59,
       "return_pct": 15.23,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|UUU|2026-02-20|Ault Milton C III",
@@ -716,11 +751,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 5.09
+        "2026-03-07": 5.09,
+        "2026-03-08": 5.09
       },
       "latest_price": 5.09,
       "return_pct": 6.71,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|VRSK|2026-02-20|Perry Christopher John",
@@ -736,11 +772,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 214.84
+        "2026-03-07": 214.84,
+        "2026-03-08": 214.84
       },
       "latest_price": 214.84,
       "return_pct": 19.36,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|VRSK|2026-02-20|Stevenson Kimberly S",
@@ -756,11 +793,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 214.84
+        "2026-03-07": 214.84,
+        "2026-03-08": 214.84
       },
       "latest_price": 214.84,
       "return_pct": 19.89,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|BLCO|2026-02-23|Collis Steven H",
@@ -776,11 +814,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 17.06
+        "2026-03-07": 17.06,
+        "2026-03-08": 17.06
       },
       "latest_price": 17.06,
       "return_pct": -4.21,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|VRSK|2026-02-20|Hendrick Gregory",
@@ -796,11 +835,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 214.84
+        "2026-03-07": 214.84,
+        "2026-03-08": 214.84
       },
       "latest_price": 214.84,
       "return_pct": 19.25,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|AAT|2026-02-20|Rady Ernest S",
@@ -816,11 +856,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 19.09
+        "2026-03-07": 19.09,
+        "2026-03-08": 19.09
       },
       "latest_price": 19.09,
       "return_pct": -1.7,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|BLCO|2026-02-20|Robertson Russel C",
@@ -836,11 +877,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 17.06
+        "2026-03-07": 17.06,
+        "2026-03-08": 17.06
       },
       "latest_price": 17.06,
       "return_pct": -4.69,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|NBR|2026-02-20|Yearwood John",
@@ -856,11 +898,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 78.73
+        "2026-03-07": 78.73,
+        "2026-03-08": 78.73
       },
       "latest_price": 78.73,
       "return_pct": 0.78,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|HLNE|2026-02-20|Hirsch Erik R.",
@@ -876,11 +919,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 106.57
+        "2026-03-07": 106.57,
+        "2026-03-08": 106.57
       },
       "latest_price": 106.57,
       "return_pct": -0.52,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|HLNE|2026-02-20|Delgado-Moreira Juan",
@@ -896,11 +940,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 106.57
+        "2026-03-07": 106.57,
+        "2026-03-08": 106.57
       },
       "latest_price": 106.57,
       "return_pct": -0.62,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|HLNE|2026-02-20|Kramer Andrea Anigati",
@@ -916,11 +961,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 106.57
+        "2026-03-07": 106.57,
+        "2026-03-08": 106.57
       },
       "latest_price": 106.57,
       "return_pct": -0.89,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|HLNE|2026-02-20|Giannini Mario L",
@@ -936,11 +982,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 106.57
+        "2026-03-07": 106.57,
+        "2026-03-08": 106.57
       },
       "latest_price": 106.57,
       "return_pct": -0.7,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|OGE|2026-02-23|Ganske Lyle G.",
@@ -956,11 +1003,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 48.2
+        "2026-03-07": 48.2,
+        "2026-03-08": 48.2
       },
       "latest_price": 48.2,
       "return_pct": 0.44,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|PCB|2026-02-23|Lee Sang Young",
@@ -976,11 +1024,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 22.0
+        "2026-03-07": 22.0,
+        "2026-03-08": 22.0
       },
       "latest_price": 22.0,
       "return_pct": -2.14,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ITIC|2026-02-20|Scott James E",
@@ -996,11 +1045,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 227.07
+        "2026-03-07": 227.07,
+        "2026-03-08": 227.07
       },
       "latest_price": 227.07,
       "return_pct": 2.88,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|KELYA|2026-02-20|Hunt James Christopher",
@@ -1016,11 +1066,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 9.23
+        "2026-03-07": 9.23,
+        "2026-03-08": 9.23
       },
       "latest_price": 9.23,
       "return_pct": -3.55,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ARDX|2026-02-20|Mott David M",
@@ -1036,11 +1087,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 6.19
+        "2026-03-07": 6.19,
+        "2026-03-08": 6.19
       },
       "latest_price": 6.19,
       "return_pct": 5.99,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|AVTR|2026-02-19|Lucier Gregory T",
@@ -1056,11 +1108,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 8.17
+        "2026-03-07": 8.17,
+        "2026-03-08": 8.17
       },
       "latest_price": 8.17,
       "return_pct": -10.81,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|RPC|2026-02-19|Stewart Robert B Jr",
@@ -1076,11 +1129,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 7.71
+        "2026-03-07": 7.71,
+        "2026-03-08": 7.71
       },
       "latest_price": 7.71,
       "return_pct": -10.87,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|HYMC|2026-02-20|Sprott Eric",
@@ -1096,11 +1150,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 38.79
+        "2026-03-07": 38.79,
+        "2026-03-08": 38.79
       },
       "latest_price": 38.79,
       "return_pct": -7.75,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|LEE|2026-02-19|Hoffmann David Henry",
@@ -1116,11 +1171,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 9.68
+        "2026-03-07": 9.68,
+        "2026-03-08": 9.68
       },
       "latest_price": 9.68,
       "return_pct": 11.91,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|LPX|2026-02-19|Grasberger F Nicholas  III",
@@ -1136,11 +1192,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 77.7
+        "2026-03-07": 77.7,
+        "2026-03-08": 77.7
       },
       "latest_price": 77.7,
       "return_pct": -9.11,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|FFIN|2026-02-20|Haney Geoff",
@@ -1156,11 +1213,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 30.08
+        "2026-03-07": 30.08,
+        "2026-03-08": 30.08
       },
       "latest_price": 30.08,
       "return_pct": -9.34,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|GPN|2026-02-20|Johnson Joia M",
@@ -1176,11 +1234,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 76.4
+        "2026-03-07": 76.4,
+        "2026-03-08": 76.4
       },
       "latest_price": 76.4,
       "return_pct": -6.72,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CNDT|2026-02-20|Agadi Harshavardhan V",
@@ -1196,11 +1255,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 1.39
+        "2026-03-07": 1.39,
+        "2026-03-08": 1.39
       },
       "latest_price": 1.39,
       "return_pct": -10.9,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|HBAN|2026-02-19|Torgow Gary",
@@ -1216,11 +1276,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 16.31
+        "2026-03-07": 16.31,
+        "2026-03-08": 16.31
       },
       "latest_price": 16.31,
       "return_pct": -8.42,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|VERX|2026-02-20|Andersen Eric C.",
@@ -1236,11 +1297,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 15.25
+        "2026-03-07": 15.25,
+        "2026-03-08": 15.25
       },
       "latest_price": 15.25,
       "return_pct": 18.13,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|F|2026-02-19|Ford William Clay Jr",
@@ -1256,11 +1318,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 12.15
+        "2026-03-07": 12.15,
+        "2026-03-08": 12.15
       },
       "latest_price": 12.15,
       "return_pct": -12.08,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|BLCO|2026-02-19|Ling Karen",
@@ -1276,11 +1339,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 17.06
+        "2026-03-07": 17.06,
+        "2026-03-08": 17.06
       },
       "latest_price": 17.06,
       "return_pct": -3.83,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|TLSI|2026-02-23|Valle William",
@@ -1296,11 +1360,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 4.465
+        "2026-03-07": 4.465,
+        "2026-03-08": 4.465
       },
       "latest_price": 4.465,
       "return_pct": 8.9,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|TLSI|2026-02-23|Szela Mary T",
@@ -1316,11 +1381,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 4.465
+        "2026-03-07": 4.465,
+        "2026-03-08": 4.465
       },
       "latest_price": 4.465,
       "return_pct": 8.9,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|TLSI|2026-02-23|Stansky Michael P",
@@ -1336,11 +1402,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 4.465
+        "2026-03-07": 4.465,
+        "2026-03-08": 4.465
       },
       "latest_price": 4.465,
       "return_pct": 8.9,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CEVA|2026-02-19|Panush Amir",
@@ -1356,11 +1423,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 19.13
+        "2026-03-07": 19.13,
+        "2026-03-08": 19.13
       },
       "latest_price": 19.13,
       "return_pct": -2.89,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ELF|2026-02-20|Farrell Matthew",
@@ -1376,11 +1444,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 82.44
+        "2026-03-07": 82.44,
+        "2026-03-08": 82.44
       },
       "latest_price": 82.44,
       "return_pct": -11.32,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|AMRZ|2026-02-19|Johnston Ian A",
@@ -1396,11 +1465,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 58.12
+        "2026-03-07": 58.12,
+        "2026-03-08": 58.12
       },
       "latest_price": 58.12,
       "return_pct": -9.07,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|PODD|2026-02-20|McEvoy Ashley",
@@ -1416,11 +1486,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 237.01
+        "2026-03-07": 237.01,
+        "2026-03-08": 237.01
       },
       "latest_price": 237.01,
       "return_pct": -0.98,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|LXRX|2026-02-19|Debbane Raymond",
@@ -1436,11 +1507,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 1.71
+        "2026-03-07": 1.71,
+        "2026-03-08": 1.71
       },
       "latest_price": 1.71,
       "return_pct": 16.33,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CVRX|2026-02-20|Jain Mudit K.",
@@ -1456,11 +1528,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 8.25
+        "2026-03-07": 8.25,
+        "2026-03-08": 8.25
       },
       "latest_price": 8.25,
       "return_pct": 29.72,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|TLPH|2026-02-12|Angotti Vincent J.",
@@ -1476,11 +1549,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 0.87
+        "2026-03-07": 0.87,
+        "2026-03-08": 0.87
       },
       "latest_price": 0.87,
       "return_pct": 7.41,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|WY|2026-02-20|O'Rourke James Calvin",
@@ -1496,11 +1570,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 24.5
+        "2026-03-07": 24.5,
+        "2026-03-08": 24.5
       },
       "latest_price": 24.5,
       "return_pct": -3.35,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|WRB|2026-02-19|Mitsui Sumitomo Insurance Co Ltd",
@@ -1516,11 +1591,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 69.92
+        "2026-03-07": 69.92,
+        "2026-03-08": 69.92
       },
       "latest_price": 69.92,
       "return_pct": -1.1,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SSTI|2026-02-18|Veradace Partners LP",
@@ -1536,11 +1612,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 7.2
+        "2026-03-07": 7.2,
+        "2026-03-08": 7.2
       },
       "latest_price": 7.2,
       "return_pct": 0.98,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|WY|2026-02-19|Beckwitt Richard",
@@ -1556,11 +1633,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 24.5
+        "2026-03-07": 24.5,
+        "2026-03-08": 24.5
       },
       "latest_price": 24.5,
       "return_pct": -4.67,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|MPLT|2026-02-18|Pavlov George",
@@ -1576,11 +1654,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 18.51
+        "2026-03-07": 18.51,
+        "2026-03-08": 18.51
       },
       "latest_price": 18.51,
       "return_pct": 4.87,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|OFG|2026-02-20|Franqui Annette",
@@ -1596,11 +1675,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 39.2
+        "2026-03-07": 39.2,
+        "2026-03-08": 39.2
       },
       "latest_price": 39.2,
       "return_pct": -6.82,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|EKSO|2026-02-19|Asher Daniel",
@@ -1616,11 +1696,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 11.38
+        "2026-03-07": 11.38,
+        "2026-03-08": 11.38
       },
       "latest_price": 11.38,
       "return_pct": -7.48,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ARW|2026-02-19|Austen William F.",
@@ -1636,11 +1717,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 138.36
+        "2026-03-07": 138.36,
+        "2026-03-08": 138.36
       },
       "latest_price": 138.36,
       "return_pct": -8.9,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|BX|2026-02-17|Porat Ruth",
@@ -1656,11 +1738,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 110.4
+        "2026-03-07": 110.4,
+        "2026-03-08": 110.4
       },
       "latest_price": 110.4,
       "return_pct": -15.52,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ARAY|2026-02-18|Mayer Steven F",
@@ -1676,11 +1759,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 0.49
+        "2026-03-07": 0.49,
+        "2026-03-08": 0.49
       },
       "latest_price": 0.49,
       "return_pct": -7.55,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|GNSS|2026-02-18|Dodd William H",
@@ -1696,11 +1780,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 1.78
+        "2026-03-07": 1.78,
+        "2026-03-08": 1.78
       },
       "latest_price": 1.78,
       "return_pct": -10.1,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|MSCI|2026-02-18|Ashe Robert G.",
@@ -1716,11 +1801,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 569.24
+        "2026-03-07": 569.24,
+        "2026-03-08": 569.24
       },
       "latest_price": 569.24,
       "return_pct": 4.79,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CNDT|2026-02-18|Agadi Harshavardhan V",
@@ -1736,11 +1822,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 1.39
+        "2026-03-07": 1.39,
+        "2026-03-08": 1.39
       },
       "latest_price": 1.39,
       "return_pct": -2.8,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CNDT|2026-02-18|Palau Hernandez Margarita",
@@ -1756,11 +1843,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 1.39
+        "2026-03-07": 1.39,
+        "2026-03-08": 1.39
       },
       "latest_price": 1.39,
       "return_pct": -4.14,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CNDT|2026-02-19|Fucci Michael",
@@ -1776,11 +1864,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 1.39
+        "2026-03-07": 1.39,
+        "2026-03-08": 1.39
       },
       "latest_price": 1.39,
       "return_pct": -3.47,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CSBB|2026-02-18|Steiner Eddie L",
@@ -1796,11 +1885,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 58.233
+        "2026-03-07": 58.233,
+        "2026-03-08": 58.233
       },
       "latest_price": 58.233,
       "return_pct": 2.25,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SNES|2026-02-17|Glenbrook Capital Management",
@@ -1816,11 +1906,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 2.17
+        "2026-03-07": 2.17,
+        "2026-03-08": 2.17
       },
       "latest_price": 2.17,
       "return_pct": -7.26,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|WLIIU|2026-02-17|Willow Lane Sponsor Ii, LLC",
@@ -1836,11 +1927,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 10.18
+        "2026-03-07": 10.18,
+        "2026-03-08": 10.18
       },
       "latest_price": 10.18,
       "return_pct": 1.8,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|NRC|2026-02-17|Harrison Shane R",
@@ -1856,11 +1948,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 14.59
+        "2026-03-07": 14.59,
+        "2026-03-08": 14.59
       },
       "latest_price": 14.59,
       "return_pct": 18.91,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|LBRT|2026-02-17|Murti Arjun N",
@@ -1876,11 +1969,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 26.8
+        "2026-03-07": 26.8,
+        "2026-03-08": 26.8
       },
       "latest_price": 26.8,
       "return_pct": 3.92,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CMRC|2026-02-17|Siminoff Ellen F",
@@ -1896,11 +1990,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 3.01
+        "2026-03-07": 3.01,
+        "2026-03-08": 3.01
       },
       "latest_price": 3.01,
       "return_pct": 2.38,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|USAC|2026-02-19|Whitehurst Bradford D.",
@@ -1916,11 +2011,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 27.81
+        "2026-03-07": 27.81,
+        "2026-03-08": 27.81
       },
       "latest_price": 27.81,
       "return_pct": 3.96,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|EFX|2026-02-18|Mao Cecilia",
@@ -1936,11 +2032,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 207.83
+        "2026-03-07": 207.83,
+        "2026-03-08": 207.83
       },
       "latest_price": 207.83,
       "return_pct": 7.28,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|AAT|2026-02-17|Rady Ernest S",
@@ -1956,11 +2053,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 19.09
+        "2026-03-07": 19.09,
+        "2026-03-08": 19.09
       },
       "latest_price": 19.09,
       "return_pct": 1.49,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|QDEL|2026-02-13|Busky Joseph M.",
@@ -1976,11 +2074,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 20.83
+        "2026-03-07": 20.83,
+        "2026-03-08": 20.83
       },
       "latest_price": 20.83,
       "return_pct": -11.96,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|AXR|2026-02-17|Dahl James H",
@@ -1996,11 +2095,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 24.6
+        "2026-03-07": 24.6,
+        "2026-03-08": 24.6
       },
       "latest_price": 24.6,
       "return_pct": -1.56,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|MH|2026-02-17|Reinemund Steven",
@@ -2016,11 +2116,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 14.19
+        "2026-03-07": 14.19,
+        "2026-03-08": 14.19
       },
       "latest_price": 14.19,
       "return_pct": 3.58,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SLQT|2026-02-11|Grant Robert Clay",
@@ -2036,11 +2137,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 0.755
+        "2026-03-07": 0.755,
+        "2026-03-08": 0.755
       },
       "latest_price": 0.755,
       "return_pct": -14.2,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|TCBI|2026-02-17|Stallings Robert W",
@@ -2056,11 +2158,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 91.9
+        "2026-03-07": 91.9,
+        "2026-03-08": 91.9
       },
       "latest_price": 91.9,
       "return_pct": 315.27,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|NDAQ|2026-02-17|Torgeby Johan",
@@ -2076,11 +2179,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 88.43
+        "2026-03-07": 88.43,
+        "2026-03-08": 88.43
       },
       "latest_price": 88.43,
       "return_pct": 10.73,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|EXE|2026-02-19|Gallagher Matthew",
@@ -2096,11 +2200,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 106.84
+        "2026-03-07": 106.84,
+        "2026-03-08": 106.84
       },
       "latest_price": 106.84,
       "return_pct": 6.14,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CSPI|2026-02-17|Nerges Joseph R",
@@ -2116,11 +2221,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 8.71
+        "2026-03-07": 8.71,
+        "2026-03-08": 8.71
       },
       "latest_price": 8.71,
       "return_pct": -5.53,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ASST|2026-02-17|Pham Benjamin",
@@ -2136,11 +2242,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 8.7
+        "2026-03-07": 8.7,
+        "2026-03-08": 8.7
       },
       "latest_price": 8.7,
       "return_pct": 6.75,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|FAF|2026-02-13|Kennedy Parker S",
@@ -2156,31 +2263,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 67.6
+        "2026-03-07": 67.6,
+        "2026-03-08": 67.6
       },
       "latest_price": 67.6,
       "return_pct": -0.12,
-      "last_snapshot": "2026-03-07"
-    },
-    {
-      "id": "US|SAH|2026-02-05|Rusnak Paul P.",
-      "market": "US",
-      "ticker": "SAH",
-      "yf_symbol": "SAH",
-      "company": "Sonic Automotive Inc",
-      "insider_name": "Rusnak Paul P.",
-      "title": "10%",
-      "trade_date": "2026-02-05",
-      "trade_price": 59.94,
-      "value": 5994472.0,
-      "cluster_buy": false,
-      "currency": "USD",
-      "snapshots": {
-        "2026-03-07": 61.26
-      },
-      "latest_price": 61.26,
-      "return_pct": 2.2,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|FLYW|2026-02-13|Voss Capital, LP",
@@ -2196,11 +2284,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 13.28
+        "2026-03-07": 13.28,
+        "2026-03-08": 13.28
       },
       "latest_price": 13.28,
       "return_pct": 20.84,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|KKR|2026-02-17|Cohler Matt",
@@ -2216,11 +2305,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 91.33
+        "2026-03-07": 91.33,
+        "2026-03-08": 91.33
       },
       "latest_price": 91.33,
       "return_pct": -11.24,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|KKR|2026-02-17|Bae Joseph Y",
@@ -2236,11 +2326,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 91.33
+        "2026-03-07": 91.33,
+        "2026-03-08": 91.33
       },
       "latest_price": 91.33,
       "return_pct": -10.63,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|KKR|2026-02-17|Nuttall Scott C",
@@ -2256,11 +2347,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 91.33
+        "2026-03-07": 91.33,
+        "2026-03-08": 91.33
       },
       "latest_price": 91.33,
       "return_pct": -11.05,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|WRB|2026-02-17|Mitsui Sumitomo Insurance Co Ltd",
@@ -2276,11 +2368,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 69.92
+        "2026-03-07": 69.92,
+        "2026-03-08": 69.92
       },
       "latest_price": 69.92,
       "return_pct": -1.41,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|MSFT|2026-02-18|Stanton John W",
@@ -2296,11 +2389,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 408.96
+        "2026-03-07": 408.96,
+        "2026-03-08": 408.96
       },
       "latest_price": 408.96,
       "return_pct": 2.92,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|DLHC|2026-02-17|Mink Brook Asset Management LLC",
@@ -2316,11 +2410,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 5.85
+        "2026-03-07": 5.85,
+        "2026-03-08": 5.85
       },
       "latest_price": 5.85,
       "return_pct": 6.36,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|VERX|2026-02-13|Westphal Jeffrey",
@@ -2336,11 +2431,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 15.25
+        "2026-03-07": 15.25,
+        "2026-03-08": 15.25
       },
       "latest_price": 15.25,
       "return_pct": 18.4,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|LEE|2026-02-13|Hoffmann David Henry",
@@ -2356,11 +2452,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 9.68
+        "2026-03-07": 9.68,
+        "2026-03-08": 9.68
       },
       "latest_price": 9.68,
       "return_pct": 35.57,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|LXRX|2026-02-13|Debbane Raymond",
@@ -2376,11 +2473,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 1.71
+        "2026-03-07": 1.71,
+        "2026-03-08": 1.71
       },
       "latest_price": 1.71,
       "return_pct": 30.53,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|FCPT|2026-02-18|Lenehan William H",
@@ -2396,11 +2494,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 25.68
+        "2026-03-07": 25.68,
+        "2026-03-08": 25.68
       },
       "latest_price": 25.68,
       "return_pct": 3.84,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|DEI|2026-02-13|Kaplan Jordan L",
@@ -2416,11 +2515,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 10.09
+        "2026-03-07": 10.09,
+        "2026-03-08": 10.09
       },
       "latest_price": 10.09,
       "return_pct": -0.88,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|LYFT|2026-02-13|Risher John David",
@@ -2436,11 +2536,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 13.25
+        "2026-03-07": 13.25,
+        "2026-03-08": 13.25
       },
       "latest_price": 13.25,
       "return_pct": -0.97,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|STEX|2026-02-18|Lekstrom Morgan Lee",
@@ -2456,11 +2557,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 1.99
+        "2026-03-07": 1.99,
+        "2026-03-08": 1.99
       },
       "latest_price": 1.99,
       "return_pct": -20.4,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|DKNG|2026-02-17|Sloan Harry",
@@ -2476,11 +2578,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 25.15
+        "2026-03-07": 25.15,
+        "2026-03-08": 25.15
       },
       "latest_price": 25.15,
       "return_pct": 15.1,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|APC|2026-02-13|Friedman Avram Z",
@@ -2496,11 +2599,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 18.72
+        "2026-03-07": 18.72,
+        "2026-03-08": 18.72
       },
       "latest_price": 18.72,
       "return_pct": 4.0,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CHGG|2026-02-13|Rosensweig Daniel",
@@ -2516,11 +2620,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 0.63
+        "2026-03-07": 0.63,
+        "2026-03-08": 0.63
       },
       "latest_price": 0.63,
       "return_pct": 12.5,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CNVS|2026-02-17|Huidor Mark Antonio",
@@ -2536,11 +2641,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 3.01
+        "2026-03-07": 3.01,
+        "2026-03-08": 3.01
       },
       "latest_price": 3.01,
       "return_pct": 50.5,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CNVS|2026-02-17|Lindsey Mark Wayne",
@@ -2556,11 +2662,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 3.01
+        "2026-03-07": 3.01,
+        "2026-03-08": 3.01
       },
       "latest_price": 3.01,
       "return_pct": 50.5,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CNVS|2026-02-17|Macias Yolanda",
@@ -2576,11 +2683,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 3.01
+        "2026-03-07": 3.01,
+        "2026-03-08": 3.01
       },
       "latest_price": 3.01,
       "return_pct": 50.5,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CNVS|2026-02-17|Torres Mark",
@@ -2596,11 +2704,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 3.01
+        "2026-03-07": 3.01,
+        "2026-03-08": 3.01
       },
       "latest_price": 3.01,
       "return_pct": 50.5,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CNVS|2026-02-17|McGurk Christopher J",
@@ -2616,11 +2725,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 3.01
+        "2026-03-07": 3.01,
+        "2026-03-08": 3.01
       },
       "latest_price": 3.01,
       "return_pct": 50.5,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CNVS|2026-02-17|Loffredo Gary S",
@@ -2636,11 +2746,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 3.01
+        "2026-03-07": 3.01,
+        "2026-03-08": 3.01
       },
       "latest_price": 3.01,
       "return_pct": 50.5,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CNVS|2026-02-17|Opeka Erick",
@@ -2656,11 +2767,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 3.01
+        "2026-03-07": 3.01,
+        "2026-03-08": 3.01
       },
       "latest_price": 3.01,
       "return_pct": 50.5,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ERNA|2026-02-10|Cherington Charles",
@@ -2676,11 +2788,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 0.29
+        "2026-03-07": 0.29,
+        "2026-03-08": 0.29
       },
       "latest_price": 0.29,
       "return_pct": -42.0,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SONO|2026-02-12|Coliseum Capital Management, LLC",
@@ -2696,11 +2809,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 14.27
+        "2026-03-07": 14.27,
+        "2026-03-08": 14.27
       },
       "latest_price": 14.27,
       "return_pct": -9.28,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CMIIU|2026-02-12|Columbus Circle 2 Sponsor Corp LLC",
@@ -2716,11 +2830,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 9.95
+        "2026-03-07": 9.95,
+        "2026-03-08": 9.95
       },
       "latest_price": 9.95,
       "return_pct": -0.5,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|GTE|2026-02-12|Lm Asset Management, Inc.",
@@ -2736,11 +2851,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 7.87
+        "2026-03-07": 7.87,
+        "2026-03-08": 7.87
       },
       "latest_price": 7.87,
       "return_pct": 47.65,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|DIS|2026-02-12|Chang Amy",
@@ -2756,11 +2872,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 101.54
+        "2026-03-07": 101.54,
+        "2026-03-08": 101.54
       },
       "latest_price": 101.54,
       "return_pct": -5.85,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|MSCI|2026-02-13|Fernandez Henry A",
@@ -2776,11 +2893,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 569.24
+        "2026-03-07": 569.24,
+        "2026-03-08": 569.24
       },
       "latest_price": 569.24,
       "return_pct": 8.72,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|JYNT|2026-02-12|Jobson Charles E",
@@ -2796,11 +2914,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 8.7
+        "2026-03-07": 8.7,
+        "2026-03-08": 8.7
       },
       "latest_price": 8.7,
       "return_pct": 2.35,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|COCH|2026-02-12|Patel Mona Chetan",
@@ -2816,11 +2935,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 0.651
+        "2026-03-07": 0.651,
+        "2026-03-08": 0.651
       },
       "latest_price": 0.651,
       "return_pct": 62.75,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SBCF|2026-02-12|Shearouse Joseph B III",
@@ -2836,11 +2956,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 30.29
+        "2026-03-07": 30.29,
+        "2026-03-08": 30.29
       },
       "latest_price": 30.29,
       "return_pct": -8.74,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|COCH|2026-02-12|Potashnick Robert",
@@ -2856,11 +2977,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 0.651
+        "2026-03-07": 0.651,
+        "2026-03-08": 0.651
       },
       "latest_price": 0.651,
       "return_pct": 62.75,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|COCH|2026-02-12|Brynelsen Charles",
@@ -2876,11 +2998,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 0.651
+        "2026-03-07": 0.651,
+        "2026-03-08": 0.651
       },
       "latest_price": 0.651,
       "return_pct": 62.75,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|MDU|2026-02-13|Kelley Charles M",
@@ -2896,11 +3019,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 20.97
+        "2026-03-07": 20.97,
+        "2026-03-08": 20.97
       },
       "latest_price": 20.97,
       "return_pct": 0.58,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|KVYO|2026-02-12|Ceran Jennifer",
@@ -2916,11 +3040,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 20.98
+        "2026-03-07": 20.98,
+        "2026-03-08": 20.98
       },
       "latest_price": 20.98,
       "return_pct": 14.15,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|RXO|2026-02-12|Mfn Partners, LP",
@@ -2936,11 +3061,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 13.74
+        "2026-03-07": 13.74,
+        "2026-03-08": 13.74
       },
       "latest_price": 13.74,
       "return_pct": 14.5,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|WTW|2026-02-13|Clarke Lucy",
@@ -2956,11 +3082,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 302.94
+        "2026-03-07": 302.94,
+        "2026-03-08": 302.94
       },
       "latest_price": 302.94,
       "return_pct": 6.35,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|EKSO|2026-02-06|Asher Daniel",
@@ -2976,11 +3103,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 11.38
+        "2026-03-07": 11.38,
+        "2026-03-08": 11.38
       },
       "latest_price": 11.38,
       "return_pct": 19.66,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|NFJ|2026-02-12|Saba Capital Management, L.P.",
@@ -2996,11 +3124,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 12.99
+        "2026-03-07": 12.99,
+        "2026-03-08": 12.99
       },
       "latest_price": 12.99,
       "return_pct": -5.6,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|COCH|2026-02-12|Taylor Glen A",
@@ -3016,11 +3145,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 0.651
+        "2026-03-07": 0.651,
+        "2026-03-08": 0.651
       },
       "latest_price": 0.651,
       "return_pct": 62.75,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ASST|2026-02-13|Beirne Brian Logan",
@@ -3036,11 +3166,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 8.7
+        "2026-03-07": 8.7,
+        "2026-03-08": 8.7
       },
       "latest_price": 8.7,
       "return_pct": -0.34,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|XFLH|2026-02-13|Xflh Holdings Ltd",
@@ -3074,11 +3205,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 9.37
+        "2026-03-07": 9.37,
+        "2026-03-08": 9.37
       },
       "latest_price": 9.37,
       "return_pct": -4.09,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|VANI|2026-02-15|Williams Gregg",
@@ -3094,11 +3226,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 1.17
+        "2026-03-07": 1.17,
+        "2026-03-08": 1.17
       },
       "latest_price": 1.17,
       "return_pct": 10.38,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|WRB|2026-02-12|Mitsui Sumitomo Insurance Co Ltd",
@@ -3114,11 +3247,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 69.92
+        "2026-03-07": 69.92,
+        "2026-03-08": 69.92
       },
       "latest_price": 69.92,
       "return_pct": -1.42,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|PFSI|2026-02-12|Kinsella Patrick",
@@ -3134,11 +3268,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 86.2
+        "2026-03-07": 86.2,
+        "2026-03-08": 86.2
       },
       "latest_price": 86.2,
       "return_pct": -3.31,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ONEW|2026-02-11|Singleton Philip Austin Jr.",
@@ -3154,11 +3289,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 9.86
+        "2026-03-07": 9.86,
+        "2026-03-08": 9.86
       },
       "latest_price": 9.86,
       "return_pct": -21.93,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ZBIO|2026-02-11|Lu Hongbo",
@@ -3174,11 +3310,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 25.28
+        "2026-03-07": 25.28,
+        "2026-03-08": 25.28
       },
       "latest_price": 25.28,
       "return_pct": 12.36,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CHUC|2026-02-13|Stump Ryan",
@@ -3194,11 +3331,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 0.2943
+        "2026-03-07": 0.2943,
+        "2026-03-08": 0.2943
       },
       "latest_price": 0.2943,
       "return_pct": 47.15,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CHUC|2026-02-13|Sicignano Henry III",
@@ -3214,11 +3352,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 0.2943
+        "2026-03-07": 0.2943,
+        "2026-03-08": 0.2943
       },
       "latest_price": 0.2943,
       "return_pct": 47.15,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SNES|2026-02-11|Glenbrook Capital Management",
@@ -3234,11 +3373,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 2.17
+        "2026-03-07": 2.17,
+        "2026-03-08": 2.17
       },
       "latest_price": 2.17,
       "return_pct": 19.89,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CHUC|2026-02-13|King Michael D",
@@ -3254,11 +3394,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 0.2943
+        "2026-03-07": 0.2943,
+        "2026-03-08": 0.2943
       },
       "latest_price": 0.2943,
       "return_pct": 47.15,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CHUC|2026-02-13|Carmines Edward",
@@ -3274,11 +3415,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 0.2943
+        "2026-03-07": 0.2943,
+        "2026-03-08": 0.2943
       },
       "latest_price": 0.2943,
       "return_pct": 47.15,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ZBIO|2026-02-12|Allen Patricia L",
@@ -3294,11 +3436,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 25.28
+        "2026-03-07": 25.28,
+        "2026-03-08": 25.28
       },
       "latest_price": 25.28,
       "return_pct": 0.48,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CHRW|2026-02-12|Castagnetto Michael D.",
@@ -3314,11 +3457,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 179.64
+        "2026-03-07": 179.64,
+        "2026-03-08": 179.64
       },
       "latest_price": 179.64,
       "return_pct": 6.78,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|DLHC|2026-02-12|Mink Brook Asset Management LLC",
@@ -3334,11 +3478,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 5.85
+        "2026-03-07": 5.85,
+        "2026-03-08": 5.85
       },
       "latest_price": 5.85,
       "return_pct": 6.36,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SCSC|2026-02-11|Mathis Charles Alexander",
@@ -3354,11 +3499,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 36.19
+        "2026-03-07": 36.19,
+        "2026-03-08": 36.19
       },
       "latest_price": 36.19,
       "return_pct": 2.78,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|NPB|2026-02-11|Williams Charles Alan",
@@ -3374,11 +3520,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 18.15
+        "2026-03-07": 18.15,
+        "2026-03-08": 18.15
       },
       "latest_price": 18.15,
       "return_pct": 7.46,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CHRW|2026-02-12|Bozeman David P",
@@ -3394,11 +3541,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 179.64
+        "2026-03-07": 179.64,
+        "2026-03-08": 179.64
       },
       "latest_price": 179.64,
       "return_pct": 9.97,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ARE|2026-02-12|Marcus Joel S",
@@ -3414,11 +3562,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 50.73
+        "2026-03-07": 50.73,
+        "2026-03-08": 50.73
       },
       "latest_price": 50.73,
       "return_pct": -5.92,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CHRW|2026-02-12|Rajan Arun",
@@ -3434,11 +3583,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 179.64
+        "2026-03-07": 179.64,
+        "2026-03-08": 179.64
       },
       "latest_price": 179.64,
       "return_pct": 7.5,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CHRW|2026-02-12|Lee Damon J.",
@@ -3454,11 +3604,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 179.64
+        "2026-03-07": 179.64,
+        "2026-03-08": 179.64
       },
       "latest_price": 179.64,
       "return_pct": 10.53,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|QDEL|2026-02-13|Strobeck Matthew",
@@ -3474,11 +3625,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 20.83
+        "2026-03-07": 20.83,
+        "2026-03-08": 20.83
       },
       "latest_price": 20.83,
       "return_pct": -13.06,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SRZN|2026-02-11|Tcg Crossover Gp Ii, LLC",
@@ -3494,11 +3646,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 27.04
+        "2026-03-07": 27.04,
+        "2026-03-08": 27.04
       },
       "latest_price": 27.04,
       "return_pct": 14.62,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|AXR|2026-02-12|Dahl James H",
@@ -3514,11 +3667,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 24.6
+        "2026-03-07": 24.6,
+        "2026-03-08": 24.6
       },
       "latest_price": 24.6,
       "return_pct": 3.75,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|PNFP|2026-02-12|Gregory Andrew J. Jr.",
@@ -3534,11 +3688,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 88.59
+        "2026-03-07": 88.59,
+        "2026-03-08": 88.59
       },
       "latest_price": 88.59,
       "return_pct": -6.27,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|NRX|2026-02-11|Hannasch Brian",
@@ -3572,11 +3727,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 21.04
+        "2026-03-07": 21.04,
+        "2026-03-08": 21.04
       },
       "latest_price": 21.04,
       "return_pct": -5.1,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|WTW|2026-02-12|Hammond Michael P.",
@@ -3592,11 +3748,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 302.94
+        "2026-03-07": 302.94,
+        "2026-03-08": 302.94
       },
       "latest_price": 302.94,
       "return_pct": 8.64,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|NDAQ|2026-02-13|Investor Ab",
@@ -3612,11 +3769,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 88.43
+        "2026-03-07": 88.43,
+        "2026-03-08": 88.43
       },
       "latest_price": 88.43,
       "return_pct": 11.68,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|DMLP|2026-02-11|Dorchester Minerals Operating LP",
@@ -3632,11 +3790,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 26.88
+        "2026-03-07": 26.88,
+        "2026-03-08": 26.88
       },
       "latest_price": 26.88,
       "return_pct": 6.5,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CINF|2026-02-11|Debbink Dirk J",
@@ -3652,11 +3811,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 165.39
+        "2026-03-07": 165.39,
+        "2026-03-08": 165.39
       },
       "latest_price": 165.39,
       "return_pct": 1.73,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CMTV|2026-02-13|Marvin Emma",
@@ -3672,11 +3832,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 30.5
+        "2026-03-07": 30.5,
+        "2026-03-08": 30.5
       },
       "latest_price": 30.5,
       "return_pct": -6.15,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CLF|2026-02-13|Camara Edilson",
@@ -3692,11 +3853,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 9.83
+        "2026-03-07": 9.83,
+        "2026-03-08": 9.83
       },
       "latest_price": 9.83,
       "return_pct": -2.96,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|RBBN|2026-02-10|McClelland Bruce William",
@@ -3712,11 +3874,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 2.15
+        "2026-03-07": 2.15,
+        "2026-03-08": 2.15
       },
       "latest_price": 2.15,
       "return_pct": 6.97,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|QDEL|2026-02-13|Blaser Brian J.",
@@ -3732,11 +3895,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 20.83
+        "2026-03-07": 20.83,
+        "2026-03-08": 20.83
       },
       "latest_price": 20.83,
       "return_pct": -11.7,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|COSM|2026-02-12|Siokas Grigorios",
@@ -3752,11 +3916,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 0.37
+        "2026-03-07": 0.37,
+        "2026-03-08": 0.37
       },
       "latest_price": 0.37,
       "return_pct": 0.0,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|BWFG|2026-02-12|Seidman Lawrence B",
@@ -3772,11 +3937,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 46.32
+        "2026-03-07": 46.32,
+        "2026-03-08": 46.32
       },
       "latest_price": 46.32,
       "return_pct": -3.72,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|LUCK|2026-02-12|Harinstein Jason",
@@ -3792,11 +3958,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 8.54
+        "2026-03-07": 8.54,
+        "2026-03-08": 8.54
       },
       "latest_price": 8.54,
       "return_pct": 13.26,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ONCY|2026-02-11|Seizinger Bernd R.",
@@ -3812,11 +3979,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 1.06
+        "2026-03-07": 1.06,
+        "2026-03-08": 1.06
       },
       "latest_price": 1.06,
       "return_pct": 27.71,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|THS|2026-02-10|Silver Point Capital L.P.",
@@ -3850,11 +4018,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 144.47
+        "2026-03-07": 144.47,
+        "2026-03-08": 144.47
       },
       "latest_price": 144.47,
       "return_pct": 15.43,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|RDDT|2026-02-10|Farrell Sarah E",
@@ -3870,11 +4039,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 139.39
+        "2026-03-07": 139.39,
+        "2026-03-08": 139.39
       },
       "latest_price": 139.39,
       "return_pct": -5.92,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|IMDX|2026-02-10|Broadwood Partners, L.P.",
@@ -3890,11 +4060,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 5.45
+        "2026-03-07": 5.45,
+        "2026-03-08": 5.45
       },
       "latest_price": 5.45,
       "return_pct": -5.22,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|KVHI|2026-02-12|Radoff Bradley Louis",
@@ -3910,11 +4081,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 5.91
+        "2026-03-07": 5.91,
+        "2026-03-08": 5.91
       },
       "latest_price": 5.91,
       "return_pct": -5.59,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|MPLT|2026-02-10|Garnett Timothy John",
@@ -3930,11 +4102,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 18.51
+        "2026-03-07": 18.51,
+        "2026-03-08": 18.51
       },
       "latest_price": 18.51,
       "return_pct": 3.47,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|AVTR|2026-02-12|Summe Gregory L",
@@ -3950,11 +4123,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 8.17
+        "2026-03-07": 8.17,
+        "2026-03-08": 8.17
       },
       "latest_price": 8.17,
       "return_pct": -13.09,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|NBHC|2026-02-11|Steinmetz John",
@@ -3970,11 +4144,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 40.14
+        "2026-03-07": 40.14,
+        "2026-03-08": 40.14
       },
       "latest_price": 40.14,
       "return_pct": -3.07,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|TBBK|2026-02-10|Cohn Matthew",
@@ -3990,11 +4165,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 52.66
+        "2026-03-07": 52.66,
+        "2026-03-08": 52.66
       },
       "latest_price": 52.66,
       "return_pct": -12.5,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|AXR|2026-02-10|Dahl James H",
@@ -4010,11 +4186,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 24.6
+        "2026-03-07": 24.6,
+        "2026-03-08": 24.6
       },
       "latest_price": 24.6,
       "return_pct": 10.71,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|AON|2026-02-10|Knight Lester B",
@@ -4030,11 +4207,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 340.6
+        "2026-03-07": 340.6,
+        "2026-03-08": 340.6
       },
       "latest_price": 340.6,
       "return_pct": 6.69,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|TECX|2026-02-11|Reicin Alise",
@@ -4050,11 +4228,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 35.87
+        "2026-03-07": 35.87,
+        "2026-03-08": 35.87
       },
       "latest_price": 35.87,
       "return_pct": 70.0,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|FIEE|2026-02-10|Elements Corporate Services Ltd",
@@ -4070,11 +4249,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 6.43
+        "2026-03-07": 6.43,
+        "2026-03-08": 6.43
       },
       "latest_price": 6.43,
       "return_pct": 398.45,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|RAL|2026-02-10|Mitchell Kate",
@@ -4090,11 +4270,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 44.64
+        "2026-03-07": 44.64,
+        "2026-03-08": 44.64
       },
       "latest_price": 44.64,
       "return_pct": 5.08,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SPGI|2026-02-11|Joly Hubert",
@@ -4110,11 +4291,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 452.36
+        "2026-03-07": 452.36,
+        "2026-03-08": 452.36
       },
       "latest_price": 452.36,
       "return_pct": 13.38,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|MAT|2026-02-12|Kreiz Ynon",
@@ -4130,11 +4312,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 15.9
+        "2026-03-07": 15.9,
+        "2026-03-08": 15.9
       },
       "latest_price": 15.9,
       "return_pct": 2.38,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|COSM|2026-02-11|Siokas Grigorios",
@@ -4150,11 +4333,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 0.37
+        "2026-03-07": 0.37,
+        "2026-03-08": 0.37
       },
       "latest_price": 0.37,
       "return_pct": -9.76,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|WRB|2026-02-09|Mitsui Sumitomo Insurance Co Ltd",
@@ -4170,11 +4354,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 69.92
+        "2026-03-07": 69.92,
+        "2026-03-08": 69.92
       },
       "latest_price": 69.92,
       "return_pct": 0.34,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|KKR|2026-02-09|Barakett Timothy R",
@@ -4190,11 +4375,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 91.33
+        "2026-03-07": 91.33,
+        "2026-03-08": 91.33
       },
       "latest_price": 91.33,
       "return_pct": -12.96,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|TECX|2026-02-10|Lochner Daniel",
@@ -4210,11 +4396,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 35.87
+        "2026-03-07": 35.87,
+        "2026-03-08": 35.87
       },
       "latest_price": 35.87,
       "return_pct": 65.99,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|GEF|2026-02-09|Sathyanarayanan Bala",
@@ -4230,11 +4417,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 69.18
+        "2026-03-07": 69.18,
+        "2026-03-08": 69.18
       },
       "latest_price": 69.18,
       "return_pct": -20.68,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SGP|2026-02-09|Ra Capital Management, L.P.",
@@ -4250,11 +4438,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 26.68
+        "2026-03-07": 26.68,
+        "2026-03-08": 26.68
       },
       "latest_price": 26.68,
       "return_pct": 66.75,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|MMS|2026-02-10|Caswell Bruce",
@@ -4270,11 +4459,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 78.01
+        "2026-03-07": 78.01,
+        "2026-03-08": 78.01
       },
       "latest_price": 78.01,
       "return_pct": -0.56,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SGP|2026-02-09|Behbahani Ali",
@@ -4290,11 +4480,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 26.68
+        "2026-03-07": 26.68,
+        "2026-03-08": 26.68
       },
       "latest_price": 26.68,
       "return_pct": 66.75,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SGP|2026-02-09|Florence Anthony A. Jr.",
@@ -4310,11 +4501,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 26.68
+        "2026-03-07": 26.68,
+        "2026-03-08": 26.68
       },
       "latest_price": 26.68,
       "return_pct": 66.75,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SGP|2026-02-09|Baskett Forest",
@@ -4330,11 +4522,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 26.68
+        "2026-03-07": 26.68,
+        "2026-03-08": 26.68
       },
       "latest_price": 26.68,
       "return_pct": 66.75,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SGP|2026-02-09|New Enterprise Associates 17, L.P.",
@@ -4350,11 +4543,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 26.68
+        "2026-03-07": 26.68,
+        "2026-03-08": 26.68
       },
       "latest_price": 26.68,
       "return_pct": 66.75,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SGP|2026-02-09|Yang Rick",
@@ -4370,11 +4564,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 26.68
+        "2026-03-07": 26.68,
+        "2026-03-08": 26.68
       },
       "latest_price": 26.68,
       "return_pct": 66.75,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SGP|2026-02-09|Makhzoumi Mohamad",
@@ -4390,11 +4585,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 26.68
+        "2026-03-07": 26.68,
+        "2026-03-08": 26.68
       },
       "latest_price": 26.68,
       "return_pct": 66.75,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SGP|2026-02-09|Sandell Scott D",
@@ -4410,11 +4606,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 26.68
+        "2026-03-07": 26.68,
+        "2026-03-08": 26.68
       },
       "latest_price": 26.68,
       "return_pct": 66.75,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SGP|2026-02-09|Chang Carmen",
@@ -4430,11 +4627,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 26.68
+        "2026-03-07": 26.68,
+        "2026-03-08": 26.68
       },
       "latest_price": 26.68,
       "return_pct": 66.75,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SGP|2026-02-09|Walker Paul Edward",
@@ -4450,11 +4648,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 26.68
+        "2026-03-07": 26.68,
+        "2026-03-08": 26.68
       },
       "latest_price": 26.68,
       "return_pct": 66.75,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SGP|2026-02-09|Mathers Edward T",
@@ -4470,11 +4669,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 26.68
+        "2026-03-07": 26.68,
+        "2026-03-08": 26.68
       },
       "latest_price": 26.68,
       "return_pct": 66.75,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SGP|2026-02-09|Pardo Geoffrey B",
@@ -4490,11 +4690,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 26.68
+        "2026-03-07": 26.68,
+        "2026-03-08": 26.68
       },
       "latest_price": 26.68,
       "return_pct": 66.75,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SGP|2026-02-09|Khan Bilal Arshad",
@@ -4510,11 +4711,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 26.68
+        "2026-03-07": 26.68,
+        "2026-03-08": 26.68
       },
       "latest_price": 26.68,
       "return_pct": 66.75,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|NFJ|2026-02-09|Saba Capital Management, L.P.",
@@ -4530,11 +4732,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 12.99
+        "2026-03-07": 12.99,
+        "2026-03-08": 12.99
       },
       "latest_price": 12.99,
       "return_pct": -5.11,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|BMI|2026-02-10|Bockhorst Kenneth",
@@ -4550,31 +4753,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 148.85
+        "2026-03-07": 148.85,
+        "2026-03-08": 148.85
       },
       "latest_price": 148.85,
       "return_pct": -2.34,
-      "last_snapshot": "2026-03-07"
-    },
-    {
-      "id": "US|LEE|2026-02-05|Quint Digital Ltd",
-      "market": "US",
-      "ticker": "LEE",
-      "yf_symbol": "LEE",
-      "company": "Lee Enterprises, Inc",
-      "insider_name": "Quint Digital Ltd",
-      "title": "10%",
-      "trade_date": "2026-02-05",
-      "trade_price": 3.25,
-      "value": 7966875.0,
-      "cluster_buy": true,
-      "currency": "USD",
-      "snapshots": {
-        "2026-03-07": 9.68
-      },
-      "latest_price": 9.68,
-      "return_pct": 197.85,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|VRNS|2026-02-09|Faitelson Yakov",
@@ -4590,11 +4774,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 24.39
+        "2026-03-07": 24.39,
+        "2026-03-08": 24.39
       },
       "latest_price": 24.39,
       "return_pct": 8.84,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|VRNS|2026-02-09|Bass David",
@@ -4610,11 +4795,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 24.39
+        "2026-03-07": 24.39,
+        "2026-03-08": 24.39
       },
       "latest_price": 24.39,
       "return_pct": 3.92,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|VRNS|2026-02-06|Gavin John J Jr",
@@ -4630,11 +4816,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 24.39
+        "2026-03-07": 24.39,
+        "2026-03-08": 24.39
       },
       "latest_price": 24.39,
       "return_pct": 8.21,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|VRNS|2026-02-06|Kess Avrohom J.",
@@ -4650,11 +4837,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 24.39
+        "2026-03-07": 24.39,
+        "2026-03-08": 24.39
       },
       "latest_price": 24.39,
       "return_pct": 9.42,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CING|2026-02-06|Werth Peter J.",
@@ -4670,11 +4858,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 6.43
+        "2026-03-07": 6.43,
+        "2026-03-08": 6.43
       },
       "latest_price": 6.43,
       "return_pct": 27.58,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|TBBK|2026-02-06|Canuso Dominic C",
@@ -4690,11 +4879,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 52.66
+        "2026-03-07": 52.66,
+        "2026-03-08": 52.66
       },
       "latest_price": 52.66,
       "return_pct": -13.57,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SGP|2026-02-09|Nielsen Kirk G.",
@@ -4710,11 +4900,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 26.68
+        "2026-03-07": 26.68,
+        "2026-03-08": 26.68
       },
       "latest_price": 26.68,
       "return_pct": 66.75,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SGP|2026-02-09|Vensana Capital I Gp, LLC",
@@ -4730,11 +4921,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 26.68
+        "2026-03-07": 26.68,
+        "2026-03-08": 26.68
       },
       "latest_price": 26.68,
       "return_pct": 66.75,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CAQ|2026-02-09|Cam-Phung Michael Tam",
@@ -4768,11 +4960,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 110.01
+        "2026-03-07": 110.01,
+        "2026-03-08": 110.01
       },
       "latest_price": 110.01,
       "return_pct": -13.11,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ACVA|2026-02-09|Chamoun George",
@@ -4788,11 +4981,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 5.12
+        "2026-03-07": 5.12,
+        "2026-03-08": 5.12
       },
       "latest_price": 5.12,
       "return_pct": -29.86,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|LADR|2026-02-06|Harris Brian",
@@ -4808,11 +5002,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 10.24
+        "2026-03-07": 10.24,
+        "2026-03-08": 10.24
       },
       "latest_price": 10.24,
       "return_pct": -0.78,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|LSAK|2026-02-09|Mazanderani Ali",
@@ -4828,11 +5023,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 4.66
+        "2026-03-07": 4.66,
+        "2026-03-08": 4.66
       },
       "latest_price": 4.66,
       "return_pct": 6.88,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|BANC|2026-02-09|Hussain Hamid",
@@ -4848,11 +5044,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 17.11
+        "2026-03-07": 17.11,
+        "2026-03-08": 17.11
       },
       "latest_price": 17.11,
       "return_pct": -18.99,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|PW|2026-02-06|Posner Henry III",
@@ -4868,11 +5065,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 0.85
+        "2026-03-07": 0.85,
+        "2026-03-08": 0.85
       },
       "latest_price": 0.85,
       "return_pct": -87.14,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|NG|2026-02-06|Muniz Quintanilla Daniel",
@@ -4888,11 +5086,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 12.07
+        "2026-03-07": 12.07,
+        "2026-03-08": 12.07
       },
       "latest_price": 12.07,
       "return_pct": 35.01,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|BMI|2026-02-09|Wrocklage Robert",
@@ -4908,11 +5107,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 148.85
+        "2026-03-07": 148.85,
+        "2026-03-08": 148.85
       },
       "latest_price": 148.85,
       "return_pct": -2.3,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|RAL|2026-02-09|Sacks Anelise Angelino",
@@ -4928,11 +5128,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 44.64
+        "2026-03-07": 44.64,
+        "2026-03-08": 44.64
       },
       "latest_price": 44.64,
       "return_pct": 8.22,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CEPS|2026-02-06|Cantor Ep Holdings Vi, LLC",
@@ -4948,11 +5149,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 10.14
+        "2026-03-07": 10.14,
+        "2026-03-08": 10.14
       },
       "latest_price": 10.14,
       "return_pct": 1.4,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|EIKN|2026-02-06|Column Group IV Gp, LP",
@@ -4968,11 +5170,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 14.38
+        "2026-03-07": 14.38,
+        "2026-03-08": 14.38
       },
       "latest_price": 14.38,
       "return_pct": -20.11,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|PATK|2026-02-06|Filer Matthew S",
@@ -4988,11 +5191,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 115.81
+        "2026-03-07": 115.81,
+        "2026-03-08": 115.81
       },
       "latest_price": 115.81,
       "return_pct": -17.23,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|OFRM|2026-02-09|Robb Walter E IV",
@@ -5008,11 +5212,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 20.75
+        "2026-03-07": 20.75,
+        "2026-03-08": 20.75
       },
       "latest_price": 20.75,
       "return_pct": 15.28,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|MMS|2026-02-09|Mutryn David",
@@ -5028,51 +5233,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 78.01
+        "2026-03-07": 78.01,
+        "2026-03-08": 78.01
       },
       "latest_price": 78.01,
       "return_pct": 3.15,
-      "last_snapshot": "2026-03-07"
-    },
-    {
-      "id": "US|ADM|2026-02-05|McAtee David R II",
-      "market": "US",
-      "ticker": "ADM",
-      "yf_symbol": "ADM",
-      "company": "Archer-Daniels-Midland Co",
-      "insider_name": "McAtee David R II",
-      "title": "Dir",
-      "trade_date": "2026-02-05",
-      "trade_price": 64.9,
-      "value": 486720.0,
-      "cluster_buy": false,
-      "currency": "USD",
-      "snapshots": {
-        "2026-03-07": 67.44
-      },
-      "latest_price": 67.44,
-      "return_pct": 3.91,
-      "last_snapshot": "2026-03-07"
-    },
-    {
-      "id": "US|BMI|2026-02-05|Htwe Richard",
-      "market": "US",
-      "ticker": "BMI",
-      "yf_symbol": "BMI",
-      "company": "Badger Meter Inc",
-      "insider_name": "Htwe Richard",
-      "title": "VP-Global Operations",
-      "trade_date": "2026-02-05",
-      "trade_price": 148.71,
-      "value": 501153.0,
-      "cluster_buy": true,
-      "currency": "USD",
-      "snapshots": {
-        "2026-03-07": 148.85
-      },
-      "latest_price": 148.85,
-      "return_pct": 0.09,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|PRU|2026-02-06|Chappuis Jacques",
@@ -5088,11 +5254,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 97.12
+        "2026-03-07": 97.12,
+        "2026-03-08": 97.12
       },
       "latest_price": 97.12,
       "return_pct": -3.81,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|HCIC|2026-02-06|Hennessy Thomas D",
@@ -5162,11 +5329,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 1294.53
+        "2026-03-07": 1294.53,
+        "2026-03-08": 1294.53
       },
       "latest_price": 1294.53,
       "return_pct": 0.8,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|BV|2026-02-06|Cornog William L",
@@ -5182,11 +5350,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 12.72
+        "2026-03-07": 12.72,
+        "2026-03-08": 12.72
       },
       "latest_price": 12.72,
       "return_pct": -5.5,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|KMB|2026-02-09|Maclin Todd",
@@ -5202,11 +5371,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 104.58
+        "2026-03-07": 104.58,
+        "2026-03-08": 104.58
       },
       "latest_price": 104.58,
       "return_pct": 0.41,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|TENB|2026-02-09|Coviello Arthur W Jr",
@@ -5222,91 +5392,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 21.04
+        "2026-03-07": 21.04,
+        "2026-03-08": 21.04
       },
       "latest_price": 21.04,
       "return_pct": -2.14,
-      "last_snapshot": "2026-03-07"
-    },
-    {
-      "id": "US|MNRO|2026-02-05|Fitzsimmons Peter D",
-      "market": "US",
-      "ticker": "MNRO",
-      "yf_symbol": "MNRO",
-      "company": "Monro, Inc.",
-      "insider_name": "Fitzsimmons Peter D",
-      "title": "Pres, CEO",
-      "trade_date": "2026-02-05",
-      "trade_price": 19.68,
-      "value": 250879.0,
-      "cluster_buy": false,
-      "currency": "USD",
-      "snapshots": {
-        "2026-03-07": 18.38
-      },
-      "latest_price": 18.38,
-      "return_pct": -6.61,
-      "last_snapshot": "2026-03-07"
-    },
-    {
-      "id": "US|NFJ|2026-02-05|Saba Capital Management, L.P.",
-      "market": "US",
-      "ticker": "NFJ",
-      "yf_symbol": "NFJ",
-      "company": "Virtus Dividend, Interest & Premium Strategy Fund",
-      "insider_name": "Saba Capital Management, L.P.",
-      "title": "10%",
-      "trade_date": "2026-02-05",
-      "trade_price": 13.34,
-      "value": 652686.0,
-      "cluster_buy": false,
-      "currency": "USD",
-      "snapshots": {
-        "2026-03-07": 12.99
-      },
-      "latest_price": 12.99,
-      "return_pct": -2.62,
-      "last_snapshot": "2026-03-07"
-    },
-    {
-      "id": "US|FDBC|2026-02-05|McDonald Michael J",
-      "market": "US",
-      "ticker": "FDBC",
-      "yf_symbol": "FDBC",
-      "company": "Fidelity D & D Bancorp Inc",
-      "insider_name": "McDonald Michael J",
-      "title": "Vice COB",
-      "trade_date": "2026-02-05",
-      "trade_price": 48.01,
-      "value": 500000.0,
-      "cluster_buy": false,
-      "currency": "USD",
-      "snapshots": {
-        "2026-03-07": 43.56
-      },
-      "latest_price": 43.56,
-      "return_pct": -9.27,
-      "last_snapshot": "2026-03-07"
-    },
-    {
-      "id": "US|SHBI|2026-02-05|Esham William E. III",
-      "market": "US",
-      "ticker": "SHBI",
-      "yf_symbol": "SHBI",
-      "company": "Shore Bancshares Inc",
-      "insider_name": "Esham William E. III",
-      "title": "Dir",
-      "trade_date": "2026-02-05",
-      "trade_price": 19.99,
-      "value": 99950.0,
-      "cluster_buy": false,
-      "currency": "USD",
-      "snapshots": {
-        "2026-03-07": 17.99
-      },
-      "latest_price": 17.99,
-      "return_pct": -10.01,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CBC|2026-02-06|Ross John Thomas",
@@ -5322,11 +5413,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 24.06
+        "2026-03-07": 24.06,
+        "2026-03-08": 24.06
       },
       "latest_price": 24.06,
       "return_pct": -1.8,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|RAL|2026-02-06|Kazmi Amir A.",
@@ -5342,11 +5434,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 44.64
+        "2026-03-07": 44.64,
+        "2026-03-08": 44.64
       },
       "latest_price": 44.64,
       "return_pct": 13.67,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|RAL|2026-02-06|Worrell Brian",
@@ -5362,11 +5455,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 44.64
+        "2026-03-07": 44.64,
+        "2026-03-08": 44.64
       },
       "latest_price": 44.64,
       "return_pct": 11.8,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|RAL|2026-02-06|Moorthy Ganesh",
@@ -5382,31 +5476,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 44.64
+        "2026-03-07": 44.64,
+        "2026-03-08": 44.64
       },
       "latest_price": 44.64,
       "return_pct": 12.33,
-      "last_snapshot": "2026-03-07"
-    },
-    {
-      "id": "US|WRB|2026-02-05|Mitsui Sumitomo Insurance Co Ltd",
-      "market": "US",
-      "ticker": "WRB",
-      "yf_symbol": "WRB",
-      "company": "Berkley W R Corp",
-      "insider_name": "Mitsui Sumitomo Insurance Co Ltd",
-      "title": "10%",
-      "trade_date": "2026-02-05",
-      "trade_price": 70.88,
-      "value": 2835251.0,
-      "cluster_buy": false,
-      "currency": "USD",
-      "snapshots": {
-        "2026-03-07": 69.92
-      },
-      "latest_price": 69.92,
-      "return_pct": -1.35,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SOFI|2026-02-06|Lavet Robert S",
@@ -5422,31 +5497,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 18.9
+        "2026-03-07": 18.9,
+        "2026-03-08": 18.9
       },
       "latest_price": 18.9,
       "return_pct": -10.17,
-      "last_snapshot": "2026-03-07"
-    },
-    {
-      "id": "US|WDFC|2026-02-05|Pendarvis David",
-      "market": "US",
-      "ticker": "WDFC",
-      "yf_symbol": "WDFC",
-      "company": "Wd 40 Co",
-      "insider_name": "Pendarvis David",
-      "title": "Dir",
-      "trade_date": "2026-02-05",
-      "trade_price": 247.15,
-      "value": 104792.0,
-      "cluster_buy": false,
-      "currency": "USD",
-      "snapshots": {
-        "2026-03-07": 236.32
-      },
-      "latest_price": 236.32,
-      "return_pct": -4.38,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|LW|2026-02-06|Craps Jan Eli B",
@@ -5462,51 +5518,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 46.03
+        "2026-03-07": 46.03,
+        "2026-03-08": 46.03
       },
       "latest_price": 46.03,
       "return_pct": -5.39,
-      "last_snapshot": "2026-03-07"
-    },
-    {
-      "id": "US|GEF|2026-02-05|Sathyanarayanan Bala",
-      "market": "US",
-      "ticker": "GEF",
-      "yf_symbol": "GEF",
-      "company": "Greif, Inc",
-      "insider_name": "Sathyanarayanan Bala",
-      "title": "EVP, Chief HR Off",
-      "trade_date": "2026-02-05",
-      "trade_price": 88.1,
-      "value": 159542.0,
-      "cluster_buy": true,
-      "currency": "USD",
-      "snapshots": {
-        "2026-03-07": 69.18
-      },
-      "latest_price": 69.18,
-      "return_pct": -21.48,
-      "last_snapshot": "2026-03-07"
-    },
-    {
-      "id": "US|BATRA|2026-02-05|Malone John C",
-      "market": "US",
-      "ticker": "BATRA",
-      "yf_symbol": "BATRA",
-      "company": "Atlanta Braves Holdings, Inc.",
-      "insider_name": "Malone John C",
-      "title": "10%",
-      "trade_date": "2026-02-05",
-      "trade_price": 44.6,
-      "value": 1724786.0,
-      "cluster_buy": false,
-      "currency": "USD",
-      "snapshots": {
-        "2026-03-07": 48.46
-      },
-      "latest_price": 48.46,
-      "return_pct": 8.65,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|BOBS|2026-02-06|Moeller Stephen",
@@ -5522,11 +5539,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 17.3
+        "2026-03-07": 17.3,
+        "2026-03-08": 17.3
       },
       "latest_price": 17.3,
       "return_pct": 1.76,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|BOBS|2026-02-06|Williams Scott K",
@@ -5542,31 +5560,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 17.3
+        "2026-03-07": 17.3,
+        "2026-03-08": 17.3
       },
       "latest_price": 17.3,
       "return_pct": 1.76,
-      "last_snapshot": "2026-03-07"
-    },
-    {
-      "id": "US|APH|2026-02-05|Livingston Robert",
-      "market": "US",
-      "ticker": "APH",
-      "yf_symbol": "APH",
-      "company": "Amphenol Corp /De/",
-      "insider_name": "Livingston Robert",
-      "title": "Dir",
-      "trade_date": "2026-02-05",
-      "trade_price": 128.51,
-      "value": 1285080.0,
-      "cluster_buy": false,
-      "currency": "USD",
-      "snapshots": {
-        "2026-03-07": 131.87
-      },
-      "latest_price": 131.87,
-      "return_pct": 2.61,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ROP|2026-02-06|Joyce Thomas Patrick Jr",
@@ -5582,209 +5581,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 367.5
+        "2026-03-07": 367.5,
+        "2026-03-08": 367.5
       },
       "latest_price": 367.5,
       "return_pct": 2.52,
-      "last_snapshot": "2026-03-07"
-    },
-    {
-      "id": "US|MANE|2026-02-05|Coric Vlad",
-      "market": "US",
-      "ticker": "MANE",
-      "yf_symbol": "MANE",
-      "company": "Veradermics, Inc",
-      "insider_name": "Coric Vlad",
-      "title": "Dir",
-      "trade_date": "2026-02-05",
-      "trade_price": 17.0,
-      "value": 1999982.0,
-      "cluster_buy": true,
-      "currency": "USD",
-      "snapshots": {
-        "2026-03-07": 48.56
-      },
-      "latest_price": 48.56,
-      "return_pct": 185.65,
-      "last_snapshot": "2026-03-07"
-    },
-    {
-      "id": "US|MANE|2026-02-05|Childs John W",
-      "market": "US",
-      "ticker": "MANE",
-      "yf_symbol": "MANE",
-      "company": "Veradermics, Inc",
-      "insider_name": "Childs John W",
-      "title": "Dir",
-      "trade_date": "2026-02-05",
-      "trade_price": 17.0,
-      "value": 4999989.0,
-      "cluster_buy": true,
-      "currency": "USD",
-      "snapshots": {
-        "2026-03-07": 48.56
-      },
-      "latest_price": 48.56,
-      "return_pct": 185.65,
-      "last_snapshot": "2026-03-07"
-    },
-    {
-      "id": "US|MANE|2026-02-05|Longitude Capital Partners V, LLC",
-      "market": "US",
-      "ticker": "MANE",
-      "yf_symbol": "MANE",
-      "company": "Veradermics, Inc",
-      "insider_name": "Longitude Capital Partners V, LLC",
-      "title": "10%",
-      "trade_date": "2026-02-05",
-      "trade_price": 17.0,
-      "value": 18275000.0,
-      "cluster_buy": true,
-      "currency": "USD",
-      "snapshots": {
-        "2026-03-07": 48.56
-      },
-      "latest_price": 48.56,
-      "return_pct": 185.65,
-      "last_snapshot": "2026-03-07"
-    },
-    {
-      "id": "US|MANE|2026-02-05|Enright Patrick G",
-      "market": "US",
-      "ticker": "MANE",
-      "yf_symbol": "MANE",
-      "company": "Veradermics, Inc",
-      "insider_name": "Enright Patrick G",
-      "title": "Dir, 10%",
-      "trade_date": "2026-02-05",
-      "trade_price": 17.0,
-      "value": 18275000.0,
-      "cluster_buy": true,
-      "currency": "USD",
-      "snapshots": {
-        "2026-03-07": 48.56
-      },
-      "latest_price": 48.56,
-      "return_pct": 185.65,
-      "last_snapshot": "2026-03-07"
-    },
-    {
-      "id": "US|JCI|2026-02-05|Vergnano Mark",
-      "market": "US",
-      "ticker": "JCI",
-      "yf_symbol": "JCI",
-      "company": "Johnson Controls International Plc",
-      "insider_name": "Vergnano Mark",
-      "title": "Dir",
-      "trade_date": "2026-02-05",
-      "trade_price": 131.94,
-      "value": 1011320.0,
-      "cluster_buy": false,
-      "currency": "USD",
-      "snapshots": {
-        "2026-03-07": 132.4
-      },
-      "latest_price": 132.4,
-      "return_pct": 0.35,
-      "last_snapshot": "2026-03-07"
-    },
-    {
-      "id": "US|SOFI|2026-02-05|Schuppenhauer Eric",
-      "market": "US",
-      "ticker": "SOFI",
-      "yf_symbol": "SOFI",
-      "company": "Sofi Technologies, Inc.",
-      "insider_name": "Schuppenhauer Eric",
-      "title": "EVP  GBUL Borrow",
-      "trade_date": "2026-02-05",
-      "trade_price": 19.93,
-      "value": 99650.0,
-      "cluster_buy": true,
-      "currency": "USD",
-      "snapshots": {
-        "2026-03-07": 18.9
-      },
-      "latest_price": 18.9,
-      "return_pct": -5.17,
-      "last_snapshot": "2026-03-07"
-    },
-    {
-      "id": "US|LUMN|2026-02-05|Johnson Kathleen E",
-      "market": "US",
-      "ticker": "LUMN",
-      "yf_symbol": "LUMN",
-      "company": "Lumen Technologies, Inc.",
-      "insider_name": "Johnson Kathleen E",
-      "title": "Pres, CEO",
-      "trade_date": "2026-02-05",
-      "trade_price": 6.35,
-      "value": 499925.0,
-      "cluster_buy": false,
-      "currency": "USD",
-      "snapshots": {
-        "2026-03-07": 6.62
-      },
-      "latest_price": 6.62,
-      "return_pct": 4.25,
-      "last_snapshot": "2026-03-07"
-    },
-    {
-      "id": "US|CLBRU|2026-02-05|Malik Omeed",
-      "market": "US",
-      "ticker": "CLBRU",
-      "yf_symbol": "CLBRU",
-      "company": "Colombier Acquisition Corp. III",
-      "insider_name": "Malik Omeed",
-      "title": "See Remarks, 10%",
-      "trade_date": "2026-02-05",
-      "trade_price": 10.0,
-      "value": 1500000.0,
-      "cluster_buy": false,
-      "currency": "USD",
-      "snapshots": {},
-      "latest_price": null,
-      "return_pct": null,
-      "last_snapshot": null
-    },
-    {
-      "id": "US|ENPH|2026-02-05|Kothandaraman Badrinarayanan",
-      "market": "US",
-      "ticker": "ENPH",
-      "yf_symbol": "ENPH",
-      "company": "Enphase Energy, Inc.",
-      "insider_name": "Kothandaraman Badrinarayanan",
-      "title": "Pres, CEO",
-      "trade_date": "2026-02-05",
-      "trade_price": 51.98,
-      "value": 259884.0,
-      "cluster_buy": false,
-      "currency": "USD",
-      "snapshots": {
-        "2026-03-07": 40.23
-      },
-      "latest_price": 40.23,
-      "return_pct": -22.6,
-      "last_snapshot": "2026-03-07"
-    },
-    {
-      "id": "US|NTRS|2026-02-05|Petrino Richard",
-      "market": "US",
-      "ticker": "NTRS",
-      "yf_symbol": "NTRS",
-      "company": "Northern Trust Corp",
-      "insider_name": "Petrino Richard",
-      "title": "Dir",
-      "trade_date": "2026-02-05",
-      "trade_price": 148.91,
-      "value": 148910.0,
-      "cluster_buy": false,
-      "currency": "USD",
-      "snapshots": {
-        "2026-03-07": 138.59
-      },
-      "latest_price": 138.59,
-      "return_pct": -6.93,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|BWFG|2026-02-23|Seidman Lawrence B",
@@ -5800,11 +5602,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 46.32
+        "2026-03-07": 46.32,
+        "2026-03-08": 46.32
       },
       "latest_price": 46.32,
       "return_pct": -2.28,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SXC|2026-02-25|Hardesty Phillip Michael",
@@ -5820,11 +5623,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 5.92
+        "2026-03-07": 5.92,
+        "2026-03-08": 5.92
       },
       "latest_price": 5.92,
       "return_pct": 1.54,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SXC|2026-02-25|Marinko Mark W.",
@@ -5840,11 +5644,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 5.92
+        "2026-03-07": 5.92,
+        "2026-03-08": 5.92
       },
       "latest_price": 5.92,
       "return_pct": 1.37,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|TBI|2026-02-24|Owen Taryn R",
@@ -5860,11 +5665,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 4.24
+        "2026-03-07": 4.24,
+        "2026-03-08": 4.24
       },
       "latest_price": 4.24,
       "return_pct": 11.87,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|VNO|2026-02-24|Tisch Daniel R",
@@ -5880,11 +5686,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 26.94
+        "2026-03-07": 26.94,
+        "2026-03-08": 26.94
       },
       "latest_price": 26.94,
       "return_pct": -3.27,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|LEE|2026-02-24|Hoffmann David Henry",
@@ -5900,11 +5707,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 9.68
+        "2026-03-07": 9.68,
+        "2026-03-08": 9.68
       },
       "latest_price": 9.68,
       "return_pct": 9.5,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|AMH|2026-02-24|Goldberg David",
@@ -5920,11 +5728,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 29.9
+        "2026-03-07": 29.9,
+        "2026-03-08": 29.9
       },
       "latest_price": 29.9,
       "return_pct": 2.5,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|LOGC|2026-02-26|Bobbili Raja",
@@ -5940,11 +5749,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 7.9
+        "2026-03-07": 7.9,
+        "2026-03-08": 7.9
       },
       "latest_price": 7.9,
       "return_pct": 12.86,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|LOGC|2026-02-26|Abrams Capital Management, L.P.",
@@ -5960,11 +5770,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 7.9
+        "2026-03-07": 7.9,
+        "2026-03-08": 7.9
       },
       "latest_price": 7.9,
       "return_pct": 12.86,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|LOGC|2026-02-26|Abrams David C",
@@ -5980,11 +5791,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 7.9
+        "2026-03-07": 7.9,
+        "2026-03-08": 7.9
       },
       "latest_price": 7.9,
       "return_pct": 12.86,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CADL|2026-02-23|Manning Paul B",
@@ -6000,11 +5812,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 4.94
+        "2026-03-07": 4.94,
+        "2026-03-08": 4.94
       },
       "latest_price": 4.94,
       "return_pct": -9.36,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|MWA|2026-02-25|Sengstack Gregg C",
@@ -6020,11 +5833,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 27.93
+        "2026-03-07": 27.93,
+        "2026-03-08": 27.93
       },
       "latest_price": 27.93,
       "return_pct": -5.58,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|AAT|2026-02-25|Rady Ernest S",
@@ -6040,11 +5854,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 19.09
+        "2026-03-07": 19.09,
+        "2026-03-08": 19.09
       },
       "latest_price": 19.09,
       "return_pct": -3.49,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|OFIX|2026-02-24|Engine Capital Management, LP",
@@ -6060,11 +5875,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 12.62
+        "2026-03-07": 12.62,
+        "2026-03-08": 12.62
       },
       "latest_price": 12.62,
       "return_pct": 0.24,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|APCX|2026-02-24|Lord Albert L",
@@ -6080,11 +5896,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 0.31
+        "2026-03-07": 0.31,
+        "2026-03-08": 0.31
       },
       "latest_price": 0.31,
       "return_pct": -8.82,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CMTG|2026-02-24|Walter W Edward",
@@ -6100,11 +5917,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 2.62
+        "2026-03-07": 2.62,
+        "2026-03-08": 2.62
       },
       "latest_price": 2.62,
       "return_pct": 14.91,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|TPL|2026-02-25|Epps Donna E",
@@ -6120,11 +5938,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 525.03
+        "2026-03-07": 525.03,
+        "2026-03-08": 525.03
       },
       "latest_price": 525.03,
       "return_pct": 2.86,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CMS|2026-02-25|Leopold Diane",
@@ -6140,11 +5959,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 77.16
+        "2026-03-07": 77.16,
+        "2026-03-08": 77.16
       },
       "latest_price": 77.16,
       "return_pct": 0.6,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ABCL|2026-02-27|Booth Andrew",
@@ -6160,11 +5980,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 3.45
+        "2026-03-07": 3.45,
+        "2026-03-08": 3.45
       },
       "latest_price": 3.45,
       "return_pct": 0.88,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|HMN|2026-02-25|Fetter Victor",
@@ -6180,11 +6001,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 43.41
+        "2026-03-07": 43.41,
+        "2026-03-08": 43.41
       },
       "latest_price": 43.41,
       "return_pct": 1.59,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|LKFN|2026-02-27|Welch M Scott",
@@ -6200,11 +6022,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 56.88
+        "2026-03-07": 56.88,
+        "2026-03-08": 56.88
       },
       "latest_price": 56.88,
       "return_pct": -1.85,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SKWD|2026-02-27|Robinson Andrew S",
@@ -6220,11 +6043,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 48.71
+        "2026-03-07": 48.71,
+        "2026-03-08": 48.71
       },
       "latest_price": 48.71,
       "return_pct": 4.17,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|MYGN|2026-02-25|Phanstiel S. Louise",
@@ -6240,11 +6064,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 5.15
+        "2026-03-07": 5.15,
+        "2026-03-08": 5.15
       },
       "latest_price": 5.15,
       "return_pct": 8.88,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|MSEX|2026-02-27|Hoglund Robert N",
@@ -6260,11 +6085,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 54.11
+        "2026-03-07": 54.11,
+        "2026-03-08": 54.11
       },
       "latest_price": 54.11,
       "return_pct": -0.37,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ABCL|2026-02-26|Thermopylae Holdings Ltd.",
@@ -6280,11 +6106,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 3.45
+        "2026-03-07": 3.45,
+        "2026-03-08": 3.45
       },
       "latest_price": 3.45,
       "return_pct": 5.5,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|BATRK|2026-02-25|Malone John C",
@@ -6300,11 +6127,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 43.74
+        "2026-03-07": 43.74,
+        "2026-03-08": 43.74
       },
       "latest_price": 43.74,
       "return_pct": -24.59,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|POOL|2026-02-25|Hope James D",
@@ -6320,11 +6148,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 213.66
+        "2026-03-07": 213.66,
+        "2026-03-08": 213.66
       },
       "latest_price": 213.66,
       "return_pct": 0.01,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|RHP|2026-02-27|Reed Colin V",
@@ -6340,11 +6169,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 95.81
+        "2026-03-07": 95.81,
+        "2026-03-08": 95.81
       },
       "latest_price": 95.81,
       "return_pct": -4.83,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|FRHC|2026-02-24|Lukyanov Sergey",
@@ -6360,11 +6190,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 131.52
+        "2026-03-07": 131.52,
+        "2026-03-08": 131.52
       },
       "latest_price": 131.52,
       "return_pct": 9.13,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|WRB|2026-02-26|Mitsui Sumitomo Insurance Co Ltd",
@@ -6380,11 +6211,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 69.92
+        "2026-03-07": 69.92,
+        "2026-03-08": 69.92
       },
       "latest_price": 69.92,
       "return_pct": -2.41,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|AXR|2026-02-26|Dahl James H",
@@ -6400,11 +6232,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 24.6
+        "2026-03-07": 24.6,
+        "2026-03-08": 24.6
       },
       "latest_price": 24.6,
       "return_pct": -4.5,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|TRGS|2026-02-27|Trg Latin America Acquisitions LLC",
@@ -6438,11 +6271,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 35.73
+        "2026-03-07": 35.73,
+        "2026-03-08": 35.73
       },
       "latest_price": 35.73,
       "return_pct": -6.93,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|REXR|2026-02-27|Clark Laura E",
@@ -6458,11 +6292,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 36.03
+        "2026-03-07": 36.03,
+        "2026-03-08": 36.03
       },
       "latest_price": 36.03,
       "return_pct": -4.51,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|REXR|2026-02-27|Stockert David P",
@@ -6478,11 +6313,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 36.03
+        "2026-03-07": 36.03,
+        "2026-03-08": 36.03
       },
       "latest_price": 36.03,
       "return_pct": -3.64,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|REXR|2026-02-27|Fitzmaurice Michael",
@@ -6498,11 +6334,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 36.03
+        "2026-03-07": 36.03,
+        "2026-03-08": 36.03
       },
       "latest_price": 36.03,
       "return_pct": -4.05,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|FOUR|2026-02-26|Isaacman Jared",
@@ -6518,11 +6355,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 47.87
+        "2026-03-07": 47.87,
+        "2026-03-08": 47.87
       },
       "latest_price": 47.87,
       "return_pct": 3.82,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|BWFG|2026-02-27|Seidman Lawrence B",
@@ -6538,11 +6376,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 46.32
+        "2026-03-07": 46.32,
+        "2026-03-08": 46.32
       },
       "latest_price": 46.32,
       "return_pct": -1.03,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|BCHT|2026-02-27|Macpherson Richard",
@@ -6558,11 +6397,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 2.35
+        "2026-03-07": 2.35,
+        "2026-03-08": 2.35
       },
       "latest_price": 2.35,
       "return_pct": -2.08,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|PVLA|2026-02-27|Jenkins George M",
@@ -6578,11 +6418,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 134.39
+        "2026-03-07": 134.39,
+        "2026-03-08": 134.39
       },
       "latest_price": 134.39,
       "return_pct": 7.51,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|PVLA|2026-02-27|Heron Elaine J",
@@ -6598,11 +6439,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 134.39
+        "2026-03-07": 134.39,
+        "2026-03-08": 134.39
       },
       "latest_price": 134.39,
       "return_pct": 7.51,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ABCL|2026-02-27|Thermopylae Holdings Ltd.",
@@ -6618,11 +6460,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 3.45
+        "2026-03-07": 3.45,
+        "2026-03-08": 3.45
       },
       "latest_price": 3.45,
       "return_pct": 0.29,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|EDSA|2026-02-26|Nijhawan Pardeep",
@@ -6638,11 +6481,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 6.52
+        "2026-03-07": 6.52,
+        "2026-03-08": 6.52
       },
       "latest_price": 6.52,
       "return_pct": 232.65,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|MQ|2026-02-27|Linville Judson C",
@@ -6658,11 +6502,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 4.02
+        "2026-03-07": 4.02,
+        "2026-03-08": 4.02
       },
       "latest_price": 4.02,
       "return_pct": 2.29,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|PCB|2026-02-27|Lee Sang Young",
@@ -6678,11 +6523,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 22.0
+        "2026-03-07": 22.0,
+        "2026-03-08": 22.0
       },
       "latest_price": 22.0,
       "return_pct": -1.92,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CTEV|2026-02-27|Kim Michael",
@@ -6698,11 +6544,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 17.21
+        "2026-03-07": 17.21,
+        "2026-03-08": 17.21
       },
       "latest_price": 17.21,
       "return_pct": 20.35,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CTEV|2026-02-27|Dalton Travis",
@@ -6718,11 +6565,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 17.21
+        "2026-03-07": 17.21,
+        "2026-03-08": 17.21
       },
       "latest_price": 17.21,
       "return_pct": 32.38,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|LRMR|2026-02-27|Hamilton Thomas Edward",
@@ -6738,11 +6586,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 5.22
+        "2026-03-07": 5.22,
+        "2026-03-08": 5.22
       },
       "latest_price": 5.22,
       "return_pct": 4.4,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|UUU|2026-02-26|Ault Milton C III",
@@ -6758,11 +6607,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 5.09
+        "2026-03-07": 5.09,
+        "2026-03-08": 5.09
       },
       "latest_price": 5.09,
       "return_pct": 2.62,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ACVA|2026-02-26|Waterman Michael",
@@ -6778,11 +6628,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 5.12
+        "2026-03-07": 5.12,
+        "2026-03-08": 5.12
       },
       "latest_price": 5.12,
       "return_pct": 9.87,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|BCAX|2026-02-26|Ra Capital Management, L.P.",
@@ -6798,11 +6649,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 18.47
+        "2026-03-07": 18.47,
+        "2026-03-08": 18.47
       },
       "latest_price": 18.47,
       "return_pct": 15.44,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|TFIN|2026-02-27|Graft Aaron P",
@@ -6818,11 +6670,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 59.03
+        "2026-03-07": 59.03,
+        "2026-03-08": 59.03
       },
       "latest_price": 59.03,
       "return_pct": 5.66,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|EHTH|2026-02-27|Duke Derrick A",
@@ -6838,11 +6691,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 1.64
+        "2026-03-07": 1.64,
+        "2026-03-08": 1.64
       },
       "latest_price": 1.64,
       "return_pct": 18.84,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|HRI|2026-02-27|Olin John A",
@@ -6858,11 +6712,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 120.13
+        "2026-03-07": 120.13,
+        "2026-03-08": 120.13
       },
       "latest_price": 120.13,
       "return_pct": -15.68,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|NOW|2026-02-27|McDermott William R",
@@ -6878,11 +6733,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 124.34
+        "2026-03-07": 124.34,
+        "2026-03-08": 124.34
       },
       "latest_price": 124.34,
       "return_pct": 18.87,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|TBBK|2026-02-27|Canuso Dominic C",
@@ -6898,11 +6754,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 52.66
+        "2026-03-07": 52.66,
+        "2026-03-08": 52.66
       },
       "latest_price": 52.66,
       "return_pct": -4.71,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CSGP|2026-02-27|Florance Andrew C",
@@ -6918,11 +6775,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 48.38
+        "2026-03-07": 48.38,
+        "2026-03-08": 48.38
       },
       "latest_price": 48.38,
       "return_pct": 8.67,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SOFI|2026-03-02|Noto Anthony",
@@ -6938,11 +6796,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 18.9
+        "2026-03-07": 18.9,
+        "2026-03-08": 18.9
       },
       "latest_price": 18.9,
       "return_pct": 5.7,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|LRMR|2026-02-27|Flynn James E",
@@ -6958,11 +6817,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 5.22
+        "2026-03-07": 5.22,
+        "2026-03-08": 5.22
       },
       "latest_price": 5.22,
       "return_pct": 4.4,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|IDYA|2026-03-02|Stein Jeffrey",
@@ -6978,11 +6838,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 33.19
+        "2026-03-07": 33.19,
+        "2026-03-08": 33.19
       },
       "latest_price": 33.19,
       "return_pct": 0.7,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|LFVN|2026-02-26|Dayton Judd",
@@ -6998,11 +6859,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 4.88
+        "2026-03-07": 4.88,
+        "2026-03-08": 4.88
       },
       "latest_price": 4.88,
       "return_pct": 6.32,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ZURA|2026-02-26|Ai Biotechnology LLC",
@@ -7018,11 +6880,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 6.97
+        "2026-03-07": 6.97,
+        "2026-03-08": 6.97
       },
       "latest_price": 6.97,
       "return_pct": 11.52,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|GENB|2026-03-02|Afeyan Noubar",
@@ -7038,11 +6901,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 11.21
+        "2026-03-07": 11.21,
+        "2026-03-08": 11.21
       },
       "latest_price": 11.21,
       "return_pct": -29.94,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|AWI|2026-02-27|Templin Roy W",
@@ -7058,11 +6922,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 168.24
+        "2026-03-07": 168.24,
+        "2026-03-08": 168.24
       },
       "latest_price": 168.24,
       "return_pct": -3.26,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|TNC|2026-03-02|Glerum James T Jr.",
@@ -7078,11 +6943,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 61.45
+        "2026-03-07": 61.45,
+        "2026-03-08": 61.45
       },
       "latest_price": 61.45,
       "return_pct": 0.33,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|TNC|2026-02-26|Mulligan Donal L",
@@ -7098,11 +6964,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 61.45
+        "2026-03-07": 61.45,
+        "2026-03-08": 61.45
       },
       "latest_price": 61.45,
       "return_pct": -2.49,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|TNC|2026-02-26|Huml David W.",
@@ -7118,11 +6985,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 61.45
+        "2026-03-07": 61.45,
+        "2026-03-08": 61.45
       },
       "latest_price": 61.45,
       "return_pct": -4.57,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|LAW|2026-02-26|Srinivasan Krishna",
@@ -7138,11 +7006,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 4.79
+        "2026-03-07": 4.79,
+        "2026-03-08": 4.79
       },
       "latest_price": 4.79,
       "return_pct": 49.69,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|MELI|2026-02-27|Melamud Marcelo",
@@ -7158,11 +7027,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 1787.86
+        "2026-03-07": 1787.86,
+        "2026-03-08": 1787.86
       },
       "latest_price": 1787.86,
       "return_pct": 1.83,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|EOSE|2026-03-02|Mastrangelo Joe",
@@ -7178,11 +7048,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 6.13
+        "2026-03-07": 6.13,
+        "2026-03-08": 6.13
       },
       "latest_price": 6.13,
       "return_pct": 6.61,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|NMTC|2026-03-01|Wambeke David J.",
@@ -7198,11 +7069,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 0.843
+        "2026-03-07": 0.843,
+        "2026-03-08": 0.843
       },
       "latest_price": 0.843,
       "return_pct": 25.82,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|PENN|2026-03-02|Scaccetti Jane",
@@ -7218,11 +7090,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 14.64
+        "2026-03-07": 14.64,
+        "2026-03-08": 14.64
       },
       "latest_price": 14.64,
       "return_pct": -2.98,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SKWD|2026-03-02|Peirce Christopher Locke",
@@ -7238,11 +7111,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 48.71
+        "2026-03-07": 48.71,
+        "2026-03-08": 48.71
       },
       "latest_price": 48.71,
       "return_pct": 2.98,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|LEE|2026-03-02|Quint Digital Ltd",
@@ -7258,11 +7132,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 9.68
+        "2026-03-07": 9.68,
+        "2026-03-08": 9.68
       },
       "latest_price": 9.68,
       "return_pct": 9.13,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|LEE|2026-02-27|Hoffmann David Henry",
@@ -7278,11 +7153,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 9.68
+        "2026-03-07": 9.68,
+        "2026-03-08": 9.68
       },
       "latest_price": 9.68,
       "return_pct": 7.08,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|BLCO|2026-03-02|Alfonso Eduardo",
@@ -7298,11 +7174,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 17.06
+        "2026-03-07": 17.06,
+        "2026-03-08": 17.06
       },
       "latest_price": 17.06,
       "return_pct": -4.69,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|BLCO|2026-02-27|Von Eschenbach Andrew C.",
@@ -7318,11 +7195,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 17.06
+        "2026-03-07": 17.06,
+        "2026-03-08": 17.06
       },
       "latest_price": 17.06,
       "return_pct": -6.83,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|VNO|2026-02-27|Tisch Daniel R",
@@ -7338,11 +7216,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 26.94
+        "2026-03-07": 26.94,
+        "2026-03-08": 26.94
       },
       "latest_price": 26.94,
       "return_pct": 0.11,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|WD|2026-03-02|Walker William M",
@@ -7358,11 +7237,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 48.19
+        "2026-03-07": 48.19,
+        "2026-03-08": 48.19
       },
       "latest_price": 48.19,
       "return_pct": 1.54,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ABSI|2026-02-27|Pangalos Menelas N",
@@ -7378,11 +7258,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 2.38
+        "2026-03-07": 2.38,
+        "2026-03-08": 2.38
       },
       "latest_price": 2.38,
       "return_pct": -13.14,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CSGP|2026-03-02|Saint Frederick G.",
@@ -7398,11 +7279,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 48.38
+        "2026-03-07": 48.38,
+        "2026-03-08": 48.38
       },
       "latest_price": 48.38,
       "return_pct": 6.73,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|NOMA|2026-02-24|Sport City Cadiz S.L.",
@@ -7418,11 +7300,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 5.18
+        "2026-03-07": 5.18,
+        "2026-03-08": 5.18
       },
       "latest_price": 5.18,
       "return_pct": 11.16,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|TCBI|2026-02-27|Stallings Robert W",
@@ -7438,11 +7321,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 91.9
+        "2026-03-07": 91.9,
+        "2026-03-08": 91.9
       },
       "latest_price": 91.9,
       "return_pct": 198.67,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|FA|2026-03-02|Nairne Douglas",
@@ -7458,11 +7342,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 12.06
+        "2026-03-07": 12.06,
+        "2026-03-08": 12.06
       },
       "latest_price": 12.06,
       "return_pct": 1.69,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|FRSH|2026-03-02|Woodside Dennis",
@@ -7478,11 +7363,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 8.63
+        "2026-03-07": 8.63,
+        "2026-03-08": 8.63
       },
       "latest_price": 8.63,
       "return_pct": 8.55,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CABO|2026-03-03|Koetje Todd M",
@@ -7498,11 +7384,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 111.33
+        "2026-03-07": 111.33,
+        "2026-03-08": 111.33
       },
       "latest_price": 111.33,
       "return_pct": 11.15,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|XRAY|2026-03-03|Forbes James D",
@@ -7518,11 +7405,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 12.74
+        "2026-03-07": 12.74,
+        "2026-03-08": 12.74
       },
       "latest_price": 12.74,
       "return_pct": -5.42,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SJM|2026-03-02|Amin Tarang",
@@ -7538,11 +7426,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 111.21
+        "2026-03-07": 111.21,
+        "2026-03-08": 111.21
       },
       "latest_price": 111.21,
       "return_pct": -1.94,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|TREX|2026-03-02|Rose B Andrew",
@@ -7558,11 +7447,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 37.54
+        "2026-03-07": 37.54,
+        "2026-03-08": 37.54
       },
       "latest_price": 37.54,
       "return_pct": -7.72,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|KKR|2026-02-27|Nuttall Scott C",
@@ -7578,11 +7468,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 91.33
+        "2026-03-07": 91.33,
+        "2026-03-08": 91.33
       },
       "latest_price": 91.33,
       "return_pct": 4.01,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|KKR|2026-02-27|Bae Joseph Y",
@@ -7598,11 +7489,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 91.33
+        "2026-03-07": 91.33,
+        "2026-03-08": 91.33
       },
       "latest_price": 91.33,
       "return_pct": 3.13,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|KKR|2026-03-02|Dillon Mary N",
@@ -7618,11 +7510,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 91.33
+        "2026-03-07": 91.33,
+        "2026-03-08": 91.33
       },
       "latest_price": 91.33,
       "return_pct": 0.41,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|AUPH|2026-02-27|Tang Kevin",
@@ -7638,11 +7531,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 14.32
+        "2026-03-07": 14.32,
+        "2026-03-08": 14.32
       },
       "latest_price": 14.32,
       "return_pct": 1.56,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SABR|2026-02-27|Constellation Software Inc",
@@ -7658,11 +7552,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 1.59
+        "2026-03-07": 1.59,
+        "2026-03-08": 1.59
       },
       "latest_price": 1.59,
       "return_pct": 37.07,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|AGL|2026-03-02|Shaker Benjamin",
@@ -7678,11 +7573,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 0.598
+        "2026-03-07": 0.598,
+        "2026-03-08": 0.598
       },
       "latest_price": 0.598,
       "return_pct": -0.33,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|WRB|2026-03-02|Mitsui Sumitomo Insurance Co Ltd",
@@ -7698,11 +7594,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 69.92
+        "2026-03-07": 69.92,
+        "2026-03-08": 69.92
       },
       "latest_price": 69.92,
       "return_pct": -3.7,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|HBAN|2026-02-27|Rollins James D III",
@@ -7718,11 +7615,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 16.31
+        "2026-03-07": 16.31,
+        "2026-03-08": 16.31
       },
       "latest_price": 16.31,
       "return_pct": -29.52,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|BH|2026-03-03|Biglari, Sardar",
@@ -7738,11 +7636,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 304.6
+        "2026-03-07": 304.6,
+        "2026-03-08": 304.6
       },
       "latest_price": 304.6,
       "return_pct": -8.02,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|LAW|2026-02-27|Goodman Robert P",
@@ -7758,11 +7657,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 4.79
+        "2026-03-07": 4.79,
+        "2026-03-08": 4.79
       },
       "latest_price": 4.79,
       "return_pct": 50.16,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|UUU|2026-03-02|Ault Milton C III",
@@ -7778,11 +7678,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 5.09
+        "2026-03-07": 5.09,
+        "2026-03-08": 5.09
       },
       "latest_price": 5.09,
       "return_pct": 5.6,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CMTG|2026-02-27|Mack Richard",
@@ -7798,11 +7699,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 2.62
+        "2026-03-07": 2.62,
+        "2026-03-08": 2.62
       },
       "latest_price": 2.62,
       "return_pct": 8.71,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|XRAY|2026-03-02|Lucier Gregory T",
@@ -7818,11 +7720,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 12.74
+        "2026-03-07": 12.74,
+        "2026-03-08": 12.74
       },
       "latest_price": 12.74,
       "return_pct": -9.96,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|BBSI|2026-03-02|Finn Mark Steven",
@@ -7838,11 +7741,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 28.97
+        "2026-03-07": 28.97,
+        "2026-03-08": 28.97
       },
       "latest_price": 28.97,
       "return_pct": 4.74,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|AHCO|2026-02-27|Wolf Dale B",
@@ -7858,11 +7762,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 9.49
+        "2026-03-07": 9.49,
+        "2026-03-08": 9.49
       },
       "latest_price": 9.49,
       "return_pct": 5.92,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|THRY|2026-02-27|Paulson & Co. Inc.",
@@ -7878,11 +7783,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 3.18
+        "2026-03-07": 3.18,
+        "2026-03-08": 3.18
       },
       "latest_price": 3.18,
       "return_pct": 27.2,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ACIW|2026-03-03|Benitez Juan II",
@@ -7898,11 +7804,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 42.55
+        "2026-03-07": 42.55,
+        "2026-03-08": 42.55
       },
       "latest_price": 42.55,
       "return_pct": 1.55,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|FOUR|2026-03-02|Isaacman Jared",
@@ -7918,11 +7825,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 47.87
+        "2026-03-07": 47.87,
+        "2026-03-08": 47.87
       },
       "latest_price": 47.87,
       "return_pct": 9.22,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ACIW|2026-03-02|Sanchez Adalio T",
@@ -7938,11 +7846,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 42.55
+        "2026-03-07": 42.55,
+        "2026-03-08": 42.55
       },
       "latest_price": 42.55,
       "return_pct": 3.83,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|EOSE|2026-03-02|Dimitrief Alexander",
@@ -7958,11 +7867,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 6.13
+        "2026-03-07": 6.13,
+        "2026-03-08": 6.13
       },
       "latest_price": 6.13,
       "return_pct": 1.49,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|FMNB|2026-03-03|Muransky Edward",
@@ -7978,11 +7888,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 12.53
+        "2026-03-07": 12.53,
+        "2026-03-08": 12.53
       },
       "latest_price": 12.53,
       "return_pct": -1.65,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SKWD|2026-02-27|Kuczinski Anthony J",
@@ -7998,11 +7909,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 48.71
+        "2026-03-07": 48.71,
+        "2026-03-08": 48.71
       },
       "latest_price": 48.71,
       "return_pct": 1.71,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|FBRT|2026-03-03|Buffone Brian",
@@ -8018,11 +7930,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 9.34
+        "2026-03-07": 9.34,
+        "2026-03-08": 9.34
       },
       "latest_price": 9.34,
       "return_pct": -0.74,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|WHR|2026-03-03|Creed Greg",
@@ -8038,11 +7951,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 58.76
+        "2026-03-07": 58.76,
+        "2026-03-08": 58.76
       },
       "latest_price": 58.76,
       "return_pct": -2.33,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|HGTY|2026-03-03|Kuczinski Anthony J",
@@ -8058,11 +7972,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 10.24
+        "2026-03-07": 10.24,
+        "2026-03-08": 10.24
       },
       "latest_price": 10.24,
       "return_pct": -4.48,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|RPLRT|2026-03-02|Sorrentino Charles",
@@ -8096,11 +8011,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 17.06
+        "2026-03-07": 17.06,
+        "2026-03-08": 17.06
       },
       "latest_price": 17.06,
       "return_pct": -3.51,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|LAW|2026-03-02|Hill Scott A",
@@ -8116,11 +8032,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 4.79
+        "2026-03-07": 4.79,
+        "2026-03-08": 4.79
       },
       "latest_price": 4.79,
       "return_pct": 41.72,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|POOL|2026-03-02|Perez De La Mesa Manuel J",
@@ -8136,11 +8053,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 213.66
+        "2026-03-07": 213.66,
+        "2026-03-08": 213.66
       },
       "latest_price": 213.66,
       "return_pct": -1.99,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|RUN|2026-03-03|Ferber Alan",
@@ -8156,11 +8074,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 11.34
+        "2026-03-07": 11.34,
+        "2026-03-08": 11.34
       },
       "latest_price": 11.34,
       "return_pct": -4.87,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ACOG|2026-03-02|Opaleye Management Inc.",
@@ -8176,11 +8095,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 5.79
+        "2026-03-07": 5.79,
+        "2026-03-08": 5.79
       },
       "latest_price": 5.79,
       "return_pct": 0.52,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|MORN|2026-03-04|Holt Michael",
@@ -8196,11 +8116,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 190.15
+        "2026-03-07": 190.15,
+        "2026-03-08": 190.15
       },
       "latest_price": 190.15,
       "return_pct": 1.91,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|DUOL|2026-03-03|Shelton James H",
@@ -8216,11 +8137,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 101.92
+        "2026-03-07": 101.92,
+        "2026-03-08": 101.92
       },
       "latest_price": 101.92,
       "return_pct": 2.17,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|AXR|2026-03-03|Dahl James H",
@@ -8236,11 +8158,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 24.6
+        "2026-03-07": 24.6,
+        "2026-03-08": 24.6
       },
       "latest_price": 24.6,
       "return_pct": -4.24,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|GLIBK|2026-03-02|Malone John C",
@@ -8256,11 +8179,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 37.65
+        "2026-03-07": 37.65,
+        "2026-03-08": 37.65
       },
       "latest_price": 37.65,
       "return_pct": -13.03,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CARG|2026-03-03|Kaufer Stephen",
@@ -8276,11 +8200,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 33.66
+        "2026-03-07": 33.66,
+        "2026-03-08": 33.66
       },
       "latest_price": 33.66,
       "return_pct": 3.57,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|GPK|2026-03-04|Rietbroek Robbert",
@@ -8296,11 +8221,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 11.22
+        "2026-03-07": 11.22,
+        "2026-03-08": 11.22
       },
       "latest_price": 11.22,
       "return_pct": -0.88,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|HBAN|2026-03-03|Rollins James D III",
@@ -8316,11 +8242,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 16.31
+        "2026-03-07": 16.31,
+        "2026-03-08": 16.31
       },
       "latest_price": 16.31,
       "return_pct": -7.59,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|TTEC|2026-03-02|Holtzman Marc",
@@ -8336,11 +8263,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 2.72
+        "2026-03-07": 2.72,
+        "2026-03-08": 2.72
       },
       "latest_price": 2.72,
       "return_pct": 16.24,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|PMN|2026-03-02|Williams Eugene",
@@ -8356,11 +8284,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 23.4
+        "2026-03-07": 23.4,
+        "2026-03-08": 23.4
       },
       "latest_price": 23.4,
       "return_pct": 1.25,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|GTE|2026-03-02|Lm Asset Management Inc.",
@@ -8376,11 +8305,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 7.87
+        "2026-03-07": 7.87,
+        "2026-03-08": 7.87
       },
       "latest_price": 7.87,
       "return_pct": 22.4,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|WULF|2026-03-04|Bucella Michael C.",
@@ -8396,11 +8326,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 13.75
+        "2026-03-07": 13.75,
+        "2026-03-08": 13.75
       },
       "latest_price": 13.75,
       "return_pct": -12.86,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|VITL|2026-03-02|Cyr William B.",
@@ -8416,11 +8347,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 19.89
+        "2026-03-07": 19.89,
+        "2026-03-08": 19.89
       },
       "latest_price": 19.89,
       "return_pct": -3.91,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|TTD|2026-03-02|Green Jeffrey Terry",
@@ -8436,11 +8368,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 29.28
+        "2026-03-07": 29.28,
+        "2026-03-08": 29.28
       },
       "latest_price": 29.28,
       "return_pct": 18.64,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|AHRT|2026-03-03|Wimbush Frederick Blair",
@@ -8456,11 +8389,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 6.22
+        "2026-03-07": 6.22,
+        "2026-03-08": 6.22
       },
       "latest_price": 6.22,
       "return_pct": 0.48,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|DIN|2026-03-02|Pasquale Douglas M",
@@ -8476,11 +8410,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 31.58
+        "2026-03-07": 31.58,
+        "2026-03-08": 31.58
       },
       "latest_price": 31.58,
       "return_pct": 6.08,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|AIRS|2026-03-03|Chernett Jorey",
@@ -8496,11 +8431,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 2.09
+        "2026-03-07": 2.09,
+        "2026-03-08": 2.09
       },
       "latest_price": 2.09,
       "return_pct": 19.43,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|BWIN|2026-03-02|Sparks Paul Eugene",
@@ -8516,11 +8452,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 21.03
+        "2026-03-07": 21.03,
+        "2026-03-08": 21.03
       },
       "latest_price": 21.03,
       "return_pct": -7.19,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|NAUT|2026-03-04|Patel Sujal M",
@@ -8536,11 +8473,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 2.47
+        "2026-03-07": 2.47,
+        "2026-03-08": 2.47
       },
       "latest_price": 2.47,
       "return_pct": -5.36,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|DT|2026-03-03|McMahon Stephen A",
@@ -8556,11 +8494,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 39.28
+        "2026-03-07": 39.28,
+        "2026-03-08": 39.28
       },
       "latest_price": 39.28,
       "return_pct": 9.87,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ABTC|2026-03-03|Mateen Justin",
@@ -8576,11 +8515,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 1.09
+        "2026-03-07": 1.09,
+        "2026-03-08": 1.09
       },
       "latest_price": 1.09,
       "return_pct": 5.83,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ABTC|2026-03-03|Busch Richard",
@@ -8596,11 +8536,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 1.09
+        "2026-03-07": 1.09,
+        "2026-03-08": 1.09
       },
       "latest_price": 1.09,
       "return_pct": 7.92,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SSP|2026-03-03|Barmonde Charles L.",
@@ -8616,11 +8557,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 4.57
+        "2026-03-07": 4.57,
+        "2026-03-08": 4.57
       },
       "latest_price": 4.57,
       "return_pct": 16.88,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|EOSE|2026-03-04|Mastrangelo Joe",
@@ -8636,11 +8578,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 6.13
+        "2026-03-07": 6.13,
+        "2026-03-08": 6.13
       },
       "latest_price": 6.13,
       "return_pct": -6.84,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SSP|2026-03-03|Symson Adam",
@@ -8656,11 +8599,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 4.57
+        "2026-03-07": 4.57,
+        "2026-03-08": 4.57
       },
       "latest_price": 4.57,
       "return_pct": 23.85,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|LEE|2026-03-03|Quint Digital Ltd",
@@ -8676,11 +8620,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 9.68
+        "2026-03-07": 9.68,
+        "2026-03-08": 9.68
       },
       "latest_price": 9.68,
       "return_pct": 6.02,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|FMC|2026-03-04|Barry Michael F",
@@ -8696,11 +8641,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 14.04
+        "2026-03-07": 14.04,
+        "2026-03-08": 14.04
       },
       "latest_price": 14.04,
       "return_pct": 1.52,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|DGICA|2026-03-03|Donegal Mutual Insurance Co",
@@ -8716,11 +8662,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 17.52
+        "2026-03-07": 17.52,
+        "2026-03-08": 17.52
       },
       "latest_price": 17.52,
       "return_pct": -0.62,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|MIAX|2026-03-04|Stahl Murray",
@@ -8736,11 +8683,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 40.98
+        "2026-03-07": 40.98,
+        "2026-03-08": 40.98
       },
       "latest_price": 40.98,
       "return_pct": -5.53,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|HEI|2026-03-04|Cheruvatath Nandakumar",
@@ -8756,11 +8704,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 303.73
+        "2026-03-07": 303.73,
+        "2026-03-08": 303.73
       },
       "latest_price": 303.73,
       "return_pct": 24.0,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CVSA|2026-03-03|Malafronte Michael W",
@@ -8776,11 +8725,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 102.05
+        "2026-03-07": 102.05,
+        "2026-03-08": 102.05
       },
       "latest_price": 102.05,
       "return_pct": 4.16,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SSP|2026-03-03|Granado Corina S.",
@@ -8796,11 +8746,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 4.57
+        "2026-03-07": 4.57,
+        "2026-03-08": 4.57
       },
       "latest_price": 4.57,
       "return_pct": 15.4,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SSP|2026-03-03|Granado Geraldine Scripps",
@@ -8816,11 +8767,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 4.57
+        "2026-03-07": 4.57,
+        "2026-03-08": 4.57
       },
       "latest_price": 4.57,
       "return_pct": 16.88,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|HYMC|2026-03-04|Sprott Eric",
@@ -8836,11 +8788,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 38.79
+        "2026-03-07": 38.79,
+        "2026-03-08": 38.79
       },
       "latest_price": 38.79,
       "return_pct": -18.47,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|LSAK|2026-03-04|Mazanderani Ali",
@@ -8856,11 +8809,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 4.66
+        "2026-03-07": 4.66,
+        "2026-03-08": 4.66
       },
       "latest_price": 4.66,
       "return_pct": -0.64,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|TCBI|2026-03-03|Stallings Robert W",
@@ -8876,11 +8830,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 91.9
+        "2026-03-07": 91.9,
+        "2026-03-08": 91.9
       },
       "latest_price": 91.9,
       "return_pct": 313.22,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|GPK|2026-03-04|Venturelli Larry M",
@@ -8896,11 +8851,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 11.22
+        "2026-03-07": 11.22,
+        "2026-03-08": 11.22
       },
       "latest_price": 11.22,
       "return_pct": -1.23,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|TPC|2026-03-04|Smalley Gary G.",
@@ -8916,11 +8872,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 72.82
+        "2026-03-07": 72.82,
+        "2026-03-08": 72.82
       },
       "latest_price": 72.82,
       "return_pct": -0.57,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|IHRT|2026-03-05|Pittman Robert W",
@@ -8936,11 +8893,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 3.24
+        "2026-03-07": 3.24,
+        "2026-03-08": 3.24
       },
       "latest_price": 3.24,
       "return_pct": -0.31,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|BA|2026-03-03|Buckley Mortimer J",
@@ -8956,11 +8914,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 231.11
+        "2026-03-07": 231.11,
+        "2026-03-08": 231.11
       },
       "latest_price": 231.11,
       "return_pct": 3.08,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|BALL|2026-03-04|Villatoro Fauze",
@@ -8976,11 +8935,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 62.53
+        "2026-03-07": 62.53,
+        "2026-03-08": 62.53
       },
       "latest_price": 62.53,
       "return_pct": -3.07,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|KKR|2026-03-04|Barakett Timothy R",
@@ -8996,11 +8956,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 91.33
+        "2026-03-07": 91.33,
+        "2026-03-08": 91.33
       },
       "latest_price": 91.33,
       "return_pct": -3.32,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|WGS|2026-03-03|Meister Keith A.",
@@ -9016,11 +8977,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 88.11
+        "2026-03-07": 88.11,
+        "2026-03-08": 88.11
       },
       "latest_price": 88.11,
       "return_pct": 10.97,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|AKBA|2026-03-04|Butler John P.",
@@ -9036,11 +8998,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 1.27
+        "2026-03-07": 1.27,
+        "2026-03-08": 1.27
       },
       "latest_price": 1.27,
       "return_pct": 1.6,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CLRO|2026-03-02|First Finance Ltd.",
@@ -9056,11 +9019,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 4.55
+        "2026-03-07": 4.55,
+        "2026-03-08": 4.55
       },
       "latest_price": 4.55,
       "return_pct": 13.75,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ELV|2026-03-05|Collis Steven H",
@@ -9076,11 +9040,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 289.64
+        "2026-03-07": 289.64,
+        "2026-03-08": 289.64
       },
       "latest_price": 289.64,
       "return_pct": -0.07,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|FFIN|2026-03-05|Trotter Johnny",
@@ -9096,11 +9061,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 30.08
+        "2026-03-07": 30.08,
+        "2026-03-08": 30.08
       },
       "latest_price": 30.08,
       "return_pct": 0.2,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|LEE|2026-03-04|Hoffmann David Henry",
@@ -9116,11 +9082,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 9.68
+        "2026-03-07": 9.68,
+        "2026-03-08": 9.68
       },
       "latest_price": 9.68,
       "return_pct": 5.1,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|HR|2026-03-06|Bohjalian Thomas N",
@@ -9136,11 +9103,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 18.39
+        "2026-03-07": 18.39,
+        "2026-03-08": 18.39
       },
       "latest_price": 18.39,
       "return_pct": 1.66,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|WD|2026-03-05|Freedman Ernest Michael",
@@ -9156,11 +9124,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 48.19
+        "2026-03-07": 48.19,
+        "2026-03-08": 48.19
       },
       "latest_price": 48.19,
       "return_pct": -2.07,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|FCPT|2026-03-06|Lenehan William H",
@@ -9176,11 +9145,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 25.68
+        "2026-03-07": 25.68,
+        "2026-03-08": 25.68
       },
       "latest_price": 25.68,
       "return_pct": 0.75,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|PCB|2026-03-05|Lee Sang Young",
@@ -9196,11 +9166,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 22.0
+        "2026-03-07": 22.0,
+        "2026-03-08": 22.0
       },
       "latest_price": 22.0,
       "return_pct": -0.86,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|DCTH|2026-03-06|Pennell Sandra",
@@ -9216,11 +9187,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 9.08
+        "2026-03-07": 9.08,
+        "2026-03-08": 9.08
       },
       "latest_price": 9.08,
       "return_pct": 0.44,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|HYMC|2026-03-05|Sprott Eric",
@@ -9236,11 +9208,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 38.79
+        "2026-03-07": 38.79,
+        "2026-03-08": 38.79
       },
       "latest_price": 38.79,
       "return_pct": -5.04,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ACOG|2026-03-04|Opaleye Management Inc.",
@@ -9256,11 +9229,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 5.79
+        "2026-03-07": 5.79,
+        "2026-03-08": 5.79
       },
       "latest_price": 5.79,
       "return_pct": -0.17,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|RPGL|2026-02-24|Cetera Wealth Services, LLC",
@@ -9276,11 +9250,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 1.31
+        "2026-03-07": 1.31,
+        "2026-03-08": 1.31
       },
       "latest_price": 1.31,
       "return_pct": -81.81,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|TPC|2026-03-04|Arkley Peter",
@@ -9296,11 +9271,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 72.82
+        "2026-03-07": 72.82,
+        "2026-03-08": 72.82
       },
       "latest_price": 72.82,
       "return_pct": -0.19,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SSP|2026-03-05|Granado Corina S.",
@@ -9316,11 +9292,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 4.57
+        "2026-03-07": 4.57,
+        "2026-03-08": 4.57
       },
       "latest_price": 4.57,
       "return_pct": 3.16,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SSP|2026-03-04|Scripps Eaton M",
@@ -9336,11 +9313,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 4.57
+        "2026-03-07": 4.57,
+        "2026-03-08": 4.57
       },
       "latest_price": 4.57,
       "return_pct": 6.03,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SSP|2026-03-04|Klenzing Margaret Scripps",
@@ -9356,11 +9334,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 4.57
+        "2026-03-07": 4.57,
+        "2026-03-08": 4.57
       },
       "latest_price": 4.57,
       "return_pct": 6.53,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|SSP|2026-03-04|Brickner Rebecca Scripps",
@@ -9376,11 +9355,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 4.57
+        "2026-03-07": 4.57,
+        "2026-03-08": 4.57
       },
       "latest_price": 4.57,
       "return_pct": 6.53,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|GENB|2026-03-04|Nally Michael",
@@ -9396,11 +9376,12 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 11.21
+        "2026-03-07": 11.21,
+        "2026-03-08": 11.21
       },
       "latest_price": 11.21,
       "return_pct": -6.58,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|ICFI|2026-03-06|Mehl Randall",
@@ -9416,11 +9397,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 75.95
+        "2026-03-07": 75.95,
+        "2026-03-08": 75.95
       },
       "latest_price": 75.95,
       "return_pct": 2.22,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|CSX|2026-03-06|Angel Stephen F",
@@ -9436,11 +9418,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 39.95
+        "2026-03-07": 39.95,
+        "2026-03-08": 39.95
       },
       "latest_price": 39.95,
       "return_pct": -0.79,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|MIAX|2026-03-05|Stahl Murray",
@@ -9456,11 +9439,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 40.98
+        "2026-03-07": 40.98,
+        "2026-03-08": 40.98
       },
       "latest_price": 40.98,
       "return_pct": -4.87,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|BH|2026-03-06|Biglari, Sardar",
@@ -9476,11 +9460,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 304.6
+        "2026-03-07": 304.6,
+        "2026-03-08": 304.6
       },
       "latest_price": 304.6,
       "return_pct": -0.85,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     },
     {
       "id": "US|LTC|2026-03-05|Gruber David L",
@@ -9496,11 +9481,12 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-07": 38.4
+        "2026-03-07": 38.4,
+        "2026-03-08": 38.4
       },
       "latest_price": 38.4,
       "return_pct": 1.05,
-      "last_snapshot": "2026-03-07"
+      "last_snapshot": "2026-03-08"
     }
   ]
 }
