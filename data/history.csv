@@ -5209,3 +5209,8 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-09,16:06,2026-03-05,TCBI,Texas Capital Bancshares Inc/Tx,Stallings Robert W,Dir,P - Purchase,22.71,25500,979330,+3%,579200,False
 2026-03-09,16:05,2026-03-06,ARVN,"Arvinas, Inc.",Morrison Briggs,Dir,P - Purchase,13.40,20000,96021,+26%,268070,False
 2026-03-09,16:00,2026-03-05,STT,State Street Corp,Porter Brian J.,Dir,P - Purchase,124.99,2500,8898,+39%,312475,False
+2026-03-09,17:32,2026-03-05,VSNT,"Versant Media Group, Inc.",Novak David C,Dir,P - Purchase,36.85,143000,158560,+919%,5269550,False
+2026-03-09,17:16,2026-03-05,RC,Ready Capital Corp,Nathan Gilbert E,Dir,P - Purchase,1.97,40000,223358,+22%,78610,False
+2026-03-09,17:14,2026-03-06,FFIN,First Financial Bankshares Inc,Davis Sally Pope,Dir,P - Purchase,29.52,1800,10371,+21%,53136,True
+2026-03-09,17:08,2026-03-05,BRCC,Brc Inc.,Taslitz Steven,Dir,P - Purchase,0.75,300000,2637387,+13%,223500,False
+2026-03-09,16:42,2026-03-06,ABG,Asbury Automotive Group Inc,Hult David W,"Pres, CEO",P - Purchase,205.34,5000,90683,+6%,1026706,False

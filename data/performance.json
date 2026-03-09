@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-09",
-  "entry_count": 453,
+  "entry_count": 458,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -9890,6 +9890,106 @@
       },
       "latest_price": 121.93,
       "return_pct": -2.45,
+      "last_snapshot": "2026-03-09"
+    },
+    {
+      "id": "US|VSNT|2026-03-05|Novak David C",
+      "market": "US",
+      "ticker": "VSNT",
+      "yf_symbol": "VSNT",
+      "company": "Versant Media Group, Inc.",
+      "insider_name": "Novak David C",
+      "title": "Dir",
+      "trade_date": "2026-03-05",
+      "trade_price": 36.85,
+      "value": 5269550.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-09": 36.54
+      },
+      "latest_price": 36.54,
+      "return_pct": -0.84,
+      "last_snapshot": "2026-03-09"
+    },
+    {
+      "id": "US|RC|2026-03-05|Nathan Gilbert E",
+      "market": "US",
+      "ticker": "RC",
+      "yf_symbol": "RC",
+      "company": "Ready Capital Corp",
+      "insider_name": "Nathan Gilbert E",
+      "title": "Dir",
+      "trade_date": "2026-03-05",
+      "trade_price": 1.97,
+      "value": 78610.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-09": 1.85
+      },
+      "latest_price": 1.85,
+      "return_pct": -6.09,
+      "last_snapshot": "2026-03-09"
+    },
+    {
+      "id": "US|FFIN|2026-03-06|Davis Sally Pope",
+      "market": "US",
+      "ticker": "FFIN",
+      "yf_symbol": "FFIN",
+      "company": "First Financial Bankshares Inc",
+      "insider_name": "Davis Sally Pope",
+      "title": "Dir",
+      "trade_date": "2026-03-06",
+      "trade_price": 29.52,
+      "value": 53136.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-09": 30.26
+      },
+      "latest_price": 30.26,
+      "return_pct": 2.51,
+      "last_snapshot": "2026-03-09"
+    },
+    {
+      "id": "US|BRCC|2026-03-05|Taslitz Steven",
+      "market": "US",
+      "ticker": "BRCC",
+      "yf_symbol": "BRCC",
+      "company": "Brc Inc.",
+      "insider_name": "Taslitz Steven",
+      "title": "Dir",
+      "trade_date": "2026-03-05",
+      "trade_price": 0.75,
+      "value": 223500.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-09": 0.8923
+      },
+      "latest_price": 0.8923,
+      "return_pct": 18.97,
+      "last_snapshot": "2026-03-09"
+    },
+    {
+      "id": "US|ABG|2026-03-06|Hult David W",
+      "market": "US",
+      "ticker": "ABG",
+      "yf_symbol": "ABG",
+      "company": "Asbury Automotive Group Inc",
+      "insider_name": "Hult David W",
+      "title": "Pres, CEO",
+      "trade_date": "2026-03-06",
+      "trade_price": 205.34,
+      "value": 1026706.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-09": 204.17
+      },
+      "latest_price": 204.17,
+      "return_pct": -0.57,
       "last_snapshot": "2026-03-09"
     }
   ]
