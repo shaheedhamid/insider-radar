@@ -5193,3 +5193,19 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-09,09:19,2026-03-06,GPRE,Green Plains Inc.,Sweeney Patrick Francis,Dir,P - Purchase,15.87,6383,42719,+18%,101298,False
 2026-03-09,09:14,2026-03-05,ADMA,"Adma Biologics, Inc.",Elms Steve,Dir,P - Purchase,15.53,14000,2143750,+1%,217420,False
 2026-03-09,13:31,2026-03-06,AMRZ,Amrize Ltd,Jenisch Jan Philipp,"COB, CEO",P - Purchase,58.05,60000,2208582,+3%,3483000,False
+2026-03-09,16:36,2026-03-06,LYEL,"Lyell Immunopharma, Inc.","Arch Venture Partners Ix, LLC",10%,P - Purchase,25.61,488090,3247162,+18%,12499985,True
+2026-03-09,16:34,2026-03-06,LYEL,"Lyell Immunopharma, Inc.","Arch Venture Fund Xiii, L.P.",10%,P - Purchase,25.61,488090,3247162,+18%,12499985,True
+2026-03-09,16:32,2026-03-09,HOG,"Harley-Davidson, Inc.",Flees Lori Ann,Dir,P - Purchase,18.89,4000,11208,+55%,75546,True
+2026-03-09,16:32,2026-03-09,HOG,"Harley-Davidson, Inc.",Starrs Artie,"Pres, CEO",P - Purchase,19.10,15000,15000,New,286500,True
+2026-03-09,16:30,2026-03-06,TKNO,"Alpha Teknova, Inc.",Lowell Matthew,CFO,P - Purchase,2.19,40000,168376,+31%,87616,True
+2026-03-09,16:30,2026-03-05,ADV,Advantage Solutions Inc.,Peacock David A,CEO,P - Purchase,0.64,200000,3701366,+6%,128780,False
+2026-03-09,16:30,2026-03-05,GFF,Griffon Corp,Alpert Henry A,Dir,P - Purchase,79.99,1000,71479,+1%,79990,False
+2026-03-09,16:27,2026-03-05,NXRT,"Nexpoint Residential Trust, Inc.",McGraner Matt,See Remarks,P - Purchase,27.58,2000,453491,0%,55150,False
+2026-03-09,16:24,2026-03-06,TKNO,"Alpha Teknova, Inc.",Gunstream Stephen,"Pres, CEO",P - Purchase,2.15,26000,269497,+11%,55801,True
+2026-03-09,16:20,2026-03-09,XRAY,Dentsply Sirona Inc.,Lucier Gregory T,Dir,P - Purchase,12.45,15000,110901,+16%,186675,True
+2026-03-09,16:19,2026-03-09,XRAY,Dentsply Sirona Inc.,Forbes James D,Dir,P - Purchase,12.48,5000,10000,+100%,62400,True
+2026-03-09,16:15,2026-03-05,EBC,"Eastern Bankshares, Inc.",Rosato R David,CFO,P - Purchase,18.81,10000,60732,+20%,188100,False
+2026-03-09,16:07,2026-03-06,NBBK,"Nb Bancorp, Inc.",Campanelli Joseph P,"Pres, CEO",P - Purchase,20.77,5000,542435,+1%,103870,False
+2026-03-09,16:06,2026-03-05,TCBI,Texas Capital Bancshares Inc/Tx,Stallings Robert W,Dir,P - Purchase,22.71,25500,979330,+3%,579200,False
+2026-03-09,16:05,2026-03-06,ARVN,"Arvinas, Inc.",Morrison Briggs,Dir,P - Purchase,13.40,20000,96021,+26%,268070,False
+2026-03-09,16:00,2026-03-05,STT,State Street Corp,Porter Brian J.,Dir,P - Purchase,124.99,2500,8898,+39%,312475,False
