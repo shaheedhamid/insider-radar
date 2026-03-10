@@ -5246,3 +5246,12 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-10,16:11,2026-03-10,FSS,Federal Signal Corp /De/,Maue Richard A,Dir,P - Purchase,110.77,2000,2000,New,221532,False
 2026-03-10,16:08,2026-03-09,CORZ,"Core Scientific, Inc./Tx",Weiss Eric Stanton,Dir,P - Purchase,14.53,7000,252262,+3%,101700,False
 2026-03-10,15:46,2026-03-10,MLAB,Mesa Laboratories Inc /Co/,Capone Mark Christopher,Dir,P - Purchase,76.35,1301,3429,+61%,99331,True
+2026-03-10,17:10,2026-03-09,TAP,Molson Coors Beverage Co,Molson Andrew Thomas,Dir,P - Purchase,46.67,2000,27654,+8%,93338,False
+2026-03-10,17:10,2026-03-10,VAC,Marriott Vacations Worldwide Corp,Flaskey Michael,See Remarks,P - Purchase,67.26,14862,59724,+33%,999636,False
+2026-03-10,17:01,2026-03-06,EVR,Evercore Inc.,Williamson Sarah K,Dir,P - Purchase,290.43,2000,13345,+18%,580860,False
+2026-03-10,17:00,2026-03-06,SSP,E.W. Scripps Co,Brickner Rebecca Scripps,10%,P - Purchase,4.64,79758,835014,+11%,370324,True
+2026-03-10,17:00,2026-03-06,SSP,E.W. Scripps Co,Scripps Eaton M,10%,P - Purchase,4.64,41017,2776370,+1%,190446,True
+2026-03-10,17:00,2026-03-06,SSP,E.W. Scripps Co,Granado Anthony S.,10%,P - Purchase,4.53,12594,41627,+43%,57038,True
+2026-03-10,17:00,2026-03-06,SSP,E.W. Scripps Co,Granado Corina S.,10%,P - Purchase,4.64,79758,1167201,+7%,370324,True
+2026-03-10,17:00,2026-03-06,SSP,E.W. Scripps Co,Klenzing Margaret Scripps,10%,P - Purchase,4.64,159515,1064955,+18%,740644,True
+2026-03-10,16:49,2026-03-09,MPB,Mid Penn Bancorp Inc,Noone John E,Dir,P - Purchase,30.84,2000,79590,+3%,61673,False

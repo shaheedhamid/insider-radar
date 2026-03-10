@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-10",
-  "entry_count": 488,
+  "entry_count": 497,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -10149,6 +10149,186 @@
       },
       "latest_price": 73.23,
       "return_pct": -4.09,
+      "last_snapshot": "2026-03-10"
+    },
+    {
+      "id": "US|TAP|2026-03-09|Molson Andrew Thomas",
+      "market": "US",
+      "ticker": "TAP",
+      "yf_symbol": "TAP",
+      "company": "Molson Coors Beverage Co",
+      "insider_name": "Molson Andrew Thomas",
+      "title": "Dir",
+      "trade_date": "2026-03-09",
+      "trade_price": 46.67,
+      "value": 93338.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-10": 45.87
+      },
+      "latest_price": 45.87,
+      "return_pct": -1.71,
+      "last_snapshot": "2026-03-10"
+    },
+    {
+      "id": "US|VAC|2026-03-10|Flaskey Michael",
+      "market": "US",
+      "ticker": "VAC",
+      "yf_symbol": "VAC",
+      "company": "Marriott Vacations Worldwide Corp",
+      "insider_name": "Flaskey Michael",
+      "title": "See Remarks",
+      "trade_date": "2026-03-10",
+      "trade_price": 67.26,
+      "value": 999636.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-10": 66.59
+      },
+      "latest_price": 66.59,
+      "return_pct": -1.0,
+      "last_snapshot": "2026-03-10"
+    },
+    {
+      "id": "US|EVR|2026-03-06|Williamson Sarah K",
+      "market": "US",
+      "ticker": "EVR",
+      "yf_symbol": "EVR",
+      "company": "Evercore Inc.",
+      "insider_name": "Williamson Sarah K",
+      "title": "Dir",
+      "trade_date": "2026-03-06",
+      "trade_price": 290.43,
+      "value": 580860.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-10": 286.95
+      },
+      "latest_price": 286.95,
+      "return_pct": -1.2,
+      "last_snapshot": "2026-03-10"
+    },
+    {
+      "id": "US|SSP|2026-03-06|Brickner Rebecca Scripps",
+      "market": "US",
+      "ticker": "SSP",
+      "yf_symbol": "SSP",
+      "company": "E.W. Scripps Co",
+      "insider_name": "Brickner Rebecca Scripps",
+      "title": "10%",
+      "trade_date": "2026-03-06",
+      "trade_price": 4.64,
+      "value": 370324.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-10": 4.4
+      },
+      "latest_price": 4.4,
+      "return_pct": -5.17,
+      "last_snapshot": "2026-03-10"
+    },
+    {
+      "id": "US|SSP|2026-03-06|Scripps Eaton M",
+      "market": "US",
+      "ticker": "SSP",
+      "yf_symbol": "SSP",
+      "company": "E.W. Scripps Co",
+      "insider_name": "Scripps Eaton M",
+      "title": "10%",
+      "trade_date": "2026-03-06",
+      "trade_price": 4.64,
+      "value": 190446.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-10": 4.4
+      },
+      "latest_price": 4.4,
+      "return_pct": -5.17,
+      "last_snapshot": "2026-03-10"
+    },
+    {
+      "id": "US|SSP|2026-03-06|Granado Anthony S.",
+      "market": "US",
+      "ticker": "SSP",
+      "yf_symbol": "SSP",
+      "company": "E.W. Scripps Co",
+      "insider_name": "Granado Anthony S.",
+      "title": "10%",
+      "trade_date": "2026-03-06",
+      "trade_price": 4.53,
+      "value": 57038.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-10": 4.4
+      },
+      "latest_price": 4.4,
+      "return_pct": -2.87,
+      "last_snapshot": "2026-03-10"
+    },
+    {
+      "id": "US|SSP|2026-03-06|Granado Corina S.",
+      "market": "US",
+      "ticker": "SSP",
+      "yf_symbol": "SSP",
+      "company": "E.W. Scripps Co",
+      "insider_name": "Granado Corina S.",
+      "title": "10%",
+      "trade_date": "2026-03-06",
+      "trade_price": 4.64,
+      "value": 370324.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-10": 4.4
+      },
+      "latest_price": 4.4,
+      "return_pct": -5.17,
+      "last_snapshot": "2026-03-10"
+    },
+    {
+      "id": "US|SSP|2026-03-06|Klenzing Margaret Scripps",
+      "market": "US",
+      "ticker": "SSP",
+      "yf_symbol": "SSP",
+      "company": "E.W. Scripps Co",
+      "insider_name": "Klenzing Margaret Scripps",
+      "title": "10%",
+      "trade_date": "2026-03-06",
+      "trade_price": 4.64,
+      "value": 740644.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-10": 4.4
+      },
+      "latest_price": 4.4,
+      "return_pct": -5.17,
+      "last_snapshot": "2026-03-10"
+    },
+    {
+      "id": "US|MPB|2026-03-09|Noone John E",
+      "market": "US",
+      "ticker": "MPB",
+      "yf_symbol": "MPB",
+      "company": "Mid Penn Bancorp Inc",
+      "insider_name": "Noone John E",
+      "title": "Dir",
+      "trade_date": "2026-03-09",
+      "trade_price": 30.84,
+      "value": 61673.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-10": 31.77
+      },
+      "latest_price": 31.77,
+      "return_pct": 3.02,
       "last_snapshot": "2026-03-10"
     }
   ]
