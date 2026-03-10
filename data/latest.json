@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-10T13:11:54Z",
-  "trade_count": 5231,
+  "last_updated": "2026-03-10T14:54:53Z",
+  "trade_count": 5232,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -83697,6 +83697,22 @@
       "delta_own": "+35%",
       "value": "100100",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-10",
+      "filing_time": "10:01",
+      "trade_date": "2026-03-09",
+      "ticker": "LKFN",
+      "company": "Lakeland Financial Corp",
+      "insider_name": "Welch M Scott",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "55.45",
+      "qty": "5000",
+      "owned": "54000",
+      "delta_own": "+10%",
+      "value": "277250",
+      "cluster_buy": false
     }
   ]
 }
