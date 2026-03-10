@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-10T22:34:06Z",
-  "trade_count": 5263,
+  "last_updated": "2026-03-10T23:32:36Z",
+  "trade_count": 5265,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -84209,6 +84209,38 @@
       "delta_own": "+6%",
       "value": "250332",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-10",
+      "filing_time": "19:01",
+      "trade_date": "2026-03-09",
+      "ticker": "AOSL",
+      "company": "Alpha & Omega Semiconductor Ltd",
+      "insider_name": "Chang Mike F",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "19.00",
+      "qty": "33727",
+      "owned": "4369574",
+      "delta_own": "+1%",
+      "value": "640813",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-10",
+      "filing_time": "18:41",
+      "trade_date": "2026-03-09",
+      "ticker": "AI",
+      "company": "C3.Ai, Inc.",
+      "insider_name": "Snabe Jim H.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "9.00",
+      "qty": "25000",
+      "owned": "423000",
+      "delta_own": "+6%",
+      "value": "225000",
+      "cluster_buy": false
     }
   ]
 }

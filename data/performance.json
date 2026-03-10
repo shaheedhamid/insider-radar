@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-10",
-  "entry_count": 504,
+  "entry_count": 506,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -10469,6 +10469,46 @@
       },
       "latest_price": 17.12,
       "return_pct": -0.17,
+      "last_snapshot": "2026-03-10"
+    },
+    {
+      "id": "US|AOSL|2026-03-09|Chang Mike F",
+      "market": "US",
+      "ticker": "AOSL",
+      "yf_symbol": "AOSL",
+      "company": "Alpha & Omega Semiconductor Ltd",
+      "insider_name": "Chang Mike F",
+      "title": "Dir, 10%",
+      "trade_date": "2026-03-09",
+      "trade_price": 19.0,
+      "value": 640813.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-10": 20.12
+      },
+      "latest_price": 20.12,
+      "return_pct": 5.89,
+      "last_snapshot": "2026-03-10"
+    },
+    {
+      "id": "US|AI|2026-03-09|Snabe Jim H.",
+      "market": "US",
+      "ticker": "AI",
+      "yf_symbol": "AI",
+      "company": "C3.Ai, Inc.",
+      "insider_name": "Snabe Jim H.",
+      "title": "Dir",
+      "trade_date": "2026-03-09",
+      "trade_price": 9.0,
+      "value": 225000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-10": 8.96
+      },
+      "latest_price": 8.96,
+      "return_pct": -0.44,
       "last_snapshot": "2026-03-10"
     }
   ]

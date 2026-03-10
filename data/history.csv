@@ -5262,3 +5262,5 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-10,17:43,2026-03-10,MLAB,Mesa Laboratories Inc /Co/,Ladiwala Shiraz Shabanali,Dir,P - Purchase,72.23,3500,8523,+70%,252805,True
 2026-03-10,17:26,2026-03-09,VSNT,"Versant Media Group, Inc.",Hassell Gerald L,Dir,P - Purchase,36.07,10000,12680,+373%,360700,True
 2026-03-10,17:23,2026-03-06,BLCO,Bausch & Lomb Corp,Bailey A Robert D,"EVP, GC",P - Purchase,17.15,14600,246490,+6%,250332,True
+2026-03-10,19:01,2026-03-09,AOSL,Alpha & Omega Semiconductor Ltd,Chang Mike F,"Dir, 10%",P - Purchase,19.00,33727,4369574,+1%,640813,False
+2026-03-10,18:41,2026-03-09,AI,"C3.Ai, Inc.",Snabe Jim H.,Dir,P - Purchase,9.00,25000,423000,+6%,225000,False
