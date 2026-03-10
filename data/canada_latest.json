@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-10T18:03:07Z",
-  "trade_count": 2504,
+  "last_updated": "2026-03-10T18:05:48Z",
+  "trade_count": 2507,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -37187,7 +37187,7 @@
       "price": "190.5900",
       "value": "1010127",
       "currency": "CAD",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4672676",
@@ -37568,6 +37568,54 @@
       "qty": "79500",
       "price": "0.2150",
       "value": "17092",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4677099",
+      "trade_date": "2026-03-10",
+      "filing_date": "2026-03-10",
+      "company": "Methanex Corporation",
+      "ticker": "MX",
+      "insider_name": "O'Donoghue, Leslie",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "2500",
+      "price": "67.7400",
+      "value": "169350",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4677077",
+      "trade_date": "2026-03-10",
+      "filing_date": "2026-03-10",
+      "company": "National Bank of Canada",
+      "ticker": "NA",
+      "insider_name": "Burrows, J. Scott",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "300",
+      "price": "183.9400",
+      "value": "55182",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4677088",
+      "trade_date": "2026-03-10",
+      "filing_date": "2026-03-10",
+      "company": "Tourmaline Oil Corp.",
+      "ticker": "TOU",
+      "insider_name": "Rose, Mike",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "5000",
+      "price": "62.6183",
+      "value": "313091",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
