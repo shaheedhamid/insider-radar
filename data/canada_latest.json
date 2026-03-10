@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-10T00:49:08Z",
-  "trade_count": 2496,
+  "last_updated": "2026-03-10T03:34:07Z",
+  "trade_count": 2497,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -37441,6 +37441,21 @@
       "qty": "3000",
       "price": "15.6345",
       "value": "46903",
+      "currency": "CAD",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4676730",
+      "trade_date": "2026-03-09",
+      "filing_date": "2026-03-09",
+      "company": "Capstone Copper Corp.",
+      "ticker": "CS",
+      "insider_name": "Coleman, Richard Eady",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "15000",
+      "price": "10.7900",
+      "value": "161850",
       "currency": "CAD",
       "cluster_buy": false
     }
