@@ -5231,3 +5231,6 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-09,19:33,2026-03-03,AMH,American Homes 4 Rent,Goldberg David,Dir,P - Purchase,29.30,2000,63419,+3%,58600,False
 2026-03-10,08:52,2026-03-09,EOSE,"Eos Energy Enterprises, Inc.",Urban David,Dir,P - Purchase,6.16,16250,62471,+35%,100100,True
 2026-03-10,10:01,2026-03-09,LKFN,Lakeland Financial Corp,Welch M Scott,Dir,P - Purchase,55.45,5000,54000,+10%,277250,False
+2026-03-10,13:18,2025-07-22,MERC,Mercer International Inc.,Kellogg Peter R,10%,P - Purchase,3.38,70000,24380929,0%,236600,False
+2026-03-10,13:06,2026-03-09,AMRZ,Amrize Ltd,Hill Jaime,"Pres, Building Materials",P - Purchase,56.34,3184,26000,+14%,179387,True
+2026-03-10,13:02,2026-03-09,AVBC,"Avidia Bancorp, Inc.",Nelson Jonathan Michael,"CFO, Treasurer",P - Purchase,19.39,2579,35858,+8%,50004,False

@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-10",
-  "entry_count": 474,
+  "entry_count": 476,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -17,10 +17,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 3.35,
-        "2026-03-10": 3.52
+        "2026-03-10": 3.54
       },
-      "latest_price": 3.52,
-      "return_pct": 28.0,
+      "latest_price": 3.54,
+      "return_pct": 28.73,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -38,10 +38,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 237.01,
-        "2026-03-10": 238.33
+        "2026-03-10": 239.03
       },
-      "latest_price": 238.33,
-      "return_pct": -3.21,
+      "latest_price": 239.03,
+      "return_pct": -2.92,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -59,10 +59,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 14.27,
-        "2026-03-10": 14.2
+        "2026-03-10": 14.22
       },
-      "latest_price": 14.2,
-      "return_pct": -5.02,
+      "latest_price": 14.22,
+      "return_pct": -4.88,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -80,10 +80,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 69.92,
-        "2026-03-10": 68.2903
+        "2026-03-10": 68.37
       },
-      "latest_price": 68.2903,
-      "return_pct": -3.99,
+      "latest_price": 68.37,
+      "return_pct": -3.88,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -101,10 +101,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 50.14,
-        "2026-03-10": 46.565
+        "2026-03-10": 46.46
       },
-      "latest_price": 46.565,
-      "return_pct": 3.82,
+      "latest_price": 46.46,
+      "return_pct": 3.59,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -122,10 +122,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 2.37,
-        "2026-03-10": 1.985
+        "2026-03-10": 1.9635
       },
-      "latest_price": 1.985,
-      "return_pct": -50.37,
+      "latest_price": 1.9635,
+      "return_pct": -50.91,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -164,10 +164,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 0.932,
-        "2026-03-10": 0.9022
+        "2026-03-10": 0.9017
       },
-      "latest_price": 0.9022,
-      "return_pct": 17.17,
+      "latest_price": 0.9017,
+      "return_pct": 17.1,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -185,10 +185,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 45.66,
-        "2026-03-10": 46.505
+        "2026-03-10": 46.185
       },
-      "latest_price": 46.505,
-      "return_pct": 5.14,
+      "latest_price": 46.185,
+      "return_pct": 4.42,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -206,10 +206,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 9.23,
-        "2026-03-10": 8.915
+        "2026-03-10": 9.025
       },
-      "latest_price": 8.915,
-      "return_pct": -5.46,
+      "latest_price": 9.025,
+      "return_pct": -4.29,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -227,10 +227,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 374.59,
-        "2026-03-10": 353.345
+        "2026-03-10": 356.34
       },
-      "latest_price": 353.345,
-      "return_pct": 14.02,
+      "latest_price": 356.34,
+      "return_pct": 14.98,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -248,10 +248,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 91.9,
-        "2026-03-10": 92.605
+        "2026-03-10": 94.09
       },
-      "latest_price": 92.605,
-      "return_pct": 317.14,
+      "latest_price": 94.09,
+      "return_pct": 323.83,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -269,10 +269,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 213.66,
-        "2026-03-10": 212.29
+        "2026-03-10": 210.6575
       },
-      "latest_price": 212.29,
-      "return_pct": -2.92,
+      "latest_price": 210.6575,
+      "return_pct": -3.66,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -290,10 +290,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 55.74,
-        "2026-03-10": 55.98
+        "2026-03-10": 56.6
       },
-      "latest_price": 55.98,
-      "return_pct": -5.17,
+      "latest_price": 56.6,
+      "return_pct": -4.12,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -311,10 +311,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 258.85,
-        "2026-03-10": 251.125
+        "2026-03-10": 251.47
       },
-      "latest_price": 251.125,
-      "return_pct": 7.63,
+      "latest_price": 251.47,
+      "return_pct": 7.77,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -332,10 +332,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 641.32,
-        "2026-03-10": 623.74
+        "2026-03-10": 625.115
       },
-      "latest_price": 623.74,
-      "return_pct": 0.73,
+      "latest_price": 625.115,
+      "return_pct": 0.95,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -353,10 +353,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 29.9,
-        "2026-03-10": 29.57
+        "2026-03-10": 29.715
       },
-      "latest_price": 29.57,
-      "return_pct": 28.79,
+      "latest_price": 29.715,
+      "return_pct": 29.42,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -395,10 +395,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 29.9,
-        "2026-03-10": 29.57
+        "2026-03-10": 29.715
       },
-      "latest_price": 29.57,
-      "return_pct": 1.44,
+      "latest_price": 29.715,
+      "return_pct": 1.94,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -416,10 +416,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 106.57,
-        "2026-03-10": 104.94
+        "2026-03-10": 105.49
       },
-      "latest_price": 104.94,
-      "return_pct": 3.9,
+      "latest_price": 105.49,
+      "return_pct": 4.45,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -437,10 +437,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 179.15,
-        "2026-03-10": 174.81
+        "2026-03-10": 174.94
       },
-      "latest_price": 174.81,
-      "return_pct": -5.62,
+      "latest_price": 174.94,
+      "return_pct": -5.55,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -458,10 +458,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 1.71,
-        "2026-03-10": 1.645
+        "2026-03-10": 1.6561
       },
-      "latest_price": 1.645,
-      "return_pct": 11.9,
+      "latest_price": 1.6561,
+      "return_pct": 12.66,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -479,10 +479,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 97.51,
-        "2026-03-10": 94.45
+        "2026-03-10": 96.51
       },
-      "latest_price": 94.45,
-      "return_pct": 0.2,
+      "latest_price": 96.51,
+      "return_pct": 2.39,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -500,10 +500,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 75.13,
-        "2026-03-10": 73.01
+        "2026-03-10": 73.0803
       },
-      "latest_price": 73.01,
-      "return_pct": 2.47,
+      "latest_price": 73.0803,
+      "return_pct": 2.57,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -521,10 +521,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 110.01,
-        "2026-03-10": 110.1
+        "2026-03-10": 109.98
       },
-      "latest_price": 110.1,
-      "return_pct": -11.52,
+      "latest_price": 109.98,
+      "return_pct": -11.61,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -542,10 +542,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 20.3,
-        "2026-03-10": 19.925
+        "2026-03-10": 19.93
       },
-      "latest_price": 19.925,
-      "return_pct": -7.33,
+      "latest_price": 19.93,
+      "return_pct": -7.3,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -563,10 +563,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 10.27,
-        "2026-03-10": 10.035
+        "2026-03-10": 9.985
       },
-      "latest_price": 10.035,
-      "return_pct": 31.01,
+      "latest_price": 9.985,
+      "return_pct": 30.35,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -584,10 +584,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 29.11,
-        "2026-03-10": 29.31
+        "2026-03-10": 29.06
       },
-      "latest_price": 29.31,
-      "return_pct": 17.66,
+      "latest_price": 29.06,
+      "return_pct": 16.66,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -605,10 +605,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 5.79,
-        "2026-03-10": 5.97
+        "2026-03-10": 5.86
       },
-      "latest_price": 5.97,
-      "return_pct": 1.88,
+      "latest_price": 5.86,
+      "return_pct": 0.0,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -626,10 +626,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 40.35,
-        "2026-03-10": 39.96
+        "2026-03-10": 39.97
       },
-      "latest_price": 39.96,
-      "return_pct": 0.58,
+      "latest_price": 39.97,
+      "return_pct": 0.6,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -647,10 +647,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 7.2,
-        "2026-03-10": 7.04
+        "2026-03-10": 7.325
       },
-      "latest_price": 7.04,
-      "return_pct": -0.98,
+      "latest_price": 7.325,
+      "return_pct": 3.02,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -668,10 +668,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 26.83,
-        "2026-03-10": 26.07
+        "2026-03-10": 25.75
       },
-      "latest_price": 26.07,
-      "return_pct": 24.2,
+      "latest_price": 25.75,
+      "return_pct": 22.68,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -689,10 +689,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 39.72,
-        "2026-03-10": 37.1
+        "2026-03-10": 37.205
       },
-      "latest_price": 37.1,
-      "return_pct": -7.2,
+      "latest_price": 37.205,
+      "return_pct": -6.94,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -710,10 +710,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 6.72,
-        "2026-03-10": 6.525
+        "2026-03-10": 6.455
       },
-      "latest_price": 6.525,
-      "return_pct": 21.06,
+      "latest_price": 6.455,
+      "return_pct": 19.76,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -731,10 +731,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 374.59,
-        "2026-03-10": 353.345
+        "2026-03-10": 356.34
       },
-      "latest_price": 353.345,
-      "return_pct": 8.69,
+      "latest_price": 356.34,
+      "return_pct": 9.62,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -752,10 +752,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 5.09,
-        "2026-03-10": 5.24
+        "2026-03-10": 5.38
       },
-      "latest_price": 5.24,
-      "return_pct": 9.85,
+      "latest_price": 5.38,
+      "return_pct": 12.79,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -773,10 +773,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 214.84,
-        "2026-03-10": 204.13
+        "2026-03-10": 205.275
       },
-      "latest_price": 204.13,
-      "return_pct": 13.41,
+      "latest_price": 205.275,
+      "return_pct": 14.04,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -794,10 +794,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 214.84,
-        "2026-03-10": 204.13
+        "2026-03-10": 205.275
       },
-      "latest_price": 204.13,
-      "return_pct": 13.91,
+      "latest_price": 205.275,
+      "return_pct": 14.55,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -815,10 +815,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 17.06,
-        "2026-03-10": 17.26
+        "2026-03-10": 17.31
       },
-      "latest_price": 17.26,
-      "return_pct": -3.09,
+      "latest_price": 17.31,
+      "return_pct": -2.81,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -836,10 +836,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 214.84,
-        "2026-03-10": 204.13
+        "2026-03-10": 205.275
       },
-      "latest_price": 204.13,
-      "return_pct": 13.3,
+      "latest_price": 205.275,
+      "return_pct": 13.94,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -857,10 +857,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 19.09,
-        "2026-03-10": 19.05
+        "2026-03-10": 19.175
       },
-      "latest_price": 19.05,
-      "return_pct": -1.91,
+      "latest_price": 19.175,
+      "return_pct": -1.26,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -878,10 +878,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 17.06,
-        "2026-03-10": 17.26
+        "2026-03-10": 17.31
       },
-      "latest_price": 17.26,
-      "return_pct": -3.58,
+      "latest_price": 17.31,
+      "return_pct": -3.3,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -899,10 +899,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 78.73,
-        "2026-03-10": 82.09
+        "2026-03-10": 81.36
       },
-      "latest_price": 82.09,
-      "return_pct": 5.08,
+      "latest_price": 81.36,
+      "return_pct": 4.15,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -920,10 +920,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 106.57,
-        "2026-03-10": 104.94
+        "2026-03-10": 105.49
       },
-      "latest_price": 104.94,
-      "return_pct": -2.04,
+      "latest_price": 105.49,
+      "return_pct": -1.53,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -941,10 +941,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 106.57,
-        "2026-03-10": 104.94
+        "2026-03-10": 105.49
       },
-      "latest_price": 104.94,
-      "return_pct": -2.14,
+      "latest_price": 105.49,
+      "return_pct": -1.63,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -962,10 +962,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 106.57,
-        "2026-03-10": 104.94
+        "2026-03-10": 105.49
       },
-      "latest_price": 104.94,
-      "return_pct": -2.41,
+      "latest_price": 105.49,
+      "return_pct": -1.9,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -983,10 +983,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 106.57,
-        "2026-03-10": 104.94
+        "2026-03-10": 105.49
       },
-      "latest_price": 104.94,
-      "return_pct": -2.22,
+      "latest_price": 105.49,
+      "return_pct": -1.71,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1004,10 +1004,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 48.2,
-        "2026-03-10": 47.81
+        "2026-03-10": 47.97
       },
-      "latest_price": 47.81,
-      "return_pct": -0.38,
+      "latest_price": 47.97,
+      "return_pct": -0.04,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1025,10 +1025,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 22.0,
-        "2026-03-10": 21.8
+        "2026-03-10": 22.035
       },
-      "latest_price": 21.8,
-      "return_pct": -3.02,
+      "latest_price": 22.035,
+      "return_pct": -1.98,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1046,10 +1046,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 227.07,
-        "2026-03-10": 224.145
+        "2026-03-10": 224.14
       },
-      "latest_price": 224.145,
-      "return_pct": 1.56,
+      "latest_price": 224.14,
+      "return_pct": 1.55,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1067,10 +1067,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 9.23,
-        "2026-03-10": 8.915
+        "2026-03-10": 9.025
       },
-      "latest_price": 8.915,
-      "return_pct": -6.84,
+      "latest_price": 9.025,
+      "return_pct": -5.69,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1088,10 +1088,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 6.19,
-        "2026-03-10": 6.08
+        "2026-03-10": 6.145
       },
-      "latest_price": 6.08,
-      "return_pct": 4.11,
+      "latest_price": 6.145,
+      "return_pct": 5.22,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1109,10 +1109,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 8.17,
-        "2026-03-10": 8.0
+        "2026-03-10": 8.095
       },
-      "latest_price": 8.0,
-      "return_pct": -12.66,
+      "latest_price": 8.095,
+      "return_pct": -11.63,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1130,10 +1130,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 7.71,
-        "2026-03-10": 7.7
+        "2026-03-10": 7.69
       },
-      "latest_price": 7.7,
-      "return_pct": -10.98,
+      "latest_price": 7.69,
+      "return_pct": -11.1,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1151,10 +1151,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 38.79,
-        "2026-03-10": 44.9301
+        "2026-03-10": 46.27
       },
-      "latest_price": 44.9301,
-      "return_pct": 6.85,
+      "latest_price": 46.27,
+      "return_pct": 10.04,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1172,10 +1172,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 9.68,
-        "2026-03-10": 8.96
+        "2026-03-10": 9.115
       },
-      "latest_price": 8.96,
-      "return_pct": 3.58,
+      "latest_price": 9.115,
+      "return_pct": 5.38,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1193,10 +1193,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 77.7,
-        "2026-03-10": 79.03
+        "2026-03-10": 79.68
       },
-      "latest_price": 79.03,
-      "return_pct": -7.56,
+      "latest_price": 79.68,
+      "return_pct": -6.8,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1214,10 +1214,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 30.08,
-        "2026-03-10": 30.64
+        "2026-03-10": 30.9
       },
-      "latest_price": 30.64,
-      "return_pct": -7.66,
+      "latest_price": 30.9,
+      "return_pct": -6.87,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1235,10 +1235,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 76.4,
-        "2026-03-10": 74.33
+        "2026-03-10": 74.525
       },
-      "latest_price": 74.33,
-      "return_pct": -9.24,
+      "latest_price": 74.525,
+      "return_pct": -9.0,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1256,10 +1256,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 1.39,
-        "2026-03-10": 1.36
+        "2026-03-10": 1.345
       },
-      "latest_price": 1.36,
-      "return_pct": -12.82,
+      "latest_price": 1.345,
+      "return_pct": -13.78,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1277,10 +1277,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 16.31,
-        "2026-03-10": 16.0861
+        "2026-03-10": 16.3
       },
-      "latest_price": 16.0861,
-      "return_pct": -9.68,
+      "latest_price": 16.3,
+      "return_pct": -8.48,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1319,10 +1319,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 12.15,
-        "2026-03-10": 12.41
+        "2026-03-10": 12.465
       },
-      "latest_price": 12.41,
-      "return_pct": -10.2,
+      "latest_price": 12.465,
+      "return_pct": -9.8,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1340,10 +1340,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 17.06,
-        "2026-03-10": 17.26
+        "2026-03-10": 17.31
       },
-      "latest_price": 17.26,
-      "return_pct": -2.71,
+      "latest_price": 17.31,
+      "return_pct": -2.42,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1361,10 +1361,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 4.465,
-        "2026-03-10": 4.61
+        "2026-03-10": 4.58
       },
-      "latest_price": 4.61,
-      "return_pct": 12.44,
+      "latest_price": 4.58,
+      "return_pct": 11.71,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1382,10 +1382,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 4.465,
-        "2026-03-10": 4.61
+        "2026-03-10": 4.58
       },
-      "latest_price": 4.61,
-      "return_pct": 12.44,
+      "latest_price": 4.58,
+      "return_pct": 11.71,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1403,10 +1403,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 4.465,
-        "2026-03-10": 4.61
+        "2026-03-10": 4.58
       },
-      "latest_price": 4.61,
-      "return_pct": 12.44,
+      "latest_price": 4.58,
+      "return_pct": 11.71,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1424,10 +1424,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 19.13,
-        "2026-03-10": 20.28
+        "2026-03-10": 20.32
       },
-      "latest_price": 20.28,
-      "return_pct": 2.94,
+      "latest_price": 20.32,
+      "return_pct": 3.15,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1445,10 +1445,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 82.44,
-        "2026-03-10": 79.3887
+        "2026-03-10": 81.075
       },
-      "latest_price": 79.3887,
-      "return_pct": -14.6,
+      "latest_price": 81.075,
+      "return_pct": -12.79,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1466,10 +1466,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 58.12,
-        "2026-03-10": 59.3
+        "2026-03-10": 59.9075
       },
-      "latest_price": 59.3,
-      "return_pct": -7.23,
+      "latest_price": 59.9075,
+      "return_pct": -6.28,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1487,10 +1487,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 237.01,
-        "2026-03-10": 238.33
+        "2026-03-10": 239.03
       },
-      "latest_price": 238.33,
-      "return_pct": -0.43,
+      "latest_price": 239.03,
+      "return_pct": -0.13,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1508,10 +1508,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 1.71,
-        "2026-03-10": 1.645
+        "2026-03-10": 1.6561
       },
-      "latest_price": 1.645,
-      "return_pct": 11.9,
+      "latest_price": 1.6561,
+      "return_pct": 12.66,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1529,10 +1529,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 8.25,
-        "2026-03-10": 7.565
+        "2026-03-10": 7.51
       },
-      "latest_price": 7.565,
-      "return_pct": 18.95,
+      "latest_price": 7.51,
+      "return_pct": 18.08,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1550,10 +1550,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 0.87,
-        "2026-03-10": 0.8748
+        "2026-03-10": 0.889
       },
-      "latest_price": 0.8748,
-      "return_pct": 8.0,
+      "latest_price": 0.889,
+      "return_pct": 9.75,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1571,10 +1571,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 24.5,
-        "2026-03-10": 24.125
+        "2026-03-10": 24.295
       },
-      "latest_price": 24.125,
-      "return_pct": -4.83,
+      "latest_price": 24.295,
+      "return_pct": -4.16,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1592,10 +1592,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 69.92,
-        "2026-03-10": 68.2903
+        "2026-03-10": 68.37
       },
-      "latest_price": 68.2903,
-      "return_pct": -3.41,
+      "latest_price": 68.37,
+      "return_pct": -3.3,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1613,10 +1613,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 7.2,
-        "2026-03-10": 7.04
+        "2026-03-10": 7.325
       },
-      "latest_price": 7.04,
-      "return_pct": -1.26,
+      "latest_price": 7.325,
+      "return_pct": 2.73,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1634,10 +1634,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 24.5,
-        "2026-03-10": 24.125
+        "2026-03-10": 24.295
       },
-      "latest_price": 24.125,
-      "return_pct": -6.13,
+      "latest_price": 24.295,
+      "return_pct": -5.47,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1655,10 +1655,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 18.51,
-        "2026-03-10": 19.905
+        "2026-03-10": 19.86
       },
-      "latest_price": 19.905,
-      "return_pct": 12.78,
+      "latest_price": 19.86,
+      "return_pct": 12.52,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1676,10 +1676,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 39.2,
-        "2026-03-10": 39.81
+        "2026-03-10": 40.03
       },
-      "latest_price": 39.81,
-      "return_pct": -5.37,
+      "latest_price": 40.03,
+      "return_pct": -4.85,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1697,10 +1697,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 11.38,
-        "2026-03-10": 12.27
+        "2026-03-10": 12.7699
       },
-      "latest_price": 12.27,
-      "return_pct": -0.24,
+      "latest_price": 12.7699,
+      "return_pct": 3.82,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1718,10 +1718,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 138.36,
-        "2026-03-10": 141.1
+        "2026-03-10": 142.4
       },
-      "latest_price": 141.1,
-      "return_pct": -7.09,
+      "latest_price": 142.4,
+      "return_pct": -6.24,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1739,10 +1739,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 110.4,
-        "2026-03-10": 111.225
+        "2026-03-10": 110.65
       },
-      "latest_price": 111.225,
-      "return_pct": -14.89,
+      "latest_price": 110.65,
+      "return_pct": -15.33,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1760,10 +1760,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 0.49,
-        "2026-03-10": 0.4944
+        "2026-03-10": 0.4892
       },
-      "latest_price": 0.4944,
-      "return_pct": -6.72,
+      "latest_price": 0.4892,
+      "return_pct": -7.7,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1781,10 +1781,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 1.78,
-        "2026-03-10": 1.81
+        "2026-03-10": 1.85
       },
-      "latest_price": 1.81,
-      "return_pct": -8.59,
+      "latest_price": 1.85,
+      "return_pct": -6.57,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1802,10 +1802,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 569.24,
-        "2026-03-10": 554.14
+        "2026-03-10": 557.11
       },
-      "latest_price": 554.14,
-      "return_pct": 2.01,
+      "latest_price": 557.11,
+      "return_pct": 2.56,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1823,10 +1823,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 1.39,
-        "2026-03-10": 1.36
+        "2026-03-10": 1.345
       },
-      "latest_price": 1.36,
-      "return_pct": -4.9,
+      "latest_price": 1.345,
+      "return_pct": -5.94,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1844,10 +1844,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 1.39,
-        "2026-03-10": 1.36
+        "2026-03-10": 1.345
       },
-      "latest_price": 1.36,
-      "return_pct": -6.21,
+      "latest_price": 1.345,
+      "return_pct": -7.24,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1865,10 +1865,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 1.39,
-        "2026-03-10": 1.36
+        "2026-03-10": 1.345
       },
-      "latest_price": 1.36,
-      "return_pct": -5.56,
+      "latest_price": 1.345,
+      "return_pct": -6.6,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1907,10 +1907,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 2.17,
-        "2026-03-10": 1.97
+        "2026-03-10": 1.955
       },
-      "latest_price": 1.97,
-      "return_pct": -15.81,
+      "latest_price": 1.955,
+      "return_pct": -16.45,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1949,10 +1949,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 14.59,
-        "2026-03-10": 16.7
+        "2026-03-10": 16.115
       },
-      "latest_price": 16.7,
-      "return_pct": 36.1,
+      "latest_price": 16.115,
+      "return_pct": 31.34,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1970,10 +1970,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 26.8,
-        "2026-03-10": 28.34
+        "2026-03-10": 28.4
       },
-      "latest_price": 28.34,
-      "return_pct": 9.89,
+      "latest_price": 28.4,
+      "return_pct": 10.12,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -1991,10 +1991,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 3.01,
-        "2026-03-10": 2.945
+        "2026-03-10": 2.95
       },
-      "latest_price": 2.945,
-      "return_pct": 0.17,
+      "latest_price": 2.95,
+      "return_pct": 0.34,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2012,10 +2012,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 27.81,
-        "2026-03-10": 27.98
+        "2026-03-10": 27.82
       },
-      "latest_price": 27.98,
-      "return_pct": 4.6,
+      "latest_price": 27.82,
+      "return_pct": 4.0,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2033,10 +2033,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 207.83,
-        "2026-03-10": 198.98
+        "2026-03-10": 200.875
       },
-      "latest_price": 198.98,
-      "return_pct": 2.72,
+      "latest_price": 200.875,
+      "return_pct": 3.69,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2054,10 +2054,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 19.09,
-        "2026-03-10": 19.05
+        "2026-03-10": 19.175
       },
-      "latest_price": 19.05,
-      "return_pct": 1.28,
+      "latest_price": 19.175,
+      "return_pct": 1.94,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2075,10 +2075,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 20.83,
-        "2026-03-10": 19.3
+        "2026-03-10": 19.18
       },
-      "latest_price": 19.3,
-      "return_pct": -18.43,
+      "latest_price": 19.18,
+      "return_pct": -18.93,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2096,10 +2096,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 24.6,
-        "2026-03-10": 23.565
+        "2026-03-10": 23.56
       },
-      "latest_price": 23.565,
-      "return_pct": -5.7,
+      "latest_price": 23.56,
+      "return_pct": -5.72,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2117,10 +2117,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 14.19,
-        "2026-03-10": 13.955
+        "2026-03-10": 14.1
       },
-      "latest_price": 13.955,
-      "return_pct": 1.86,
+      "latest_price": 14.1,
+      "return_pct": 2.92,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2138,10 +2138,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 0.755,
-        "2026-03-10": 0.7692
+        "2026-03-10": 0.7472
       },
-      "latest_price": 0.7692,
-      "return_pct": -12.59,
+      "latest_price": 0.7472,
+      "return_pct": -15.09,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2159,10 +2159,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 91.9,
-        "2026-03-10": 92.605
+        "2026-03-10": 94.09
       },
-      "latest_price": 92.605,
-      "return_pct": 318.46,
+      "latest_price": 94.09,
+      "return_pct": 325.17,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2180,10 +2180,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 88.43,
-        "2026-03-10": 87.815
+        "2026-03-10": 88.395
       },
-      "latest_price": 87.815,
-      "return_pct": 9.96,
+      "latest_price": 88.395,
+      "return_pct": 10.69,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2201,10 +2201,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 106.84,
-        "2026-03-10": 106.58
+        "2026-03-10": 105.45
       },
-      "latest_price": 106.58,
-      "return_pct": 5.88,
+      "latest_price": 105.45,
+      "return_pct": 4.76,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2243,10 +2243,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 8.7,
-        "2026-03-10": 8.875
+        "2026-03-10": 8.95
       },
-      "latest_price": 8.875,
-      "return_pct": 8.9,
+      "latest_price": 8.95,
+      "return_pct": 9.82,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2285,10 +2285,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 13.28,
-        "2026-03-10": 13.245
+        "2026-03-10": 13.33
       },
-      "latest_price": 13.245,
-      "return_pct": 20.52,
+      "latest_price": 13.33,
+      "return_pct": 21.29,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2306,10 +2306,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 91.33,
-        "2026-03-10": 90.42
+        "2026-03-10": 90.82
       },
-      "latest_price": 90.42,
-      "return_pct": -12.13,
+      "latest_price": 90.82,
+      "return_pct": -11.74,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2327,10 +2327,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 91.33,
-        "2026-03-10": 90.42
+        "2026-03-10": 90.82
       },
-      "latest_price": 90.42,
-      "return_pct": -11.52,
+      "latest_price": 90.82,
+      "return_pct": -11.13,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2348,10 +2348,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 91.33,
-        "2026-03-10": 90.42
+        "2026-03-10": 90.82
       },
-      "latest_price": 90.42,
-      "return_pct": -11.93,
+      "latest_price": 90.82,
+      "return_pct": -11.54,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2369,10 +2369,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 69.92,
-        "2026-03-10": 68.2903
+        "2026-03-10": 68.37
       },
-      "latest_price": 68.2903,
-      "return_pct": -3.71,
+      "latest_price": 68.37,
+      "return_pct": -3.6,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2390,10 +2390,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 408.96,
-        "2026-03-10": 406.64
+        "2026-03-10": 405.54
       },
-      "latest_price": 406.64,
-      "return_pct": 2.34,
+      "latest_price": 405.54,
+      "return_pct": 2.06,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2411,10 +2411,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 5.85,
-        "2026-03-10": 5.97
+        "2026-03-10": 5.755
       },
-      "latest_price": 5.97,
-      "return_pct": 8.55,
+      "latest_price": 5.755,
+      "return_pct": 4.64,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2453,10 +2453,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 9.68,
-        "2026-03-10": 8.96
+        "2026-03-10": 9.115
       },
-      "latest_price": 8.96,
-      "return_pct": 25.49,
+      "latest_price": 9.115,
+      "return_pct": 27.66,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2474,10 +2474,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 1.71,
-        "2026-03-10": 1.645
+        "2026-03-10": 1.6561
       },
-      "latest_price": 1.645,
-      "return_pct": 25.57,
+      "latest_price": 1.6561,
+      "return_pct": 26.42,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2495,10 +2495,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 25.68,
-        "2026-03-10": 25.65
+        "2026-03-10": 25.68
       },
-      "latest_price": 25.65,
-      "return_pct": 3.72,
+      "latest_price": 25.68,
+      "return_pct": 3.84,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2516,10 +2516,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 10.09,
-        "2026-03-10": 10.08
+        "2026-03-10": 10.075
       },
-      "latest_price": 10.08,
-      "return_pct": -0.98,
+      "latest_price": 10.075,
+      "return_pct": -1.03,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2537,10 +2537,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 13.25,
-        "2026-03-10": 13.515
+        "2026-03-10": 13.53
       },
-      "latest_price": 13.515,
-      "return_pct": 1.01,
+      "latest_price": 13.53,
+      "return_pct": 1.12,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2558,10 +2558,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 1.99,
-        "2026-03-10": 2.14
+        "2026-03-10": 2.155
       },
-      "latest_price": 2.14,
-      "return_pct": -14.4,
+      "latest_price": 2.155,
+      "return_pct": -13.8,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2579,10 +2579,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 25.15,
-        "2026-03-10": 24.8673
+        "2026-03-10": 25.085
       },
-      "latest_price": 24.8673,
-      "return_pct": 13.81,
+      "latest_price": 25.085,
+      "return_pct": 14.81,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2600,10 +2600,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 18.72,
-        "2026-03-10": 19.43
+        "2026-03-10": 19.325
       },
-      "latest_price": 19.43,
-      "return_pct": 7.94,
+      "latest_price": 19.325,
+      "return_pct": 7.36,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2621,10 +2621,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 0.63,
-        "2026-03-10": 0.632
+        "2026-03-10": 0.6154
       },
-      "latest_price": 0.632,
-      "return_pct": 12.86,
+      "latest_price": 0.6154,
+      "return_pct": 9.89,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2642,10 +2642,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 3.01,
-        "2026-03-10": 2.87
+        "2026-03-10": 2.9
       },
-      "latest_price": 2.87,
-      "return_pct": 43.5,
+      "latest_price": 2.9,
+      "return_pct": 45.0,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2663,10 +2663,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 3.01,
-        "2026-03-10": 2.87
+        "2026-03-10": 2.9
       },
-      "latest_price": 2.87,
-      "return_pct": 43.5,
+      "latest_price": 2.9,
+      "return_pct": 45.0,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2684,10 +2684,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 3.01,
-        "2026-03-10": 2.87
+        "2026-03-10": 2.9
       },
-      "latest_price": 2.87,
-      "return_pct": 43.5,
+      "latest_price": 2.9,
+      "return_pct": 45.0,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2705,10 +2705,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 3.01,
-        "2026-03-10": 2.87
+        "2026-03-10": 2.9
       },
-      "latest_price": 2.87,
-      "return_pct": 43.5,
+      "latest_price": 2.9,
+      "return_pct": 45.0,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2726,10 +2726,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 3.01,
-        "2026-03-10": 2.87
+        "2026-03-10": 2.9
       },
-      "latest_price": 2.87,
-      "return_pct": 43.5,
+      "latest_price": 2.9,
+      "return_pct": 45.0,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2747,10 +2747,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 3.01,
-        "2026-03-10": 2.87
+        "2026-03-10": 2.9
       },
-      "latest_price": 2.87,
-      "return_pct": 43.5,
+      "latest_price": 2.9,
+      "return_pct": 45.0,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2768,10 +2768,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 3.01,
-        "2026-03-10": 2.87
+        "2026-03-10": 2.9
       },
-      "latest_price": 2.87,
-      "return_pct": 43.5,
+      "latest_price": 2.9,
+      "return_pct": 45.0,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2789,10 +2789,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 0.29,
-        "2026-03-10": 0.3126
+        "2026-03-10": 0.3319
       },
-      "latest_price": 0.3126,
-      "return_pct": -37.48,
+      "latest_price": 0.3319,
+      "return_pct": -33.62,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2810,10 +2810,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 14.27,
-        "2026-03-10": 14.2
+        "2026-03-10": 14.22
       },
-      "latest_price": 14.2,
-      "return_pct": -9.73,
+      "latest_price": 14.22,
+      "return_pct": -9.6,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2852,10 +2852,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 7.87,
-        "2026-03-10": 7.94
+        "2026-03-10": 7.624
       },
-      "latest_price": 7.94,
-      "return_pct": 48.97,
+      "latest_price": 7.624,
+      "return_pct": 43.04,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2873,10 +2873,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 101.54,
-        "2026-03-10": 101.69
+        "2026-03-10": 101.905
       },
-      "latest_price": 101.69,
-      "return_pct": -5.71,
+      "latest_price": 101.905,
+      "return_pct": -5.51,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2894,10 +2894,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 569.24,
-        "2026-03-10": 554.14
+        "2026-03-10": 557.11
       },
-      "latest_price": 554.14,
-      "return_pct": 5.84,
+      "latest_price": 557.11,
+      "return_pct": 6.41,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2915,10 +2915,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 8.7,
-        "2026-03-10": 8.74
+        "2026-03-10": 8.81
       },
-      "latest_price": 8.74,
-      "return_pct": 2.82,
+      "latest_price": 8.81,
+      "return_pct": 3.65,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2936,10 +2936,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 0.651,
-        "2026-03-10": 0.701
+        "2026-03-10": 0.706
       },
-      "latest_price": 0.701,
-      "return_pct": 75.25,
+      "latest_price": 0.706,
+      "return_pct": 76.5,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2957,10 +2957,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 30.29,
-        "2026-03-10": 30.865
+        "2026-03-10": 31.46
       },
-      "latest_price": 30.865,
-      "return_pct": -7.01,
+      "latest_price": 31.46,
+      "return_pct": -5.21,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2978,10 +2978,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 0.651,
-        "2026-03-10": 0.701
+        "2026-03-10": 0.706
       },
-      "latest_price": 0.701,
-      "return_pct": 75.25,
+      "latest_price": 0.706,
+      "return_pct": 76.5,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -2999,10 +2999,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 0.651,
-        "2026-03-10": 0.701
+        "2026-03-10": 0.706
       },
-      "latest_price": 0.701,
-      "return_pct": 75.25,
+      "latest_price": 0.706,
+      "return_pct": 76.5,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3020,10 +3020,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 20.97,
-        "2026-03-10": 21.2789
+        "2026-03-10": 21.225
       },
-      "latest_price": 21.2789,
-      "return_pct": 2.06,
+      "latest_price": 21.225,
+      "return_pct": 1.8,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3041,10 +3041,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 20.98,
-        "2026-03-10": 19.945
+        "2026-03-10": 20.14
       },
-      "latest_price": 19.945,
-      "return_pct": 8.51,
+      "latest_price": 20.14,
+      "return_pct": 9.58,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3062,10 +3062,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 13.74,
-        "2026-03-10": 13.74
+        "2026-03-10": 13.81
       },
-      "latest_price": 13.74,
-      "return_pct": 14.5,
+      "latest_price": 13.81,
+      "return_pct": 15.08,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3083,10 +3083,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 302.94,
-        "2026-03-10": 292.3
+        "2026-03-10": 292.93
       },
-      "latest_price": 292.3,
-      "return_pct": 2.62,
+      "latest_price": 292.93,
+      "return_pct": 2.84,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3104,10 +3104,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 12.99,
-        "2026-03-10": 12.9
+        "2026-03-10": 12.95
       },
-      "latest_price": 12.9,
-      "return_pct": -6.25,
+      "latest_price": 12.95,
+      "return_pct": -5.89,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3125,10 +3125,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 0.651,
-        "2026-03-10": 0.701
+        "2026-03-10": 0.706
       },
-      "latest_price": 0.701,
-      "return_pct": 75.25,
+      "latest_price": 0.706,
+      "return_pct": 76.5,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3146,10 +3146,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 8.7,
-        "2026-03-10": 8.875
+        "2026-03-10": 8.95
       },
-      "latest_price": 8.875,
-      "return_pct": 1.66,
+      "latest_price": 8.95,
+      "return_pct": 2.52,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3166,10 +3166,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 9.87
+        "2026-03-10": 9.88
       },
-      "latest_price": 9.87,
-      "return_pct": -1.3,
+      "latest_price": 9.88,
+      "return_pct": -1.2,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3208,10 +3208,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 1.17,
-        "2026-03-10": 1.2
+        "2026-03-10": 1.195
       },
-      "latest_price": 1.2,
-      "return_pct": 13.21,
+      "latest_price": 1.195,
+      "return_pct": 12.74,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3229,10 +3229,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 69.92,
-        "2026-03-10": 68.2903
+        "2026-03-10": 68.37
       },
-      "latest_price": 68.2903,
-      "return_pct": -3.72,
+      "latest_price": 68.37,
+      "return_pct": -3.61,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3250,10 +3250,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 86.2,
-        "2026-03-10": 88.34
+        "2026-03-10": 89.83
       },
-      "latest_price": 88.34,
-      "return_pct": -0.91,
+      "latest_price": 89.83,
+      "return_pct": 0.76,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3271,10 +3271,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 9.86,
-        "2026-03-10": 10.05
+        "2026-03-10": 10.15
       },
-      "latest_price": 10.05,
-      "return_pct": -20.43,
+      "latest_price": 10.15,
+      "return_pct": -19.64,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3292,10 +3292,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 25.28,
-        "2026-03-10": 26.26
+        "2026-03-10": 25.75
       },
-      "latest_price": 26.26,
-      "return_pct": 16.71,
+      "latest_price": 25.75,
+      "return_pct": 14.44,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3355,10 +3355,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 2.17,
-        "2026-03-10": 1.97
+        "2026-03-10": 1.955
       },
-      "latest_price": 1.97,
-      "return_pct": 8.84,
+      "latest_price": 1.955,
+      "return_pct": 8.01,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3418,10 +3418,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 25.28,
-        "2026-03-10": 26.26
+        "2026-03-10": 25.75
       },
-      "latest_price": 26.26,
-      "return_pct": 4.37,
+      "latest_price": 25.75,
+      "return_pct": 2.34,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3439,10 +3439,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 179.64,
-        "2026-03-10": 177.715
+        "2026-03-10": 178.465
       },
-      "latest_price": 177.715,
-      "return_pct": 5.63,
+      "latest_price": 178.465,
+      "return_pct": 6.08,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3460,10 +3460,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 5.85,
-        "2026-03-10": 5.97
+        "2026-03-10": 5.755
       },
-      "latest_price": 5.97,
-      "return_pct": 8.55,
+      "latest_price": 5.755,
+      "return_pct": 4.64,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3481,10 +3481,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 36.19,
-        "2026-03-10": 36.42
+        "2026-03-10": 36.71
       },
-      "latest_price": 36.42,
-      "return_pct": 3.44,
+      "latest_price": 36.71,
+      "return_pct": 4.26,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3502,10 +3502,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 18.15,
-        "2026-03-10": 18.16
+        "2026-03-10": 18.425
       },
-      "latest_price": 18.16,
-      "return_pct": 7.52,
+      "latest_price": 18.425,
+      "return_pct": 9.09,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3523,10 +3523,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 179.64,
-        "2026-03-10": 177.715
+        "2026-03-10": 178.465
       },
-      "latest_price": 177.715,
-      "return_pct": 8.79,
+      "latest_price": 178.465,
+      "return_pct": 9.25,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3544,10 +3544,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 50.73,
-        "2026-03-10": 51.23
+        "2026-03-10": 51.78
       },
-      "latest_price": 51.23,
-      "return_pct": -4.99,
+      "latest_price": 51.78,
+      "return_pct": -3.97,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3565,10 +3565,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 179.64,
-        "2026-03-10": 177.715
+        "2026-03-10": 178.465
       },
-      "latest_price": 177.715,
-      "return_pct": 6.35,
+      "latest_price": 178.465,
+      "return_pct": 6.79,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3586,10 +3586,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 179.64,
-        "2026-03-10": 177.715
+        "2026-03-10": 178.465
       },
-      "latest_price": 177.715,
-      "return_pct": 9.35,
+      "latest_price": 178.465,
+      "return_pct": 9.81,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3607,10 +3607,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 20.83,
-        "2026-03-10": 19.3
+        "2026-03-10": 19.18
       },
-      "latest_price": 19.3,
-      "return_pct": -19.45,
+      "latest_price": 19.18,
+      "return_pct": -19.95,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3628,10 +3628,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 27.04,
-        "2026-03-10": 28.33
+        "2026-03-10": 27.94
       },
-      "latest_price": 28.33,
-      "return_pct": 20.09,
+      "latest_price": 27.94,
+      "return_pct": 18.44,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3649,10 +3649,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 24.6,
-        "2026-03-10": 23.565
+        "2026-03-10": 23.56
       },
-      "latest_price": 23.565,
-      "return_pct": -0.61,
+      "latest_price": 23.56,
+      "return_pct": -0.63,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3670,10 +3670,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 88.59,
-        "2026-03-10": 88.0
+        "2026-03-10": 88.95
       },
-      "latest_price": 88.0,
-      "return_pct": -6.9,
+      "latest_price": 88.95,
+      "return_pct": -5.89,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3709,10 +3709,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 21.04,
-        "2026-03-10": 20.71
+        "2026-03-10": 20.84
       },
-      "latest_price": 20.71,
-      "return_pct": -6.59,
+      "latest_price": 20.84,
+      "return_pct": -6.0,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3730,10 +3730,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 302.94,
-        "2026-03-10": 292.3
+        "2026-03-10": 292.93
       },
-      "latest_price": 292.3,
-      "return_pct": 4.82,
+      "latest_price": 292.93,
+      "return_pct": 5.05,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3751,10 +3751,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 88.43,
-        "2026-03-10": 87.815
+        "2026-03-10": 88.395
       },
-      "latest_price": 87.815,
-      "return_pct": 10.91,
+      "latest_price": 88.395,
+      "return_pct": 11.64,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3772,10 +3772,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 26.88,
-        "2026-03-10": 26.565
+        "2026-03-10": 26.335
       },
-      "latest_price": 26.565,
-      "return_pct": 5.25,
+      "latest_price": 26.335,
+      "return_pct": 4.34,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3793,10 +3793,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 165.39,
-        "2026-03-10": 164.66
+        "2026-03-10": 166.005
       },
-      "latest_price": 164.66,
-      "return_pct": 1.28,
+      "latest_price": 166.005,
+      "return_pct": 2.11,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3814,10 +3814,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 30.5,
-        "2026-03-10": 31.43
+        "2026-03-10": 31.63
       },
-      "latest_price": 31.43,
-      "return_pct": -3.29,
+      "latest_price": 31.63,
+      "return_pct": -2.68,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3835,10 +3835,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 9.83,
-        "2026-03-10": 9.695
+        "2026-03-10": 9.708
       },
-      "latest_price": 9.695,
-      "return_pct": -4.29,
+      "latest_price": 9.708,
+      "return_pct": -4.17,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3856,10 +3856,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 2.15,
-        "2026-03-10": 2.215
+        "2026-03-10": 2.27
       },
-      "latest_price": 2.215,
-      "return_pct": 10.2,
+      "latest_price": 2.27,
+      "return_pct": 12.94,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3877,10 +3877,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 20.83,
-        "2026-03-10": 19.3
+        "2026-03-10": 19.18
       },
-      "latest_price": 19.3,
-      "return_pct": -18.19,
+      "latest_price": 19.18,
+      "return_pct": -18.69,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3898,10 +3898,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 0.37,
-        "2026-03-10": 0.385
+        "2026-03-10": 0.3735
       },
-      "latest_price": 0.385,
-      "return_pct": 4.05,
+      "latest_price": 0.3735,
+      "return_pct": 0.95,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3919,10 +3919,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 46.32,
-        "2026-03-10": 46.405
+        "2026-03-10": 47.24
       },
-      "latest_price": 46.405,
-      "return_pct": -3.54,
+      "latest_price": 47.24,
+      "return_pct": -1.81,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3940,10 +3940,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 8.54,
-        "2026-03-10": 8.52
+        "2026-03-10": 8.603
       },
-      "latest_price": 8.52,
-      "return_pct": 13.0,
+      "latest_price": 8.603,
+      "return_pct": 14.1,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -3961,10 +3961,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 1.06,
-        "2026-03-10": 1.0258
+        "2026-03-10": 1.035
       },
-      "latest_price": 1.0258,
-      "return_pct": 23.59,
+      "latest_price": 1.035,
+      "return_pct": 24.7,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4000,10 +4000,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 144.47,
-        "2026-03-10": 143.715
+        "2026-03-10": 142.65
       },
-      "latest_price": 143.715,
-      "return_pct": 14.83,
+      "latest_price": 142.65,
+      "return_pct": 13.97,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4021,10 +4021,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 139.39,
-        "2026-03-10": 138.075
+        "2026-03-10": 137.355
       },
-      "latest_price": 138.075,
-      "return_pct": -6.81,
+      "latest_price": 137.355,
+      "return_pct": -7.29,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4042,10 +4042,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 5.45,
-        "2026-03-10": 5.405
+        "2026-03-10": 5.54
       },
-      "latest_price": 5.405,
-      "return_pct": -6.0,
+      "latest_price": 5.54,
+      "return_pct": -3.65,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4063,10 +4063,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 5.91,
-        "2026-03-10": 6.675
+        "2026-03-10": 6.6781
       },
-      "latest_price": 6.675,
-      "return_pct": 6.63,
+      "latest_price": 6.6781,
+      "return_pct": 6.68,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4084,10 +4084,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 18.51,
-        "2026-03-10": 19.905
+        "2026-03-10": 19.86
       },
-      "latest_price": 19.905,
-      "return_pct": 11.26,
+      "latest_price": 19.86,
+      "return_pct": 11.01,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4105,10 +4105,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 8.17,
-        "2026-03-10": 8.0
+        "2026-03-10": 8.095
       },
-      "latest_price": 8.0,
-      "return_pct": -14.89,
+      "latest_price": 8.095,
+      "return_pct": -13.88,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4126,10 +4126,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 40.14,
-        "2026-03-10": 39.74
+        "2026-03-10": 40.425
       },
-      "latest_price": 39.74,
-      "return_pct": -4.03,
+      "latest_price": 40.425,
+      "return_pct": -2.38,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4147,10 +4147,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 52.66,
-        "2026-03-10": 53.95
+        "2026-03-10": 54.57
       },
-      "latest_price": 53.95,
-      "return_pct": -10.35,
+      "latest_price": 54.57,
+      "return_pct": -9.32,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4168,10 +4168,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 24.6,
-        "2026-03-10": 23.565
+        "2026-03-10": 23.56
       },
-      "latest_price": 23.565,
-      "return_pct": 6.05,
+      "latest_price": 23.56,
+      "return_pct": 6.03,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4189,10 +4189,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 340.6,
-        "2026-03-10": 324.04
+        "2026-03-10": 325.8
       },
-      "latest_price": 324.04,
-      "return_pct": 1.5,
+      "latest_price": 325.8,
+      "return_pct": 2.05,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4210,10 +4210,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 35.87,
-        "2026-03-10": 33.82
+        "2026-03-10": 33.65
       },
-      "latest_price": 33.82,
-      "return_pct": 60.28,
+      "latest_price": 33.65,
+      "return_pct": 59.48,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4231,10 +4231,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 6.43,
-        "2026-03-10": 6.4139
+        "2026-03-10": 6.7277
       },
-      "latest_price": 6.4139,
-      "return_pct": 397.2,
+      "latest_price": 6.7277,
+      "return_pct": 421.53,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4252,10 +4252,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 44.64,
-        "2026-03-10": 45.22
+        "2026-03-10": 45.5601
       },
-      "latest_price": 45.22,
-      "return_pct": 6.45,
+      "latest_price": 45.5601,
+      "return_pct": 7.25,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4273,10 +4273,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 452.36,
-        "2026-03-10": 436.86
+        "2026-03-10": 437.85
       },
-      "latest_price": 436.86,
-      "return_pct": 9.49,
+      "latest_price": 437.85,
+      "return_pct": 9.74,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4294,10 +4294,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 15.9,
-        "2026-03-10": 16.065
+        "2026-03-10": 16.17
       },
-      "latest_price": 16.065,
-      "return_pct": 3.44,
+      "latest_price": 16.17,
+      "return_pct": 4.12,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4315,10 +4315,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 0.37,
-        "2026-03-10": 0.385
+        "2026-03-10": 0.3735
       },
-      "latest_price": 0.385,
-      "return_pct": -6.1,
+      "latest_price": 0.3735,
+      "return_pct": -8.9,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4336,10 +4336,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 69.92,
-        "2026-03-10": 68.2903
+        "2026-03-10": 68.37
       },
-      "latest_price": 68.2903,
-      "return_pct": -1.99,
+      "latest_price": 68.37,
+      "return_pct": -1.88,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4357,10 +4357,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 91.33,
-        "2026-03-10": 90.42
+        "2026-03-10": 90.82
       },
-      "latest_price": 90.42,
-      "return_pct": -13.83,
+      "latest_price": 90.82,
+      "return_pct": -13.45,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4378,10 +4378,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 35.87,
-        "2026-03-10": 33.82
+        "2026-03-10": 33.65
       },
-      "latest_price": 33.82,
-      "return_pct": 56.5,
+      "latest_price": 33.65,
+      "return_pct": 55.71,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4399,10 +4399,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 69.18,
-        "2026-03-10": 68.635
+        "2026-03-10": 68.21
       },
-      "latest_price": 68.635,
-      "return_pct": -21.31,
+      "latest_price": 68.21,
+      "return_pct": -21.8,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4420,10 +4420,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 26.68,
-        "2026-03-10": 27.01
+        "2026-03-10": 26.95
       },
-      "latest_price": 27.01,
-      "return_pct": 68.81,
+      "latest_price": 26.95,
+      "return_pct": 68.44,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4441,10 +4441,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 78.01,
-        "2026-03-10": 73.37
+        "2026-03-10": 73.43
       },
-      "latest_price": 73.37,
-      "return_pct": -6.48,
+      "latest_price": 73.43,
+      "return_pct": -6.4,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4462,10 +4462,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 26.68,
-        "2026-03-10": 27.01
+        "2026-03-10": 26.95
       },
-      "latest_price": 27.01,
-      "return_pct": 68.81,
+      "latest_price": 26.95,
+      "return_pct": 68.44,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4483,10 +4483,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 26.68,
-        "2026-03-10": 27.01
+        "2026-03-10": 26.95
       },
-      "latest_price": 27.01,
-      "return_pct": 68.81,
+      "latest_price": 26.95,
+      "return_pct": 68.44,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4504,10 +4504,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 26.68,
-        "2026-03-10": 27.01
+        "2026-03-10": 26.95
       },
-      "latest_price": 27.01,
-      "return_pct": 68.81,
+      "latest_price": 26.95,
+      "return_pct": 68.44,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4525,10 +4525,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 26.68,
-        "2026-03-10": 27.01
+        "2026-03-10": 26.95
       },
-      "latest_price": 27.01,
-      "return_pct": 68.81,
+      "latest_price": 26.95,
+      "return_pct": 68.44,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4546,10 +4546,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 26.68,
-        "2026-03-10": 27.01
+        "2026-03-10": 26.95
       },
-      "latest_price": 27.01,
-      "return_pct": 68.81,
+      "latest_price": 26.95,
+      "return_pct": 68.44,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4567,10 +4567,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 26.68,
-        "2026-03-10": 27.01
+        "2026-03-10": 26.95
       },
-      "latest_price": 27.01,
-      "return_pct": 68.81,
+      "latest_price": 26.95,
+      "return_pct": 68.44,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4588,10 +4588,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 26.68,
-        "2026-03-10": 27.01
+        "2026-03-10": 26.95
       },
-      "latest_price": 27.01,
-      "return_pct": 68.81,
+      "latest_price": 26.95,
+      "return_pct": 68.44,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4609,10 +4609,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 26.68,
-        "2026-03-10": 27.01
+        "2026-03-10": 26.95
       },
-      "latest_price": 27.01,
-      "return_pct": 68.81,
+      "latest_price": 26.95,
+      "return_pct": 68.44,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4630,10 +4630,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 26.68,
-        "2026-03-10": 27.01
+        "2026-03-10": 26.95
       },
-      "latest_price": 27.01,
-      "return_pct": 68.81,
+      "latest_price": 26.95,
+      "return_pct": 68.44,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4651,10 +4651,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 26.68,
-        "2026-03-10": 27.01
+        "2026-03-10": 26.95
       },
-      "latest_price": 27.01,
-      "return_pct": 68.81,
+      "latest_price": 26.95,
+      "return_pct": 68.44,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4672,10 +4672,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 26.68,
-        "2026-03-10": 27.01
+        "2026-03-10": 26.95
       },
-      "latest_price": 27.01,
-      "return_pct": 68.81,
+      "latest_price": 26.95,
+      "return_pct": 68.44,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4693,10 +4693,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 26.68,
-        "2026-03-10": 27.01
+        "2026-03-10": 26.95
       },
-      "latest_price": 27.01,
-      "return_pct": 68.81,
+      "latest_price": 26.95,
+      "return_pct": 68.44,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4714,10 +4714,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 12.99,
-        "2026-03-10": 12.9
+        "2026-03-10": 12.95
       },
-      "latest_price": 12.9,
-      "return_pct": -5.77,
+      "latest_price": 12.95,
+      "return_pct": -5.41,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4735,10 +4735,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 148.85,
-        "2026-03-10": 147.635
+        "2026-03-10": 148.04
       },
-      "latest_price": 147.635,
-      "return_pct": -3.14,
+      "latest_price": 148.04,
+      "return_pct": -2.87,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4756,10 +4756,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 24.39,
-        "2026-03-10": 23.73
+        "2026-03-10": 23.95
       },
-      "latest_price": 23.73,
-      "return_pct": 5.89,
+      "latest_price": 23.95,
+      "return_pct": 6.87,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4777,10 +4777,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 24.39,
-        "2026-03-10": 23.73
+        "2026-03-10": 23.95
       },
-      "latest_price": 23.73,
-      "return_pct": 1.11,
+      "latest_price": 23.95,
+      "return_pct": 2.05,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4798,10 +4798,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 26.68,
-        "2026-03-10": 27.01
+        "2026-03-10": 26.95
       },
-      "latest_price": 27.01,
-      "return_pct": 68.81,
+      "latest_price": 26.95,
+      "return_pct": 68.44,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4819,10 +4819,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 26.68,
-        "2026-03-10": 27.01
+        "2026-03-10": 26.95
       },
-      "latest_price": 27.01,
-      "return_pct": 68.81,
+      "latest_price": 26.95,
+      "return_pct": 68.44,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4858,10 +4858,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 5.12,
-        "2026-03-10": 4.975
+        "2026-03-10": 5.04
       },
-      "latest_price": 4.975,
-      "return_pct": -31.85,
+      "latest_price": 5.04,
+      "return_pct": -30.96,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4879,10 +4879,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 4.66,
-        "2026-03-10": 4.61
+        "2026-03-10": 4.62
       },
-      "latest_price": 4.61,
-      "return_pct": 5.73,
+      "latest_price": 4.62,
+      "return_pct": 5.96,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4900,10 +4900,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 17.11,
-        "2026-03-10": 17.175
+        "2026-03-10": 17.375
       },
-      "latest_price": 17.175,
-      "return_pct": -18.68,
+      "latest_price": 17.375,
+      "return_pct": -17.73,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4921,10 +4921,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 148.85,
-        "2026-03-10": 147.635
+        "2026-03-10": 148.04
       },
-      "latest_price": 147.635,
-      "return_pct": -3.09,
+      "latest_price": 148.04,
+      "return_pct": -2.83,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4942,10 +4942,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 44.64,
-        "2026-03-10": 45.22
+        "2026-03-10": 45.5601
       },
-      "latest_price": 45.22,
-      "return_pct": 9.62,
+      "latest_price": 45.5601,
+      "return_pct": 10.45,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4963,10 +4963,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 20.75,
-        "2026-03-10": 21.1458
+        "2026-03-10": 21.725
       },
-      "latest_price": 21.1458,
-      "return_pct": 17.48,
+      "latest_price": 21.725,
+      "return_pct": 20.69,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -4984,10 +4984,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 78.01,
-        "2026-03-10": 73.37
+        "2026-03-10": 73.43
       },
-      "latest_price": 73.37,
-      "return_pct": -2.99,
+      "latest_price": 73.43,
+      "return_pct": -2.91,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5005,10 +5005,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 104.58,
-        "2026-03-10": 102.205
+        "2026-03-10": 102.665
       },
-      "latest_price": 102.205,
-      "return_pct": -1.87,
+      "latest_price": 102.665,
+      "return_pct": -1.43,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5026,10 +5026,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 21.04,
-        "2026-03-10": 20.71
+        "2026-03-10": 20.84
       },
-      "latest_price": 20.71,
-      "return_pct": -3.67,
+      "latest_price": 20.84,
+      "return_pct": -3.07,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5047,10 +5047,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 46.32,
-        "2026-03-10": 46.405
+        "2026-03-10": 47.24
       },
-      "latest_price": 46.405,
-      "return_pct": -2.1,
+      "latest_price": 47.24,
+      "return_pct": -0.34,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5068,10 +5068,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 5.92,
-        "2026-03-10": 5.98
+        "2026-03-10": 5.955
       },
-      "latest_price": 5.98,
-      "return_pct": 2.57,
+      "latest_price": 5.955,
+      "return_pct": 2.14,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5089,10 +5089,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 5.92,
-        "2026-03-10": 5.98
+        "2026-03-10": 5.955
       },
-      "latest_price": 5.98,
-      "return_pct": 2.4,
+      "latest_price": 5.955,
+      "return_pct": 1.97,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5110,10 +5110,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 4.24,
-        "2026-03-10": 3.9514
+        "2026-03-10": 3.99
       },
-      "latest_price": 3.9514,
-      "return_pct": 4.26,
+      "latest_price": 3.99,
+      "return_pct": 5.28,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5131,10 +5131,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 26.94,
-        "2026-03-10": 26.81
+        "2026-03-10": 26.68
       },
-      "latest_price": 26.81,
-      "return_pct": -3.73,
+      "latest_price": 26.68,
+      "return_pct": -4.2,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5152,10 +5152,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 9.68,
-        "2026-03-10": 8.96
+        "2026-03-10": 9.115
       },
-      "latest_price": 8.96,
-      "return_pct": 1.36,
+      "latest_price": 9.115,
+      "return_pct": 3.11,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5173,10 +5173,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 29.9,
-        "2026-03-10": 29.57
+        "2026-03-10": 29.715
       },
-      "latest_price": 29.57,
-      "return_pct": 1.37,
+      "latest_price": 29.715,
+      "return_pct": 1.87,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5194,10 +5194,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 7.9,
-        "2026-03-10": 7.85
+        "2026-03-10": 7.9
       },
-      "latest_price": 7.85,
-      "return_pct": 12.14,
+      "latest_price": 7.9,
+      "return_pct": 12.86,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5215,10 +5215,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 7.9,
-        "2026-03-10": 7.85
+        "2026-03-10": 7.9
       },
-      "latest_price": 7.85,
-      "return_pct": 12.14,
+      "latest_price": 7.9,
+      "return_pct": 12.86,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5236,10 +5236,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 7.9,
-        "2026-03-10": 7.85
+        "2026-03-10": 7.9
       },
-      "latest_price": 7.85,
-      "return_pct": 12.14,
+      "latest_price": 7.9,
+      "return_pct": 12.86,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5257,10 +5257,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 4.94,
-        "2026-03-10": 5.205
+        "2026-03-10": 5.24
       },
-      "latest_price": 5.205,
-      "return_pct": -4.5,
+      "latest_price": 5.24,
+      "return_pct": -3.85,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5278,10 +5278,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 27.93,
-        "2026-03-10": 28.32
+        "2026-03-10": 28.475
       },
-      "latest_price": 28.32,
-      "return_pct": -4.26,
+      "latest_price": 28.475,
+      "return_pct": -3.74,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5299,10 +5299,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 19.09,
-        "2026-03-10": 19.05
+        "2026-03-10": 19.175
       },
-      "latest_price": 19.05,
-      "return_pct": -3.69,
+      "latest_price": 19.175,
+      "return_pct": -3.06,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5320,10 +5320,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 12.62,
-        "2026-03-10": 12.46
+        "2026-03-10": 12.52
       },
-      "latest_price": 12.46,
-      "return_pct": -1.03,
+      "latest_price": 12.52,
+      "return_pct": -0.56,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5341,10 +5341,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 0.31,
-        "2026-03-10": 0.4
+        "2026-03-10": 0.4026
       },
-      "latest_price": 0.4,
-      "return_pct": 17.65,
+      "latest_price": 0.4026,
+      "return_pct": 18.41,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5362,10 +5362,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 2.62,
-        "2026-03-10": 2.545
+        "2026-03-10": 2.535
       },
-      "latest_price": 2.545,
-      "return_pct": 11.62,
+      "latest_price": 2.535,
+      "return_pct": 11.18,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5383,10 +5383,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 525.03,
-        "2026-03-10": 523.27
+        "2026-03-10": 517.2
       },
-      "latest_price": 523.27,
-      "return_pct": 2.51,
+      "latest_price": 517.2,
+      "return_pct": 1.32,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5404,10 +5404,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 77.16,
-        "2026-03-10": 77.24
+        "2026-03-10": 77.1
       },
-      "latest_price": 77.24,
-      "return_pct": 0.7,
+      "latest_price": 77.1,
+      "return_pct": 0.52,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5425,10 +5425,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 3.45,
-        "2026-03-10": 3.625
+        "2026-03-10": 3.6199
       },
-      "latest_price": 3.625,
-      "return_pct": 5.99,
+      "latest_price": 3.6199,
+      "return_pct": 5.85,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5446,10 +5446,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 43.41,
-        "2026-03-10": 42.44
+        "2026-03-10": 42.72
       },
-      "latest_price": 42.44,
-      "return_pct": -0.68,
+      "latest_price": 42.72,
+      "return_pct": -0.02,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5467,10 +5467,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 56.88,
-        "2026-03-10": 56.95
+        "2026-03-10": 57.52
       },
-      "latest_price": 56.95,
-      "return_pct": -1.73,
+      "latest_price": 57.52,
+      "return_pct": -0.74,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5488,10 +5488,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 48.71,
-        "2026-03-10": 46.31
+        "2026-03-10": 46.4
       },
-      "latest_price": 46.31,
-      "return_pct": -0.96,
+      "latest_price": 46.4,
+      "return_pct": -0.77,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5509,10 +5509,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 5.15,
-        "2026-03-10": 5.1301
+        "2026-03-10": 5.1088
       },
-      "latest_price": 5.1301,
-      "return_pct": 8.46,
+      "latest_price": 5.1088,
+      "return_pct": 8.01,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5530,10 +5530,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 54.11,
-        "2026-03-10": 52.7
+        "2026-03-10": 52.77
       },
-      "latest_price": 52.7,
-      "return_pct": -2.96,
+      "latest_price": 52.77,
+      "return_pct": -2.84,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5551,10 +5551,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 3.45,
-        "2026-03-10": 3.625
+        "2026-03-10": 3.6199
       },
-      "latest_price": 3.625,
-      "return_pct": 10.86,
+      "latest_price": 3.6199,
+      "return_pct": 10.7,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5572,10 +5572,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 43.74,
-        "2026-03-10": 43.97
+        "2026-03-10": 43.83
       },
-      "latest_price": 43.97,
-      "return_pct": -24.19,
+      "latest_price": 43.83,
+      "return_pct": -24.43,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5593,10 +5593,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 213.66,
-        "2026-03-10": 212.29
+        "2026-03-10": 210.6575
       },
-      "latest_price": 212.29,
-      "return_pct": -0.63,
+      "latest_price": 210.6575,
+      "return_pct": -1.4,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5614,10 +5614,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 95.81,
-        "2026-03-10": 95.23
+        "2026-03-10": 95.84
       },
-      "latest_price": 95.23,
-      "return_pct": -5.4,
+      "latest_price": 95.84,
+      "return_pct": -4.8,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5635,10 +5635,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 131.52,
-        "2026-03-10": 132.27
+        "2026-03-10": 133.64
       },
-      "latest_price": 132.27,
-      "return_pct": 9.75,
+      "latest_price": 133.64,
+      "return_pct": 10.89,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5656,10 +5656,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 69.92,
-        "2026-03-10": 68.2903
+        "2026-03-10": 68.37
       },
-      "latest_price": 68.2903,
-      "return_pct": -4.69,
+      "latest_price": 68.37,
+      "return_pct": -4.58,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5677,10 +5677,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 24.6,
-        "2026-03-10": 23.565
+        "2026-03-10": 23.56
       },
-      "latest_price": 23.565,
-      "return_pct": -8.52,
+      "latest_price": 23.56,
+      "return_pct": -8.54,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5716,10 +5716,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 35.73,
-        "2026-03-10": 36.3018
+        "2026-03-10": 35.975
       },
-      "latest_price": 36.3018,
-      "return_pct": -5.44,
+      "latest_price": 35.975,
+      "return_pct": -6.29,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5737,10 +5737,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 36.03,
-        "2026-03-10": 35.76
+        "2026-03-10": 35.66
       },
-      "latest_price": 35.76,
-      "return_pct": -5.22,
+      "latest_price": 35.66,
+      "return_pct": -5.49,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5758,10 +5758,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 36.03,
-        "2026-03-10": 35.76
+        "2026-03-10": 35.66
       },
-      "latest_price": 35.76,
-      "return_pct": -4.36,
+      "latest_price": 35.66,
+      "return_pct": -4.63,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5779,10 +5779,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 36.03,
-        "2026-03-10": 35.76
+        "2026-03-10": 35.66
       },
-      "latest_price": 35.76,
-      "return_pct": -4.77,
+      "latest_price": 35.66,
+      "return_pct": -5.03,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5800,10 +5800,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 47.87,
-        "2026-03-10": 45.89
+        "2026-03-10": 47.24
       },
-      "latest_price": 45.89,
-      "return_pct": -0.48,
+      "latest_price": 47.24,
+      "return_pct": 2.45,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5821,10 +5821,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 46.32,
-        "2026-03-10": 46.405
+        "2026-03-10": 47.24
       },
-      "latest_price": 46.405,
-      "return_pct": -0.84,
+      "latest_price": 47.24,
+      "return_pct": 0.94,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5842,10 +5842,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 2.35,
-        "2026-03-10": 2.26
+        "2026-03-10": 2.2919
       },
-      "latest_price": 2.26,
-      "return_pct": -5.83,
+      "latest_price": 2.2919,
+      "return_pct": -4.5,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5863,10 +5863,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 134.39,
-        "2026-03-10": 139.34
+        "2026-03-10": 142.09
       },
-      "latest_price": 139.34,
-      "return_pct": 11.47,
+      "latest_price": 142.09,
+      "return_pct": 13.67,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5884,10 +5884,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 134.39,
-        "2026-03-10": 139.34
+        "2026-03-10": 142.09
       },
-      "latest_price": 139.34,
-      "return_pct": 11.47,
+      "latest_price": 142.09,
+      "return_pct": 13.67,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5905,10 +5905,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 3.45,
-        "2026-03-10": 3.625
+        "2026-03-10": 3.6199
       },
-      "latest_price": 3.625,
-      "return_pct": 5.38,
+      "latest_price": 3.6199,
+      "return_pct": 5.23,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5926,10 +5926,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 6.52,
-        "2026-03-10": 6.72
+        "2026-03-10": 6.49
       },
-      "latest_price": 6.72,
-      "return_pct": 242.86,
+      "latest_price": 6.49,
+      "return_pct": 231.12,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5947,10 +5947,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 4.02,
-        "2026-03-10": 4.125
+        "2026-03-10": 4.19
       },
-      "latest_price": 4.125,
-      "return_pct": 4.96,
+      "latest_price": 4.19,
+      "return_pct": 6.62,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5968,10 +5968,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 22.0,
-        "2026-03-10": 21.8
+        "2026-03-10": 22.035
       },
-      "latest_price": 21.8,
-      "return_pct": -2.81,
+      "latest_price": 22.035,
+      "return_pct": -1.76,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -5989,10 +5989,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 17.21,
-        "2026-03-10": 16.635
+        "2026-03-10": 17.09
       },
-      "latest_price": 16.635,
-      "return_pct": 16.33,
+      "latest_price": 17.09,
+      "return_pct": 19.51,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6010,10 +6010,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 17.21,
-        "2026-03-10": 16.635
+        "2026-03-10": 17.09
       },
-      "latest_price": 16.635,
-      "return_pct": 27.96,
+      "latest_price": 17.09,
+      "return_pct": 31.46,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6031,10 +6031,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 5.22,
-        "2026-03-10": 5.765
+        "2026-03-10": 5.74
       },
-      "latest_price": 5.765,
-      "return_pct": 15.3,
+      "latest_price": 5.74,
+      "return_pct": 14.8,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6052,10 +6052,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 5.09,
-        "2026-03-10": 5.24
+        "2026-03-10": 5.38
       },
-      "latest_price": 5.24,
-      "return_pct": 5.65,
+      "latest_price": 5.38,
+      "return_pct": 8.47,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6073,10 +6073,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 5.12,
-        "2026-03-10": 4.975
+        "2026-03-10": 5.04
       },
-      "latest_price": 4.975,
-      "return_pct": 6.76,
+      "latest_price": 5.04,
+      "return_pct": 8.15,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6094,10 +6094,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 18.47,
-        "2026-03-10": 19.655
+        "2026-03-10": 19.895
       },
-      "latest_price": 19.655,
-      "return_pct": 22.84,
+      "latest_price": 19.895,
+      "return_pct": 24.34,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6115,10 +6115,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 59.03,
-        "2026-03-10": 58.5022
+        "2026-03-10": 59.465
       },
-      "latest_price": 58.5022,
-      "return_pct": 4.71,
+      "latest_price": 59.465,
+      "return_pct": 6.43,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6136,10 +6136,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 1.64,
-        "2026-03-10": 1.61
+        "2026-03-10": 1.675
       },
-      "latest_price": 1.61,
-      "return_pct": 16.67,
+      "latest_price": 1.675,
+      "return_pct": 21.38,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6157,10 +6157,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 120.13,
-        "2026-03-10": 120.775
+        "2026-03-10": 119.52
       },
-      "latest_price": 120.775,
-      "return_pct": -15.23,
+      "latest_price": 119.52,
+      "return_pct": -16.11,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6178,10 +6178,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 124.34,
-        "2026-03-10": 117.93
+        "2026-03-10": 117.485
       },
-      "latest_price": 117.93,
-      "return_pct": 12.74,
+      "latest_price": 117.485,
+      "return_pct": 12.32,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6199,10 +6199,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 52.66,
-        "2026-03-10": 53.95
+        "2026-03-10": 54.57
       },
-      "latest_price": 53.95,
-      "return_pct": -2.37,
+      "latest_price": 54.57,
+      "return_pct": -1.25,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6220,10 +6220,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 48.38,
-        "2026-03-10": 46.01
+        "2026-03-10": 48.42
       },
-      "latest_price": 46.01,
-      "return_pct": 3.35,
+      "latest_price": 48.42,
+      "return_pct": 8.76,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6241,10 +6241,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 18.9,
-        "2026-03-10": 18.53
+        "2026-03-10": 18.615
       },
-      "latest_price": 18.53,
-      "return_pct": 3.64,
+      "latest_price": 18.615,
+      "return_pct": 4.11,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6262,10 +6262,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 5.22,
-        "2026-03-10": 5.765
+        "2026-03-10": 5.74
       },
-      "latest_price": 5.765,
-      "return_pct": 15.3,
+      "latest_price": 5.74,
+      "return_pct": 14.8,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6283,10 +6283,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 33.19,
-        "2026-03-10": 34.91
+        "2026-03-10": 34.86
       },
-      "latest_price": 34.91,
-      "return_pct": 5.92,
+      "latest_price": 34.86,
+      "return_pct": 5.76,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6304,10 +6304,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 4.88,
-        "2026-03-10": 5.3
+        "2026-03-10": 5.21
       },
-      "latest_price": 5.3,
-      "return_pct": 15.47,
+      "latest_price": 5.21,
+      "return_pct": 13.51,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6325,10 +6325,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 6.97,
-        "2026-03-10": 7.145
+        "2026-03-10": 6.98
       },
-      "latest_price": 7.145,
-      "return_pct": 14.32,
+      "latest_price": 6.98,
+      "return_pct": 11.68,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6346,10 +6346,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 11.21,
-        "2026-03-10": 12.04
+        "2026-03-10": 11.9
       },
-      "latest_price": 12.04,
-      "return_pct": -24.75,
+      "latest_price": 11.9,
+      "return_pct": -25.62,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6367,10 +6367,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 168.24,
-        "2026-03-10": 168.795
+        "2026-03-10": 169.51
       },
-      "latest_price": 168.795,
-      "return_pct": -2.94,
+      "latest_price": 169.51,
+      "return_pct": -2.53,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6388,10 +6388,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 61.45,
-        "2026-03-10": 64.0
+        "2026-03-10": 64.41
       },
-      "latest_price": 64.0,
-      "return_pct": 4.49,
+      "latest_price": 64.41,
+      "return_pct": 5.16,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6409,10 +6409,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 61.45,
-        "2026-03-10": 64.0
+        "2026-03-10": 64.41
       },
-      "latest_price": 64.0,
-      "return_pct": 1.56,
+      "latest_price": 64.41,
+      "return_pct": 2.21,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6430,10 +6430,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 61.45,
-        "2026-03-10": 64.0
+        "2026-03-10": 64.41
       },
-      "latest_price": 64.0,
-      "return_pct": -0.61,
+      "latest_price": 64.41,
+      "return_pct": 0.03,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6451,10 +6451,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 4.79,
-        "2026-03-10": 4.39
+        "2026-03-10": 4.43
       },
-      "latest_price": 4.39,
-      "return_pct": 37.19,
+      "latest_price": 4.43,
+      "return_pct": 38.44,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6472,10 +6472,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 1787.86,
-        "2026-03-10": 1763.89
+        "2026-03-10": 1767.34
       },
-      "latest_price": 1763.89,
-      "return_pct": 0.46,
+      "latest_price": 1767.34,
+      "return_pct": 0.66,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6493,10 +6493,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 6.13,
-        "2026-03-10": 6.515
+        "2026-03-10": 6.56
       },
-      "latest_price": 6.515,
-      "return_pct": 13.3,
+      "latest_price": 6.56,
+      "return_pct": 14.09,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6514,10 +6514,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 0.843,
-        "2026-03-10": 0.8143
+        "2026-03-10": 0.794
       },
-      "latest_price": 0.8143,
-      "return_pct": 21.54,
+      "latest_price": 0.794,
+      "return_pct": 18.51,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6535,10 +6535,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 14.64,
-        "2026-03-10": 14.55
+        "2026-03-10": 14.595
       },
-      "latest_price": 14.55,
-      "return_pct": -3.58,
+      "latest_price": 14.595,
+      "return_pct": -3.28,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6556,10 +6556,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 48.71,
-        "2026-03-10": 46.31
+        "2026-03-10": 46.4
       },
-      "latest_price": 46.31,
-      "return_pct": -2.09,
+      "latest_price": 46.4,
+      "return_pct": -1.9,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6577,10 +6577,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 9.68,
-        "2026-03-10": 8.96
+        "2026-03-10": 9.115
       },
-      "latest_price": 8.96,
-      "return_pct": 1.01,
+      "latest_price": 9.115,
+      "return_pct": 2.76,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6598,10 +6598,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 9.68,
-        "2026-03-10": 8.96
+        "2026-03-10": 9.115
       },
-      "latest_price": 8.96,
-      "return_pct": -0.88,
+      "latest_price": 9.115,
+      "return_pct": 0.83,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6619,10 +6619,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 17.06,
-        "2026-03-10": 17.26
+        "2026-03-10": 17.31
       },
-      "latest_price": 17.26,
-      "return_pct": -3.58,
+      "latest_price": 17.31,
+      "return_pct": -3.3,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6640,10 +6640,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 17.06,
-        "2026-03-10": 17.26
+        "2026-03-10": 17.31
       },
-      "latest_price": 17.26,
-      "return_pct": -5.73,
+      "latest_price": 17.31,
+      "return_pct": -5.46,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6661,10 +6661,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 26.94,
-        "2026-03-10": 26.81
+        "2026-03-10": 26.68
       },
-      "latest_price": 26.81,
-      "return_pct": -0.37,
+      "latest_price": 26.68,
+      "return_pct": -0.85,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6682,10 +6682,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 48.19,
-        "2026-03-10": 48.68
+        "2026-03-10": 46.47
       },
-      "latest_price": 48.68,
-      "return_pct": 2.57,
+      "latest_price": 46.47,
+      "return_pct": -2.09,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6703,10 +6703,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 2.38,
-        "2026-03-10": 2.53
+        "2026-03-10": 2.545
       },
-      "latest_price": 2.53,
-      "return_pct": -7.66,
+      "latest_price": 2.545,
+      "return_pct": -7.12,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6724,10 +6724,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 48.38,
-        "2026-03-10": 46.01
+        "2026-03-10": 48.42
       },
-      "latest_price": 46.01,
-      "return_pct": 1.5,
+      "latest_price": 48.42,
+      "return_pct": 6.82,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6745,10 +6745,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 5.18,
-        "2026-03-10": 5.08
+        "2026-03-10": 4.98
       },
-      "latest_price": 5.08,
-      "return_pct": 9.01,
+      "latest_price": 4.98,
+      "return_pct": 6.87,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6766,10 +6766,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 91.9,
-        "2026-03-10": 92.605
+        "2026-03-10": 94.09
       },
-      "latest_price": 92.605,
-      "return_pct": 200.96,
+      "latest_price": 94.09,
+      "return_pct": 205.78,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6787,10 +6787,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 12.06,
-        "2026-03-10": 11.465
+        "2026-03-10": 11.39
       },
-      "latest_price": 11.465,
-      "return_pct": -3.33,
+      "latest_price": 11.39,
+      "return_pct": -3.96,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6808,10 +6808,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 8.63,
-        "2026-03-10": 8.07
+        "2026-03-10": 8.055
       },
-      "latest_price": 8.07,
-      "return_pct": 1.51,
+      "latest_price": 8.055,
+      "return_pct": 1.32,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6829,10 +6829,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 111.33,
-        "2026-03-10": 104.02
+        "2026-03-10": 104.77
       },
-      "latest_price": 104.02,
-      "return_pct": 3.85,
+      "latest_price": 104.77,
+      "return_pct": 4.6,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6850,10 +6850,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 12.74,
-        "2026-03-10": 12.705
+        "2026-03-10": 12.65
       },
-      "latest_price": 12.705,
-      "return_pct": -5.68,
+      "latest_price": 12.65,
+      "return_pct": -6.09,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6871,10 +6871,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 111.21,
-        "2026-03-10": 109.15
+        "2026-03-10": 108.8
       },
-      "latest_price": 109.15,
-      "return_pct": -3.76,
+      "latest_price": 108.8,
+      "return_pct": -4.06,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6892,10 +6892,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 37.54,
-        "2026-03-10": 37.405
+        "2026-03-10": 37.625
       },
-      "latest_price": 37.405,
-      "return_pct": -8.05,
+      "latest_price": 37.625,
+      "return_pct": -7.51,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6913,10 +6913,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 91.33,
-        "2026-03-10": 90.42
+        "2026-03-10": 90.82
       },
-      "latest_price": 90.42,
-      "return_pct": 2.97,
+      "latest_price": 90.82,
+      "return_pct": 3.43,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6934,10 +6934,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 91.33,
-        "2026-03-10": 90.42
+        "2026-03-10": 90.82
       },
-      "latest_price": 90.42,
-      "return_pct": 2.1,
+      "latest_price": 90.82,
+      "return_pct": 2.55,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6955,10 +6955,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 91.33,
-        "2026-03-10": 90.42
+        "2026-03-10": 90.82
       },
-      "latest_price": 90.42,
-      "return_pct": -0.59,
+      "latest_price": 90.82,
+      "return_pct": -0.15,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6976,10 +6976,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 14.32,
-        "2026-03-10": 14.72
+        "2026-03-10": 14.75
       },
-      "latest_price": 14.72,
-      "return_pct": 4.4,
+      "latest_price": 14.75,
+      "return_pct": 4.61,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -6997,10 +6997,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 1.59,
-        "2026-03-10": 1.655
+        "2026-03-10": 1.675
       },
-      "latest_price": 1.655,
-      "return_pct": 42.67,
+      "latest_price": 1.675,
+      "return_pct": 44.4,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7018,10 +7018,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 0.598,
-        "2026-03-10": 0.6109
+        "2026-03-10": 0.5997
       },
-      "latest_price": 0.6109,
-      "return_pct": 1.82,
+      "latest_price": 0.5997,
+      "return_pct": -0.05,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7039,10 +7039,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 69.92,
-        "2026-03-10": 68.2903
+        "2026-03-10": 68.37
       },
-      "latest_price": 68.2903,
-      "return_pct": -5.95,
+      "latest_price": 68.37,
+      "return_pct": -5.84,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7060,10 +7060,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 16.31,
-        "2026-03-10": 16.0861
+        "2026-03-10": 16.3
       },
-      "latest_price": 16.0861,
-      "return_pct": -30.48,
+      "latest_price": 16.3,
+      "return_pct": -29.56,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7081,10 +7081,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 304.6,
-        "2026-03-10": 317.495
+        "2026-03-10": 328.04
       },
-      "latest_price": 317.495,
-      "return_pct": -4.12,
+      "latest_price": 328.04,
+      "return_pct": -0.94,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7102,10 +7102,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 4.79,
-        "2026-03-10": 4.39
+        "2026-03-10": 4.43
       },
-      "latest_price": 4.39,
-      "return_pct": 37.62,
+      "latest_price": 4.43,
+      "return_pct": 38.87,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7123,10 +7123,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 5.09,
-        "2026-03-10": 5.24
+        "2026-03-10": 5.38
       },
-      "latest_price": 5.24,
-      "return_pct": 8.71,
+      "latest_price": 5.38,
+      "return_pct": 11.62,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7144,10 +7144,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 2.62,
-        "2026-03-10": 2.545
+        "2026-03-10": 2.535
       },
-      "latest_price": 2.545,
-      "return_pct": 5.6,
+      "latest_price": 2.535,
+      "return_pct": 5.19,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7165,10 +7165,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 12.74,
-        "2026-03-10": 12.705
+        "2026-03-10": 12.65
       },
-      "latest_price": 12.705,
-      "return_pct": -10.21,
+      "latest_price": 12.65,
+      "return_pct": -10.6,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7186,10 +7186,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 28.97,
-        "2026-03-10": 27.765
+        "2026-03-10": 27.6
       },
-      "latest_price": 27.765,
-      "return_pct": 0.38,
+      "latest_price": 27.6,
+      "return_pct": -0.22,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7207,10 +7207,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 9.49,
-        "2026-03-10": 9.86
+        "2026-03-10": 9.695
       },
-      "latest_price": 9.86,
-      "return_pct": 10.04,
+      "latest_price": 9.695,
+      "return_pct": 8.2,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7228,10 +7228,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 3.18,
-        "2026-03-10": 3.17
+        "2026-03-10": 3.29
       },
-      "latest_price": 3.17,
-      "return_pct": 26.8,
+      "latest_price": 3.29,
+      "return_pct": 31.6,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7249,10 +7249,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 42.55,
-        "2026-03-10": 42.03
+        "2026-03-10": 42.165
       },
-      "latest_price": 42.03,
-      "return_pct": 0.31,
+      "latest_price": 42.165,
+      "return_pct": 0.63,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7270,10 +7270,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 47.87,
-        "2026-03-10": 45.89
+        "2026-03-10": 47.24
       },
-      "latest_price": 45.89,
-      "return_pct": 4.7,
+      "latest_price": 47.24,
+      "return_pct": 7.78,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7291,10 +7291,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 42.55,
-        "2026-03-10": 42.03
+        "2026-03-10": 42.165
       },
-      "latest_price": 42.03,
-      "return_pct": 2.56,
+      "latest_price": 42.165,
+      "return_pct": 2.89,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7312,10 +7312,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 6.13,
-        "2026-03-10": 6.515
+        "2026-03-10": 6.56
       },
-      "latest_price": 6.515,
-      "return_pct": 7.86,
+      "latest_price": 6.56,
+      "return_pct": 8.61,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7333,10 +7333,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 12.53,
-        "2026-03-10": 12.61
+        "2026-03-10": 12.635
       },
-      "latest_price": 12.61,
-      "return_pct": -1.02,
+      "latest_price": 12.635,
+      "return_pct": -0.82,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7354,10 +7354,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 48.71,
-        "2026-03-10": 46.31
+        "2026-03-10": 46.4
       },
-      "latest_price": 46.31,
-      "return_pct": -3.3,
+      "latest_price": 46.4,
+      "return_pct": -3.11,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7375,10 +7375,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 9.34,
-        "2026-03-10": 9.28
+        "2026-03-10": 9.265
       },
-      "latest_price": 9.28,
-      "return_pct": -1.38,
+      "latest_price": 9.265,
+      "return_pct": -1.54,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7396,10 +7396,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 58.76,
-        "2026-03-10": 58.48
+        "2026-03-10": 58.565
       },
-      "latest_price": 58.48,
-      "return_pct": -2.79,
+      "latest_price": 58.565,
+      "return_pct": -2.65,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7417,10 +7417,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 10.24,
-        "2026-03-10": 9.805
+        "2026-03-10": 9.965
       },
-      "latest_price": 9.805,
-      "return_pct": -8.54,
+      "latest_price": 9.965,
+      "return_pct": -7.04,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7456,10 +7456,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 17.06,
-        "2026-03-10": 17.26
+        "2026-03-10": 17.31
       },
-      "latest_price": 17.26,
-      "return_pct": -2.38,
+      "latest_price": 17.31,
+      "return_pct": -2.09,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7477,10 +7477,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 4.79,
-        "2026-03-10": 4.39
+        "2026-03-10": 4.43
       },
-      "latest_price": 4.39,
-      "return_pct": 29.88,
+      "latest_price": 4.43,
+      "return_pct": 31.07,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7498,10 +7498,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 213.66,
-        "2026-03-10": 212.29
+        "2026-03-10": 210.6575
       },
-      "latest_price": 212.29,
-      "return_pct": -2.62,
+      "latest_price": 210.6575,
+      "return_pct": -3.37,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7519,10 +7519,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 11.34,
-        "2026-03-10": 11.565
+        "2026-03-10": 11.9916
       },
-      "latest_price": 11.565,
-      "return_pct": -2.98,
+      "latest_price": 11.9916,
+      "return_pct": 0.6,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7540,10 +7540,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 5.79,
-        "2026-03-10": 5.97
+        "2026-03-10": 5.86
       },
-      "latest_price": 5.97,
-      "return_pct": 3.65,
+      "latest_price": 5.86,
+      "return_pct": 1.74,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7561,10 +7561,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 190.15,
-        "2026-03-10": 184.75
+        "2026-03-10": 184.865
       },
-      "latest_price": 184.75,
-      "return_pct": -0.99,
+      "latest_price": 184.865,
+      "return_pct": -0.92,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7582,10 +7582,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 101.92,
-        "2026-03-10": 96.21
+        "2026-03-10": 95.78
       },
-      "latest_price": 96.21,
-      "return_pct": -3.56,
+      "latest_price": 95.78,
+      "return_pct": -3.99,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7603,10 +7603,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 24.6,
-        "2026-03-10": 23.565
+        "2026-03-10": 23.56
       },
-      "latest_price": 23.565,
-      "return_pct": -8.27,
+      "latest_price": 23.56,
+      "return_pct": -8.29,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7624,10 +7624,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 37.65,
-        "2026-03-10": 37.635
+        "2026-03-10": 37.5
       },
-      "latest_price": 37.635,
-      "return_pct": -13.06,
+      "latest_price": 37.5,
+      "return_pct": -13.37,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7645,10 +7645,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 33.66,
-        "2026-03-10": 32.87
+        "2026-03-10": 32.85
       },
-      "latest_price": 32.87,
-      "return_pct": 1.14,
+      "latest_price": 32.85,
+      "return_pct": 1.08,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7666,10 +7666,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 11.22,
-        "2026-03-10": 10.54
+        "2026-03-10": 10.5
       },
-      "latest_price": 10.54,
-      "return_pct": -6.89,
+      "latest_price": 10.5,
+      "return_pct": -7.24,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7687,10 +7687,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 16.31,
-        "2026-03-10": 16.0861
+        "2026-03-10": 16.3
       },
-      "latest_price": 16.0861,
-      "return_pct": -8.86,
+      "latest_price": 16.3,
+      "return_pct": -7.65,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7708,10 +7708,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 2.72,
-        "2026-03-10": 3.12
+        "2026-03-10": 3.0
       },
-      "latest_price": 3.12,
-      "return_pct": 33.33,
+      "latest_price": 3.0,
+      "return_pct": 28.21,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7729,10 +7729,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 23.4,
-        "2026-03-10": 23.23
+        "2026-03-10": 21.925
       },
-      "latest_price": 23.23,
-      "return_pct": 0.52,
+      "latest_price": 21.925,
+      "return_pct": -5.13,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7750,10 +7750,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 7.87,
-        "2026-03-10": 7.94
+        "2026-03-10": 7.624
       },
-      "latest_price": 7.94,
-      "return_pct": 23.48,
+      "latest_price": 7.624,
+      "return_pct": 18.57,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7771,10 +7771,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 13.75,
-        "2026-03-10": 14.575
+        "2026-03-10": 14.72
       },
-      "latest_price": 14.575,
-      "return_pct": -7.64,
+      "latest_price": 14.72,
+      "return_pct": -6.72,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7792,10 +7792,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 19.89,
-        "2026-03-10": 18.7193
+        "2026-03-10": 18.55
       },
-      "latest_price": 18.7193,
-      "return_pct": -9.57,
+      "latest_price": 18.55,
+      "return_pct": -10.39,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7813,10 +7813,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 29.28,
-        "2026-03-10": 27.59
+        "2026-03-10": 27.64
       },
-      "latest_price": 27.59,
-      "return_pct": 11.79,
+      "latest_price": 27.64,
+      "return_pct": 11.99,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7834,10 +7834,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 6.22,
-        "2026-03-10": 5.89
+        "2026-03-10": 5.905
       },
-      "latest_price": 5.89,
-      "return_pct": -4.85,
+      "latest_price": 5.905,
+      "return_pct": -4.6,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7855,10 +7855,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 31.58,
-        "2026-03-10": 30.4
+        "2026-03-10": 29.97
       },
-      "latest_price": 30.4,
-      "return_pct": 2.12,
+      "latest_price": 29.97,
+      "return_pct": 0.67,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7876,10 +7876,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 2.09,
-        "2026-03-10": 2.095
+        "2026-03-10": 2.005
       },
-      "latest_price": 2.095,
-      "return_pct": 19.71,
+      "latest_price": 2.005,
+      "return_pct": 14.57,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7897,10 +7897,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 21.03,
-        "2026-03-10": 20.575
+        "2026-03-10": 20.51
       },
-      "latest_price": 20.575,
-      "return_pct": -9.2,
+      "latest_price": 20.51,
+      "return_pct": -9.49,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7918,10 +7918,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 2.47,
-        "2026-03-10": 2.65
+        "2026-03-10": 2.57
       },
-      "latest_price": 2.65,
-      "return_pct": 1.53,
+      "latest_price": 2.57,
+      "return_pct": -1.53,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7939,10 +7939,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 39.28,
-        "2026-03-10": 38.415
+        "2026-03-10": 38.0
       },
-      "latest_price": 38.415,
-      "return_pct": 7.45,
+      "latest_price": 38.0,
+      "return_pct": 6.29,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7960,10 +7960,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 1.09,
-        "2026-03-10": 1.19
+        "2026-03-10": 1.18
       },
-      "latest_price": 1.19,
-      "return_pct": 15.53,
+      "latest_price": 1.18,
+      "return_pct": 14.56,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -7981,10 +7981,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 1.09,
-        "2026-03-10": 1.19
+        "2026-03-10": 1.18
       },
-      "latest_price": 1.19,
-      "return_pct": 17.82,
+      "latest_price": 1.18,
+      "return_pct": 16.83,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8002,10 +8002,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 4.57,
-        "2026-03-10": 4.535
+        "2026-03-10": 4.725
       },
-      "latest_price": 4.535,
-      "return_pct": 15.98,
+      "latest_price": 4.725,
+      "return_pct": 20.84,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8023,10 +8023,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 6.13,
-        "2026-03-10": 6.515
+        "2026-03-10": 6.56
       },
-      "latest_price": 6.515,
-      "return_pct": -0.99,
+      "latest_price": 6.56,
+      "return_pct": -0.3,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8044,10 +8044,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 4.57,
-        "2026-03-10": 4.535
+        "2026-03-10": 4.725
       },
-      "latest_price": 4.535,
-      "return_pct": 22.9,
+      "latest_price": 4.725,
+      "return_pct": 28.05,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8065,10 +8065,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 9.68,
-        "2026-03-10": 8.96
+        "2026-03-10": 9.115
       },
-      "latest_price": 8.96,
-      "return_pct": -1.86,
+      "latest_price": 9.115,
+      "return_pct": -0.16,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8086,10 +8086,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 14.04,
-        "2026-03-10": 14.18
+        "2026-03-10": 14.15
       },
-      "latest_price": 14.18,
-      "return_pct": 2.53,
+      "latest_price": 14.15,
+      "return_pct": 2.31,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8107,10 +8107,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 17.52,
-        "2026-03-10": 17.185
+        "2026-03-10": 17.1
       },
-      "latest_price": 17.185,
-      "return_pct": -2.52,
+      "latest_price": 17.1,
+      "return_pct": -3.01,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8128,10 +8128,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 40.98,
-        "2026-03-10": 40.805
+        "2026-03-10": 41.26
       },
-      "latest_price": 40.805,
-      "return_pct": -5.94,
+      "latest_price": 41.26,
+      "return_pct": -4.89,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8149,10 +8149,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 303.73,
-        "2026-03-10": 308.2561
+        "2026-03-10": 310.69
       },
-      "latest_price": 308.2561,
-      "return_pct": 25.84,
+      "latest_price": 310.69,
+      "return_pct": 26.84,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8170,10 +8170,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 102.05,
-        "2026-03-10": 102.13
+        "2026-03-10": 101.9
       },
-      "latest_price": 102.13,
-      "return_pct": 4.25,
+      "latest_price": 101.9,
+      "return_pct": 4.01,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8191,10 +8191,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 4.57,
-        "2026-03-10": 4.535
+        "2026-03-10": 4.725
       },
-      "latest_price": 4.535,
-      "return_pct": 14.52,
+      "latest_price": 4.725,
+      "return_pct": 19.32,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8212,10 +8212,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 4.57,
-        "2026-03-10": 4.535
+        "2026-03-10": 4.725
       },
-      "latest_price": 4.535,
-      "return_pct": 15.98,
+      "latest_price": 4.725,
+      "return_pct": 20.84,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8233,10 +8233,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 38.79,
-        "2026-03-10": 44.9301
+        "2026-03-10": 46.27
       },
-      "latest_price": 44.9301,
-      "return_pct": -5.57,
+      "latest_price": 46.27,
+      "return_pct": -2.75,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8254,10 +8254,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 4.66,
-        "2026-03-10": 4.61
+        "2026-03-10": 4.62
       },
-      "latest_price": 4.61,
-      "return_pct": -1.71,
+      "latest_price": 4.62,
+      "return_pct": -1.49,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8275,10 +8275,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 91.9,
-        "2026-03-10": 92.605
+        "2026-03-10": 94.09
       },
-      "latest_price": 92.605,
-      "return_pct": 316.39,
+      "latest_price": 94.09,
+      "return_pct": 323.07,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8296,10 +8296,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 11.22,
-        "2026-03-10": 10.54
+        "2026-03-10": 10.5
       },
-      "latest_price": 10.54,
-      "return_pct": -7.22,
+      "latest_price": 10.5,
+      "return_pct": -7.57,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8317,10 +8317,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 72.82,
-        "2026-03-10": 72.5108
+        "2026-03-10": 72.5
       },
-      "latest_price": 72.5108,
-      "return_pct": -1.0,
+      "latest_price": 72.5,
+      "return_pct": -1.01,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8338,10 +8338,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 3.24,
-        "2026-03-10": 3.18
+        "2026-03-10": 3.105
       },
-      "latest_price": 3.18,
-      "return_pct": -2.15,
+      "latest_price": 3.105,
+      "return_pct": -4.46,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8359,10 +8359,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 231.11,
-        "2026-03-10": 223.795
+        "2026-03-10": 222.6
       },
-      "latest_price": 223.795,
-      "return_pct": -0.18,
+      "latest_price": 222.6,
+      "return_pct": -0.71,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8380,10 +8380,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 62.53,
-        "2026-03-10": 62.25
+        "2026-03-10": 62.635
       },
-      "latest_price": 62.25,
-      "return_pct": -3.5,
+      "latest_price": 62.635,
+      "return_pct": -2.91,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8401,10 +8401,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 91.33,
-        "2026-03-10": 90.42
+        "2026-03-10": 90.82
       },
-      "latest_price": 90.42,
-      "return_pct": -4.29,
+      "latest_price": 90.82,
+      "return_pct": -3.86,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8422,10 +8422,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 88.11,
-        "2026-03-10": 90.785
+        "2026-03-10": 91.26
       },
-      "latest_price": 90.785,
-      "return_pct": 14.34,
+      "latest_price": 91.26,
+      "return_pct": 14.94,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8443,10 +8443,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 1.27,
-        "2026-03-10": 1.365
+        "2026-03-10": 1.37
       },
-      "latest_price": 1.365,
-      "return_pct": 9.2,
+      "latest_price": 1.37,
+      "return_pct": 9.6,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8485,10 +8485,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-07": 289.64,
-        "2026-03-10": 289.55
+        "2026-03-10": 286.56
       },
-      "latest_price": 289.55,
-      "return_pct": -0.1,
+      "latest_price": 286.56,
+      "return_pct": -1.13,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8505,10 +8505,10 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 30.64
+        "2026-03-10": 30.9
       },
-      "latest_price": 30.64,
-      "return_pct": 2.07,
+      "latest_price": 30.9,
+      "return_pct": 2.93,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8525,10 +8525,10 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 8.96
+        "2026-03-10": 9.115
       },
-      "latest_price": 8.96,
-      "return_pct": -2.71,
+      "latest_price": 9.115,
+      "return_pct": -1.03,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8545,10 +8545,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 18.58
+        "2026-03-10": 18.575
       },
-      "latest_price": 18.58,
-      "return_pct": 2.71,
+      "latest_price": 18.575,
+      "return_pct": 2.68,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8565,10 +8565,10 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 48.68
+        "2026-03-10": 46.47
       },
-      "latest_price": 48.68,
-      "return_pct": -1.08,
+      "latest_price": 46.47,
+      "return_pct": -5.57,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8585,10 +8585,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 25.65
+        "2026-03-10": 25.68
       },
-      "latest_price": 25.65,
-      "return_pct": 0.63,
+      "latest_price": 25.68,
+      "return_pct": 0.75,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8605,10 +8605,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 21.8
+        "2026-03-10": 22.035
       },
-      "latest_price": 21.8,
-      "return_pct": -1.76,
+      "latest_price": 22.035,
+      "return_pct": -0.7,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8625,10 +8625,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 9.44
+        "2026-03-10": 9.43
       },
-      "latest_price": 9.44,
-      "return_pct": 4.42,
+      "latest_price": 9.43,
+      "return_pct": 4.31,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8645,10 +8645,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 44.9301
+        "2026-03-10": 46.27
       },
-      "latest_price": 44.9301,
-      "return_pct": 9.99,
+      "latest_price": 46.27,
+      "return_pct": 13.27,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8665,10 +8665,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 5.97
+        "2026-03-10": 5.86
       },
-      "latest_price": 5.97,
-      "return_pct": 2.93,
+      "latest_price": 5.86,
+      "return_pct": 1.03,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8685,10 +8685,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 1.1
+        "2026-03-10": 1.12
       },
-      "latest_price": 1.1,
-      "return_pct": -84.72,
+      "latest_price": 1.12,
+      "return_pct": -84.44,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8705,10 +8705,10 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 72.5108
+        "2026-03-10": 72.5
       },
-      "latest_price": 72.5108,
-      "return_pct": -0.62,
+      "latest_price": 72.5,
+      "return_pct": -0.63,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8725,10 +8725,10 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 4.535
+        "2026-03-10": 4.725
       },
-      "latest_price": 4.535,
-      "return_pct": 2.37,
+      "latest_price": 4.725,
+      "return_pct": 6.66,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8745,10 +8745,10 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 4.535
+        "2026-03-10": 4.725
       },
-      "latest_price": 4.535,
-      "return_pct": 5.22,
+      "latest_price": 4.725,
+      "return_pct": 9.63,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8765,10 +8765,10 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 4.535
+        "2026-03-10": 4.725
       },
-      "latest_price": 4.535,
-      "return_pct": 5.71,
+      "latest_price": 4.725,
+      "return_pct": 10.14,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8785,10 +8785,10 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 4.535
+        "2026-03-10": 4.725
       },
-      "latest_price": 4.535,
-      "return_pct": 5.71,
+      "latest_price": 4.725,
+      "return_pct": 10.14,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8805,10 +8805,10 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 12.04
+        "2026-03-10": 11.9
       },
-      "latest_price": 12.04,
-      "return_pct": 0.33,
+      "latest_price": 11.9,
+      "return_pct": -0.83,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8825,10 +8825,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 73.155
+        "2026-03-10": 73.07
       },
-      "latest_price": 73.155,
-      "return_pct": -1.54,
+      "latest_price": 73.07,
+      "return_pct": -1.66,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8845,10 +8845,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 41.195
+        "2026-03-10": 41.375
       },
-      "latest_price": 41.195,
-      "return_pct": 2.3,
+      "latest_price": 41.375,
+      "return_pct": 2.74,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8865,10 +8865,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 40.805
+        "2026-03-10": 41.26
       },
-      "latest_price": 40.805,
-      "return_pct": -5.28,
+      "latest_price": 41.26,
+      "return_pct": -4.22,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8885,10 +8885,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 317.495
+        "2026-03-10": 328.04
       },
-      "latest_price": 317.495,
-      "return_pct": 3.35,
+      "latest_price": 328.04,
+      "return_pct": 6.78,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8905,10 +8905,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 39.085
+        "2026-03-10": 39.09
       },
-      "latest_price": 39.085,
-      "return_pct": 2.86,
+      "latest_price": 39.09,
+      "return_pct": 2.87,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8925,10 +8925,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 4.005
+        "2026-03-10": 3.985
       },
-      "latest_price": 4.005,
-      "return_pct": 13.14,
+      "latest_price": 3.985,
+      "return_pct": 12.57,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8945,10 +8945,10 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 1.19
+        "2026-03-10": 1.18
       },
-      "latest_price": 1.19,
-      "return_pct": 3.48,
+      "latest_price": 1.18,
+      "return_pct": 2.61,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8965,10 +8965,10 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 1.055
+        "2026-03-10": 1.045
       },
-      "latest_price": 1.055,
-      "return_pct": 14.67,
+      "latest_price": 1.045,
+      "return_pct": 13.59,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -8985,10 +8985,10 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 1.055
+        "2026-03-10": 1.045
       },
-      "latest_price": 1.055,
-      "return_pct": 11.05,
+      "latest_price": 1.045,
+      "return_pct": 10.0,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9005,10 +9005,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 106.58
+        "2026-03-10": 105.45
       },
-      "latest_price": 106.58,
-      "return_pct": -0.86,
+      "latest_price": 105.45,
+      "return_pct": -1.91,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9025,10 +9025,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 2.095
+        "2026-03-10": 2.005
       },
-      "latest_price": 2.095,
-      "return_pct": 4.75,
+      "latest_price": 2.005,
+      "return_pct": 0.25,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9065,10 +9065,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 46.405
+        "2026-03-10": 47.24
       },
-      "latest_price": 46.405,
-      "return_pct": 1.39,
+      "latest_price": 47.24,
+      "return_pct": 3.21,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9085,10 +9085,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 15.19
+        "2026-03-10": 15.29
       },
-      "latest_price": 15.19,
-      "return_pct": -4.28,
+      "latest_price": 15.29,
+      "return_pct": -3.65,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9105,10 +9105,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 15.96
+        "2026-03-10": 16.11
       },
-      "latest_price": 15.96,
-      "return_pct": 2.77,
+      "latest_price": 16.11,
+      "return_pct": 3.73,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9125,10 +9125,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 59.3
+        "2026-03-10": 59.9075
       },
-      "latest_price": 59.3,
-      "return_pct": 2.15,
+      "latest_price": 59.9075,
+      "return_pct": 3.2,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9145,10 +9145,10 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 26.385
+        "2026-03-10": 26.335
       },
-      "latest_price": 26.385,
-      "return_pct": 3.03,
+      "latest_price": 26.335,
+      "return_pct": 2.83,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9165,10 +9165,10 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 26.385
+        "2026-03-10": 26.335
       },
-      "latest_price": 26.385,
-      "return_pct": 3.03,
+      "latest_price": 26.335,
+      "return_pct": 2.83,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9185,10 +9185,10 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 19.09
+        "2026-03-10": 19.015
       },
-      "latest_price": 19.09,
-      "return_pct": 1.06,
+      "latest_price": 19.015,
+      "return_pct": 0.66,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9205,10 +9205,10 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 19.09
+        "2026-03-10": 19.015
       },
-      "latest_price": 19.09,
-      "return_pct": -0.05,
+      "latest_price": 19.015,
+      "return_pct": -0.45,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9225,10 +9225,10 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 2.471
+        "2026-03-10": 2.49
       },
-      "latest_price": 2.471,
-      "return_pct": 12.83,
+      "latest_price": 2.49,
+      "return_pct": 13.7,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9245,10 +9245,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 0.7155
+        "2026-03-10": 0.6986
       },
-      "latest_price": 0.7155,
-      "return_pct": 11.8,
+      "latest_price": 0.6986,
+      "return_pct": 9.16,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9265,10 +9265,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 77.01
+        "2026-03-10": 77.14
       },
-      "latest_price": 77.01,
-      "return_pct": -3.73,
+      "latest_price": 77.14,
+      "return_pct": -3.56,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9285,10 +9285,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 27.095
+        "2026-03-10": 27.26
       },
-      "latest_price": 27.095,
-      "return_pct": -1.76,
+      "latest_price": 27.26,
+      "return_pct": -1.16,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9305,10 +9305,10 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 2.471
+        "2026-03-10": 2.49
       },
-      "latest_price": 2.471,
-      "return_pct": 14.93,
+      "latest_price": 2.49,
+      "return_pct": 15.81,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9325,10 +9325,10 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 12.705
+        "2026-03-10": 12.65
       },
-      "latest_price": 12.705,
-      "return_pct": 2.05,
+      "latest_price": 12.65,
+      "return_pct": 1.61,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9345,10 +9345,10 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 12.705
+        "2026-03-10": 12.65
       },
-      "latest_price": 12.705,
-      "return_pct": 1.8,
+      "latest_price": 12.65,
+      "return_pct": 1.36,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9365,10 +9365,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 19.1
+        "2026-03-10": 19.48
       },
-      "latest_price": 19.1,
-      "return_pct": 1.54,
+      "latest_price": 19.48,
+      "return_pct": 3.56,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9385,10 +9385,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 21.47
+        "2026-03-10": 21.495
       },
-      "latest_price": 21.47,
-      "return_pct": 3.37,
+      "latest_price": 21.495,
+      "return_pct": 3.49,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9405,10 +9405,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 92.605
+        "2026-03-10": 94.09
       },
-      "latest_price": 92.605,
-      "return_pct": 307.77,
+      "latest_price": 94.09,
+      "return_pct": 314.31,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9425,10 +9425,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 14.1
+        "2026-03-10": 14.05
       },
-      "latest_price": 14.1,
-      "return_pct": 5.22,
+      "latest_price": 14.05,
+      "return_pct": 4.85,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9445,10 +9445,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 123.36
+        "2026-03-10": 124.45
       },
-      "latest_price": 123.36,
-      "return_pct": -1.3,
+      "latest_price": 124.45,
+      "return_pct": -0.43,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9465,10 +9465,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 36.955
+        "2026-03-10": 36.9
       },
-      "latest_price": 36.955,
-      "return_pct": 0.28,
+      "latest_price": 36.9,
+      "return_pct": 0.14,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9505,10 +9505,10 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 30.64
+        "2026-03-10": 30.9
       },
-      "latest_price": 30.64,
-      "return_pct": 3.79,
+      "latest_price": 30.9,
+      "return_pct": 4.67,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9525,10 +9525,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 0.9586
+        "2026-03-10": 0.9423
       },
-      "latest_price": 0.9586,
-      "return_pct": 27.81,
+      "latest_price": 0.9423,
+      "return_pct": 25.64,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9545,10 +9545,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 202.2082
+        "2026-03-10": 202.18
       },
-      "latest_price": 202.2082,
-      "return_pct": -1.53,
+      "latest_price": 202.18,
+      "return_pct": -1.54,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9565,10 +9565,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 2.37
+        "2026-03-10": 2.365
       },
-      "latest_price": 2.37,
-      "return_pct": -1.66,
+      "latest_price": 2.365,
+      "return_pct": -1.87,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9585,10 +9585,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 6.355
+        "2026-03-10": 6.485
       },
-      "latest_price": 6.355,
-      "return_pct": -1.63,
+      "latest_price": 6.485,
+      "return_pct": 0.39,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9605,10 +9605,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 5.24
+        "2026-03-10": 5.38
       },
-      "latest_price": 5.24,
-      "return_pct": 1.16,
+      "latest_price": 5.38,
+      "return_pct": 3.86,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9625,10 +9625,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 25.16
+        "2026-03-10": 25.21
       },
-      "latest_price": 25.16,
-      "return_pct": 2.32,
+      "latest_price": 25.21,
+      "return_pct": 2.52,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9645,10 +9645,10 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 5.1301
+        "2026-03-10": 5.1088
       },
-      "latest_price": 5.1301,
-      "return_pct": 2.6,
+      "latest_price": 5.1088,
+      "return_pct": 2.18,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9665,10 +9665,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 3.12
+        "2026-03-10": 3.0
       },
-      "latest_price": 3.12,
-      "return_pct": 22.35,
+      "latest_price": 3.0,
+      "return_pct": 17.65,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9685,10 +9685,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 317.495
+        "2026-03-10": 328.04
       },
-      "latest_price": 317.495,
-      "return_pct": 5.46,
+      "latest_price": 328.04,
+      "return_pct": 8.96,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9705,10 +9705,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 87.05
+        "2026-03-10": 86.76
       },
-      "latest_price": 87.05,
-      "return_pct": -1.36,
+      "latest_price": 86.76,
+      "return_pct": -1.69,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9725,10 +9725,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 50.19
+        "2026-03-10": 50.71
       },
-      "latest_price": 50.19,
-      "return_pct": -0.4,
+      "latest_price": 50.71,
+      "return_pct": 0.64,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9745,10 +9745,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 76.18
+        "2026-03-10": 76.7
       },
-      "latest_price": 76.18,
-      "return_pct": -1.28,
+      "latest_price": 76.7,
+      "return_pct": -0.61,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9785,10 +9785,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 187.14
+        "2026-03-10": 189.65
       },
-      "latest_price": 187.14,
-      "return_pct": -3.78,
+      "latest_price": 189.65,
+      "return_pct": -2.49,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9805,10 +9805,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 22.33
+        "2026-03-10": 22.489
       },
-      "latest_price": 22.33,
-      "return_pct": 6.59,
+      "latest_price": 22.489,
+      "return_pct": 7.35,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9825,10 +9825,10 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 29.57
+        "2026-03-10": 29.715
       },
-      "latest_price": 29.57,
-      "return_pct": 0.92,
+      "latest_price": 29.715,
+      "return_pct": 1.42,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9845,10 +9845,10 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 6.515
+        "2026-03-10": 6.56
       },
-      "latest_price": 6.515,
-      "return_pct": 5.76,
+      "latest_price": 6.56,
+      "return_pct": 6.49,
       "last_snapshot": "2026-03-10"
     },
     {
@@ -9865,10 +9865,50 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-10": 56.95
+        "2026-03-10": 57.52
       },
-      "latest_price": 56.95,
-      "return_pct": 2.71,
+      "latest_price": 57.52,
+      "return_pct": 3.73,
+      "last_snapshot": "2026-03-10"
+    },
+    {
+      "id": "US|AMRZ|2026-03-09|Hill Jaime",
+      "market": "US",
+      "ticker": "AMRZ",
+      "yf_symbol": "AMRZ",
+      "company": "Amrize Ltd",
+      "insider_name": "Hill Jaime",
+      "title": "Pres, Building Materials",
+      "trade_date": "2026-03-09",
+      "trade_price": 56.34,
+      "value": 179387.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-10": 59.9075
+      },
+      "latest_price": 59.9075,
+      "return_pct": 6.33,
+      "last_snapshot": "2026-03-10"
+    },
+    {
+      "id": "US|AVBC|2026-03-09|Nelson Jonathan Michael",
+      "market": "US",
+      "ticker": "AVBC",
+      "yf_symbol": "AVBC",
+      "company": "Avidia Bancorp, Inc.",
+      "insider_name": "Nelson Jonathan Michael",
+      "title": "CFO, Treasurer",
+      "trade_date": "2026-03-09",
+      "trade_price": 19.39,
+      "value": 50004.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-10": 19.36
+      },
+      "latest_price": 19.36,
+      "return_pct": -0.15,
       "last_snapshot": "2026-03-10"
     }
   ]

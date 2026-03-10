@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-10T16:04:04Z",
-  "trade_count": 5232,
+  "last_updated": "2026-03-10T17:50:35Z",
+  "trade_count": 5235,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -83104,7 +83104,7 @@
       "owned": "2208582",
       "delta_own": "+3%",
       "value": "3483000",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-09",
@@ -83712,6 +83712,54 @@
       "owned": "54000",
       "delta_own": "+10%",
       "value": "277250",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-10",
+      "filing_time": "13:18",
+      "trade_date": "2025-07-22",
+      "ticker": "MERC",
+      "company": "Mercer International Inc.",
+      "insider_name": "Kellogg Peter R",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "3.38",
+      "qty": "70000",
+      "owned": "24380929",
+      "delta_own": "0%",
+      "value": "236600",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-10",
+      "filing_time": "13:06",
+      "trade_date": "2026-03-09",
+      "ticker": "AMRZ",
+      "company": "Amrize Ltd",
+      "insider_name": "Hill Jaime",
+      "title": "Pres, Building Materials",
+      "trade_type": "P - Purchase",
+      "price": "56.34",
+      "qty": "3184",
+      "owned": "26000",
+      "delta_own": "+14%",
+      "value": "179387",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-10",
+      "filing_time": "13:02",
+      "trade_date": "2026-03-09",
+      "ticker": "AVBC",
+      "company": "Avidia Bancorp, Inc.",
+      "insider_name": "Nelson Jonathan Michael",
+      "title": "CFO, Treasurer",
+      "trade_type": "P - Purchase",
+      "price": "19.39",
+      "qty": "2579",
+      "owned": "35858",
+      "delta_own": "+8%",
+      "value": "50004",
       "cluster_buy": false
     }
   ]
