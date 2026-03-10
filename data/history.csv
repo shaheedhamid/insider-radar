@@ -5255,3 +5255,10 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-10,17:00,2026-03-06,SSP,E.W. Scripps Co,Granado Corina S.,10%,P - Purchase,4.64,79758,1167201,+7%,370324,True
 2026-03-10,17:00,2026-03-06,SSP,E.W. Scripps Co,Klenzing Margaret Scripps,10%,P - Purchase,4.64,159515,1064955,+18%,740644,True
 2026-03-10,16:49,2026-03-09,MPB,Mid Penn Bancorp Inc,Noone John E,Dir,P - Purchase,30.84,2000,79590,+3%,61673,False
+2026-03-10,18:20,2026-03-10,VKTX,"Viking Therapeutics, Inc.",Aubuchon Neil William,Chief Commercial Officer,P - Purchase,33.50,4475,4475,New,149913,False
+2026-03-10,18:05,2026-03-06,SSII,"Ss Innovations International, Inc.",Moll Frederic H,"Dir, 10%",P - Purchase,3.99,501253,10775485,+5%,1999999,True
+2026-03-10,18:04,2026-03-06,SSII,"Ss Innovations International, Inc.",Adams Timothy P.,Dir,P - Purchase,3.99,300000,5331902,+6%,1197000,True
+2026-03-10,18:03,2026-03-06,SSII,"Ss Innovations International, Inc.",Sudhir Srivastava,"COB, CEO, 10%",P - Purchase,4.01,498753,109851767,0%,2000000,True
+2026-03-10,17:43,2026-03-10,MLAB,Mesa Laboratories Inc /Co/,Ladiwala Shiraz Shabanali,Dir,P - Purchase,72.23,3500,8523,+70%,252805,True
+2026-03-10,17:26,2026-03-09,VSNT,"Versant Media Group, Inc.",Hassell Gerald L,Dir,P - Purchase,36.07,10000,12680,+373%,360700,True
+2026-03-10,17:23,2026-03-06,BLCO,Bausch & Lomb Corp,Bailey A Robert D,"EVP, GC",P - Purchase,17.15,14600,246490,+6%,250332,True

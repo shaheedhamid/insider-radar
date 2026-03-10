@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-10",
-  "entry_count": 497,
+  "entry_count": 504,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -10329,6 +10329,146 @@
       },
       "latest_price": 31.77,
       "return_pct": 3.02,
+      "last_snapshot": "2026-03-10"
+    },
+    {
+      "id": "US|VKTX|2026-03-10|Aubuchon Neil William",
+      "market": "US",
+      "ticker": "VKTX",
+      "yf_symbol": "VKTX",
+      "company": "Viking Therapeutics, Inc.",
+      "insider_name": "Aubuchon Neil William",
+      "title": "Chief Commercial Officer",
+      "trade_date": "2026-03-10",
+      "trade_price": 33.5,
+      "value": 149913.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-10": 34.66
+      },
+      "latest_price": 34.66,
+      "return_pct": 3.46,
+      "last_snapshot": "2026-03-10"
+    },
+    {
+      "id": "US|SSII|2026-03-06|Moll Frederic H",
+      "market": "US",
+      "ticker": "SSII",
+      "yf_symbol": "SSII",
+      "company": "Ss Innovations International, Inc.",
+      "insider_name": "Moll Frederic H",
+      "title": "Dir, 10%",
+      "trade_date": "2026-03-06",
+      "trade_price": 3.99,
+      "value": 1999999.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-10": 4.42
+      },
+      "latest_price": 4.42,
+      "return_pct": 10.78,
+      "last_snapshot": "2026-03-10"
+    },
+    {
+      "id": "US|SSII|2026-03-06|Adams Timothy P.",
+      "market": "US",
+      "ticker": "SSII",
+      "yf_symbol": "SSII",
+      "company": "Ss Innovations International, Inc.",
+      "insider_name": "Adams Timothy P.",
+      "title": "Dir",
+      "trade_date": "2026-03-06",
+      "trade_price": 3.99,
+      "value": 1197000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-10": 4.42
+      },
+      "latest_price": 4.42,
+      "return_pct": 10.78,
+      "last_snapshot": "2026-03-10"
+    },
+    {
+      "id": "US|SSII|2026-03-06|Sudhir Srivastava",
+      "market": "US",
+      "ticker": "SSII",
+      "yf_symbol": "SSII",
+      "company": "Ss Innovations International, Inc.",
+      "insider_name": "Sudhir Srivastava",
+      "title": "COB, CEO, 10%",
+      "trade_date": "2026-03-06",
+      "trade_price": 4.01,
+      "value": 2000000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-10": 4.42
+      },
+      "latest_price": 4.42,
+      "return_pct": 10.22,
+      "last_snapshot": "2026-03-10"
+    },
+    {
+      "id": "US|MLAB|2026-03-10|Ladiwala Shiraz Shabanali",
+      "market": "US",
+      "ticker": "MLAB",
+      "yf_symbol": "MLAB",
+      "company": "Mesa Laboratories Inc /Co/",
+      "insider_name": "Ladiwala Shiraz Shabanali",
+      "title": "Dir",
+      "trade_date": "2026-03-10",
+      "trade_price": 72.23,
+      "value": 252805.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-10": 73.23
+      },
+      "latest_price": 73.23,
+      "return_pct": 1.38,
+      "last_snapshot": "2026-03-10"
+    },
+    {
+      "id": "US|VSNT|2026-03-09|Hassell Gerald L",
+      "market": "US",
+      "ticker": "VSNT",
+      "yf_symbol": "VSNT",
+      "company": "Versant Media Group, Inc.",
+      "insider_name": "Hassell Gerald L",
+      "title": "Dir",
+      "trade_date": "2026-03-09",
+      "trade_price": 36.07,
+      "value": 360700.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-10": 36.61
+      },
+      "latest_price": 36.61,
+      "return_pct": 1.5,
+      "last_snapshot": "2026-03-10"
+    },
+    {
+      "id": "US|BLCO|2026-03-06|Bailey A Robert D",
+      "market": "US",
+      "ticker": "BLCO",
+      "yf_symbol": "BLCO",
+      "company": "Bausch & Lomb Corp",
+      "insider_name": "Bailey A Robert D",
+      "title": "EVP, GC",
+      "trade_date": "2026-03-06",
+      "trade_price": 17.15,
+      "value": 250332.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-10": 17.12
+      },
+      "latest_price": 17.12,
+      "return_pct": -0.17,
       "last_snapshot": "2026-03-10"
     }
   ]

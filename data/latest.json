@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-10T21:33:47Z",
-  "trade_count": 5256,
+  "last_updated": "2026-03-10T22:34:06Z",
+  "trade_count": 5263,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -83376,7 +83376,7 @@
       "owned": "158560",
       "delta_own": "+919%",
       "value": "5269550",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-09",
@@ -84097,6 +84097,118 @@
       "delta_own": "+3%",
       "value": "61673",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-10",
+      "filing_time": "18:20",
+      "trade_date": "2026-03-10",
+      "ticker": "VKTX",
+      "company": "Viking Therapeutics, Inc.",
+      "insider_name": "Aubuchon Neil William",
+      "title": "Chief Commercial Officer",
+      "trade_type": "P - Purchase",
+      "price": "33.50",
+      "qty": "4475",
+      "owned": "4475",
+      "delta_own": "New",
+      "value": "149913",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-10",
+      "filing_time": "18:05",
+      "trade_date": "2026-03-06",
+      "ticker": "SSII",
+      "company": "Ss Innovations International, Inc.",
+      "insider_name": "Moll Frederic H",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "3.99",
+      "qty": "501253",
+      "owned": "10775485",
+      "delta_own": "+5%",
+      "value": "1999999",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-10",
+      "filing_time": "18:04",
+      "trade_date": "2026-03-06",
+      "ticker": "SSII",
+      "company": "Ss Innovations International, Inc.",
+      "insider_name": "Adams Timothy P.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "3.99",
+      "qty": "300000",
+      "owned": "5331902",
+      "delta_own": "+6%",
+      "value": "1197000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-10",
+      "filing_time": "18:03",
+      "trade_date": "2026-03-06",
+      "ticker": "SSII",
+      "company": "Ss Innovations International, Inc.",
+      "insider_name": "Sudhir Srivastava",
+      "title": "COB, CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "4.01",
+      "qty": "498753",
+      "owned": "109851767",
+      "delta_own": "0%",
+      "value": "2000000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-10",
+      "filing_time": "17:43",
+      "trade_date": "2026-03-10",
+      "ticker": "MLAB",
+      "company": "Mesa Laboratories Inc /Co/",
+      "insider_name": "Ladiwala Shiraz Shabanali",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "72.23",
+      "qty": "3500",
+      "owned": "8523",
+      "delta_own": "+70%",
+      "value": "252805",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-10",
+      "filing_time": "17:26",
+      "trade_date": "2026-03-09",
+      "ticker": "VSNT",
+      "company": "Versant Media Group, Inc.",
+      "insider_name": "Hassell Gerald L",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "36.07",
+      "qty": "10000",
+      "owned": "12680",
+      "delta_own": "+373%",
+      "value": "360700",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-10",
+      "filing_time": "17:23",
+      "trade_date": "2026-03-06",
+      "ticker": "BLCO",
+      "company": "Bausch & Lomb Corp",
+      "insider_name": "Bailey A Robert D",
+      "title": "EVP, GC",
+      "trade_type": "P - Purchase",
+      "price": "17.15",
+      "qty": "14600",
+      "owned": "246490",
+      "delta_own": "+6%",
+      "value": "250332",
+      "cluster_buy": true
     }
   ]
 }
