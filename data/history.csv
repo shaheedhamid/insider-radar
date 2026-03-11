@@ -5278,3 +5278,9 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-11,13:23,2026-03-09,FFIN,First Financial Bankshares Inc,Hickox Michelle S,"EVP, CFO",P - Purchase,29.50,2000,26461,+8%,59000,True
 2026-03-11,14:00,2026-03-10,AMRZ,Amrize Ltd,Johnston Ian A,CFO,P - Purchase,58.94,4250,25110,+20%,250474,True
 2026-03-11,13:56,2026-03-11,AMRZ,Amrize Ltd,Hill Jaime,"Pres, Building Materials",P - Purchase,58.91,1000,27000,+4%,58910,True
+2026-03-11,16:35,2026-03-10,HBT,"Hbt Financial, Inc.",Burwell Eric E,Dir,P - Purchase,26.24,4000,45120,+10%,104960,False
+2026-03-11,16:34,2026-03-09,NXRT,"Nexpoint Residential Trust, Inc.",Richards Paul,See Remarks,P - Purchase,26.34,2000,31974,+7%,52680,True
+2026-03-11,16:34,2026-03-09,TGLS,Tecnoglass Inc.,Energy Holding Corp,10%,P - Purchase,42.84,306666,20516756,+2%,13138087,False
+2026-03-11,16:21,2026-03-10,ABG,Asbury Automotive Group Inc,Disantis B. Christopher,Dir,P - Purchase,202.30,500,6243,+9%,101150,True
+2026-03-11,16:04,2026-03-09,ACVA,Acv Auctions Inc.,Chamoun George,CEO,P - Purchase,5.05,24272,2952977,+1%,122574,False
+2026-03-11,16:00,2025-12-12,BHM,"Bluerock Homes Trust, Inc.",Kamfar Ramin,"COB, CEO",P - Purchase,11.57,25700,27719,>999%,297345,False

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-11T19:46:38Z",
-  "trade_count": 5279,
+  "last_updated": "2026-03-11T20:38:51Z",
+  "trade_count": 5285,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -80624,7 +80624,7 @@
       "owned": "569102",
       "delta_own": "+61%",
       "value": "1000036",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-02",
@@ -83232,7 +83232,7 @@
       "owned": "453491",
       "delta_own": "0%",
       "value": "55150",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-09",
@@ -83440,7 +83440,7 @@
       "owned": "90683",
       "delta_own": "+6%",
       "value": "1026706",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-09",
@@ -84465,6 +84465,102 @@
       "delta_own": "+4%",
       "value": "58910",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-11",
+      "filing_time": "16:35",
+      "trade_date": "2026-03-10",
+      "ticker": "HBT",
+      "company": "Hbt Financial, Inc.",
+      "insider_name": "Burwell Eric E",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "26.24",
+      "qty": "4000",
+      "owned": "45120",
+      "delta_own": "+10%",
+      "value": "104960",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-11",
+      "filing_time": "16:34",
+      "trade_date": "2026-03-09",
+      "ticker": "NXRT",
+      "company": "Nexpoint Residential Trust, Inc.",
+      "insider_name": "Richards Paul",
+      "title": "See Remarks",
+      "trade_type": "P - Purchase",
+      "price": "26.34",
+      "qty": "2000",
+      "owned": "31974",
+      "delta_own": "+7%",
+      "value": "52680",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-11",
+      "filing_time": "16:34",
+      "trade_date": "2026-03-09",
+      "ticker": "TGLS",
+      "company": "Tecnoglass Inc.",
+      "insider_name": "Energy Holding Corp",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "42.84",
+      "qty": "306666",
+      "owned": "20516756",
+      "delta_own": "+2%",
+      "value": "13138087",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-11",
+      "filing_time": "16:21",
+      "trade_date": "2026-03-10",
+      "ticker": "ABG",
+      "company": "Asbury Automotive Group Inc",
+      "insider_name": "Disantis B. Christopher",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "202.30",
+      "qty": "500",
+      "owned": "6243",
+      "delta_own": "+9%",
+      "value": "101150",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-11",
+      "filing_time": "16:04",
+      "trade_date": "2026-03-09",
+      "ticker": "ACVA",
+      "company": "Acv Auctions Inc.",
+      "insider_name": "Chamoun George",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "5.05",
+      "qty": "24272",
+      "owned": "2952977",
+      "delta_own": "+1%",
+      "value": "122574",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-11",
+      "filing_time": "16:00",
+      "trade_date": "2025-12-12",
+      "ticker": "BHM",
+      "company": "Bluerock Homes Trust, Inc.",
+      "insider_name": "Kamfar Ramin",
+      "title": "COB, CEO",
+      "trade_type": "P - Purchase",
+      "price": "11.57",
+      "qty": "25700",
+      "owned": "27719",
+      "delta_own": ">999%",
+      "value": "297345",
+      "cluster_buy": false
     }
   ]
 }
