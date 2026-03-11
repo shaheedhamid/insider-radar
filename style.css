@@ -407,6 +407,22 @@ footer {
   .btn-discord { padding: 7px 10px; }
 }
 
+/* Data note banner */
+.data-note {
+  text-align: center;
+  font-size: 12px;
+  color: var(--muted);
+  background: rgba(91, 158, 255, 0.06);
+  border: 1px solid rgba(91, 158, 255, 0.15);
+  border-radius: 8px;
+  padding: 8px 16px;
+  margin: 12px auto;
+  max-width: 700px;
+}
+.data-note strong {
+  color: var(--blue);
+}
+
 /* --- Small phones (≤400px) --- */
 @media (max-width: 400px) {
   .brand-name { font-size: 15px; }
