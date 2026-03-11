@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-11T14:52:13Z",
-  "trade_count": 5271,
+  "last_updated": "2026-03-11T15:54:13Z",
+  "trade_count": 5273,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -84336,6 +84336,38 @@
       "owned": "815955",
       "delta_own": "+1%",
       "value": "471081",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-11",
+      "filing_time": "11:42",
+      "trade_date": "2026-03-09",
+      "ticker": "SSP",
+      "company": "E.W. Scripps Co",
+      "insider_name": "Granado Raymundo H. Jr.",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "4.49",
+      "qty": "13264",
+      "owned": "81113",
+      "delta_own": "+20%",
+      "value": "59598",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-11",
+      "filing_time": "11:11",
+      "trade_date": "2026-03-09",
+      "ticker": "ALG",
+      "company": "Alamo Group Inc",
+      "insider_name": "Hureau Robert Paul",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "164.40",
+      "qty": "460",
+      "owned": "22036",
+      "delta_own": "+2%",
+      "value": "75624",
       "cluster_buy": false
     }
   ]

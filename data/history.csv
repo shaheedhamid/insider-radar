@@ -5270,3 +5270,5 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-10,20:46,2020-05-20,ACEL,"Accel Entertainment, Inc.",Ruttenberg David W.,Dir,P - Purchase,9.34,10000,0,-100%,93400,False
 2026-03-11,10:41,2026-03-10,GRNT,"Granite Ridge Resources, Inc.",Farquharson Tyler,"Pres, CEO",P - Purchase,5.21,12500,334743,+4%,65125,False
 2026-03-11,09:22,2026-03-10,BWFG,"Bankwell Financial Group, Inc.",Seidman Lawrence B,Dir,P - Purchase,46.94,10036,815955,+1%,471081,False
+2026-03-11,11:42,2026-03-09,SSP,E.W. Scripps Co,Granado Raymundo H. Jr.,"Dir, 10%",P - Purchase,4.49,13264,81113,+20%,59598,True
+2026-03-11,11:11,2026-03-09,ALG,Alamo Group Inc,Hureau Robert Paul,"Pres, CEO",P - Purchase,164.40,460,22036,+2%,75624,False
