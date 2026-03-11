@@ -26,40 +26,25 @@ InsiderEdgePro is a **free insider trading tracker** that monitors SEC Form 4 op
 
 ---
 
-## SEO & Discovery Keywords
+## Frequently Asked Questions
 
-### Primary Keywords
-`InsiderEdgePro` · `insideredgepro.github.io` · `SEC Form 4 tracker` · `insider trading tracker` · `insider buying tracker` · `insider purchases dashboard` · `SEC insider trading` · `Form 4 filings real-time` · `insider trading dashboard` · `insider buying signals` · `smart money tracker` · `follow smart money stocks`
+**What are insiders buying right now?**
+InsiderEdgePro tracks every SEC Form 4 open-market purchase filed today, showing exactly which stocks CEOs, CFOs, Directors, and other corporate insiders are buying with their own money. The dashboard refreshes every 30 minutes and highlights unusual insider buying activity with our cluster buy signal — when two or more insiders at the same company purchase simultaneously.
 
-### Long-Tail Keywords
-`real-time SEC Form 4 insider purchases` · `track CEO buying stock today` · `insider cluster buy signal` · `which stocks are insiders buying` · `SEC Form 4 open market purchase` · `free insider trading tracker` · `insider buying alert stocks` · `multiple insiders buying same stock` · `director buying stock signal` · `CFO buying own company stock`
+**Is insider buying a bullish signal?**
+Academic research consistently shows that open-market insider purchases are among the most reliable leading indicators of stock outperformance. When an executive buys shares with personal capital rather than receiving options or RSUs, it reflects genuine conviction. Cluster buys — where a CEO, CFO, and Director all purchase in the same week — amplify this smart money signal significantly, more so than any single insider purchase alone.
 
-### Role-Based Keywords
-`CEO buying stock` · `CFO stock purchase` · `Director stock buying` · `Chairman buying shares` · `VP buying company stock` · `SVP open market purchase` · `EVP insider buying` · `corporate insider purchases` · `executive stock buying` · `C-suite insider trading`
+**What is a cluster buy signal?**
+A cluster buy occurs when two or more corporate insiders at the same company file SEC Form 4 purchases within a short window. This is one of the highest-conviction signals in quantitative finance. InsiderEdgePro automatically detects and flags cluster buy signals in real time, so you can spot unusual insider buying activity the moment it happens — before it shows up in 13F filings months later.
 
-### Signal & Strategy Keywords
-`cluster buy signal` · `insider cluster buy` · `institutional buying signal` · `smart money flow` · `insider buying momentum` · `follow insider trades` · `copy insider trades` · `insider trading strategy` · `insider buy signal stocks` · `informed buying signal`
+**How do I track congressional stock trades?**
+Under the STOCK Act (Stop Trading on Congressional Knowledge Act), US Senators and Representatives must disclose personal stock trades within 45 days. InsiderEdgePro monitors these STOCK Act filings and sends real-time Discord alerts for every congressional trade. Our Congress stock market tracker surfaces Nancy Pelosi stock trades, Senate trades, and House of Representatives disclosures — a free politician portfolio tracker for every investor.
 
-### Market & Data Keywords
-`SEC EDGAR Form 4` · `SEC filings tracker` · `open market purchase SEC` · `insider ownership changes` · `stock insider activity` · `institutional insider buying` · `large insider purchase` · `million dollar insider buy` · `insider accumulation stocks` · `insider buying screener`
+**Do politician trades beat the market?**
+Studies have found that congressional stock trades have historically outperformed broad market indexes, particularly trades made near major legislation or regulatory announcements. Whether you want to follow Warren Buffett trades via 13F filings or track Nancy Pelosi and congressional stock picks via STOCK Act disclosures, InsiderEdgePro surfaces smart money moves the moment they are disclosed publicly — no subscription required.
 
-### Performance & Returns Keywords
-`insider trade performance` · `Form 4 filing returns` · `insider buying stock returns` · `insider trade tracker performance` · `SEC insider purchase results` · `insider buy signal returns` · `CEO buy stock performance` · `insider trading backtesting` · `insider signal accuracy` · `smart money stock returns`
-
-### Canadian Market Keywords
-`Canadian insider trading` · `SEDI insider tracker` · `TSX insider buying` · `TSX-V insider purchases` · `Canadian stock insider activity` · `SEDI filings tracker` · `Canadian SEDI Form` · `TSX insider cluster buy` · `Canadian smart money stocks` · `SEDI insider purchase tracker`
-
-### Comparison & Alternative Keywords
-`insider trading tracker free` · `SEC Form 4 alert free` · `alternative to OpenInsider` · `alternative to Finviz insider` · `insider tracker no subscription` · `real-time insider data free` · `best insider trading website` · `insider trading tools free` · `stock insider buying website` · `SEC Form 4 screener free`
-
-### Congressional & Politician Trade Keywords
-`congressional stock trades` · `politician stock trades` · `congress stock trading tracker` · `STOCK Act disclosures` · `senator stock trades` · `representative stock buying` · `politician insider trading` · `congress buying stocks` · `follow politician trades` · `congressional trade alerts` · `politician stock buys` · `senate stock trades` · `house of representatives stock trades` · `congress stock market tracker` · `politician portfolio tracker` · `STOCK Act filings` · `congress trading stocks free` · `congressional trade signal` · `politician stock picks` · `follow congress trades`
-
-### Discord Alert Keywords
-`insider trading Discord` · `insider buying Discord alerts` · `stock alert Discord server` · `congressional trade Discord` · `SEC Form 4 Discord alerts` · `politician trade Discord` · `Canadian insider alert Discord` · `real-time stock alerts Discord` · `insider signal Discord` · `smart money Discord server` · `SEDI alert Discord` · `cluster buy Discord alert` · `free stock alerts Discord` · `insider trading alert service` · `congress stock trade alert`
-
-### Question-Based / Informational Keywords
-`what are insiders buying` · `how to track insider trading` · `how to follow SEC Form 4` · `is insider buying a bullish signal` · `what does cluster buy mean` · `how to read Form 4 filings` · `when insiders buy their own stock` · `insider buying vs insider selling` · `do insider buys predict stock price` · `best stocks with insider buying` · `what stocks is congress buying` · `how to track politician stock trades` · `how to follow STOCK Act disclosures` · `do politician trades beat the market` · `where to find congressional trade alerts`
+**How do I read SEC Form 4 filings?**
+A Form 4 is filed with the SEC whenever a corporate insider — director, officer, or 10%+ shareholder — buys or sells company shares. The most important field is Transaction Type: "P" means an open-market purchase (the most bullish signal), while "S" means a sale. InsiderEdgePro parses every Form 4 on SEC EDGAR and presents the data in a clean, filterable dashboard, saving you from manually reading raw filings. We surface the trade date, price paid, total value, and insider title so you can immediately assess signal quality.
 
 ---
 
