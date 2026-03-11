@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-10T23:32:36Z",
-  "trade_count": 5265,
+  "last_updated": "2026-03-11T11:37:08Z",
+  "trade_count": 5269,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -84240,6 +84240,70 @@
       "owned": "423000",
       "delta_own": "+6%",
       "value": "225000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-11",
+      "filing_time": "06:31",
+      "trade_date": "2026-03-10",
+      "ticker": "SOLV",
+      "company": "Solventum Corp",
+      "insider_name": "Wendell Amy McBride",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "68.03",
+      "qty": "1475",
+      "owned": "5039",
+      "delta_own": "+41%",
+      "value": "100344",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-11",
+      "filing_time": "06:01",
+      "trade_date": "2026-03-10",
+      "ticker": "FOUR",
+      "company": "Shift4 Payments, Inc.",
+      "insider_name": "Isaacman Jared",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "45.75",
+      "qty": "43827",
+      "owned": "23286551",
+      "delta_own": "0%",
+      "value": "2004879",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-10",
+      "filing_time": "21:30",
+      "trade_date": "2026-03-10",
+      "ticker": "MNKD",
+      "company": "Mannkind Corp",
+      "insider_name": "Castagna Michael",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "2.59",
+      "qty": "100000",
+      "owned": "2577411",
+      "delta_own": "+4%",
+      "value": "259000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-10",
+      "filing_time": "20:46",
+      "trade_date": "2020-05-20",
+      "ticker": "ACEL",
+      "company": "Accel Entertainment, Inc.",
+      "insider_name": "Ruttenberg David W.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "9.34",
+      "qty": "10000",
+      "owned": "0",
+      "delta_own": "-100%",
+      "value": "93400",
       "cluster_buy": false
     }
   ]

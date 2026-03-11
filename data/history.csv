@@ -5264,3 +5264,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-10,17:23,2026-03-06,BLCO,Bausch & Lomb Corp,Bailey A Robert D,"EVP, GC",P - Purchase,17.15,14600,246490,+6%,250332,True
 2026-03-10,19:01,2026-03-09,AOSL,Alpha & Omega Semiconductor Ltd,Chang Mike F,"Dir, 10%",P - Purchase,19.00,33727,4369574,+1%,640813,False
 2026-03-10,18:41,2026-03-09,AI,"C3.Ai, Inc.",Snabe Jim H.,Dir,P - Purchase,9.00,25000,423000,+6%,225000,False
+2026-03-11,06:31,2026-03-10,SOLV,Solventum Corp,Wendell Amy McBride,Dir,P - Purchase,68.03,1475,5039,+41%,100344,False
+2026-03-11,06:01,2026-03-10,FOUR,"Shift4 Payments, Inc.",Isaacman Jared,10%,P - Purchase,45.75,43827,23286551,0%,2004879,False
+2026-03-10,21:30,2026-03-10,MNKD,Mannkind Corp,Castagna Michael,CEO,P - Purchase,2.59,100000,2577411,+4%,259000,False
+2026-03-10,20:46,2020-05-20,ACEL,"Accel Entertainment, Inc.",Ruttenberg David W.,Dir,P - Purchase,9.34,10000,0,-100%,93400,False
