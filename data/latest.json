@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-11T13:11:32Z",
-  "trade_count": 5269,
+  "last_updated": "2026-03-11T14:52:13Z",
+  "trade_count": 5271,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -84304,6 +84304,38 @@
       "owned": "0",
       "delta_own": "-100%",
       "value": "93400",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-11",
+      "filing_time": "10:41",
+      "trade_date": "2026-03-10",
+      "ticker": "GRNT",
+      "company": "Granite Ridge Resources, Inc.",
+      "insider_name": "Farquharson Tyler",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "5.21",
+      "qty": "12500",
+      "owned": "334743",
+      "delta_own": "+4%",
+      "value": "65125",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-11",
+      "filing_time": "09:22",
+      "trade_date": "2026-03-10",
+      "ticker": "BWFG",
+      "company": "Bankwell Financial Group, Inc.",
+      "insider_name": "Seidman Lawrence B",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "46.94",
+      "qty": "10036",
+      "owned": "815955",
+      "delta_own": "+1%",
+      "value": "471081",
       "cluster_buy": false
     }
   ]
