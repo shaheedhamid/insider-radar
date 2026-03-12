@@ -5317,3 +5317,8 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-12,14:02,2026-03-12,AMRZ,Amrize Ltd,Hill Jaime,"Pres, Building Materials",P - Purchase,56.90,1000,28000,+4%,56900,True
 2026-03-12,15:20,2026-03-12,LKFN,Lakeland Financial Corp,Welch M Scott,Dir,P - Purchase,56.23,10000,212006,+5%,562314,False
 2026-03-12,15:19,2026-03-11,COFS,Choiceone Financial Services Inc,Burrough Eric E,Dir,P - Purchase,27.50,5000,180397,+3%,137500,False
+2026-03-12,16:34,2026-03-10,AMT,American Tower Corp /Ma/,Kalathur Rajesh,Dir,P - Purchase,185.30,2671,5107,+110%,494936,False
+2026-03-12,16:22,2026-03-10,VENU,Venu Holding Corp,Roth Jay W,"CEO, COB, 10%",P - Purchase,4.00,62500,10315864,+1%,250000,False
+2026-03-12,16:21,2026-03-11,STC,Stewart Information Services Corp,Bradley C Allen Jr,Dir,P - Purchase,62.76,1000,22243,+5%,62758,False
+2026-03-12,16:20,2026-03-10,AEYE,Audioeye Inc,Hawkins James B,Dir,P - Purchase,5.78,38000,207517,+22%,219744,False
+2026-03-12,16:00,2026-03-11,WES,"Western Midstream Partners, LP",Phillips Robert G,Dir,P - Purchase,40.19,1250,5296,+31%,50238,False
