@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-12T20:40:55Z",
-  "trade_count": 5323,
+  "last_updated": "2026-03-12T21:37:51Z",
+  "trade_count": 5330,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -81168,7 +81168,7 @@
       "owned": "908830",
       "delta_own": "+3%",
       "value": "871734",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-03",
@@ -82384,7 +82384,7 @@
       "owned": "953830",
       "delta_own": "+5%",
       "value": "1000950",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-05",
@@ -83328,7 +83328,7 @@
       "owned": "979330",
       "delta_own": "+3%",
       "value": "579200",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-09",
@@ -85169,6 +85169,118 @@
       "delta_own": "+31%",
       "value": "50238",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-12",
+      "filing_time": "17:27",
+      "trade_date": "2026-03-11",
+      "ticker": "TCBI",
+      "company": "Texas Capital Bancshares Inc/Tx",
+      "insider_name": "Arbour Paola M",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "91.50",
+      "qty": "1000",
+      "owned": "6671",
+      "delta_own": "+18%",
+      "value": "91500",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-12",
+      "filing_time": "17:18",
+      "trade_date": "2026-03-12",
+      "ticker": "MYO",
+      "company": "Myomo, Inc.",
+      "insider_name": "Getz Heather C",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "0.73",
+      "qty": "70000",
+      "owned": "111754",
+      "delta_own": "+168%",
+      "value": "50960",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-12",
+      "filing_time": "17:16",
+      "trade_date": "2026-03-11",
+      "ticker": "IP",
+      "company": "International Paper Co /New/",
+      "insider_name": "Gustafsson Anders",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "38.33",
+      "qty": "26092",
+      "owned": "81726",
+      "delta_own": "+47%",
+      "value": "1000036",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-12",
+      "filing_time": "16:45",
+      "trade_date": "2026-03-10",
+      "ticker": "KOS",
+      "company": "Kosmos Energy Ltd.",
+      "insider_name": "Ogunlesi Adebayo O.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.90",
+      "qty": "3157895",
+      "owned": "4974184",
+      "delta_own": "+174%",
+      "value": "6000001",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-12",
+      "filing_time": "16:44",
+      "trade_date": "2026-03-10",
+      "ticker": "KOS",
+      "company": "Kosmos Energy Ltd.",
+      "insider_name": "Stice J Michael",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.90",
+      "qty": "52631",
+      "owned": "207620",
+      "delta_own": "+34%",
+      "value": "99999",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-12",
+      "filing_time": "16:44",
+      "trade_date": "2026-03-10",
+      "ticker": "KOS",
+      "company": "Kosmos Energy Ltd.",
+      "insider_name": "Shah Nealesh D.",
+      "title": "SVP, CFO",
+      "trade_type": "P - Purchase",
+      "price": "1.90",
+      "qty": "157894",
+      "owned": "1863061",
+      "delta_own": "+9%",
+      "value": "299999",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-12",
+      "filing_time": "16:42",
+      "trade_date": "2026-03-10",
+      "ticker": "KOS",
+      "company": "Kosmos Energy Ltd.",
+      "insider_name": "Inglis Andrew G",
+      "title": "COB, CEO",
+      "trade_type": "P - Purchase",
+      "price": "1.90",
+      "qty": "315790",
+      "owned": "4542807",
+      "delta_own": "+7%",
+      "value": "600001",
+      "cluster_buy": true
     }
   ]
 }
