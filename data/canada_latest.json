@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-12T17:18:13Z",
-  "trade_count": 2534,
+  "last_updated": "2026-03-12T18:33:54Z",
+  "trade_count": 2536,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -38093,6 +38093,38 @@
       "qty": "250000",
       "price": "0.5500",
       "value": "137500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4679230",
+      "trade_date": "2026-03-12",
+      "filing_date": "2026-03-12",
+      "company": "FinEx Metals Ltd.",
+      "ticker": "FINX",
+      "insider_name": "Mast, Ernest Mast",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "150000",
+      "price": "0.1202",
+      "value": "18030",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4679208",
+      "trade_date": "2026-03-12",
+      "filing_date": "2026-03-12",
+      "company": "SITKA GOLD CORP.",
+      "ticker": "SIG",
+      "insider_name": "Archambeault, Louis",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "50000",
+      "price": "1.0000",
+      "value": "50000",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
