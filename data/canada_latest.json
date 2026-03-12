@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-11T16:00:22Z",
-  "trade_count": 2517,
+  "last_updated": "2026-03-12T16:00:23Z",
+  "trade_count": 2519,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -37776,6 +37776,38 @@
       "qty": "2360",
       "price": "105.5090",
       "value": "249001",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4679119",
+      "trade_date": "2026-03-12",
+      "filing_date": "2026-03-12",
+      "company": "Dr. Phone Fix Canada Corporation - formerly Auka Capital Corp.",
+      "ticker": "",
+      "insider_name": "Sawhney, Piyush",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "144000",
+      "price": "0.1300",
+      "value": "18720",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4679098",
+      "trade_date": "2026-03-12",
+      "filing_date": "2026-03-12",
+      "company": "Dr. Phone Fix Canada Corporation - formerly Auka Capital Corp.",
+      "ticker": "",
+      "insider_name": "Sur, Frank",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "182000",
+      "price": "0.1300",
+      "value": "23660",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
