@@ -5313,3 +5313,5 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-12,09:01,2026-03-10,CVSA,Covista Inc.,Malafronte Michael W,Lead Independent Director,P - Purchase,100.88,36036,138600,+35%,3635414,False
 2026-03-12,08:55,2026-03-11,BWFG,"Bankwell Financial Group, Inc.",Seidman Lawrence B,Dir,P - Purchase,46.65,10000,825955,+1%,466462,False
 2026-03-12,11:25,2026-03-10,ROCK,"Gibraltar Industries, Inc.",Metcalf James S,Dir,P - Purchase,40.35,12444,15500,+407%,502165,True
+2026-03-12,14:56,2026-03-11,ALLE,Allegion Plc,Main Sue,Dir,P - Purchase,149.61,2000,4355,+85%,299215,False
+2026-03-12,14:02,2026-03-12,AMRZ,Amrize Ltd,Hill Jaime,"Pres, Building Materials",P - Purchase,56.90,1000,28000,+4%,56900,True

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-12T17:51:54Z",
-  "trade_count": 5314,
+  "last_updated": "2026-03-12T19:00:21Z",
+  "trade_count": 5316,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -85024,6 +85024,38 @@
       "owned": "15500",
       "delta_own": "+407%",
       "value": "502165",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-12",
+      "filing_time": "14:56",
+      "trade_date": "2026-03-11",
+      "ticker": "ALLE",
+      "company": "Allegion Plc",
+      "insider_name": "Main Sue",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "149.61",
+      "qty": "2000",
+      "owned": "4355",
+      "delta_own": "+85%",
+      "value": "299215",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-12",
+      "filing_time": "14:02",
+      "trade_date": "2026-03-12",
+      "ticker": "AMRZ",
+      "company": "Amrize Ltd",
+      "insider_name": "Hill Jaime",
+      "title": "Pres, Building Materials",
+      "trade_type": "P - Purchase",
+      "price": "56.90",
+      "qty": "1000",
+      "owned": "28000",
+      "delta_own": "+4%",
+      "value": "56900",
       "cluster_buy": true
     }
   ]
