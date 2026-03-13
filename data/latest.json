@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-13T14:47:59Z",
-  "trade_count": 5408,
+  "last_updated": "2026-03-13T15:49:03Z",
+  "trade_count": 5409,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -86528,6 +86528,22 @@
       "owned": "3487",
       "delta_own": "+40%",
       "value": "29500",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-13",
+      "filing_time": "11:03",
+      "trade_date": "2026-01-28",
+      "ticker": "NBTB",
+      "company": "Nbt Bancorp Inc",
+      "insider_name": "Delaney Timothy E",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "42.97",
+      "qty": "22730",
+      "owned": "22730",
+      "delta_own": "New",
+      "value": "976708",
       "cluster_buy": false
     }
   ]
