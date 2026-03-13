@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-13",
-  "entry_count": 589,
+  "entry_count": 590,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -4459,10 +4459,10 @@
         "2026-03-10": 7.85,
         "2026-03-11": 7.95,
         "2026-03-12": 8.0,
-        "2026-03-13": 8.24
+        "2026-03-13": 8.2
       },
-      "latest_price": 8.24,
-      "return_pct": 17.71,
+      "latest_price": 8.2,
+      "return_pct": 17.14,
       "last_snapshot": "2026-03-13"
     },
     {
@@ -4483,10 +4483,10 @@
         "2026-03-10": 7.85,
         "2026-03-11": 7.95,
         "2026-03-12": 8.0,
-        "2026-03-13": 8.24
+        "2026-03-13": 8.2
       },
-      "latest_price": 8.24,
-      "return_pct": 17.71,
+      "latest_price": 8.2,
+      "return_pct": 17.14,
       "last_snapshot": "2026-03-13"
     },
     {
@@ -4507,10 +4507,10 @@
         "2026-03-10": 7.85,
         "2026-03-11": 7.95,
         "2026-03-12": 8.0,
-        "2026-03-13": 8.24
+        "2026-03-13": 8.2
       },
-      "latest_price": 8.24,
-      "return_pct": 17.71,
+      "latest_price": 8.2,
+      "return_pct": 17.14,
       "last_snapshot": "2026-03-13"
     },
     {
@@ -4627,10 +4627,10 @@
         "2026-03-10": 0.4249,
         "2026-03-11": 0.435,
         "2026-03-12": 0.434,
-        "2026-03-13": 0.435
+        "2026-03-13": 0.4395
       },
-      "latest_price": 0.435,
-      "return_pct": 27.94,
+      "latest_price": 0.4395,
+      "return_pct": 29.26,
       "last_snapshot": "2026-03-13"
     },
     {
@@ -11478,10 +11478,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-12": 8.0,
-        "2026-03-13": 8.24
+        "2026-03-13": 8.2
       },
-      "latest_price": 8.24,
-      "return_pct": 4.17,
+      "latest_price": 8.2,
+      "return_pct": 3.67,
       "last_snapshot": "2026-03-13"
     },
     {
@@ -13434,10 +13434,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-13": 0.7203
+        "2026-03-13": 0.74
       },
-      "latest_price": 0.7203,
-      "return_pct": 200.13,
+      "latest_price": 0.74,
+      "return_pct": 208.33,
       "last_snapshot": "2026-03-13"
     },
     {
@@ -13598,6 +13598,26 @@
       },
       "latest_price": 13.46,
       "return_pct": 0.67,
+      "last_snapshot": "2026-03-13"
+    },
+    {
+      "id": "US|THRY|2026-03-13|Walsh Joe",
+      "market": "US",
+      "ticker": "THRY",
+      "yf_symbol": "THRY",
+      "company": "Thryv Holdings, Inc.",
+      "insider_name": "Walsh Joe",
+      "title": "COB, CEO",
+      "trade_date": "2026-03-13",
+      "trade_price": 2.91,
+      "value": 43650.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-13": 2.97
+      },
+      "latest_price": 2.97,
+      "return_pct": 2.06,
       "last_snapshot": "2026-03-13"
     }
   ]

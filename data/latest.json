@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-13T18:50:40Z",
-  "trade_count": 5416,
+  "last_updated": "2026-03-13T19:33:47Z",
+  "trade_count": 5417,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -81552,7 +81552,7 @@
       "owned": "8443835",
       "delta_own": "+41%",
       "value": "6100453",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-04",
@@ -86657,6 +86657,22 @@
       "delta_own": "+11%",
       "value": "66850",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-13",
+      "filing_time": "15:15",
+      "trade_date": "2026-03-13",
+      "ticker": "THRY",
+      "company": "Thryv Holdings, Inc.",
+      "insider_name": "Walsh Joe",
+      "title": "COB, CEO",
+      "trade_type": "P - Purchase",
+      "price": "2.91",
+      "qty": "15000",
+      "owned": "2400955",
+      "delta_own": "+1%",
+      "value": "43650",
+      "cluster_buy": true
     }
   ]
 }
