@@ -135,6 +135,21 @@
     }
     .btn-pro:hover { opacity: .9; transform: translateY(-1px); color: #0c0d0f; }
 
+    /* Cluster buy stat card — clickable filter */
+    #stat-card-clusters {
+      cursor: pointer;
+      transition: background .15s, box-shadow .15s;
+    }
+    #stat-card-clusters:hover { background: var(--surface2); }
+    #stat-card-clusters.active {
+      background: rgba(255,112,67,.08);
+      box-shadow: inset 0 0 0 1px rgba(255,112,67,.35);
+    }
+    #stat-card-clusters.active .stat-label::after {
+      content: ' — ON';
+      color: var(--orange);
+    }
+
     /* Market closed banner */
     #market-closed-banner {
       display: none; margin: 0 0 16px 0; padding: 10px 16px;
@@ -269,7 +284,7 @@
     <div class="stat-value accent" id="stat-visible">—</div>
   </div>
 
-  <div class="stat-card">
+  <div class="stat-card" id="stat-card-clusters" title="Click to filter cluster buys only">
     <div class="stat-header">
       <div class="stat-icon">
         <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
@@ -455,6 +470,7 @@
   let expandedTickers = new Set();
   let dateRange       = '1';
   let minValue        = 0;
+  let clusterOnly     = false;
 
   /* ------------------------------------------------------------------ */
   /* DOM refs                                                              */
@@ -473,10 +489,11 @@
   const dateRangeGroupEl = document.getElementById('date-range-group');
   const minValueGroupEl  = document.getElementById('min-value-group');
 
-  const statVisible    = document.getElementById('stat-visible');
-  const statClusters   = document.getElementById('stat-clusters');
-  const statTotalValue = document.getElementById('stat-total-value');
-  const statTickers    = document.getElementById('stat-tickers');
+  const statVisible      = document.getElementById('stat-visible');
+  const statClusters     = document.getElementById('stat-clusters');
+  const statTotalValue   = document.getElementById('stat-total-value');
+  const statTickers      = document.getElementById('stat-tickers');
+  const statCardClusters = document.getElementById('stat-card-clusters');
 
   /* ------------------------------------------------------------------ */
   /* Utilities                                                             */
@@ -563,6 +580,7 @@
       if (parseNumber(t.value) < minValue) return false;
       if (title !== 'all' && classifyTitle(t.title) !== title) return false;
       if (cutoff && (t.filing_date || '') < cutoff) return false;
+      if (clusterOnly && !t.cluster_buy) return false;
       if (search) {
         const hay = ((t.ticker || '') + ' ' + (t.company || '') + ' ' + (t.insider_name || '')).toLowerCase();
         if (!hay.includes(search)) return false;
@@ -808,11 +826,19 @@
     });
   });
 
+  statCardClusters.addEventListener('click', () => {
+    clusterOnly = !clusterOnly;
+    statCardClusters.classList.toggle('active', clusterOnly);
+    renderTable();
+  });
+
   btnReset.addEventListener('click', () => {
     searchInputEl.value = '';
     titleFilterEl.value = 'all';
     dateRange           = '1';
     minValue            = 0;
+    clusterOnly         = false;
+    statCardClusters.classList.remove('active');
     dateRangeGroupEl.querySelectorAll('.btn-range').forEach(b => {
       b.classList.toggle('active', b.dataset.range === '1');
     });
