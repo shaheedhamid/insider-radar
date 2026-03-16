@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-16",
-  "entry_count": 557,
+  "entry_count": 559,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -13274,6 +13274,46 @@
       },
       "latest_price": 7.36,
       "return_pct": 2.22,
+      "last_snapshot": "2026-03-16"
+    },
+    {
+      "id": "US|CTEV|2026-03-12|Kim Michael",
+      "market": "US",
+      "ticker": "CTEV",
+      "yf_symbol": "CTEV",
+      "company": "Claritev Corp",
+      "insider_name": "Kim Michael",
+      "title": "EVP, Chief Digital Officer",
+      "trade_date": "2026-03-12",
+      "trade_price": 16.5,
+      "value": 247500.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-16": 16.89
+      },
+      "latest_price": 16.89,
+      "return_pct": 2.36,
+      "last_snapshot": "2026-03-16"
+    },
+    {
+      "id": "US|MBX|2026-03-13|Hawryluk P. Kent",
+      "market": "US",
+      "ticker": "MBX",
+      "yf_symbol": "MBX",
+      "company": "Mbx Biosciences, Inc.",
+      "insider_name": "Hawryluk P. Kent",
+      "title": "Pres, CEO",
+      "trade_date": "2026-03-13",
+      "trade_price": 28.41,
+      "value": 525663.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-16": 28
+      },
+      "latest_price": 28,
+      "return_pct": -1.44,
       "last_snapshot": "2026-03-16"
     }
   ]

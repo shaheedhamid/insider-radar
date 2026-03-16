@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-16T11:51:34Z",
-  "trade_count": 5444,
+  "last_updated": "2026-03-16T13:23:18Z",
+  "trade_count": 5446,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -87104,6 +87104,38 @@
       "owned": "2603134",
       "delta_own": "+1%",
       "value": "131796",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-16",
+      "filing_time": "08:42",
+      "trade_date": "2026-03-12",
+      "ticker": "CTEV",
+      "company": "Claritev Corp",
+      "insider_name": "Kim Michael",
+      "title": "EVP, Chief Digital Officer",
+      "trade_type": "P - Purchase",
+      "price": "16.50",
+      "qty": "15000",
+      "owned": "182878",
+      "delta_own": "+9%",
+      "value": "247500",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-16",
+      "filing_time": "08:02",
+      "trade_date": "2026-03-13",
+      "ticker": "MBX",
+      "company": "Mbx Biosciences, Inc.",
+      "insider_name": "Hawryluk P. Kent",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "28.41",
+      "qty": "18500",
+      "owned": "1215051",
+      "delta_own": "+2%",
+      "value": "525663",
       "cluster_buy": false
     }
   ]

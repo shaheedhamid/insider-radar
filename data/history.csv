@@ -5443,3 +5443,5 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-13,19:59,2026-03-11,STAA,Staar Surgical Co,"Broadwood Partners, L.P.","Dir, 10%",P - Purchase,18.30,670213,32273584,+2%,12266545,False
 2026-03-13,19:54,2026-03-11,SNDA,"Sonida Senior Living, Inc.",Simanovsky Michael,"Dir, 10%",P - Purchase,26.74,3739716,2488273,-299%,100000006,False
 2026-03-13,19:52,2026-03-13,GWRS,"Global Water Resources, Inc.",Cohn Andrew M.,Dir,P - Purchase,7.20,18305,2603134,+1%,131796,False
+2026-03-16,08:42,2026-03-12,CTEV,Claritev Corp,Kim Michael,"EVP, Chief Digital Officer",P - Purchase,16.50,15000,182878,+9%,247500,False
+2026-03-16,08:02,2026-03-13,MBX,"Mbx Biosciences, Inc.",Hawryluk P. Kent,"Pres, CEO",P - Purchase,28.41,18500,1215051,+2%,525663,False
