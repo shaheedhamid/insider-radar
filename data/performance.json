@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-16",
-  "entry_count": 559,
+  "entry_count": 564,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -3196,10 +3196,10 @@
         "2026-03-11": 7.95,
         "2026-03-12": 8.0,
         "2026-03-13": 8.18,
-        "2026-03-16": 8.18
+        "2026-03-16": 8.26
       },
-      "latest_price": 8.18,
-      "return_pct": 16.86,
+      "latest_price": 8.26,
+      "return_pct": 18.0,
       "last_snapshot": "2026-03-16"
     },
     {
@@ -3221,10 +3221,10 @@
         "2026-03-11": 7.95,
         "2026-03-12": 8.0,
         "2026-03-13": 8.18,
-        "2026-03-16": 8.18
+        "2026-03-16": 8.26
       },
-      "latest_price": 8.18,
-      "return_pct": 16.86,
+      "latest_price": 8.26,
+      "return_pct": 18.0,
       "last_snapshot": "2026-03-16"
     },
     {
@@ -3246,10 +3246,10 @@
         "2026-03-11": 7.95,
         "2026-03-12": 8.0,
         "2026-03-13": 8.18,
-        "2026-03-16": 8.18
+        "2026-03-16": 8.26
       },
-      "latest_price": 8.18,
-      "return_pct": 16.86,
+      "latest_price": 8.26,
+      "return_pct": 18.0,
       "last_snapshot": "2026-03-16"
     },
     {
@@ -7082,10 +7082,10 @@
         "2026-03-11": 4.16,
         "2026-03-12": 4.16,
         "2026-03-13": 4.408,
-        "2026-03-16": 4.41
+        "2026-03-16": 4.3
       },
-      "latest_price": 4.41,
-      "return_pct": 10.25,
+      "latest_price": 4.3,
+      "return_pct": 7.5,
       "last_snapshot": "2026-03-16"
     },
     {
@@ -10514,10 +10514,10 @@
       "snapshots": {
         "2026-03-12": 8.0,
         "2026-03-13": 8.18,
-        "2026-03-16": 8.18
+        "2026-03-16": 8.26
       },
-      "latest_price": 8.18,
-      "return_pct": 3.41,
+      "latest_price": 8.26,
+      "return_pct": 4.42,
       "last_snapshot": "2026-03-16"
     },
     {
@@ -13314,6 +13314,106 @@
       },
       "latest_price": 28,
       "return_pct": -1.44,
+      "last_snapshot": "2026-03-16"
+    },
+    {
+      "id": "US|SENS|2026-03-13|Roeder Douglas A",
+      "market": "US",
+      "ticker": "SENS",
+      "yf_symbol": "SENS",
+      "company": "Senseonics Holdings, Inc.",
+      "insider_name": "Roeder Douglas A",
+      "title": "Dir",
+      "trade_date": "2026-03-13",
+      "trade_price": 5.73,
+      "value": 100275.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-16": 5.64
+      },
+      "latest_price": 5.64,
+      "return_pct": -1.57,
+      "last_snapshot": "2026-03-16"
+    },
+    {
+      "id": "US|SENS|2026-03-13|Goodnow Timothy T",
+      "market": "US",
+      "ticker": "SENS",
+      "yf_symbol": "SENS",
+      "company": "Senseonics Holdings, Inc.",
+      "insider_name": "Goodnow Timothy T",
+      "title": "Pres, CEO",
+      "trade_date": "2026-03-13",
+      "trade_price": 5.79,
+      "value": 99733.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-16": 5.64
+      },
+      "latest_price": 5.64,
+      "return_pct": -2.59,
+      "last_snapshot": "2026-03-16"
+    },
+    {
+      "id": "US|GRNT|2026-03-12|McCartney John",
+      "market": "US",
+      "ticker": "GRNT",
+      "yf_symbol": "GRNT",
+      "company": "Granite Ridge Resources, Inc.",
+      "insider_name": "McCartney John",
+      "title": "Dir",
+      "trade_date": "2026-03-12",
+      "trade_price": 5.16,
+      "value": 25800.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-16": 5.18
+      },
+      "latest_price": 5.18,
+      "return_pct": 0.39,
+      "last_snapshot": "2026-03-16"
+    },
+    {
+      "id": "US|BWFG|2026-03-13|Seidman Lawrence B",
+      "market": "US",
+      "ticker": "BWFG",
+      "yf_symbol": "BWFG",
+      "company": "Bankwell Financial Group, Inc.",
+      "insider_name": "Seidman Lawrence B",
+      "title": "Dir",
+      "trade_date": "2026-03-13",
+      "trade_price": 46.96,
+      "value": 469599.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-16": 46.83
+      },
+      "latest_price": 46.83,
+      "return_pct": -0.28,
+      "last_snapshot": "2026-03-16"
+    },
+    {
+      "id": "US|ROCK|2026-03-13|Bosway William T",
+      "market": "US",
+      "ticker": "ROCK",
+      "yf_symbol": "ROCK",
+      "company": "Gibraltar Industries, Inc.",
+      "insider_name": "Bosway William T",
+      "title": "Pres, CEO",
+      "trade_date": "2026-03-13",
+      "trade_price": 41.37,
+      "value": 41370.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-16": 41.27
+      },
+      "latest_price": 41.27,
+      "return_pct": -0.24,
       "last_snapshot": "2026-03-16"
     }
   ]

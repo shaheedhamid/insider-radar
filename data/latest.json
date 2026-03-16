@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-16T13:23:18Z",
-  "trade_count": 5446,
+  "last_updated": "2026-03-16T15:05:29Z",
+  "trade_count": 5451,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -87137,6 +87137,86 @@
       "delta_own": "+2%",
       "value": "525663",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-16",
+      "filing_time": "10:44",
+      "trade_date": "2026-03-13",
+      "ticker": "SENS",
+      "company": "Senseonics Holdings, Inc.",
+      "insider_name": "Roeder Douglas A",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "5.73",
+      "qty": "17500",
+      "owned": "119731",
+      "delta_own": "+17%",
+      "value": "100275",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-16",
+      "filing_time": "10:44",
+      "trade_date": "2026-03-13",
+      "ticker": "SENS",
+      "company": "Senseonics Holdings, Inc.",
+      "insider_name": "Goodnow Timothy T",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "5.79",
+      "qty": "17225",
+      "owned": "651243",
+      "delta_own": "+3%",
+      "value": "99733",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-16",
+      "filing_time": "10:27",
+      "trade_date": "2026-03-12",
+      "ticker": "GRNT",
+      "company": "Granite Ridge Resources, Inc.",
+      "insider_name": "McCartney John",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "5.16",
+      "qty": "5000",
+      "owned": "136143",
+      "delta_own": "+4%",
+      "value": "25800",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-16",
+      "filing_time": "09:37",
+      "trade_date": "2026-03-13",
+      "ticker": "BWFG",
+      "company": "Bankwell Financial Group, Inc.",
+      "insider_name": "Seidman Lawrence B",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "46.96",
+      "qty": "10000",
+      "owned": "845955",
+      "delta_own": "+1%",
+      "value": "469599",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-16",
+      "filing_time": "09:26",
+      "trade_date": "2026-03-13",
+      "ticker": "ROCK",
+      "company": "Gibraltar Industries, Inc.",
+      "insider_name": "Bosway William T",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "41.37",
+      "qty": "1000",
+      "owned": "230585",
+      "delta_own": "0%",
+      "value": "41370",
+      "cluster_buy": true
     }
   ]
 }

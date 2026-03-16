@@ -5445,3 +5445,8 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-13,19:52,2026-03-13,GWRS,"Global Water Resources, Inc.",Cohn Andrew M.,Dir,P - Purchase,7.20,18305,2603134,+1%,131796,False
 2026-03-16,08:42,2026-03-12,CTEV,Claritev Corp,Kim Michael,"EVP, Chief Digital Officer",P - Purchase,16.50,15000,182878,+9%,247500,False
 2026-03-16,08:02,2026-03-13,MBX,"Mbx Biosciences, Inc.",Hawryluk P. Kent,"Pres, CEO",P - Purchase,28.41,18500,1215051,+2%,525663,False
+2026-03-16,10:44,2026-03-13,SENS,"Senseonics Holdings, Inc.",Roeder Douglas A,Dir,P - Purchase,5.73,17500,119731,+17%,100275,True
+2026-03-16,10:44,2026-03-13,SENS,"Senseonics Holdings, Inc.",Goodnow Timothy T,"Pres, CEO",P - Purchase,5.79,17225,651243,+3%,99733,True
+2026-03-16,10:27,2026-03-12,GRNT,"Granite Ridge Resources, Inc.",McCartney John,Dir,P - Purchase,5.16,5000,136143,+4%,25800,True
+2026-03-16,09:37,2026-03-13,BWFG,"Bankwell Financial Group, Inc.",Seidman Lawrence B,Dir,P - Purchase,46.96,10000,845955,+1%,469599,False
+2026-03-16,09:26,2026-03-13,ROCK,"Gibraltar Industries, Inc.",Bosway William T,"Pres, CEO",P - Purchase,41.37,1000,230585,0%,41370,True
