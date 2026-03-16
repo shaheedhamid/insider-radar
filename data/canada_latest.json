@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-16T21:30:06Z",
-  "trade_count": 2562,
+  "last_updated": "2026-03-16T22:00:22Z",
+  "trade_count": 2563,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -38541,6 +38541,22 @@
       "qty": "6500",
       "price": "4.5400",
       "value": "29510",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4682087",
+      "trade_date": "2026-03-16",
+      "filing_date": "2026-03-16",
+      "company": "Doseology Sciences Inc.",
+      "ticker": "MOOD.CN",
+      "insider_name": "Jackson, Chris",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "20000",
+      "price": "0.7890",
+      "value": "15780",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
