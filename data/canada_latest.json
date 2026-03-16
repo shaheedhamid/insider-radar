@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-16T16:00:56Z",
-  "trade_count": 2553,
+  "last_updated": "2026-03-16T19:00:20Z",
+  "trade_count": 2556,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -38400,6 +38400,54 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4681714",
+      "trade_date": "2026-03-16",
+      "filing_date": "2026-03-16",
+      "company": "Copper Giant Resources Corp.",
+      "ticker": "CGNT",
+      "insider_name": "Giustra, Frank",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "625000",
+      "price": "0.7980",
+      "value": "498750",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4681624",
+      "trade_date": "2026-03-16",
+      "filing_date": "2026-03-16",
+      "company": "Killam Apartment Real Estate Investment Trust",
+      "ticker": "",
+      "insider_name": "Walt, Manfred",
+      "title": "Director",
+      "security": "Trust Units",
+      "qty": "1069",
+      "price": "16.2000",
+      "value": "17317",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4681548",
+      "trade_date": "2026-03-16",
+      "filing_date": "2026-03-16",
+      "company": "The Descartes Systems Group Inc.",
+      "ticker": "DSG",
+      "insider_name": "Mowat, Jane",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "500",
+      "price": "97.7420",
+      "value": "48871",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
