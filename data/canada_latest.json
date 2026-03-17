@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-17T19:00:17Z",
-  "trade_count": 2566,
+  "last_updated": "2026-03-17T22:00:22Z",
+  "trade_count": 2567,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -38605,6 +38605,22 @@
       "qty": "250000",
       "price": "0.5800",
       "value": "145000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4682962",
+      "trade_date": "2026-03-17",
+      "filing_date": "2026-03-17",
+      "company": "Wheaton Precious Metals Corp. formerly Silver Wheaton Corp.",
+      "ticker": "",
+      "insider_name": "Hodaly, Haytham Henry",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "5000",
+      "price": "189.9990",
+      "value": "949995",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
