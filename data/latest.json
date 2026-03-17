@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-17T20:44:48Z",
-  "trade_count": 5518,
+  "last_updated": "2026-03-17T21:42:43Z",
+  "trade_count": 5521,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -88288,6 +88288,54 @@
       "owned": "40700",
       "delta_own": "+4%",
       "value": "41242",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-17",
+      "filing_time": "17:31",
+      "trade_date": "2026-03-13",
+      "ticker": "SI",
+      "company": "Shoulder Innovations, Inc.",
+      "insider_name": "Ball Robert Joseph",
+      "title": "CEO, Exec COB",
+      "trade_type": "P - Purchase",
+      "price": "15.18",
+      "qty": "2200",
+      "owned": "278866",
+      "delta_own": "+1%",
+      "value": "33392",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-17",
+      "filing_time": "17:20",
+      "trade_date": "2026-03-17",
+      "ticker": "PSX",
+      "company": "Phillips 66",
+      "insider_name": "Meyers Kevin Omar",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "173.20",
+      "qty": "175",
+      "owned": "16624",
+      "delta_own": "+1%",
+      "value": "30310",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-17",
+      "filing_time": "16:54",
+      "trade_date": "2026-03-13",
+      "ticker": "AVO",
+      "company": "Mission Produce, Inc.",
+      "insider_name": "Globalharvest Holdings Venture Ltd",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "11.89",
+      "qty": "217274",
+      "owned": "9987882",
+      "delta_own": "+2%",
+      "value": "2583903",
       "cluster_buy": false
     }
   ]

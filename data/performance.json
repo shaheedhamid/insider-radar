@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-17",
-  "entry_count": 630,
+  "entry_count": 633,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -15324,6 +15324,66 @@
       },
       "latest_price": 25.32,
       "return_pct": 2.22,
+      "last_snapshot": "2026-03-17"
+    },
+    {
+      "id": "US|SI|2026-03-13|Ball Robert Joseph",
+      "market": "US",
+      "ticker": "SI",
+      "yf_symbol": "SI",
+      "company": "Shoulder Innovations, Inc.",
+      "insider_name": "Ball Robert Joseph",
+      "title": "CEO, Exec COB",
+      "trade_date": "2026-03-13",
+      "trade_price": 15.18,
+      "value": 33392.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-17": 15.28
+      },
+      "latest_price": 15.28,
+      "return_pct": 0.66,
+      "last_snapshot": "2026-03-17"
+    },
+    {
+      "id": "US|PSX|2026-03-17|Meyers Kevin Omar",
+      "market": "US",
+      "ticker": "PSX",
+      "yf_symbol": "PSX",
+      "company": "Phillips 66",
+      "insider_name": "Meyers Kevin Omar",
+      "title": "Dir",
+      "trade_date": "2026-03-17",
+      "trade_price": 173.2,
+      "value": 30310.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-17": 173.48
+      },
+      "latest_price": 173.48,
+      "return_pct": 0.16,
+      "last_snapshot": "2026-03-17"
+    },
+    {
+      "id": "US|AVO|2026-03-13|Globalharvest Holdings Venture Ltd",
+      "market": "US",
+      "ticker": "AVO",
+      "yf_symbol": "AVO",
+      "company": "Mission Produce, Inc.",
+      "insider_name": "Globalharvest Holdings Venture Ltd",
+      "title": "10%",
+      "trade_date": "2026-03-13",
+      "trade_price": 11.89,
+      "value": 2583903.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-17": 11.82
+      },
+      "latest_price": 11.82,
+      "return_pct": -0.59,
       "last_snapshot": "2026-03-17"
     }
   ]

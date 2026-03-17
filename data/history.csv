@@ -5517,3 +5517,6 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-17,16:06,2026-03-13,POOL,Pool Corp,Perez De La Mesa Manuel J,Dir,P - Purchase,205.00,5000,938155,+1%,1025000,False
 2026-03-17,16:05,2026-03-17,SOFI,"Sofi Technologies, Inc.",Noto Anthony,CEO,P - Purchase,17.32,28900,11704352,0%,500516,False
 2026-03-17,15:37,2026-03-02,CSTM,Constellium Se,Deslarzes Jean-Christophe,Dir,P - Purchase,24.77,1665,40700,+4%,41242,False
+2026-03-17,17:31,2026-03-13,SI,"Shoulder Innovations, Inc.",Ball Robert Joseph,"CEO, Exec COB",P - Purchase,15.18,2200,278866,+1%,33392,False
+2026-03-17,17:20,2026-03-17,PSX,Phillips 66,Meyers Kevin Omar,Dir,P - Purchase,173.20,175,16624,+1%,30310,False
+2026-03-17,16:54,2026-03-13,AVO,"Mission Produce, Inc.",Globalharvest Holdings Venture Ltd,10%,P - Purchase,11.89,217274,9987882,+2%,2583903,False
