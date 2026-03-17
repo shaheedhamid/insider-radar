@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-17T11:46:11Z",
-  "trade_count": 5497,
+  "last_updated": "2026-03-17T13:22:17Z",
+  "trade_count": 5498,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -87953,6 +87953,22 @@
       "delta_own": "+1%",
       "value": "66033",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-17",
+      "filing_time": "08:46",
+      "trade_date": "2026-03-13",
+      "ticker": "CRTO",
+      "company": "Criteo S.A.",
+      "insider_name": "Van Der Kooi Frederik",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "17.81",
+      "qty": "5000",
+      "owned": "26600",
+      "delta_own": "+23%",
+      "value": "89050",
+      "cluster_buy": false
     }
   ]
 }
