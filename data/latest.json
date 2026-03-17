@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-17T22:38:30Z",
-  "trade_count": 5526,
+  "last_updated": "2026-03-17T23:37:07Z",
+  "trade_count": 5528,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -88064,7 +88064,7 @@
       "owned": "9310",
       "delta_own": "+12%",
       "value": "26055",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-17",
@@ -88417,6 +88417,38 @@
       "delta_own": "+86%",
       "value": "119275",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-17",
+      "filing_time": "19:20",
+      "trade_date": "2026-03-13",
+      "ticker": "RDDT",
+      "company": "Reddit, Inc.",
+      "insider_name": "Farrell Sarah E",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "132.26",
+      "qty": "10500",
+      "owned": "68899",
+      "delta_own": "+18%",
+      "value": "1388730",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-17",
+      "filing_time": "18:50",
+      "trade_date": "2026-03-13",
+      "ticker": "CBZ",
+      "company": "Cbiz, Inc.",
+      "insider_name": "Lakhia Brad S.",
+      "title": "SVP, CFO",
+      "trade_type": "P - Purchase",
+      "price": "25.97",
+      "qty": "12775",
+      "owned": "148480",
+      "delta_own": "+9%",
+      "value": "331719",
+      "cluster_buy": true
     }
   ]
 }

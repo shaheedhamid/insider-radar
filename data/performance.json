@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-17",
-  "entry_count": 638,
+  "entry_count": 640,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -3298,10 +3298,10 @@
         "2026-03-12": 8.0,
         "2026-03-13": 8.18,
         "2026-03-16": 8.45,
-        "2026-03-17": 8.52
+        "2026-03-17": 8.45
       },
-      "latest_price": 8.52,
-      "return_pct": 21.71,
+      "latest_price": 8.45,
+      "return_pct": 20.71,
       "last_snapshot": "2026-03-17"
     },
     {
@@ -3324,10 +3324,10 @@
         "2026-03-12": 8.0,
         "2026-03-13": 8.18,
         "2026-03-16": 8.45,
-        "2026-03-17": 8.52
+        "2026-03-17": 8.45
       },
-      "latest_price": 8.52,
-      "return_pct": 21.71,
+      "latest_price": 8.45,
+      "return_pct": 20.71,
       "last_snapshot": "2026-03-17"
     },
     {
@@ -3350,10 +3350,10 @@
         "2026-03-12": 8.0,
         "2026-03-13": 8.18,
         "2026-03-16": 8.45,
-        "2026-03-17": 8.52
+        "2026-03-17": 8.45
       },
-      "latest_price": 8.52,
-      "return_pct": 21.71,
+      "latest_price": 8.45,
+      "return_pct": 20.71,
       "last_snapshot": "2026-03-17"
     },
     {
@@ -10915,10 +10915,10 @@
         "2026-03-12": 8.0,
         "2026-03-13": 8.18,
         "2026-03-16": 8.45,
-        "2026-03-17": 8.52
+        "2026-03-17": 8.45
       },
-      "latest_price": 8.52,
-      "return_pct": 7.71,
+      "latest_price": 8.45,
+      "return_pct": 6.83,
       "last_snapshot": "2026-03-17"
     },
     {
@@ -12617,10 +12617,10 @@
         "2026-03-12": 62.0,
         "2026-03-13": 61.0,
         "2026-03-16": 61.0,
-        "2026-03-17": 61.61
+        "2026-03-17": 61.0
       },
-      "latest_price": 61.61,
-      "return_pct": -0.39,
+      "latest_price": 61.0,
+      "return_pct": -1.37,
       "last_snapshot": "2026-03-17"
     },
     {
@@ -13036,10 +13036,10 @@
       "snapshots": {
         "2026-03-13": 0.68,
         "2026-03-16": 0.7301,
-        "2026-03-17": 0.7
+        "2026-03-17": 0.73
       },
-      "latest_price": 0.7,
-      "return_pct": 191.67,
+      "latest_price": 0.73,
+      "return_pct": 204.17,
       "last_snapshot": "2026-03-17"
     },
     {
@@ -14802,10 +14802,10 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-17": 8.52
+        "2026-03-17": 8.45
       },
-      "latest_price": 8.52,
-      "return_pct": 3.4,
+      "latest_price": 8.45,
+      "return_pct": 2.55,
       "last_snapshot": "2026-03-17"
     },
     {
@@ -15484,6 +15484,46 @@
       },
       "latest_price": 47.95,
       "return_pct": 0.5,
+      "last_snapshot": "2026-03-17"
+    },
+    {
+      "id": "US|RDDT|2026-03-13|Farrell Sarah E",
+      "market": "US",
+      "ticker": "RDDT",
+      "yf_symbol": "RDDT",
+      "company": "Reddit, Inc.",
+      "insider_name": "Farrell Sarah E",
+      "title": "Dir",
+      "trade_date": "2026-03-13",
+      "trade_price": 132.26,
+      "value": 1388730.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-17": 140
+      },
+      "latest_price": 140,
+      "return_pct": 5.85,
+      "last_snapshot": "2026-03-17"
+    },
+    {
+      "id": "US|CBZ|2026-03-13|Lakhia Brad S.",
+      "market": "US",
+      "ticker": "CBZ",
+      "yf_symbol": "CBZ",
+      "company": "Cbiz, Inc.",
+      "insider_name": "Lakhia Brad S.",
+      "title": "SVP, CFO",
+      "trade_date": "2026-03-13",
+      "trade_price": 25.97,
+      "value": 331719.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-17": 25.71
+      },
+      "latest_price": 25.71,
+      "return_pct": -1.0,
       "last_snapshot": "2026-03-17"
     }
   ]

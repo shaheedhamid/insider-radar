@@ -5525,3 +5525,5 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-17,17:44,2026-03-17,WEST,Westrock Coffee Co,Ford Joe T,Dir,P - Purchase,4.60,55000,4400192,+1%,253000,False
 2026-03-17,17:42,2026-03-13,SI,"Shoulder Innovations, Inc.",Points Jeffrey S.,CFO,P - Purchase,15.00,2000,70835,+3%,30000,True
 2026-03-17,17:42,2026-03-13,CBSH,Commerce Bancshares Inc /Mo/,Dunn Timothy S,Dir,P - Purchase,47.71,2500,5403,+86%,119275,False
+2026-03-17,19:20,2026-03-13,RDDT,"Reddit, Inc.",Farrell Sarah E,Dir,P - Purchase,132.26,10500,68899,+18%,1388730,False
+2026-03-17,18:50,2026-03-13,CBZ,"Cbiz, Inc.",Lakhia Brad S.,"SVP, CFO",P - Purchase,25.97,12775,148480,+9%,331719,True
