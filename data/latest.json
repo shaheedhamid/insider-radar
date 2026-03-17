@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-17T13:22:17Z",
-  "trade_count": 5498,
+  "last_updated": "2026-03-17T15:01:56Z",
+  "trade_count": 5499,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -87969,6 +87969,22 @@
       "delta_own": "+23%",
       "value": "89050",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-17",
+      "filing_time": "09:43",
+      "trade_date": "2026-02-20",
+      "ticker": "CMTV",
+      "company": "Community Bancorp /Vt",
+      "insider_name": "Laforce David",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "30.19",
+      "qty": "1035",
+      "owned": "9859",
+      "delta_own": "+12%",
+      "value": "31243",
+      "cluster_buy": true
     }
   ]
 }
