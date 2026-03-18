@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-18T11:49:48Z",
-  "trade_count": 5531,
+  "last_updated": "2026-03-18T13:23:10Z",
+  "trade_count": 5533,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -86016,7 +86016,7 @@
       "owned": "20651",
       "delta_own": "+20%",
       "value": "45235",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-09",
@@ -88497,6 +88497,38 @@
       "delta_own": "+4%",
       "value": "1225101",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-18",
+      "filing_time": "09:14",
+      "trade_date": "2026-03-17",
+      "ticker": "GPGI",
+      "company": "Gpgi, Inc.",
+      "insider_name": "Knott Thomas R.",
+      "title": "See remarks, 10%",
+      "trade_type": "P - Purchase",
+      "price": "17.08",
+      "qty": "44000",
+      "owned": "50214372",
+      "delta_own": "0%",
+      "value": "751520",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-18",
+      "filing_time": "08:12",
+      "trade_date": "2026-03-17",
+      "ticker": "ACNT",
+      "company": "Ascent Industries Co.",
+      "insider_name": "Kitchen John Bryan",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "12.98",
+      "qty": "7595",
+      "owned": "79985",
+      "delta_own": "+10%",
+      "value": "98568",
+      "cluster_buy": true
     }
   ]
 }

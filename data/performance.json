@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-18",
-  "entry_count": 643,
+  "entry_count": 645,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -16221,6 +16221,46 @@
       },
       "latest_price": 3.59,
       "return_pct": 16.94,
+      "last_snapshot": "2026-03-18"
+    },
+    {
+      "id": "US|GPGI|2026-03-17|Knott Thomas R.",
+      "market": "US",
+      "ticker": "GPGI",
+      "yf_symbol": "GPGI",
+      "company": "Gpgi, Inc.",
+      "insider_name": "Knott Thomas R.",
+      "title": "See remarks, 10%",
+      "trade_date": "2026-03-17",
+      "trade_price": 17.08,
+      "value": 751520.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-18": 17.28
+      },
+      "latest_price": 17.28,
+      "return_pct": 1.17,
+      "last_snapshot": "2026-03-18"
+    },
+    {
+      "id": "US|ACNT|2026-03-17|Kitchen John Bryan",
+      "market": "US",
+      "ticker": "ACNT",
+      "yf_symbol": "ACNT",
+      "company": "Ascent Industries Co.",
+      "insider_name": "Kitchen John Bryan",
+      "title": "CEO",
+      "trade_date": "2026-03-17",
+      "trade_price": 12.98,
+      "value": 98568.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-18": 12.69
+      },
+      "latest_price": 12.69,
+      "return_pct": -2.23,
       "last_snapshot": "2026-03-18"
     }
   ]
