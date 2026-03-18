@@ -5542,3 +5542,10 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-18,11:16,2026-03-16,FSUN,Firstsun Capital Bancorp,Murphy Peter E,Dir,P - Purchase,35.28,1500,1550,>999%,52917,False
 2026-03-18,14:13,2026-03-17,HBIO,Harvard Bioscience Inc,Denelsky Stephen J,Dir,P - Purchase,4.87,10000,21000,+91%,48700,True
 2026-03-18,13:58,2026-03-18,BW,"Babcock & Wilcox Enterprises, Inc.",Young Kenneth M,CEO,P - Purchase,15.15,7000,1929279,0%,106015,False
+2026-03-18,16:37,2026-03-16,WAT,Waters Corp /De/,Jiang Wei,Dir,P - Purchase,289.46,500,3441,+17%,144730,False
+2026-03-18,16:30,2026-03-17,ARKO,Arko Corp.,Jeff Charles Galagher,"CFO, EVP",P - Purchase,5.07,40000,40000,New,202762,False
+2026-03-18,16:29,2026-03-17,XZO,"Exzeo Group, Inc.",Patel Paresh,CEO,P - Purchase,15.99,4000,1576013,0%,63960,False
+2026-03-18,16:27,2026-03-12,ORBS,Eightco Holdings Inc.,"Bitmine Immersion Technologies, Inc.",10%,P - Purchase,0.89,86956513,100655143,+635%,77043471,False
+2026-03-18,16:10,2026-03-16,AGYS,Agilysys Inc,Keating Melvin L,Dir,P - Purchase,68.22,400,35407,+1%,27289,False
+2026-03-18,15:42,2026-03-18,WSBC,Wesbanco Inc,Stemler Kerry M,Dir,P - Purchase,32.77,940,127212,+1%,30801,False
+2026-03-18,15:37,2026-03-03,EXFY,"Expensify, Inc.",McLaughlin Steven J.,10%,P - Purchase,0.94,2263444,13987003,+19%,2134309,False

@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-18",
-  "entry_count": 655,
+  "entry_count": 662,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -3614,10 +3614,10 @@
         "2026-03-13": 0.4395,
         "2026-03-16": 0.45,
         "2026-03-17": 0.452,
-        "2026-03-18": 0.435
+        "2026-03-18": 0.42
       },
-      "latest_price": 0.435,
-      "return_pct": 27.94,
+      "latest_price": 0.42,
+      "return_pct": 23.53,
       "last_snapshot": "2026-03-18"
     },
     {
@@ -13555,10 +13555,10 @@
         "2026-03-13": 0.68,
         "2026-03-16": 0.7301,
         "2026-03-17": 0.73,
-        "2026-03-18": 0.67
+        "2026-03-18": 0.65
       },
-      "latest_price": 0.67,
-      "return_pct": 179.17,
+      "latest_price": 0.65,
+      "return_pct": 170.83,
       "last_snapshot": "2026-03-18"
     },
     {
@@ -16461,6 +16461,146 @@
       },
       "latest_price": 14.9,
       "return_pct": -1.65,
+      "last_snapshot": "2026-03-18"
+    },
+    {
+      "id": "US|WAT|2026-03-16|Jiang Wei",
+      "market": "US",
+      "ticker": "WAT",
+      "yf_symbol": "WAT",
+      "company": "Waters Corp /De/",
+      "insider_name": "Jiang Wei",
+      "title": "Dir",
+      "trade_date": "2026-03-16",
+      "trade_price": 289.46,
+      "value": 144730.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-18": 296.99
+      },
+      "latest_price": 296.99,
+      "return_pct": 2.6,
+      "last_snapshot": "2026-03-18"
+    },
+    {
+      "id": "US|ARKO|2026-03-17|Jeff Charles Galagher",
+      "market": "US",
+      "ticker": "ARKO",
+      "yf_symbol": "ARKO",
+      "company": "Arko Corp.",
+      "insider_name": "Jeff Charles Galagher",
+      "title": "CFO, EVP",
+      "trade_date": "2026-03-17",
+      "trade_price": 5.07,
+      "value": 202762.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-18": 5.06
+      },
+      "latest_price": 5.06,
+      "return_pct": -0.2,
+      "last_snapshot": "2026-03-18"
+    },
+    {
+      "id": "US|XZO|2026-03-17|Patel Paresh",
+      "market": "US",
+      "ticker": "XZO",
+      "yf_symbol": "XZO",
+      "company": "Exzeo Group, Inc.",
+      "insider_name": "Patel Paresh",
+      "title": "CEO",
+      "trade_date": "2026-03-17",
+      "trade_price": 15.99,
+      "value": 63960.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-18": 15.89
+      },
+      "latest_price": 15.89,
+      "return_pct": -0.63,
+      "last_snapshot": "2026-03-18"
+    },
+    {
+      "id": "US|ORBS|2026-03-12|Bitmine Immersion Technologies, Inc.",
+      "market": "US",
+      "ticker": "ORBS",
+      "yf_symbol": "ORBS",
+      "company": "Eightco Holdings Inc.",
+      "insider_name": "Bitmine Immersion Technologies, Inc.",
+      "title": "10%",
+      "trade_date": "2026-03-12",
+      "trade_price": 0.89,
+      "value": 77043471.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-18": 0.9594
+      },
+      "latest_price": 0.9594,
+      "return_pct": 7.8,
+      "last_snapshot": "2026-03-18"
+    },
+    {
+      "id": "US|AGYS|2026-03-16|Keating Melvin L",
+      "market": "US",
+      "ticker": "AGYS",
+      "yf_symbol": "AGYS",
+      "company": "Agilysys Inc",
+      "insider_name": "Keating Melvin L",
+      "title": "Dir",
+      "trade_date": "2026-03-16",
+      "trade_price": 68.22,
+      "value": 27289.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-18": 68.02
+      },
+      "latest_price": 68.02,
+      "return_pct": -0.29,
+      "last_snapshot": "2026-03-18"
+    },
+    {
+      "id": "US|WSBC|2026-03-18|Stemler Kerry M",
+      "market": "US",
+      "ticker": "WSBC",
+      "yf_symbol": "WSBC",
+      "company": "Wesbanco Inc",
+      "insider_name": "Stemler Kerry M",
+      "title": "Dir",
+      "trade_date": "2026-03-18",
+      "trade_price": 32.77,
+      "value": 30801.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-18": 33.07
+      },
+      "latest_price": 33.07,
+      "return_pct": 0.92,
+      "last_snapshot": "2026-03-18"
+    },
+    {
+      "id": "US|EXFY|2026-03-03|McLaughlin Steven J.",
+      "market": "US",
+      "ticker": "EXFY",
+      "yf_symbol": "EXFY",
+      "company": "Expensify, Inc.",
+      "insider_name": "McLaughlin Steven J.",
+      "title": "10%",
+      "trade_date": "2026-03-03",
+      "trade_price": 0.94,
+      "value": 2134309.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-18": 0.7471
+      },
+      "latest_price": 0.7471,
+      "return_pct": -20.52,
       "last_snapshot": "2026-03-18"
     }
   ]

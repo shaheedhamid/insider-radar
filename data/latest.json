@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-18T19:07:37Z",
-  "trade_count": 5543,
+  "last_updated": "2026-03-18T20:42:45Z",
+  "trade_count": 5550,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -83856,7 +83856,7 @@
       "owned": "3302",
       "delta_own": "+43%",
       "value": "306340",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-10",
@@ -85760,7 +85760,7 @@
       "owned": "127335",
       "delta_own": "+2%",
       "value": "38375",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-10",
@@ -88688,6 +88688,118 @@
       "owned": "1929279",
       "delta_own": "0%",
       "value": "106015",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-18",
+      "filing_time": "16:37",
+      "trade_date": "2026-03-16",
+      "ticker": "WAT",
+      "company": "Waters Corp /De/",
+      "insider_name": "Jiang Wei",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "289.46",
+      "qty": "500",
+      "owned": "3441",
+      "delta_own": "+17%",
+      "value": "144730",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-18",
+      "filing_time": "16:30",
+      "trade_date": "2026-03-17",
+      "ticker": "ARKO",
+      "company": "Arko Corp.",
+      "insider_name": "Jeff Charles Galagher",
+      "title": "CFO, EVP",
+      "trade_type": "P - Purchase",
+      "price": "5.07",
+      "qty": "40000",
+      "owned": "40000",
+      "delta_own": "New",
+      "value": "202762",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-18",
+      "filing_time": "16:29",
+      "trade_date": "2026-03-17",
+      "ticker": "XZO",
+      "company": "Exzeo Group, Inc.",
+      "insider_name": "Patel Paresh",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "15.99",
+      "qty": "4000",
+      "owned": "1576013",
+      "delta_own": "0%",
+      "value": "63960",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-18",
+      "filing_time": "16:27",
+      "trade_date": "2026-03-12",
+      "ticker": "ORBS",
+      "company": "Eightco Holdings Inc.",
+      "insider_name": "Bitmine Immersion Technologies, Inc.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "0.89",
+      "qty": "86956513",
+      "owned": "100655143",
+      "delta_own": "+635%",
+      "value": "77043471",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-18",
+      "filing_time": "16:10",
+      "trade_date": "2026-03-16",
+      "ticker": "AGYS",
+      "company": "Agilysys Inc",
+      "insider_name": "Keating Melvin L",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "68.22",
+      "qty": "400",
+      "owned": "35407",
+      "delta_own": "+1%",
+      "value": "27289",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-18",
+      "filing_time": "15:42",
+      "trade_date": "2026-03-18",
+      "ticker": "WSBC",
+      "company": "Wesbanco Inc",
+      "insider_name": "Stemler Kerry M",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "32.77",
+      "qty": "940",
+      "owned": "127212",
+      "delta_own": "+1%",
+      "value": "30801",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-18",
+      "filing_time": "15:37",
+      "trade_date": "2026-03-03",
+      "ticker": "EXFY",
+      "company": "Expensify, Inc.",
+      "insider_name": "McLaughlin Steven J.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "0.94",
+      "qty": "2263444",
+      "owned": "13987003",
+      "delta_own": "+19%",
+      "value": "2134309",
       "cluster_buy": false
     }
   ]
