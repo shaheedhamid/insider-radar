@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-18T13:00:41Z",
-  "trade_count": 2635,
+  "last_updated": "2026-03-18T16:00:19Z",
+  "trade_count": 2636,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -39709,6 +39709,22 @@
       "qty": "1000",
       "price": "98.4630",
       "value": "98463",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4683320",
+      "trade_date": "2026-03-18",
+      "filing_date": "2026-03-18",
+      "company": "Avante Corp.",
+      "ticker": "XX",
+      "insider_name": "Klopot, Robert",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "250000",
+      "price": "1.3900",
+      "value": "347500",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
