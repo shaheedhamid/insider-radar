@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-19",
-  "entry_count": 643,
+  "entry_count": 652,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -2824,10 +2824,10 @@
         "2026-03-16": 8.45,
         "2026-03-17": 8.45,
         "2026-03-18": 8.4,
-        "2026-03-19": 8.07
+        "2026-03-19": 8.05
       },
-      "latest_price": 8.07,
-      "return_pct": 15.29,
+      "latest_price": 8.05,
+      "return_pct": 15.0,
       "last_snapshot": "2026-03-19"
     },
     {
@@ -2852,10 +2852,10 @@
         "2026-03-16": 8.45,
         "2026-03-17": 8.45,
         "2026-03-18": 8.4,
-        "2026-03-19": 8.07
+        "2026-03-19": 8.05
       },
-      "latest_price": 8.07,
-      "return_pct": 15.29,
+      "latest_price": 8.05,
+      "return_pct": 15.0,
       "last_snapshot": "2026-03-19"
     },
     {
@@ -2880,10 +2880,10 @@
         "2026-03-16": 8.45,
         "2026-03-17": 8.45,
         "2026-03-18": 8.4,
-        "2026-03-19": 8.07
+        "2026-03-19": 8.05
       },
-      "latest_price": 8.07,
-      "return_pct": 15.29,
+      "latest_price": 8.05,
+      "return_pct": 15.0,
       "last_snapshot": "2026-03-19"
     },
     {
@@ -11039,10 +11039,10 @@
         "2026-03-16": 8.45,
         "2026-03-17": 8.45,
         "2026-03-18": 8.4,
-        "2026-03-19": 8.07
+        "2026-03-19": 8.05
       },
-      "latest_price": 8.07,
-      "return_pct": 2.02,
+      "latest_price": 8.05,
+      "return_pct": 1.77,
       "last_snapshot": "2026-03-19"
     },
     {
@@ -15278,10 +15278,10 @@
       "snapshots": {
         "2026-03-17": 8.45,
         "2026-03-18": 8.4,
-        "2026-03-19": 8.07
+        "2026-03-19": 8.05
       },
-      "latest_price": 8.07,
-      "return_pct": -2.06,
+      "latest_price": 8.05,
+      "return_pct": -2.31,
       "last_snapshot": "2026-03-19"
     },
     {
@@ -16675,6 +16675,186 @@
       },
       "latest_price": 19.7,
       "return_pct": 0.15,
+      "last_snapshot": "2026-03-19"
+    },
+    {
+      "id": "US|NBBK|2026-03-19|Campanelli Joseph P",
+      "market": "US",
+      "ticker": "NBBK",
+      "yf_symbol": "NBBK",
+      "company": "Nb Bancorp, Inc.",
+      "insider_name": "Campanelli Joseph P",
+      "title": "Pres, CEO",
+      "trade_date": "2026-03-19",
+      "trade_price": 20.16,
+      "value": 50400.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-19": 20.13
+      },
+      "latest_price": 20.13,
+      "return_pct": -0.15,
+      "last_snapshot": "2026-03-19"
+    },
+    {
+      "id": "US|NSP|2026-03-17|Sarvadi Paul J",
+      "market": "US",
+      "ticker": "NSP",
+      "yf_symbol": "NSP",
+      "company": "Insperity, Inc.",
+      "insider_name": "Sarvadi Paul J",
+      "title": "COB, CEO",
+      "trade_date": "2026-03-17",
+      "trade_price": 23.21,
+      "value": 4688790.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-19": 23.08
+      },
+      "latest_price": 23.08,
+      "return_pct": -0.56,
+      "last_snapshot": "2026-03-19"
+    },
+    {
+      "id": "US|UUU|2026-03-17|Ault Milton C III",
+      "market": "US",
+      "ticker": "UUU",
+      "yf_symbol": "UUU",
+      "company": "Universal Safety Products, Inc.",
+      "insider_name": "Ault Milton C III",
+      "title": "Dir, 10%",
+      "trade_date": "2026-03-17",
+      "trade_price": 6.1,
+      "value": 32966.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-19": 6.4
+      },
+      "latest_price": 6.4,
+      "return_pct": 4.92,
+      "last_snapshot": "2026-03-19"
+    },
+    {
+      "id": "US|AVBC|2026-03-18|Murphy Bartholomew H Jr",
+      "market": "US",
+      "ticker": "AVBC",
+      "yf_symbol": "AVBC",
+      "company": "Avidia Bancorp, Inc.",
+      "insider_name": "Murphy Bartholomew H Jr",
+      "title": "EVP, COO Off",
+      "trade_date": "2026-03-18",
+      "trade_price": 19.15,
+      "value": 28725.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-19": 19
+      },
+      "latest_price": 19,
+      "return_pct": -0.78,
+      "last_snapshot": "2026-03-19"
+    },
+    {
+      "id": "US|ORRF|2026-03-18|Brunner Brian D",
+      "market": "US",
+      "ticker": "ORRF",
+      "yf_symbol": "ORRF",
+      "company": "Orrstown Financial Services Inc",
+      "insider_name": "Brunner Brian D",
+      "title": "Dir",
+      "trade_date": "2026-03-18",
+      "trade_price": 34.02,
+      "value": 34017.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-19": 34.01
+      },
+      "latest_price": 34.01,
+      "return_pct": -0.03,
+      "last_snapshot": "2026-03-19"
+    },
+    {
+      "id": "US|CRM|2026-03-19|Alber Laura",
+      "market": "US",
+      "ticker": "CRM",
+      "yf_symbol": "CRM",
+      "company": "Salesforce, Inc.",
+      "insider_name": "Alber Laura",
+      "title": "Dir",
+      "trade_date": "2026-03-19",
+      "trade_price": 194.58,
+      "value": 500266.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-19": 194.34
+      },
+      "latest_price": 194.34,
+      "return_pct": -0.12,
+      "last_snapshot": "2026-03-19"
+    },
+    {
+      "id": "US|ZLAB|2026-03-17|Gaynor Richard",
+      "market": "US",
+      "ticker": "ZLAB",
+      "yf_symbol": "ZLAB",
+      "company": "Zai Lab Ltd",
+      "insider_name": "Gaynor Richard",
+      "title": "Dir",
+      "trade_date": "2026-03-17",
+      "trade_price": 18.91,
+      "value": 32733.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-19": 18.83
+      },
+      "latest_price": 18.83,
+      "return_pct": -0.42,
+      "last_snapshot": "2026-03-19"
+    },
+    {
+      "id": "US|REYN|2026-03-18|Stangl Rolf",
+      "market": "US",
+      "ticker": "REYN",
+      "yf_symbol": "REYN",
+      "company": "Reynolds Consumer Products Inc.",
+      "insider_name": "Stangl Rolf",
+      "title": "Dir",
+      "trade_date": "2026-03-18",
+      "trade_price": 21.06,
+      "value": 99084.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-19": 20.95
+      },
+      "latest_price": 20.95,
+      "return_pct": -0.52,
+      "last_snapshot": "2026-03-19"
+    },
+    {
+      "id": "US|CIA|2026-03-17|Stenberg Jon",
+      "market": "US",
+      "ticker": "CIA",
+      "yf_symbol": "CIA",
+      "company": "Citizens, Inc.",
+      "insider_name": "Stenberg Jon",
+      "title": "Pres, CEO",
+      "trade_date": "2026-03-17",
+      "trade_price": 4.81,
+      "value": 48075.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-19": 4.63
+      },
+      "latest_price": 4.63,
+      "return_pct": -3.74,
       "last_snapshot": "2026-03-19"
     }
   ]
