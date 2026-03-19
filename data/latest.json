@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-19T14:53:48Z",
-  "trade_count": 5553,
+  "last_updated": "2026-03-19T15:59:07Z",
+  "trade_count": 5555,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -88848,6 +88848,38 @@
       "owned": "250000",
       "delta_own": "+67%",
       "value": "37000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-19",
+      "filing_time": "11:41",
+      "trade_date": "2026-03-17",
+      "ticker": "NFBK",
+      "company": "Northfield Bancorp, Inc.",
+      "insider_name": "Stahlin Paul",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "13.19",
+      "qty": "10000",
+      "owned": "54354",
+      "delta_own": "+23%",
+      "value": "131900",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-19",
+      "filing_time": "11:35",
+      "trade_date": "2026-03-19",
+      "ticker": "AP",
+      "company": "Ampco Pittsburgh Corp",
+      "insider_name": "McBrayer Brett",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "6.67",
+      "qty": "7500",
+      "owned": "585731",
+      "delta_own": "+1%",
+      "value": "50025",
       "cluster_buy": false
     }
   ]
