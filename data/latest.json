@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-19T17:08:25Z",
-  "trade_count": 5556,
+  "last_updated": "2026-03-19T19:05:01Z",
+  "trade_count": 5557,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -88896,6 +88896,22 @@
       "owned": "244813",
       "delta_own": "+5%",
       "value": "160080",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-19",
+      "filing_time": "14:33",
+      "trade_date": "2026-03-19",
+      "ticker": "EMYB",
+      "company": "Embassy Bancorp, Inc.",
+      "insider_name": "Lesavoy Bernard M",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "19.67",
+      "qty": "1750",
+      "owned": "215489",
+      "delta_own": "+1%",
+      "value": "34415",
       "cluster_buy": false
     }
   ]
