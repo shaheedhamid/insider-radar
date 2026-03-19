@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-19T13:00:22Z",
-  "trade_count": 2651,
+  "last_updated": "2026-03-19T16:00:23Z",
+  "trade_count": 2655,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -39968,6 +39968,70 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4684177",
+      "trade_date": "2026-03-19",
+      "filing_date": "2026-03-19",
+      "company": "Altius Minerals Corporation",
+      "ticker": "ALS",
+      "insider_name": "Raguz, Mark",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "1000",
+      "price": "40.2000",
+      "value": "40200",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4684183",
+      "trade_date": "2026-03-19",
+      "filing_date": "2026-03-19",
+      "company": "Killam Apartment Real Estate Investment Trust",
+      "ticker": "",
+      "insider_name": "Walt, Manfred",
+      "title": "Director",
+      "security": "Trust Units",
+      "qty": "4000",
+      "price": "16.0000",
+      "value": "64000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4684155",
+      "trade_date": "2026-03-19",
+      "filing_date": "2026-03-19",
+      "company": "Tamarack Valley Energy Ltd.",
+      "ticker": "TVE",
+      "insider_name": "Spitzer, Robert",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "4501",
+      "price": "5.4400",
+      "value": "24485",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4684222",
+      "trade_date": "2026-03-19",
+      "filing_date": "2026-03-19",
+      "company": "Trilogy Metals Inc.",
+      "ticker": "TMQ",
+      "insider_name": "Langelaar, Olav",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "6000",
+      "price": "4.6400",
+      "value": "27839",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
