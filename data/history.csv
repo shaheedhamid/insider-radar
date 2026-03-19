@@ -5565,3 +5565,8 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-19,16:05,2026-03-17,ZLAB,Zai Lab Ltd,Gaynor Richard,Dir,P - Purchase,18.91,1731,56630,+3%,32733,False
 2026-03-19,16:03,2026-03-18,REYN,Reynolds Consumer Products Inc.,Stangl Rolf,Dir,P - Purchase,21.06,4705,39537,+14%,99084,False
 2026-03-19,15:15,2026-03-17,CIA,"Citizens, Inc.",Stenberg Jon,"Pres, CEO",P - Purchase,4.81,10000,339030,+3%,48075,False
+2026-03-19,18:17,2026-03-17,LOGC,Contextlogic Holdings Inc.,Bobbili Raja,"Dir, 10%",P - Purchase,8.60,29000,18619534,0%,249374,False
+2026-03-19,17:59,2026-03-18,RBA,Rb Global Inc.,Stein Deborah,Dir,P - Purchase,98.74,400,1400,+40%,39496,False
+2026-03-19,17:12,2026-03-19,FCNCA,First Citizens Bancshares Inc /De/,Holding Frank B Jr,"COB, CEO, 10%",P - Purchase,1550.00,98,667175,0%,151900,False
+2026-03-19,17:07,2026-03-17,CORT,Corcept Therapeutics Inc,Baker G Leonard Jr,Dir,P - Purchase,33.14,100000,5550196,+2%,3313809,False
+2026-03-19,17:05,2026-03-18,URG,Ur-Energy Inc,Walle Jade,VP FINANCE,P - Purchase,1.39,107900,251900,+75%,149981,False
