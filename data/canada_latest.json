@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-20T13:00:22Z",
-  "trade_count": 2677,
+  "last_updated": "2026-03-20T16:00:21Z",
+  "trade_count": 2678,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -40384,6 +40384,22 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4685266",
+      "trade_date": "2026-03-20",
+      "filing_date": "2026-03-20",
+      "company": "Pacifica Silver Corp.",
+      "ticker": "PSIL.CN",
+      "insider_name": "Anthony, Todd",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "50000",
+      "price": "1.0300",
+      "value": "51500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
