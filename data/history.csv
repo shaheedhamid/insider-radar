@@ -5580,3 +5580,5 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-20,09:33,2026-03-19,AIRS,"Airsculpt Technologies, Inc.",Chernett Jorey,10%,P - Purchase,2.64,77702,6753761,+1%,205133,False
 2026-03-20,11:38,2026-03-18,EML,Eastern Co,Mitarotonda James A,"Dir, 10%",P - Purchase,20.11,2000,688853,0%,40217,True
 2026-03-20,11:03,2026-03-16,SRBK,"Sr Bancorp, Inc.",Faqueri Harris M,"SVP, CFO",P - Purchase,16.40,3000,31078,+11%,49200,False
+2026-03-20,13:43,2026-03-19,KLTR,Kaltura Inc,Yekutiel Ron,CEO,P - Purchase,1.13,44100,14971723,0%,49613,False
+2026-03-20,13:41,2026-03-20,SBSW,Sibanye Stillwater Ltd,Keyter Charl,CFO,P - Purchase,11.63,148819,1975300,+8%,1730765,True

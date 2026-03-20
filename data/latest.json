@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-20T17:38:42Z",
-  "trade_count": 5581,
+  "last_updated": "2026-03-20T18:56:51Z",
+  "trade_count": 5583,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -88896,7 +88896,7 @@
       "owned": "244813",
       "delta_own": "+5%",
       "value": "160080",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-19",
@@ -89297,6 +89297,38 @@
       "delta_own": "+11%",
       "value": "49200",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-20",
+      "filing_time": "13:43",
+      "trade_date": "2026-03-19",
+      "ticker": "KLTR",
+      "company": "Kaltura Inc",
+      "insider_name": "Yekutiel Ron",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "1.13",
+      "qty": "44100",
+      "owned": "14971723",
+      "delta_own": "0%",
+      "value": "49613",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-20",
+      "filing_time": "13:41",
+      "trade_date": "2026-03-20",
+      "ticker": "SBSW",
+      "company": "Sibanye Stillwater Ltd",
+      "insider_name": "Keyter Charl",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "11.63",
+      "qty": "148819",
+      "owned": "1975300",
+      "delta_own": "+8%",
+      "value": "1730765",
+      "cluster_buy": true
     }
   ]
 }
