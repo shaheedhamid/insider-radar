@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-19T23:34:47Z",
-  "trade_count": 5573,
+  "last_updated": "2026-03-20T11:35:42Z",
+  "trade_count": 5575,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -89169,6 +89169,38 @@
       "delta_own": "+27%",
       "value": "18304680",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-19",
+      "filing_time": "21:23",
+      "trade_date": "2026-03-17",
+      "ticker": "WULF",
+      "company": "Terawulf Inc.",
+      "insider_name": "Bucella Michael C.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "15.57",
+      "qty": "4835",
+      "owned": "278387",
+      "delta_own": "+2%",
+      "value": "75291",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-19",
+      "filing_time": "19:55",
+      "trade_date": "2026-03-18",
+      "ticker": "GO",
+      "company": "Grocery Outlet Holding Corp.",
+      "insider_name": "Ragatz Erik D.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "5.79",
+      "qty": "83997",
+      "owned": "1176966",
+      "delta_own": "+8%",
+      "value": "486382",
+      "cluster_buy": true
     }
   ]
 }
