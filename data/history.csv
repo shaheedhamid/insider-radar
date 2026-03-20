@@ -5585,3 +5585,5 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-20,16:30,2026-03-18,WD,"Walker & Dunlop, Inc.",Schmaltz Dana L,Dir,P - Purchase,45.78,1000,84325,+1%,45780,False
 2026-03-20,16:17,2026-03-19,ALDX,"Aldeyra Therapeutics, Inc.",Douglas Richard,Dir,P - Purchase,1.40,70000,195000,+56%,98000,False
 2026-03-20,16:00,2026-03-18,BHM,"Bluerock Homes Trust, Inc.",Kamfar Ramin,"COB, CEO",P - Purchase,10.94,25798,53517,+93%,282113,False
+2026-03-20,17:16,2026-03-19,BBSI,Barrett Business Services Inc,Finn Mark Steven,Dir,P - Purchase,27.90,1000,18943,+6%,27903,True
+2026-03-20,16:54,2026-03-18,ACOG,Alpha Cognition Inc.,Opaleye Management Inc.,10%,P - Purchase,5.73,4575,2529918,0%,26214,False

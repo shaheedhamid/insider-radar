@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-20T20:38:38Z",
-  "trade_count": 5586,
+  "last_updated": "2026-03-20T21:35:28Z",
+  "trade_count": 5588,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -89376,6 +89376,38 @@
       "owned": "53517",
       "delta_own": "+93%",
       "value": "282113",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-20",
+      "filing_time": "17:16",
+      "trade_date": "2026-03-19",
+      "ticker": "BBSI",
+      "company": "Barrett Business Services Inc",
+      "insider_name": "Finn Mark Steven",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "27.90",
+      "qty": "1000",
+      "owned": "18943",
+      "delta_own": "+6%",
+      "value": "27903",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-20",
+      "filing_time": "16:54",
+      "trade_date": "2026-03-18",
+      "ticker": "ACOG",
+      "company": "Alpha Cognition Inc.",
+      "insider_name": "Opaleye Management Inc.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "5.73",
+      "qty": "4575",
+      "owned": "2529918",
+      "delta_own": "0%",
+      "value": "26214",
       "cluster_buy": false
     }
   ]
