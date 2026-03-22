@@ -100,91 +100,7 @@
     ]
   }
   </script>
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="style.css" />
-  <style>
-    /* Stat card accent colors */
-    .stat-card:nth-child(1)::before { background: linear-gradient(90deg, var(--blue),   transparent); }
-    .stat-card:nth-child(2)::before { background: linear-gradient(90deg, var(--orange), transparent); }
-    .stat-card:nth-child(3)::before { background: linear-gradient(90deg, var(--green),  transparent); }
-    .stat-card:nth-child(4)::before { background: linear-gradient(90deg, var(--gold),   transparent); }
-    .stat-card::after { content: ''; position: absolute; inset: 0; opacity: 0; transition: opacity .25s; pointer-events: none; }
-    .stat-card:nth-child(1)::after { background: radial-gradient(ellipse at 0% 0%, rgba(91,158,255,.07)  0%, transparent 70%); }
-    .stat-card:nth-child(2)::after { background: radial-gradient(ellipse at 0% 0%, rgba(255,112,67,.07)  0%, transparent 70%); }
-    .stat-card:nth-child(3)::after { background: radial-gradient(ellipse at 0% 0%, rgba(16,217,138,.07)  0%, transparent 70%); }
-    .stat-card:nth-child(4)::after { background: radial-gradient(ellipse at 0% 0%, rgba(240,168,0,.07)   0%, transparent 70%); }
-    .stat-card:hover::after { opacity: 1; }
-    .stat-card:nth-child(1) .stat-icon { background: var(--blue-bg);   color: var(--blue);   }
-    .stat-card:nth-child(2) .stat-icon { background: var(--orange-bg); color: var(--orange); }
-    .stat-card:nth-child(3) .stat-icon { background: var(--green-bg);  color: var(--green);  }
-    .stat-card:nth-child(4) .stat-icon { background: var(--gold-bg);   color: var(--gold);   }
-
-    /* Header right elements */
-    #trade-count {
-      font-size: 11px; font-weight: 600; font-family: var(--font-mono);
-      background: var(--gold-bg); border: 1px solid rgba(240,168,0,.25);
-      border-radius: 20px; padding: 4px 12px; color: var(--gold); letter-spacing: .04em;
-    }
-    .btn-pro {
-      display: inline-flex; align-items: center; gap: 6px;
-      background: linear-gradient(135deg, var(--gold) 0%, #c07800 100%);
-      color: #0c0d0f; font-size: 12px; font-weight: 700; letter-spacing: .04em;
-      padding: 7px 16px; border-radius: 6px; border: none; cursor: pointer;
-      transition: opacity .15s, transform .1s; text-transform: uppercase; white-space: nowrap;
-    }
-    .btn-pro:hover { opacity: .9; transform: translateY(-1px); color: #0c0d0f; }
-
-    /* Cluster buy stat card — clickable filter */
-    #stat-card-clusters {
-      cursor: pointer;
-      transition: background .15s, box-shadow .15s;
-    }
-    #stat-card-clusters:hover { background: var(--surface2); }
-    #stat-card-clusters.active {
-      background: rgba(255,112,67,.08);
-      box-shadow: inset 0 0 0 1px rgba(255,112,67,.35);
-    }
-    #stat-card-clusters.active .stat-label::after {
-      content: ' — ON';
-      color: var(--orange);
-    }
-
-    /* Market closed banner */
-    #market-closed-banner {
-      display: none; margin: 0 0 16px 0; padding: 10px 16px;
-      background: rgba(240,168,0,.1); border: 1px solid rgba(240,168,0,.25);
-      border-radius: 8px; color: var(--gold); font-size: 13px; font-weight: 500; text-align: center;
-    }
-
-    /* Title filter select */
-    .select-wrap { position: relative; display: flex; align-items: center; }
-    .select-chevron { position: absolute; right: 9px; color: var(--muted); pointer-events: none; width: 12px; height: 12px; }
-    #title-filter {
-      -webkit-appearance: none; appearance: none;
-      background: var(--surface2); border: 1px solid var(--border);
-      color: var(--text); border-radius: var(--radius); padding: 7px 30px 7px 10px;
-      font-size: 13px; font-family: inherit; outline: none; cursor: pointer;
-      transition: border-color .2s, box-shadow .2s;
-    }
-    #title-filter:focus { border-color: var(--gold); box-shadow: 0 0 0 3px var(--gold-bg); }
-    #title-filter option { background: var(--surface2); color: var(--text); }
-
-    /* Role row highlights */
-    tbody tr.row-ceo { background: rgba(16,217,138,.04); }
-    tbody tr.row-ceo:hover { background: rgba(16,217,138,.09); }
-    tbody tr.row-vp  { background: rgba(240,168,0,.03); }
-    tbody tr.row-vp:hover { background: rgba(240,168,0,.08); }
-    .child-row.row-ceo { background: rgba(16,217,138,.03) !important; }
-    .child-row.row-vp  { background: rgba(240,168,0,.025) !important; }
-
-    /* Title badges */
-    .badge-title { display: inline-block; border-radius: 5px; padding: 2px 8px; font-size: 10px; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; white-space: nowrap; }
-    .badge-title.ceo-chair { background: var(--green-bg);  color: var(--green);  border: 1px solid rgba(16,217,138,.25); }
-    .badge-title.vp        { background: var(--gold-bg);   color: var(--gold);   border: 1px solid rgba(240,168,0,.25); }
-    .badge-title.dir       { background: var(--blue-bg);   color: var(--blue);   border: 1px solid rgba(91,158,255,.25); }
-    .badge-title.other     { background: var(--surface3);  color: var(--muted2); border: 1px solid var(--border2); }
-  </style>
 </head>
 <body>
 
@@ -194,60 +110,52 @@
 <!-- ================================================================== -->
 <header>
   <div class="brand">
-    <!-- radar SVG logo -->
-    <svg class="brand-logo" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-      <circle cx="18" cy="18" r="16" stroke="currentColor" stroke-width="1.2" opacity=".2"/>
-      <circle cx="18" cy="18" r="11" stroke="currentColor" stroke-width="1.2" opacity=".4"/>
-      <circle cx="18" cy="18" r="6"  stroke="currentColor" stroke-width="1.2" opacity=".7"/>
-      <circle cx="18" cy="18" r="2.5" fill="currentColor"/>
-      <line x1="18" y1="18" x2="31" y2="5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" opacity=".8"/>
-      <circle cx="31" cy="5" r="1.8" fill="currentColor" opacity=".9"/>
-    </svg>
+    <div class="brand-logo">
+      <svg viewBox="0 0 14 14" fill="white" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <path d="M7 1L13.5 12.5H0.5L7 1Z"/>
+      </svg>
+    </div>
     <div class="brand-text">
-      <div class="brand-name" style="-webkit-text-fill-color:unset;background:unset;color:var(--gold)">InsiderEdgePro</div>
-      <div class="brand-tagline">Institutional Buying Intelligence</div>
+      <div class="brand-name">InsiderEdgePro</div>
+      <div class="brand-tagline">INSTITUTIONAL INTELLIGENCE</div>
     </div>
   </div>
 
-  <div class="header-center">
-    <div class="live-pill">
+  <nav class="market-nav">
+    <a class="market-nav-btn" style="cursor:default">
       <span class="live-dot" id="refresh-dot"></span>
-      LIVE
-    </div>
-    <div class="market-nav">
-      <a class="market-nav-btn active">
-        <svg viewBox="0 0 20 13" width="20" height="13" style="border-radius:2px;flex-shrink:0" xmlns="http://www.w3.org/2000/svg">
-          <rect width="20" height="13" fill="#B22234"/>
-          <rect y="1" width="20" height="1" fill="#fff"/><rect y="3" width="20" height="1" fill="#fff"/>
-          <rect y="5" width="20" height="1" fill="#fff"/><rect y="7" width="20" height="1" fill="#fff"/>
-          <rect y="9" width="20" height="1" fill="#fff"/><rect y="11" width="20" height="1" fill="#fff"/>
-          <rect width="8" height="7" fill="#3C3B6E"/>
-        </svg>
-        <span class="nav-label">US</span>
-      </a>
-      <a href="canada.html" class="market-nav-btn">
-        <svg viewBox="0 0 20 13" width="20" height="13" style="border-radius:2px;flex-shrink:0" xmlns="http://www.w3.org/2000/svg">
-          <rect width="20" height="13" fill="#fff"/>
-          <rect width="5" height="13" fill="#D52B1E"/>
-          <rect x="15" width="5" height="13" fill="#D52B1E"/>
-          <path transform="translate(10,6.5) scale(0.85)" fill="#D52B1E" d="M0-3.5 .5-1.5 2-2.5 1.2-.8 3 0 1.5.5 2 2 .8 1.5 0 3-.8 1.5-2 2-1.5.5-3 0-1.2-.8-2-2.5-.5-1.5Z"/>
-        </svg>
-        <span class="nav-label">Canada</span>
-      </a>
-      <a href="performance.html" class="market-nav-btn">
-        <svg viewBox="0 0 16 16" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" style="flex-shrink:0">
-          <path d="M2 12L6 7l3 3 5-6"/><circle cx="13" cy="4" r="1.5" fill="currentColor" stroke="none"/>
-        </svg>
-        <span class="nav-label">Performance</span>
-      </a>
-    </div>
-    <span id="last-updated">Loading…</span>
-  </div>
+      <span class="nav-label">Live</span>
+    </a>
+    <a class="market-nav-btn active">
+      <svg viewBox="0 0 20 13" width="18" height="12" style="border-radius:2px;flex-shrink:0" xmlns="http://www.w3.org/2000/svg">
+        <rect width="20" height="13" fill="#B22234"/>
+        <rect y="1" width="20" height="1" fill="#fff"/><rect y="3" width="20" height="1" fill="#fff"/>
+        <rect y="5" width="20" height="1" fill="#fff"/><rect y="7" width="20" height="1" fill="#fff"/>
+        <rect y="9" width="20" height="1" fill="#fff"/><rect y="11" width="20" height="1" fill="#fff"/>
+        <rect width="8" height="7" fill="#3C3B6E"/>
+      </svg>
+      <span class="nav-label">US</span>
+    </a>
+    <a href="canada.html" class="market-nav-btn">
+      <svg viewBox="0 0 20 13" width="18" height="12" style="border-radius:2px;flex-shrink:0" xmlns="http://www.w3.org/2000/svg">
+        <rect width="20" height="13" fill="#fff"/>
+        <rect width="5" height="13" fill="#D52B1E"/>
+        <rect x="15" width="5" height="13" fill="#D52B1E"/>
+        <path transform="translate(10,6.5) scale(0.85)" fill="#D52B1E" d="M0-3.5 .5-1.5 2-2.5 1.2-.8 3 0 1.5.5 2 2 .8 1.5 0 3-.8 1.5-2 2-1.5.5-3 0-1.2-.8-2-2.5-.5-1.5Z"/>
+      </svg>
+      <span class="nav-label">Canada</span>
+    </a>
+    <a href="performance.html" class="market-nav-btn">
+      <span style="font-size:13px">↗</span>
+      <span class="nav-label">Performance</span>
+    </a>
+  </nav>
 
   <div class="header-right">
+    <span id="last-updated">Loading…</span>
     <span id="trade-count">— trades</span>
     <a href="https://discord.gg/k6Q5rtEPe" target="_blank" rel="noopener noreferrer" class="btn-discord">
-      <svg width="16" height="16" viewBox="0 0 127.14 96.36" fill="currentColor" aria-hidden="true">
+      <svg width="15" height="15" viewBox="0 0 127.14 96.36" fill="currentColor" aria-hidden="true">
         <path d="M107.7,8.07A105.15,105.15,0,0,0,81.47,0a72.06,72.06,0,0,0-3.36,6.83A97.68,97.68,0,0,0,49,6.83,72.37,72.37,0,0,0,45.64,0,105.89,105.89,0,0,0,19.39,8.09C2.79,32.65-1.71,56.6.54,80.21h0A105.73,105.73,0,0,0,32.71,96.36,77.7,77.7,0,0,0,39.6,85.25a68.42,68.42,0,0,1-10.85-5.18c.91-.66,1.8-1.34,2.66-2a75.57,75.57,0,0,0,64.32,0c.87.71,1.76,1.39,2.66,2a68.68,68.68,0,0,1-10.87,5.19,77,77,0,0,0,6.89,11.1A105.25,105.25,0,0,0,126.6,80.22h0C129.24,52.84,122.09,29.11,107.7,8.07ZM42.45,65.69C36.18,65.69,31,60,31,53s5-12.74,11.43-12.74S54,46,53.89,53,48.84,65.69,42.45,65.69Zm42.24,0C78.41,65.69,73.25,60,73.25,53s5-12.74,11.44-12.74S96.23,46,96.12,53,91.08,65.69,84.69,65.69Z"/>
       </svg>
       <span>Join Discord</span>
@@ -255,11 +163,11 @@
   </div>
 </header>
 
-<div class="gold-rule"></div>
-
-<div class="data-note">
-  ℹ️ Tracking SEC Form 4 open-market purchases of <strong>$25,000+</strong> only.
-  Smaller trades are excluded to reduce noise and surface high-conviction signals.
+<div class="info-banner">
+  <svg viewBox="0 0 16 16" fill="currentColor" width="14" height="14" aria-hidden="true">
+    <path d="M8 0a8 8 0 100 16A8 8 0 008 0zm.75 4.5a.75.75 0 11-1.5 0 .75.75 0 011.5 0zM7 7a.75.75 0 01.75-.75h.5a.75.75 0 01.75.75v3.25h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25V7.75H7A.75.75 0 017 7z"/>
+  </svg>
+  Tracking SEC Form 4 open-market purchases of <span class="highlight">$25,000+</span> only — smaller trades excluded to surface high-conviction signals.
 </div>
 
 <!-- ================================================================== -->
@@ -273,55 +181,22 @@
 <div class="stats" id="stats-bar">
 
   <div class="stat-card">
-    <div class="stat-header">
-      <div class="stat-icon">
-        <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
-          <path d="M2 12L6 7l3 3 5-6"/>
-        </svg>
-      </div>
-      <div class="stat-label">Visible Trades</div>
-    </div>
+    <div class="stat-label">Visible Trades</div>
     <div class="stat-value accent" id="stat-visible">—</div>
   </div>
 
   <div class="stat-card" id="stat-card-clusters" title="Click to filter cluster buys only">
-    <div class="stat-header">
-      <div class="stat-icon">
-        <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
-          <circle cx="8" cy="8" r="5"/>
-          <path d="M8 5v3l2 2"/>
-        </svg>
-      </div>
-      <div class="stat-label">Cluster Buys</div>
-    </div>
+    <div class="stat-label">Cluster Buys</div>
     <div class="stat-value orange" id="stat-clusters">—</div>
   </div>
 
   <div class="stat-card">
-    <div class="stat-header">
-      <div class="stat-icon">
-        <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
-          <line x1="8" y1="2" x2="8" y2="14"/>
-          <path d="M5 5h4.5a2.5 2.5 0 010 5H5"/>
-          <path d="M5 10h5"/>
-        </svg>
-      </div>
-      <div class="stat-label">Total Value</div>
-    </div>
+    <div class="stat-label">Total Value</div>
     <div class="stat-value green" id="stat-total-value">—</div>
   </div>
 
   <div class="stat-card">
-    <div class="stat-header">
-      <div class="stat-icon">
-        <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
-          <rect x="2" y="9" width="3" height="5" rx="1"/>
-          <rect x="6.5" y="5" width="3" height="9" rx="1"/>
-          <rect x="11" y="2" width="3" height="12" rx="1"/>
-        </svg>
-      </div>
-      <div class="stat-label">Unique Tickers</div>
-    </div>
+    <div class="stat-label">Unique Tickers</div>
     <div class="stat-value gold" id="stat-tickers">—</div>
   </div>
 
@@ -401,6 +276,8 @@
 <!-- ================================================================== -->
 <!-- TABLE                                                                -->
 <!-- ================================================================== -->
+<div id="market-closed-banner"></div>
+
 <div class="table-section">
 
   <div id="no-results">
@@ -411,8 +288,6 @@
     </svg>
     <p>No trades match your filters.</p>
   </div>
-
-  <div id="market-closed-banner"></div>
 
   <div class="table-scroll">
     <table id="trades-table">
