@@ -19,7 +19,9 @@
   <meta name="description" content="Track insider buys and Congressional stock trades across US and Canadian markets. Real-time SEC Form 4 data — filter by executive role, trade value, and date. Free." />
   <meta name="keywords" content="insider trading tracker, SEC Form 4 tracker, insider buying, cluster buy signal, congressional stock trades, Nancy Pelosi stock trades, politician portfolio tracker, Congress stock market tracker, smart money tracker, unusual insider buying activity, follow insider trades, STOCK Act disclosures, 13F filing tracker, Canadian insider trading, SEDI tracker" />
   <meta name="author" content="InsiderEdgePro" />
+  <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://insideredgepro.github.io/" />
+  <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
   <!-- Open Graph -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://insideredgepro.github.io/" />
@@ -27,7 +29,7 @@
   <meta property="og:description" content="Track insider buys and Congressional stock trades across US and Canadian markets. Real-time SEC Form 4 data — filter by role, value, and date." />
   <meta property="og:site_name" content="InsiderEdgePro" />
   <!-- Twitter Card -->
-  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Insider Trading Tracker — SEC Form 4, Congress &amp; Canadian Stock Trades" />
   <meta name="twitter:description" content="Real-time SEC Form 4 insider purchases, congressional stock trades, cluster buy signals, and free Discord alerts. Follow smart money before the market reacts." />
   <!-- JSON-LD Structured Data -->
@@ -101,7 +103,7 @@
   }
   </script>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="style.css" />
   <style>
     /* Stat card accent colors */
@@ -110,9 +112,9 @@
     .stat-card:nth-child(3)::before { background: linear-gradient(90deg, var(--green),  transparent); }
     .stat-card:nth-child(4)::before { background: linear-gradient(90deg, var(--gold),   transparent); }
     .stat-card::after { content: ''; position: absolute; inset: 0; opacity: 0; transition: opacity .25s; pointer-events: none; }
-    .stat-card:nth-child(1)::after { background: radial-gradient(ellipse at 0% 0%, rgba(91,158,255,.07)  0%, transparent 70%); }
+    .stat-card:nth-child(1)::after { background: radial-gradient(ellipse at 0% 0%, rgba(240,168,0,.07)  0%, transparent 70%); }
     .stat-card:nth-child(2)::after { background: radial-gradient(ellipse at 0% 0%, rgba(255,112,67,.07)  0%, transparent 70%); }
-    .stat-card:nth-child(3)::after { background: radial-gradient(ellipse at 0% 0%, rgba(16,217,138,.07)  0%, transparent 70%); }
+    .stat-card:nth-child(3)::after { background: radial-gradient(ellipse at 0% 0%, rgba(240,168,0,.07)  0%, transparent 70%); }
     .stat-card:nth-child(4)::after { background: radial-gradient(ellipse at 0% 0%, rgba(240,168,0,.07)   0%, transparent 70%); }
     .stat-card:hover::after { opacity: 1; }
     .stat-card:nth-child(1) .stat-icon { background: var(--blue-bg);   color: var(--blue);   }
@@ -171,18 +173,18 @@
     #title-filter option { background: var(--surface2); color: var(--text); }
 
     /* Role row highlights */
-    tbody tr.row-ceo { background: rgba(16,217,138,.04); }
-    tbody tr.row-ceo:hover { background: rgba(16,217,138,.09); }
+    tbody tr.row-ceo { background: rgba(240,168,0,.04); }
+    tbody tr.row-ceo:hover { background: rgba(240,168,0,.09); }
     tbody tr.row-vp  { background: rgba(240,168,0,.03); }
     tbody tr.row-vp:hover { background: rgba(240,168,0,.08); }
-    .child-row.row-ceo { background: rgba(16,217,138,.03) !important; }
+    .child-row.row-ceo { background: rgba(240,168,0,.03) !important; }
     .child-row.row-vp  { background: rgba(240,168,0,.025) !important; }
 
     /* Title badges */
     .badge-title { display: inline-block; border-radius: 5px; padding: 2px 8px; font-size: 10px; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; white-space: nowrap; }
-    .badge-title.ceo-chair { background: var(--green-bg);  color: var(--green);  border: 1px solid rgba(16,217,138,.25); }
+    .badge-title.ceo-chair { background: var(--green-bg);  color: var(--green);  border: 1px solid rgba(240,168,0,.25); }
     .badge-title.vp        { background: var(--gold-bg);   color: var(--gold);   border: 1px solid rgba(47,128,237,.25); }
-    .badge-title.dir       { background: var(--blue-bg);   color: var(--blue);   border: 1px solid rgba(91,158,255,.25); }
+    .badge-title.dir       { background: var(--blue-bg);   color: var(--blue);   border: 1px solid rgba(240,168,0,.25); }
     .badge-title.other     { background: var(--surface3);  color: var(--muted2); border: 1px solid var(--border2); }
   </style>
 </head>

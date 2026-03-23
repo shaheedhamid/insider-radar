@@ -19,7 +19,9 @@
   <meta name="description" content="Track real-time Canadian insider purchases from SEDI filings on TSX and TSX-V. Filter by role and trade size. Free cluster buy alerts via Discord." />
   <meta name="keywords" content="Canadian insider trading, SEDI insider tracker, TSX insider buying, TSX-V insider purchases, Canadian stock insider activity, SEDI filings tracker, cluster buy Canada, smart money Canada, Canadian insider tracker, TSX cluster buy" />
   <meta name="author" content="InsiderEdgePro" />
+  <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://insideredgepro.github.io/canada.html" />
+  <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
   <!-- Open Graph -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://insideredgepro.github.io/canada.html" />
@@ -27,11 +29,55 @@
   <meta property="og:description" content="Track real-time Canadian insider purchases from SEDI filings on TSX and TSX-V. Filter by role and trade size. Free cluster buy alerts via Discord." />
   <meta property="og:site_name" content="InsiderEdgePro" />
   <!-- Twitter Card -->
-  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Canadian Insider Trading Tracker — SEDI TSX &amp; TSX-V Filings | InsiderEdgePro" />
   <meta name="twitter:description" content="Real-time Canadian SEDI insider purchases on TSX and TSX-V. Free cluster buy detection and Discord alerts for Canadian insider buying activity." />
+  <!-- JSON-LD Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "name": "Canadian Insider Trading Tracker",
+        "url": "https://insideredgepro.github.io/canada.html",
+        "description": "Track real-time Canadian insider purchases from SEDI filings on TSX and TSX-V. Filter by role and trade size. Free cluster buy alerts via Discord.",
+        "isPartOf": { "@type": "WebSite", "name": "InsiderEdgePro", "url": "https://insideredgepro.github.io" }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is SEDI insider trading data?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "SEDI (System for Electronic Disclosure by Insiders) is Canada's official database for insider trading filings, similar to the SEC's EDGAR in the US. Canadian corporate insiders — CEOs, CFOs, Directors, and 10%+ shareholders — must report all trades in their company's securities through SEDI. InsiderEdgePro scrapes and displays these filings in real time."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What exchanges does InsiderEdgePro track for Canada?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "InsiderEdgePro tracks insider purchases on the Toronto Stock Exchange (TSX) and TSX Venture Exchange (TSX-V). We filter for open-market purchases of CAD$15,000 or more to surface high-conviction signals and exclude noise."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is a cluster buy signal in Canadian markets?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A cluster buy occurs when two or more insiders at the same Canadian company file SEDI purchases within a 14-day window. This multi-insider conviction signal is one of the strongest indicators of potential stock outperformance on the TSX and TSX-V."
+            }
+          }
+        ]
+      }
+    ]
+  }
+  </script>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="style.css" />
   <style>
     /* Stat card accent colors */
@@ -40,9 +86,9 @@
     .stat-card:nth-child(3)::before { background: linear-gradient(90deg, var(--green),  transparent); }
     .stat-card:nth-child(4)::before { background: linear-gradient(90deg, var(--gold),   transparent); }
     .stat-card::after { content: ''; position: absolute; inset: 0; opacity: 0; transition: opacity .25s; pointer-events: none; }
-    .stat-card:nth-child(1)::after { background: radial-gradient(ellipse at 0% 0%, rgba(91,158,255,.07)  0%, transparent 70%); }
+    .stat-card:nth-child(1)::after { background: radial-gradient(ellipse at 0% 0%, rgba(240,168,0,.07)  0%, transparent 70%); }
     .stat-card:nth-child(2)::after { background: radial-gradient(ellipse at 0% 0%, rgba(255,112,67,.07)  0%, transparent 70%); }
-    .stat-card:nth-child(3)::after { background: radial-gradient(ellipse at 0% 0%, rgba(16,217,138,.07)  0%, transparent 70%); }
+    .stat-card:nth-child(3)::after { background: radial-gradient(ellipse at 0% 0%, rgba(240,168,0,.07)  0%, transparent 70%); }
     .stat-card:nth-child(4)::after { background: radial-gradient(ellipse at 0% 0%, rgba(240,168,0,.07)   0%, transparent 70%); }
     .stat-card:hover::after { opacity: 1; }
     .stat-card:nth-child(1) .stat-icon { background: var(--blue-bg);   color: var(--blue);   }
@@ -86,18 +132,18 @@
     #title-filter option { background: var(--surface2); color: var(--text); }
 
     /* Role row highlights */
-    tbody tr.row-ceo { background: rgba(16,217,138,.04); }
-    tbody tr.row-ceo:hover { background: rgba(16,217,138,.09); }
+    tbody tr.row-ceo { background: rgba(240,168,0,.04); }
+    tbody tr.row-ceo:hover { background: rgba(240,168,0,.09); }
     tbody tr.row-vp  { background: rgba(240,168,0,.03); }
     tbody tr.row-vp:hover { background: rgba(240,168,0,.08); }
-    .child-row.row-ceo { background: rgba(16,217,138,.03) !important; }
+    .child-row.row-ceo { background: rgba(240,168,0,.03) !important; }
     .child-row.row-vp  { background: rgba(240,168,0,.025) !important; }
 
     /* Title badges */
     .badge-title { display: inline-block; border-radius: 5px; padding: 2px 8px; font-size: 10px; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; white-space: nowrap; }
-    .badge-title.ceo-chair { background: var(--green-bg);  color: var(--green);  border: 1px solid rgba(16,217,138,.25); }
+    .badge-title.ceo-chair { background: var(--green-bg);  color: var(--green);  border: 1px solid rgba(240,168,0,.25); }
     .badge-title.vp        { background: var(--gold-bg);   color: var(--gold);   border: 1px solid rgba(240,168,0,.25); }
-    .badge-title.dir       { background: var(--blue-bg);   color: var(--blue);   border: 1px solid rgba(91,158,255,.25); }
+    .badge-title.dir       { background: var(--blue-bg);   color: var(--blue);   border: 1px solid rgba(240,168,0,.25); }
     .badge-title.other     { background: var(--surface3);  color: var(--muted2); border: 1px solid var(--border2); }
   </style>
 </head>
@@ -173,8 +219,7 @@
 <div class="gold-rule"></div>
 
 <div class="data-note">
-  ℹ️ Tracking SEDI open-market purchases of <strong>CAD$15,000+</strong> only.
-  Smaller trades are excluded to reduce noise and surface high-conviction signals.
+  ℹ️ Tracking SEDI open-market purchases of <strong>CAD$15,000+</strong> only — smaller trades excluded to surface high-conviction signals.
 </div>
 
 <!-- ================================================================== -->
