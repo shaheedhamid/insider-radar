@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-23",
-  "entry_count": 624,
+  "entry_count": 631,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -16974,6 +16974,146 @@
       },
       "latest_price": 135.66,
       "return_pct": 36.18,
+      "last_snapshot": "2026-03-23"
+    },
+    {
+      "id": "US|FMBM|2026-03-19|Black Barton E.",
+      "market": "US",
+      "ticker": "FMBM",
+      "yf_symbol": "FMBM",
+      "company": "F&M Bank Corp",
+      "insider_name": "Black Barton E.",
+      "title": "Pres",
+      "trade_date": "2026-03-19",
+      "trade_price": 30.59,
+      "value": 91770.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-23": 30.59
+      },
+      "latest_price": 30.59,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-03-23"
+    },
+    {
+      "id": "US|FMBM|2026-03-19|Emswiler Melody D.",
+      "market": "US",
+      "ticker": "FMBM",
+      "yf_symbol": "FMBM",
+      "company": "F&M Bank Corp",
+      "insider_name": "Emswiler Melody D.",
+      "title": "EVP, Chief HR",
+      "trade_date": "2026-03-19",
+      "trade_price": 30.59,
+      "value": 40409.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-23": 30.59
+      },
+      "latest_price": 30.59,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-03-23"
+    },
+    {
+      "id": "US|CWCO|2026-03-19|Giner Maria Elena",
+      "market": "US",
+      "ticker": "CWCO",
+      "yf_symbol": "CWCO",
+      "company": "Consolidated Water Co. Ltd.",
+      "insider_name": "Giner Maria Elena",
+      "title": "Dir",
+      "trade_date": "2026-03-19",
+      "trade_price": 30.24,
+      "value": 100100.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-23": 30.52
+      },
+      "latest_price": 30.52,
+      "return_pct": 0.93,
+      "last_snapshot": "2026-03-23"
+    },
+    {
+      "id": "US|FMBM|2026-03-19|Campbell Lisa F",
+      "market": "US",
+      "ticker": "FMBM",
+      "yf_symbol": "FMBM",
+      "company": "F&M Bank Corp",
+      "insider_name": "Campbell Lisa F",
+      "title": "EVP, CFO",
+      "trade_date": "2026-03-19",
+      "trade_price": 30.59,
+      "value": 83174.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-23": 30.59
+      },
+      "latest_price": 30.59,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-03-23"
+    },
+    {
+      "id": "US|REEMF|2026-03-10|Synchron",
+      "market": "US",
+      "ticker": "REEMF",
+      "yf_symbol": "REEMF",
+      "company": "Rare Element Resources Ltd",
+      "insider_name": "Synchron",
+      "title": "10%",
+      "trade_date": "2026-03-10",
+      "trade_price": 0.24,
+      "value": 24035774.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-23": 0.8301
+      },
+      "latest_price": 0.8301,
+      "return_pct": 245.87,
+      "last_snapshot": "2026-03-23"
+    },
+    {
+      "id": "US|EPD|2026-03-20|Teague Aj",
+      "market": "US",
+      "ticker": "EPD",
+      "yf_symbol": "EPD",
+      "company": "Enterprise Products Partners L.P.",
+      "insider_name": "Teague Aj",
+      "title": "Co-CEO",
+      "trade_date": "2026-03-20",
+      "trade_price": 37.55,
+      "value": 100069.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-23": 37.56
+      },
+      "latest_price": 37.56,
+      "return_pct": 0.03,
+      "last_snapshot": "2026-03-23"
+    },
+    {
+      "id": "US|KLC|2026-03-19|Nuzzo Michael",
+      "market": "US",
+      "ticker": "KLC",
+      "yf_symbol": "KLC",
+      "company": "Kindercare Learning Companies, Inc.",
+      "insider_name": "Nuzzo Michael",
+      "title": "Dir",
+      "trade_date": "2026-03-19",
+      "trade_price": 2.22,
+      "value": 55500.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-23": 2.15
+      },
+      "latest_price": 2.15,
+      "return_pct": -3.15,
       "last_snapshot": "2026-03-23"
     }
   ]

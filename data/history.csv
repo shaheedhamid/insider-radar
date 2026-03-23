@@ -5605,3 +5605,10 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-23,16:05,2026-03-19,MNR,Mach Natural Resources LP,Burn Christopher,See Remarks,P - Purchase,13.96,2000,15587,+15%,27920,True
 2026-03-23,16:05,2026-03-19,MNR,Mach Natural Resources LP,McMullen William Wallace,"See Remarks, 10%",P - Purchase,13.87,9285,74859917,0%,128800,True
 2026-03-23,16:00,2026-03-19,MSTR,Strategy Inc,Le Phong,"Pres, CEO",P - Purchase,99.62,2509,37542,+7%,249947,False
+2026-03-23,17:25,2026-03-19,FMBM,F&M Bank Corp,Black Barton E.,Pres,P - Purchase,30.59,3000,160050,+2%,91770,True
+2026-03-23,17:16,2026-03-19,FMBM,F&M Bank Corp,Emswiler Melody D.,"EVP, Chief HR",P - Purchase,30.59,1321,8107,+19%,40409,True
+2026-03-23,17:10,2026-03-19,CWCO,Consolidated Water Co. Ltd.,Giner Maria Elena,Dir,P - Purchase,30.24,3310,3310,New,100100,False
+2026-03-23,17:07,2026-03-19,FMBM,F&M Bank Corp,Campbell Lisa F,"EVP, CFO",P - Purchase,30.59,2719,9389,+41%,83174,True
+2026-03-23,16:59,2026-03-10,REEMF,Rare Element Resources Ltd,Synchron,10%,P - Purchase,0.24,100149060,460889576,+28%,24035774,False
+2026-03-23,16:42,2026-03-20,EPD,Enterprise Products Partners L.P.,Teague Aj,Co-CEO,P - Purchase,37.55,2665,3208017,0%,100069,False
+2026-03-23,16:30,2026-03-19,KLC,"Kindercare Learning Companies, Inc.",Nuzzo Michael,Dir,P - Purchase,2.22,25000,46905,+114%,55500,False
