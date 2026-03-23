@@ -413,6 +413,96 @@ footer {
   /* Hide Discord text label, keep icon */
   .btn-discord span { display: none; }
   .btn-discord { padding: 7px 10px; }
+
+  /* ---- Card layout for table ---- */
+  .table-scroll { overflow-x: hidden; }
+  table { display: block; min-width: unset !important; width: 100%; }
+  thead { display: none; }
+  tbody { display: block; padding: 4px 0 12px; }
+
+  /* Each row = card */
+  tbody tr:not(.skeleton-row) {
+    display: block;
+    position: relative;
+    border: 1px solid var(--border2);
+    border-radius: 8px;
+    margin: 6px 12px;
+    padding: 10px 12px 10px 12px;
+    background: var(--surface);
+    min-height: 58px;
+  }
+  tbody tr:nth-child(even):not(.child-row) { background: var(--surface); }
+  tbody tr:not(.child-row):hover { box-shadow: inset 3px 0 0 var(--gold); background: var(--surface2); }
+  tbody tr.child-row { margin-left: 28px; background: rgba(255,255,255,.02); border-style: dashed; }
+
+  /* Hide all cells by default */
+  tbody td { display: none; border: none; padding: 1px 0; white-space: normal; }
+
+  /* Show: Ticker */
+  td.td-ticker {
+    display: block;
+    font-size: 15px;
+    font-weight: 700;
+    padding-right: 85px;
+    margin-bottom: 2px;
+  }
+  /* Show: Company */
+  td.td-company {
+    display: block;
+    font-size: 11px;
+    color: var(--muted2);
+    max-width: calc(100% - 85px);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin-bottom: 4px;
+  }
+  /* Show: Insider name (for child/single rows) */
+  td.td-insider {
+    display: block;
+    font-size: 11px;
+    color: var(--muted2);
+    max-width: calc(100% - 85px);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  /* Show: Date */
+  td.td-date {
+    display: block;
+    font-size: 11px;
+    color: var(--muted);
+    margin-top: 4px;
+  }
+  /* Show: Value — pinned top-right */
+  td.td-value {
+    display: block;
+    position: absolute;
+    top: 10px;
+    right: 12px;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 0;
+  }
+  /* Show: Cluster badge — pinned bottom-right */
+  td:has(.badge-cluster) {
+    display: block;
+    position: absolute;
+    bottom: 8px;
+    right: 12px;
+    padding: 0;
+  }
+  /* Show: group insiders count */
+  td:has(.group-insiders) {
+    display: block;
+    font-size: 11px;
+    margin-top: 2px;
+    padding: 0;
+  }
+
+  /* Skeleton rows */
+  .skeleton-row { display: block; margin: 6px 12px; border-radius: 8px; overflow: hidden; }
+  .skeleton-row td { display: block !important; padding: 8px 12px; }
 }
 
 /* Data note banner */
