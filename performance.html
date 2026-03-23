@@ -116,6 +116,12 @@
     .badge-market.us { background: rgba(255,107,138,.12); color: #FF6B8A; border: 1px solid rgba(255,107,138,.25); }
     .badge-market.ca { background: rgba(213,43,30,.12);   color: #D52B1E; border: 1px solid rgba(213,43,30,.25); }
 
+    /* Row highlights based on return */
+    tr:has(.td-return.positive) { background: rgba(16,217,138,.07) !important; }
+    tr:has(.td-return.negative) { background: rgba(239,68,68,.07) !important; }
+    tr:has(.td-return.positive):hover { background: rgba(16,217,138,.14) !important; }
+    tr:has(.td-return.negative):hover { background: rgba(239,68,68,.14) !important; }
+
     @media (max-width: 600px) {
       /* Show return % pinned top-right, hide value (less useful on mobile) */
       td:has(.td-return), td:has(.badge-pending) {
