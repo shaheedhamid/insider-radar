@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-23T13:01:01Z",
-  "trade_count": 2694,
+  "last_updated": "2026-03-23T16:01:00Z",
+  "trade_count": 2696,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -40591,7 +40591,7 @@
       "value": "85470",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4685716",
@@ -40656,6 +40656,38 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4686355",
+      "trade_date": "2026-03-23",
+      "filing_date": "2026-03-23",
+      "company": "Peyto Exploration and Development Corp.",
+      "ticker": "",
+      "insider_name": "Frame, Riley Millar",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "750",
+      "price": "27.6000",
+      "value": "20700",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4686358",
+      "trade_date": "2026-03-23",
+      "filing_date": "2026-03-23",
+      "company": "Peyto Exploration and Development Corp.",
+      "ticker": "",
+      "insider_name": "Frame, Riley Millar",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "1275",
+      "price": "27.6700",
+      "value": "35279",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
