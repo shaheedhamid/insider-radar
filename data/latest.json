@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-23T10:45:22Z",
-  "trade_count": 5592,
+  "last_updated": "2026-03-23T11:38:17Z",
+  "trade_count": 5593,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -89472,6 +89472,22 @@
       "owned": "874537",
       "delta_own": "+1%",
       "value": "1528550",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-23",
+      "filing_time": "07:31",
+      "trade_date": "2026-03-19",
+      "ticker": "IBIO",
+      "company": "Ibio, Inc.",
+      "insider_name": "Duran Felipe",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "2.02",
+      "qty": "24835",
+      "owned": "35974",
+      "delta_own": "+223%",
+      "value": "50132",
       "cluster_buy": false
     }
   ]
