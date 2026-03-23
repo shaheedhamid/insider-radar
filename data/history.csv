@@ -5593,3 +5593,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-20,20:28,2026-03-12,AMR,"Alpha Metallurgical Resources, Inc.",Courtis Kenneth S.,Dir,P - Purchase,191.07,8000,874537,+1%,1528550,False
 2026-03-23,07:31,2026-03-19,IBIO,"Ibio, Inc.",Duran Felipe,CFO,P - Purchase,2.02,24835,35974,+223%,50132,False
 2026-03-23,07:43,2026-03-19,ESOA,Energy Services of America Corp,Reynolds Douglas V,"Pres, 10%",P - Purchase,13.21,6309,1925593,0%,83327,False
+2026-03-23,09:34,2026-03-20,STIM,"Neuronetics, Inc.",Chernett Jorey,10%,P - Purchase,1.41,169472,8743276,+2%,238956,False
+2026-03-23,09:33,2026-03-20,AIRS,"Airsculpt Technologies, Inc.",Chernett Jorey,10%,P - Purchase,2.77,40000,6793761,+1%,110800,False
+2026-03-23,09:33,2026-03-20,TOI,"Oncology Institute, Inc.",Chernett Jorey,10%,P - Purchase,3.35,25000,10276929,0%,83750,False
+2026-03-23,09:00,2026-03-20,AISP,"Airship Ai Holdings, Inc.",Huang Victor,"CEO, COB of the BOD, 10%",P - Purchase,2.24,40000,4012567,+1%,89688,False
