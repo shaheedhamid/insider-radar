@@ -5600,3 +5600,8 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-23,10:38,2026-03-20,KLTR,Kaltura Inc,Yekutiel Ron,CEO,P - Purchase,1.14,43550,15015273,0%,49630,False
 2026-03-23,12:13,2026-03-16,FOSL,"Fossil Group, Inc.",Schoppert Wendy Lee,Dir,P - Purchase,4.68,21929,96294,+29%,102628,False
 2026-03-23,14:01,2026-03-19,TTAM,Titan America Sa,Wilt Lawrence Hugh Jr.,CFO,P - Purchase,14.93,20000,20000,New,298600,False
+2026-03-23,16:14,2026-03-19,XZO,"Exzeo Group, Inc.",Patel Paresh,CEO,P - Purchase,15.26,6000,1582013,0%,91580,False
+2026-03-23,16:13,2026-03-20,LULU,Lululemon Athletica Inc.,Bergh Charles V,Dir,P - Purchase,164.20,6090,6362,>999%,999978,False
+2026-03-23,16:05,2026-03-19,MNR,Mach Natural Resources LP,Burn Christopher,See Remarks,P - Purchase,13.96,2000,15587,+15%,27920,True
+2026-03-23,16:05,2026-03-19,MNR,Mach Natural Resources LP,McMullen William Wallace,"See Remarks, 10%",P - Purchase,13.87,9285,74859917,0%,128800,True
+2026-03-23,16:00,2026-03-19,MSTR,Strategy Inc,Le Phong,"Pres, CEO",P - Purchase,99.62,2509,37542,+7%,249947,False

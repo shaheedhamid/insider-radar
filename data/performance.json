@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-23",
-  "entry_count": 619,
+  "entry_count": 624,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -1106,10 +1106,10 @@
         "2026-03-18": 8.4,
         "2026-03-19": 8.05,
         "2026-03-20": 8.03,
-        "2026-03-23": 8.37
+        "2026-03-23": 8.26
       },
-      "latest_price": 8.37,
-      "return_pct": 19.57,
+      "latest_price": 8.26,
+      "return_pct": 18.0,
       "last_snapshot": "2026-03-23"
     },
     {
@@ -1136,10 +1136,10 @@
         "2026-03-18": 8.4,
         "2026-03-19": 8.05,
         "2026-03-20": 8.03,
-        "2026-03-23": 8.37
+        "2026-03-23": 8.26
       },
-      "latest_price": 8.37,
-      "return_pct": 19.57,
+      "latest_price": 8.26,
+      "return_pct": 18.0,
       "last_snapshot": "2026-03-23"
     },
     {
@@ -1166,10 +1166,10 @@
         "2026-03-18": 8.4,
         "2026-03-19": 8.05,
         "2026-03-20": 8.03,
-        "2026-03-23": 8.37
+        "2026-03-23": 8.26
       },
-      "latest_price": 8.37,
-      "return_pct": 19.57,
+      "latest_price": 8.26,
+      "return_pct": 18.0,
       "last_snapshot": "2026-03-23"
     },
     {
@@ -1316,10 +1316,10 @@
         "2026-03-18": 0.42,
         "2026-03-19": 0.43,
         "2026-03-20": 0.443,
-        "2026-03-23": 0.4
+        "2026-03-23": 0.4499
       },
-      "latest_price": 0.4,
-      "return_pct": 17.65,
+      "latest_price": 0.4499,
+      "return_pct": 32.32,
       "last_snapshot": "2026-03-23"
     },
     {
@@ -9919,10 +9919,10 @@
         "2026-03-18": 8.4,
         "2026-03-19": 8.05,
         "2026-03-20": 8.03,
-        "2026-03-23": 8.37
+        "2026-03-23": 8.26
       },
-      "latest_price": 8.37,
-      "return_pct": 5.82,
+      "latest_price": 8.26,
+      "return_pct": 4.42,
       "last_snapshot": "2026-03-23"
     },
     {
@@ -12412,10 +12412,10 @@
         "2026-03-18": 0.65,
         "2026-03-19": 0.705,
         "2026-03-20": 0.71,
-        "2026-03-23": 0.84
+        "2026-03-23": 0.8301
       },
-      "latest_price": 0.84,
-      "return_pct": 250.0,
+      "latest_price": 0.8301,
+      "return_pct": 245.87,
       "last_snapshot": "2026-03-23"
     },
     {
@@ -14485,10 +14485,10 @@
         "2026-03-18": 8.4,
         "2026-03-19": 8.05,
         "2026-03-20": 8.03,
-        "2026-03-23": 8.37
+        "2026-03-23": 8.26
       },
-      "latest_price": 8.37,
-      "return_pct": 1.58,
+      "latest_price": 8.26,
+      "return_pct": 0.24,
       "last_snapshot": "2026-03-23"
     },
     {
@@ -16202,10 +16202,10 @@
       "snapshots": {
         "2026-03-19": 8.05,
         "2026-03-20": 8.03,
-        "2026-03-23": 8.37
+        "2026-03-23": 8.26
       },
-      "latest_price": 8.37,
-      "return_pct": -2.67,
+      "latest_price": 8.26,
+      "return_pct": -3.95,
       "last_snapshot": "2026-03-23"
     },
     {
@@ -16874,6 +16874,106 @@
       },
       "latest_price": 14.2,
       "return_pct": -4.89,
+      "last_snapshot": "2026-03-23"
+    },
+    {
+      "id": "US|XZO|2026-03-19|Patel Paresh",
+      "market": "US",
+      "ticker": "XZO",
+      "yf_symbol": "XZO",
+      "company": "Exzeo Group, Inc.",
+      "insider_name": "Patel Paresh",
+      "title": "CEO",
+      "trade_date": "2026-03-19",
+      "trade_price": 15.26,
+      "value": 91580.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-23": 14.71
+      },
+      "latest_price": 14.71,
+      "return_pct": -3.6,
+      "last_snapshot": "2026-03-23"
+    },
+    {
+      "id": "US|LULU|2026-03-20|Bergh Charles V",
+      "market": "US",
+      "ticker": "LULU",
+      "yf_symbol": "LULU",
+      "company": "Lululemon Athletica Inc.",
+      "insider_name": "Bergh Charles V",
+      "title": "Dir",
+      "trade_date": "2026-03-20",
+      "trade_price": 164.2,
+      "value": 999978.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-23": 162.82
+      },
+      "latest_price": 162.82,
+      "return_pct": -0.84,
+      "last_snapshot": "2026-03-23"
+    },
+    {
+      "id": "US|MNR|2026-03-19|Burn Christopher",
+      "market": "US",
+      "ticker": "MNR",
+      "yf_symbol": "MNR",
+      "company": "Mach Natural Resources LP",
+      "insider_name": "Burn Christopher",
+      "title": "See Remarks",
+      "trade_date": "2026-03-19",
+      "trade_price": 13.96,
+      "value": 27920.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-23": 13.81
+      },
+      "latest_price": 13.81,
+      "return_pct": -1.07,
+      "last_snapshot": "2026-03-23"
+    },
+    {
+      "id": "US|MNR|2026-03-19|McMullen William Wallace",
+      "market": "US",
+      "ticker": "MNR",
+      "yf_symbol": "MNR",
+      "company": "Mach Natural Resources LP",
+      "insider_name": "McMullen William Wallace",
+      "title": "See Remarks, 10%",
+      "trade_date": "2026-03-19",
+      "trade_price": 13.87,
+      "value": 128800.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-23": 13.81
+      },
+      "latest_price": 13.81,
+      "return_pct": -0.43,
+      "last_snapshot": "2026-03-23"
+    },
+    {
+      "id": "US|MSTR|2026-03-19|Le Phong",
+      "market": "US",
+      "ticker": "MSTR",
+      "yf_symbol": "MSTR",
+      "company": "Strategy Inc",
+      "insider_name": "Le Phong",
+      "title": "Pres, CEO",
+      "trade_date": "2026-03-19",
+      "trade_price": 99.62,
+      "value": 249947.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-23": 135.66
+      },
+      "latest_price": 135.66,
+      "return_pct": 36.18,
       "last_snapshot": "2026-03-23"
     }
   ]
