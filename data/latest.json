@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-24T14:15:15Z",
-  "trade_count": 5627,
+  "last_updated": "2026-03-24T15:58:07Z",
+  "trade_count": 5628,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -90032,6 +90032,22 @@
       "owned": "15055748",
       "delta_own": "0%",
       "value": "49626",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-24",
+      "filing_time": "10:50",
+      "trade_date": "2026-03-23",
+      "ticker": "PICS",
+      "company": "Pics N.V.",
+      "insider_name": "Pruett William Rodney",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "11.80",
+      "qty": "100000",
+      "owned": "100000",
+      "delta_own": "New",
+      "value": "1180000",
       "cluster_buy": false
     }
   ]
