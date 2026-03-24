@@ -5630,3 +5630,9 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-24,12:44,2026-03-23,KLTR,Kaltura Inc,Levandov Richard,Dir,P - Purchase,1.22,40000,489706,+9%,48920,True
 2026-03-24,15:00,2026-03-20,BHM,"Bluerock Homes Trust, Inc.",Kamfar Ramin,"COB, CEO",P - Purchase,10.97,5707,59224,+11%,62606,False
 2026-03-24,14:00,2026-03-06,FLYX,Flyexclusive Inc.,Hopper Peter B.,Dir,P - Purchase,2.44,125000,125000,New,305033,False
+2026-03-24,16:30,2026-03-20,ADV,Advantage Solutions Inc.,Kilts James M,Dir,P - Purchase,0.78,64553,1596659,+4%,50296,False
+2026-03-24,16:30,2026-03-23,ARQ,"Arq, Inc.",Campbell-Breeden Richard,Dir,P - Purchase,2.21,150000,491654,+44%,331665,False
+2026-03-24,16:16,2026-03-23,XZO,"Exzeo Group, Inc.",Macchiarola James J,Dir,P - Purchase,15.12,4000,140000,+3%,60480,True
+2026-03-24,16:15,2026-03-24,XZO,"Exzeo Group, Inc.",Patel Paresh,CEO,P - Purchase,14.99,2000,1584013,0%,29980,True
+2026-03-24,16:05,2026-03-24,SLGL,Sol-Gel Technologies Ltd.,Opaleye Management Inc.,10%,P - Purchase,72.00,39665,500000,+9%,2855880,False
+2026-03-24,16:04,2026-03-23,NFJ,"Virtus Dividend, Interest & Premium Strategy Fund","Saba Capital Management, L.P.",10%,P - Purchase,12.52,66031,9963690,+1%,826708,False

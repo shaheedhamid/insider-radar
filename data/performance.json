@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-24",
-  "entry_count": 649,
+  "entry_count": 655,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -151,10 +151,10 @@
         "2026-03-19": 0.157,
         "2026-03-20": 0.155,
         "2026-03-23": 0.1243,
-        "2026-03-24": 0.11
+        "2026-03-24": 0.13
       },
-      "latest_price": 0.11,
-      "return_pct": 37.5,
+      "latest_price": 0.13,
+      "return_pct": 62.5,
       "last_snapshot": "2026-03-24"
     },
     {
@@ -1360,10 +1360,10 @@
         "2026-03-19": 0.43,
         "2026-03-20": 0.443,
         "2026-03-23": 0.4499,
-        "2026-03-24": 0.4497
+        "2026-03-24": 0.445
       },
-      "latest_price": 0.4497,
-      "return_pct": 32.26,
+      "latest_price": 0.445,
+      "return_pct": 30.88,
       "last_snapshot": "2026-03-24"
     },
     {
@@ -12841,10 +12841,10 @@
         "2026-03-19": 0.705,
         "2026-03-20": 0.71,
         "2026-03-23": 0.8301,
-        "2026-03-24": 0.8899
+        "2026-03-24": 0.87
       },
-      "latest_price": 0.8899,
-      "return_pct": 270.79,
+      "latest_price": 0.87,
+      "return_pct": 262.5,
       "last_snapshot": "2026-03-24"
     },
     {
@@ -13111,10 +13111,10 @@
         "2026-03-19": 11.56,
         "2026-03-20": 11.2,
         "2026-03-23": 11.2,
-        "2026-03-24": 11.3321
+        "2026-03-24": 11.4131
       },
-      "latest_price": 11.3321,
-      "return_pct": -24.45,
+      "latest_price": 11.4131,
+      "return_pct": -23.91,
       "last_snapshot": "2026-03-24"
     },
     {
@@ -17696,10 +17696,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-23": 0.8301,
-        "2026-03-24": 0.8899
+        "2026-03-24": 0.87
       },
-      "latest_price": 0.8899,
-      "return_pct": 270.79,
+      "latest_price": 0.87,
+      "return_pct": 262.5,
       "last_snapshot": "2026-03-24"
     },
     {
@@ -18114,6 +18114,126 @@
       },
       "latest_price": 2.21,
       "return_pct": -9.43,
+      "last_snapshot": "2026-03-24"
+    },
+    {
+      "id": "US|ADV|2026-03-20|Kilts James M",
+      "market": "US",
+      "ticker": "ADV",
+      "yf_symbol": "ADV",
+      "company": "Advantage Solutions Inc.",
+      "insider_name": "Kilts James M",
+      "title": "Dir",
+      "trade_date": "2026-03-20",
+      "trade_price": 0.78,
+      "value": 50296.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-24": 0.7824
+      },
+      "latest_price": 0.7824,
+      "return_pct": 0.31,
+      "last_snapshot": "2026-03-24"
+    },
+    {
+      "id": "US|ARQ|2026-03-23|Campbell-Breeden Richard",
+      "market": "US",
+      "ticker": "ARQ",
+      "yf_symbol": "ARQ",
+      "company": "Arq, Inc.",
+      "insider_name": "Campbell-Breeden Richard",
+      "title": "Dir",
+      "trade_date": "2026-03-23",
+      "trade_price": 2.21,
+      "value": 331665.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-24": 2.27
+      },
+      "latest_price": 2.27,
+      "return_pct": 2.71,
+      "last_snapshot": "2026-03-24"
+    },
+    {
+      "id": "US|XZO|2026-03-23|Macchiarola James J",
+      "market": "US",
+      "ticker": "XZO",
+      "yf_symbol": "XZO",
+      "company": "Exzeo Group, Inc.",
+      "insider_name": "Macchiarola James J",
+      "title": "Dir",
+      "trade_date": "2026-03-23",
+      "trade_price": 15.12,
+      "value": 60480.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-24": 14.98
+      },
+      "latest_price": 14.98,
+      "return_pct": -0.93,
+      "last_snapshot": "2026-03-24"
+    },
+    {
+      "id": "US|XZO|2026-03-24|Patel Paresh",
+      "market": "US",
+      "ticker": "XZO",
+      "yf_symbol": "XZO",
+      "company": "Exzeo Group, Inc.",
+      "insider_name": "Patel Paresh",
+      "title": "CEO",
+      "trade_date": "2026-03-24",
+      "trade_price": 14.99,
+      "value": 29980.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-24": 14.98
+      },
+      "latest_price": 14.98,
+      "return_pct": -0.07,
+      "last_snapshot": "2026-03-24"
+    },
+    {
+      "id": "US|SLGL|2026-03-24|Opaleye Management Inc.",
+      "market": "US",
+      "ticker": "SLGL",
+      "yf_symbol": "SLGL",
+      "company": "Sol-Gel Technologies Ltd.",
+      "insider_name": "Opaleye Management Inc.",
+      "title": "10%",
+      "trade_date": "2026-03-24",
+      "trade_price": 72.0,
+      "value": 2855880.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-24": 66.2
+      },
+      "latest_price": 66.2,
+      "return_pct": -8.06,
+      "last_snapshot": "2026-03-24"
+    },
+    {
+      "id": "US|NFJ|2026-03-23|Saba Capital Management, L.P.",
+      "market": "US",
+      "ticker": "NFJ",
+      "yf_symbol": "NFJ",
+      "company": "Virtus Dividend, Interest & Premium Strategy Fund",
+      "insider_name": "Saba Capital Management, L.P.",
+      "title": "10%",
+      "trade_date": "2026-03-23",
+      "trade_price": 12.52,
+      "value": 826708.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-24": 12.5
+      },
+      "latest_price": 12.5,
+      "return_pct": -0.16,
       "last_snapshot": "2026-03-24"
     }
   ]
