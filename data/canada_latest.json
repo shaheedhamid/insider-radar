@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-24T01:00:29Z",
-  "trade_count": 2698,
+  "last_updated": "2026-03-24T03:45:24Z",
+  "trade_count": 2700,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -40717,6 +40717,38 @@
       "qty": "4866",
       "price": "20.5500",
       "value": "99996",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4687175",
+      "trade_date": "2026-03-23",
+      "filing_date": "2026-03-23",
+      "company": "First Mining Gold Corp.",
+      "ticker": "FF",
+      "insider_name": "Neumeyer, Keith",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "1000000",
+      "price": "0.4000",
+      "value": "400000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4687111",
+      "trade_date": "2026-03-23",
+      "filing_date": "2026-03-23",
+      "company": "Lavras Gold Corp.",
+      "ticker": "LGC",
+      "insider_name": "Raykov, Rostislav Christov",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "50100",
+      "price": "2.0000",
+      "value": "100200",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
