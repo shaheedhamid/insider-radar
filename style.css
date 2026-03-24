@@ -531,3 +531,10 @@ footer {
   .market-nav { gap: 1px; }
   .market-nav-btn { padding: 4px 6px; font-size: 10px; }
 }
+
+/* --- Hide nav labels on mobile, show icons only (fits 4 tabs) --- */
+@media (max-width: 640px) {
+  .market-nav-btn .nav-label { display: none; }
+  .market-nav-btn { padding: 6px 9px; }
+  .market-nav-btn.active { border-bottom-width: 2px; }
+}

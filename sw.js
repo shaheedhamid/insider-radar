@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'insideredge-v2';
+const CACHE_VERSION = 'insideredge-v3';
 const STATIC_CACHE  = `${CACHE_VERSION}-static`;
 const DATA_CACHE    = `${CACHE_VERSION}-data`;
 
@@ -8,6 +8,7 @@ const STATIC_ASSETS = [
   '/index.html',
   '/canada.html',
   '/performance.html',
+  '/congress.html',
   '/style.css',
 ];
 
@@ -16,6 +17,7 @@ const DATA_URLS = [
   '/data/latest.json',
   '/data/canada_latest.json',
   '/data/performance.json',
+  '/data/trades.json',
 ];
 
 // ----------------------------------------------------------------

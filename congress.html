@@ -1,0 +1,774 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-BM57ZCD9G3"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-BM57ZCD9G3');
+  </script>
+
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+  <title>Congressional Stock Trades — STOCK Act Disclosures | InsiderEdgePro</title>
+  <meta name="description" content="Track real-time US congressional stock trades. Follow what senators and representatives are buying and selling under the STOCK Act. Free alerts." />
+  <meta name="keywords" content="congressional stock trades, STOCK Act disclosures, Nancy Pelosi stock trades, senator stock trades, house representative trades, politician portfolio tracker, congress stock market tracker, STOCK Act filing tracker" />
+  <meta name="author" content="InsiderEdgePro" />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://insideredgepro.github.io/congress.html" />
+  <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://insideredgepro.github.io/congress.html" />
+  <meta property="og:title" content="Congressional Stock Trades — STOCK Act Disclosures | InsiderEdgePro" />
+  <meta property="og:description" content="Track real-time US congressional stock trades. Follow what senators and representatives are buying and selling under the STOCK Act." />
+  <meta property="og:site_name" content="InsiderEdgePro" />
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Congressional Stock Trades — STOCK Act Disclosures | InsiderEdgePro" />
+  <meta name="twitter:description" content="Real-time STOCK Act disclosures — follow what US senators and representatives are buying and selling in the stock market. Free Discord alerts." />
+
+  <!-- JSON-LD Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "name": "Congressional Stock Trades — STOCK Act Disclosures",
+        "url": "https://insideredgepro.github.io/congress.html",
+        "description": "Track real-time US congressional stock trades. Follow what senators and representatives are buying and selling under the STOCK Act.",
+        "isPartOf": { "@type": "WebSite", "name": "InsiderEdgePro", "url": "https://insideredgepro.github.io" }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is the STOCK Act?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The STOCK Act (Stop Trading on Congressional Knowledge Act) requires US senators and representatives to publicly disclose personal stock trades within 45 days of the transaction. InsiderEdgePro monitors these filings in real time and sends free Discord alerts the moment a new congressional trade is disclosed."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do congressional stock trades outperform the market?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Academic studies have found that congressional stock portfolios have historically outperformed broad market indices. Members of Congress may have access to non-public policy information that influences their trades. InsiderEdgePro surfaces STOCK Act disclosures the moment they are filed so you can follow congressional trades in real time."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do I track Nancy Pelosi stock trades?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Under the STOCK Act, Nancy Pelosi and all other members of Congress must disclose trades within 45 days. InsiderEdgePro automatically tracks every STOCK Act filing and shows you the politician name, company, trade type, amount, and filing date in a clean dashboard with free Discord alerts."
+            }
+          }
+        ]
+      }
+    ]
+  }
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    /* Stat card accent colors */
+    .stat-card:nth-child(1)::before { background: linear-gradient(90deg, var(--blue),   transparent); }
+    .stat-card:nth-child(2)::before { background: linear-gradient(90deg, var(--green),  transparent); }
+    .stat-card:nth-child(3)::before { background: linear-gradient(90deg, var(--red),    transparent); }
+    .stat-card:nth-child(4)::before { background: linear-gradient(90deg, var(--gold),   transparent); }
+    .stat-card:nth-child(1) .stat-icon { background: var(--blue-bg);   color: var(--blue);   }
+    .stat-card:nth-child(2) .stat-icon { background: var(--green-bg);  color: var(--green);  }
+    .stat-card:nth-child(3) .stat-icon { background: var(--red-bg);    color: var(--red);    }
+    .stat-card:nth-child(4) .stat-icon { background: var(--gold-bg);   color: var(--gold);   }
+
+    /* Party badges */
+    .badge-party {
+      display: inline-flex; align-items: center; gap: 3px;
+      border-radius: 5px; padding: 2px 8px; font-size: 10px; font-weight: 700;
+      letter-spacing: .04em; white-space: nowrap;
+    }
+    .badge-party.dem { background: rgba(59,130,246,.12); color: #60A5FA; border: 1px solid rgba(59,130,246,.25); }
+    .badge-party.rep { background: rgba(239,68,68,.12);  color: #F87171; border: 1px solid rgba(239,68,68,.25); }
+    .badge-party.ind { background: var(--surface3);      color: var(--muted2); border: 1px solid var(--border2); }
+
+    /* Transaction type badge */
+    .badge-tx {
+      display: inline-flex; align-items: center;
+      border-radius: 5px; padding: 2px 10px; font-size: 11px; font-weight: 700; white-space: nowrap;
+    }
+    .badge-tx.buy      { background: var(--green-bg); color: var(--green); border: 1px solid rgba(16,217,138,.25); }
+    .badge-tx.sell     { background: var(--red-bg);   color: var(--red);   border: 1px solid rgba(239,68,68,.25); }
+    .badge-tx.exchange { background: var(--gold-bg);  color: var(--gold);  border: 1px solid rgba(240,168,0,.25); }
+
+    /* Chamber badge */
+    .badge-chamber {
+      display: inline-block; border-radius: 4px; padding: 1px 6px;
+      font-size: 9px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase;
+    }
+    .badge-chamber.house  { background: rgba(168,85,247,.12); color: #C084FC; border: 1px solid rgba(168,85,247,.25); }
+    .badge-chamber.senate { background: rgba(251,191,36,.12);  color: var(--gold); border: 1px solid rgba(240,168,0,.25); }
+
+    /* Table column widths */
+    table { min-width: 860px; }
+    .td-politician { font-weight: 600; color: var(--text); }
+    .td-meta       { display: flex; flex-direction: column; gap: 3px; }
+    .td-company    { max-width: 180px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .td-ticker     { font-family: var(--font-mono); font-weight: 700; color: var(--gold-bright); font-size: 13px; }
+    .td-amount     { font-family: var(--font-mono); font-size: 12px; color: var(--text2); white-space: nowrap; }
+    .td-filed      { font-family: var(--font-mono); font-size: 11px; color: var(--muted); white-space: nowrap; }
+
+    /* BUY / SELL row tint */
+    tbody tr.row-buy  { background: rgba(16,217,138,.03); }
+    tbody tr.row-buy:hover  { background: rgba(16,217,138,.09); }
+    tbody tr.row-sell { background: rgba(239,68,68,.03); }
+    tbody tr.row-sell:hover { background: rgba(239,68,68,.09); }
+
+    /* Mobile card overrides */
+    @media (max-width: 600px) {
+      td.td-amount { display: block; position: absolute; top: 10px; right: 12px; padding: 0; }
+      td.td-filed  { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ================================================================== -->
+<!-- HEADER                                                               -->
+<!-- ================================================================== -->
+<div class="topbar">
+  Congressional stock trades sourced from <strong>STOCK Act disclosures</strong>. Members of Congress have up to <strong>45 days</strong> to report trades.
+</div>
+
+<header>
+  <div class="brand">
+    <svg class="brand-logo" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+      <circle cx="18" cy="18" r="16" stroke="currentColor" stroke-width="1.2" opacity=".2"/>
+      <circle cx="18" cy="18" r="11" stroke="currentColor" stroke-width="1.2" opacity=".4"/>
+      <circle cx="18" cy="18" r="6"  stroke="currentColor" stroke-width="1.2" opacity=".7"/>
+      <circle cx="18" cy="18" r="2.5" fill="currentColor"/>
+      <line x1="18" y1="18" x2="31" y2="5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" opacity=".8"/>
+      <circle cx="31" cy="5" r="1.8" fill="currentColor" opacity=".9"/>
+    </svg>
+    <div class="brand-text">
+      <a href="index.html" class="brand-name" style="-webkit-text-fill-color:unset;background:unset;color:var(--gold)">InsiderEdgePro</a>
+      <div class="brand-tagline">Institutional Buying Intelligence</div>
+    </div>
+  </div>
+
+  <div class="header-center">
+    <div class="live-pill">
+      <span class="live-dot"></span>
+      LIVE
+    </div>
+    <div class="market-nav">
+      <a href="index.html" class="market-nav-btn">
+        <svg viewBox="0 0 20 13" width="20" height="13" style="border-radius:2px;flex-shrink:0" xmlns="http://www.w3.org/2000/svg">
+          <rect width="20" height="13" fill="#B22234"/>
+          <rect y="1" width="20" height="1" fill="#fff"/><rect y="3" width="20" height="1" fill="#fff"/>
+          <rect y="5" width="20" height="1" fill="#fff"/><rect y="7" width="20" height="1" fill="#fff"/>
+          <rect y="9" width="20" height="1" fill="#fff"/><rect y="11" width="20" height="1" fill="#fff"/>
+          <rect width="8" height="7" fill="#3C3B6E"/>
+        </svg>
+        <span class="nav-label">US</span>
+      </a>
+      <a href="canada.html" class="market-nav-btn">
+        <svg viewBox="0 0 20 13" width="20" height="13" style="border-radius:2px;flex-shrink:0" xmlns="http://www.w3.org/2000/svg">
+          <rect width="20" height="13" fill="#fff"/>
+          <rect width="5" height="13" fill="#D52B1E"/>
+          <rect x="15" width="5" height="13" fill="#D52B1E"/>
+          <path transform="translate(10,6.5) scale(0.85)" fill="#D52B1E" d="M0-3.5 .5-1.5 2-2.5 1.2-.8 3 0 1.5.5 2 2 .8 1.5 0 3-.8 1.5-2 2-1.5.5-3 0-1.2-.8-2-2.5-.5-1.5Z"/>
+        </svg>
+        <span class="nav-label">Canada</span>
+      </a>
+      <a class="market-nav-btn active">
+        <svg viewBox="0 0 16 16" width="14" height="14" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" style="flex-shrink:0">
+          <rect x="1" y="10" width="14" height="5" rx="1"/>
+          <path d="M3 10V8M6 10V7M8 10V5M10 10V7M13 10V8"/>
+          <path d="M5 5h6M8 1v4"/>
+        </svg>
+        <span class="nav-label">Congress</span>
+      </a>
+      <a href="performance.html" class="market-nav-btn">
+        <svg viewBox="0 0 16 16" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" style="flex-shrink:0">
+          <path d="M2 12L6 7l3 3 5-6"/><circle cx="13" cy="4" r="1.5" fill="currentColor" stroke="none"/>
+        </svg>
+        <span class="nav-label">Performance</span>
+      </a>
+    </div>
+    <span id="last-updated" style="font-size:11px;color:var(--muted)">Loading…</span>
+  </div>
+
+  <div class="header-right">
+    <span id="trade-count" style="font-size:11px;font-weight:600;font-family:var(--font-mono);background:var(--gold-bg);border:1px solid rgba(240,168,0,.25);border-radius:20px;padding:4px 12px;color:var(--gold);letter-spacing:.04em">— trades</span>
+    <a href="https://discord.gg/k6Q5rtEPe" target="_blank" rel="noopener noreferrer" class="btn-discord">
+      <svg width="16" height="16" viewBox="0 0 127.14 96.36" fill="currentColor" aria-hidden="true">
+        <path d="M107.7,8.07A105.15,105.15,0,0,0,81.47,0a72.06,72.06,0,0,0-3.36,6.83A97.68,97.68,0,0,0,49,6.83,72.37,72.37,0,0,0,45.64,0,105.89,105.89,0,0,0,19.39,8.09C2.79,32.65-1.71,56.6.54,80.21h0A105.73,105.73,0,0,0,32.71,96.36,77.7,77.7,0,0,0,39.6,85.25a68.42,68.42,0,0,1-10.85-5.18c.91-.66,1.8-1.34,2.66-2a75.57,75.57,0,0,0,64.32,0c.87.71,1.76,1.39,2.66,2a68.68,68.68,0,0,1-10.87,5.19,77,77,0,0,0,6.89,11.1A105.25,105.25,0,0,0,126.6,80.22h0C129.24,52.84,122.09,29.11,107.7,8.07ZM42.45,65.69C36.18,65.69,31,60,31,53s5-12.74,11.43-12.74S54,46,53.89,53,48.84,65.69,42.45,65.69Zm42.24,0C78.41,65.69,73.25,60,73.25,53s5-12.74,11.44-12.74S96.23,46,96.12,53,91.08,65.69,84.69,65.69Z"/>
+      </svg>
+      <span>Join Discord</span>
+    </a>
+  </div>
+</header>
+
+<div class="gold-rule"></div>
+
+<div id="error-banner"></div>
+
+<!-- ================================================================== -->
+<!-- STATS                                                                -->
+<!-- ================================================================== -->
+<div class="stats">
+
+  <div class="stat-card">
+    <div class="stat-header">
+      <div class="stat-icon">
+        <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+          <rect x="1" y="10" width="14" height="5" rx="1"/>
+          <path d="M3 10V8M6 10V7M8 10V5M10 10V7M13 10V8"/>
+          <path d="M5 5h6M8 1v4"/>
+        </svg>
+      </div>
+      <div class="stat-label">Total Trades</div>
+    </div>
+    <div class="stat-value accent" id="stat-total">—</div>
+  </div>
+
+  <div class="stat-card">
+    <div class="stat-header">
+      <div class="stat-icon">
+        <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+          <path d="M8 13V3M3 8l5-5 5 5"/>
+        </svg>
+      </div>
+      <div class="stat-label">Buys</div>
+    </div>
+    <div class="stat-value green" id="stat-buys">—</div>
+  </div>
+
+  <div class="stat-card">
+    <div class="stat-header">
+      <div class="stat-icon">
+        <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+          <path d="M8 3v10M3 8l5 5 5-5"/>
+        </svg>
+      </div>
+      <div class="stat-label">Sells</div>
+    </div>
+    <div class="stat-value" style="color:var(--red)" id="stat-sells">—</div>
+  </div>
+
+  <div class="stat-card">
+    <div class="stat-header">
+      <div class="stat-icon">
+        <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+          <circle cx="6" cy="5" r="3"/>
+          <path d="M1 14c0-3 2-5 5-5"/>
+          <circle cx="12" cy="8" r="2.5"/>
+          <path d="M9.5 13c0-2 1-3.5 2.5-3.5s2.5 1.5 2.5 3.5"/>
+        </svg>
+      </div>
+      <div class="stat-label">Politicians</div>
+    </div>
+    <div class="stat-value gold" id="stat-politicians">—</div>
+  </div>
+
+</div>
+
+<!-- ================================================================== -->
+<!-- FILTERS                                                              -->
+<!-- ================================================================== -->
+<div class="filters-wrap">
+
+  <div class="filter-group">
+    <div class="search-wrap">
+      <svg class="search-icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+        <circle cx="6.5" cy="6.5" r="4.5"/>
+        <line x1="10" y1="10" x2="14" y2="14"/>
+      </svg>
+      <input type="text" id="search-input" placeholder="Politician or company…" />
+    </div>
+  </div>
+
+  <div class="filter-group">
+    <span class="filter-label">Party</span>
+    <div class="date-range-group" id="party-group">
+      <button class="btn-range active" data-party="all">All</button>
+      <button class="btn-range" data-party="Democrat">Dem</button>
+      <button class="btn-range" data-party="Republican">Rep</button>
+    </div>
+  </div>
+
+  <div class="filter-group">
+    <span class="filter-label">Chamber</span>
+    <div class="date-range-group" id="chamber-group">
+      <button class="btn-range active" data-chamber="all">All</button>
+      <button class="btn-range" data-chamber="House">House</button>
+      <button class="btn-range" data-chamber="Senate">Senate</button>
+    </div>
+  </div>
+
+  <div class="filter-group">
+    <span class="filter-label">Type</span>
+    <div class="date-range-group" id="type-group">
+      <button class="btn-range active" data-txtype="all">All</button>
+      <button class="btn-range" data-txtype="BUY">Buy</button>
+      <button class="btn-range" data-txtype="SELL">Sell</button>
+    </div>
+  </div>
+
+  <div class="filter-group">
+    <span class="filter-label">Period</span>
+    <div class="date-range-group" id="date-range-group">
+      <button class="btn-range" data-range="7">7D</button>
+      <button class="btn-range active" data-range="30">30D</button>
+      <button class="btn-range" data-range="90">90D</button>
+      <button class="btn-range" data-range="all">All</button>
+    </div>
+  </div>
+
+  <button class="btn-reset" id="btn-reset">↺ Reset</button>
+</div>
+
+<!-- ================================================================== -->
+<!-- TABLE                                                                -->
+<!-- ================================================================== -->
+<div class="table-section">
+
+  <div id="no-results">
+    <svg class="no-results-icon" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round">
+      <circle cx="20" cy="20" r="14"/>
+      <line x1="30" y1="30" x2="42" y2="42"/>
+      <line x1="14" y1="20" x2="26" y2="20"/>
+    </svg>
+    <p>No trades match your filters.</p>
+  </div>
+
+  <div class="table-scroll">
+    <table id="trades-table">
+      <thead>
+        <tr>
+          <th data-col="trade_published">Traded / Published<i class="sort-arrow"></i></th>
+          <th data-col="politician_name">Politician<i class="sort-arrow"></i></th>
+          <th data-col="party">Party<i class="sort-arrow"></i></th>
+          <th data-col="company">Company<i class="sort-arrow"></i></th>
+          <th data-col="ticker">Ticker<i class="sort-arrow"></i></th>
+          <th data-col="transaction_type">Type<i class="sort-arrow"></i></th>
+          <th data-col="amount">Amount<i class="sort-arrow"></i></th>
+          <th data-col="filed_after_days">Filed After<i class="sort-arrow"></i></th>
+        </tr>
+      </thead>
+      <tbody id="table-body">
+        <tr class="skeleton-row"><td colspan="8"><div class="skeleton-cell" style="width:100%"></div></td></tr>
+        <tr class="skeleton-row"><td colspan="8"><div class="skeleton-cell" style="width:92%"></div></td></tr>
+        <tr class="skeleton-row"><td colspan="8"><div class="skeleton-cell" style="width:96%"></div></td></tr>
+        <tr class="skeleton-row"><td colspan="8"><div class="skeleton-cell" style="width:85%"></div></td></tr>
+        <tr class="skeleton-row"><td colspan="8"><div class="skeleton-cell" style="width:90%"></div></td></tr>
+        <tr class="skeleton-row"><td colspan="8"><div class="skeleton-cell" style="width:78%"></div></td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<!-- ================================================================== -->
+<!-- FOOTER                                                               -->
+<!-- ================================================================== -->
+<footer>
+  <div class="footer-brand">
+    <div class="brand-name-sm">InsiderEdgePro</div>
+    <p>Real-time congressional stock trade tracking. STOCK Act disclosures surface as soon as they are filed. Free Discord alerts for every new trade.</p>
+  </div>
+
+  <div class="footer-links">
+    <a href="https://www.capitoltrades.com" target="_blank" rel="noopener">Capitol Trades</a>
+  </div>
+
+  <div class="footer-legal">
+    &copy; 2026 InsiderEdgePro. All rights reserved.<br/>
+    <span style="color:var(--muted)">For informational purposes only. Not financial advice.<br/>
+    Congressional trade data sourced from public STOCK Act disclosures.</span>
+  </div>
+</footer>
+
+<!-- ================================================================== -->
+<!-- JAVASCRIPT                                                           -->
+<!-- ================================================================== -->
+<script>
+(function () {
+  'use strict';
+
+  const DATA_URL = 'data/trades.json';
+
+  let allTrades = [];
+  let sortCol   = 'trade_published';
+  let sortDir   = 'desc';
+  let filterParty   = 'all';
+  let filterChamber = 'all';
+  let filterTxType  = 'all';
+  let dateRange     = '30';
+
+  /* -- DOM refs -- */
+  const REFRESH_INTERVAL_MS = 30 * 60 * 1000;
+  const lastUpdatedEl  = document.getElementById('last-updated');
+  const tradeCountEl   = document.getElementById('trade-count');
+  const errorBannerEl  = document.getElementById('error-banner');
+  const tableBodyEl    = document.getElementById('table-body');
+  const noResultsEl    = document.getElementById('no-results');
+  const searchInputEl  = document.getElementById('search-input');
+  const btnReset       = document.getElementById('btn-reset');
+  const tableEl        = document.getElementById('trades-table');
+
+  const statTotal      = document.getElementById('stat-total');
+  const statBuys       = document.getElementById('stat-buys');
+  const statSells      = document.getElementById('stat-sells');
+  const statPoliticians = document.getElementById('stat-politicians');
+
+  /* -- Utilities -- */
+  function escHtml(str) {
+    return String(str || '')
+      .replace(/&/g,'&amp;').replace(/</g,'&lt;')
+      .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  const MONTHS = {jan:0,feb:1,mar:2,apr:3,may:4,jun:5,jul:6,aug:7,sep:8,oct:9,nov:10,dec:11};
+
+  /* Normalise date — handles ISO "2026-03-12", "9 Mar 2026", or separate traded_date+traded_year */
+  function parseTradeDate(t) {
+    // ISO format from new scraper
+    const iso = t.traded_on || '';
+    if (/^\d{4}-\d{2}-\d{2}/.test(iso)) return iso.slice(0, 10);
+
+    // Old scraper: separate fields "9 Mar" + "2026"
+    const datePart = (t.traded_date || iso || '').trim();
+    const yearPart = (t.traded_year || '').trim();
+    if (datePart && yearPart) {
+      const parts = datePart.split(/\s+/);
+      const day   = parseInt(parts[0], 10);
+      const mon   = MONTHS[(parts[1] || '').toLowerCase().slice(0, 3)];
+      const year  = parseInt(yearPart, 10);
+      if (!isNaN(day) && mon !== undefined && !isNaN(year)) {
+        const d = new Date(year, mon, day);
+        return d.toISOString().slice(0, 10);
+      }
+    }
+
+    // Fallback: "9 Mar 2026" in traded_on
+    if (datePart) {
+      const parts = datePart.replace(/,/g, '').split(/\s+/);
+      if (parts.length >= 3) {
+        const day  = parseInt(parts[0], 10);
+        const mon  = MONTHS[(parts[1] || '').toLowerCase().slice(0, 3)];
+        const year = parseInt(parts[2], 10);
+        if (!isNaN(day) && mon !== undefined && !isNaN(year)) {
+          const d = new Date(year, mon, day);
+          return d.toISOString().slice(0, 10);
+        }
+      }
+    }
+    return null;
+  }
+
+  function formatDateDisplay(isoDate) {
+    if (!isoDate) return '—';
+    const [y, m, d] = isoDate.split('-');
+    const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    return `${parseInt(d, 10)} ${months[parseInt(m, 10) - 1]} ${y}`;
+  }
+
+  function partyClass(party) {
+    const p = (party || '').toLowerCase();
+    if (p.includes('democrat')) return 'dem';
+    if (p.includes('republican')) return 'rep';
+    return 'ind';
+  }
+
+  function partyShort(party) {
+    const p = (party || '').toLowerCase();
+    if (p.includes('democrat')) return 'D';
+    if (p.includes('republican')) return 'R';
+    return party || '?';
+  }
+
+  function chamberClass(chamber) {
+    return (chamber || '').toLowerCase() === 'senate' ? 'senate' : 'house';
+  }
+
+  function txClass(type) {
+    const t = (type || '').toUpperCase();
+    if (t === 'BUY') return 'buy';
+    if (t === 'SELL') return 'sell';
+    return 'exchange';
+  }
+
+  function normaliseAmount(t) {
+    // New scraper: "$15K–$50K", old scraper: "15K–50K"
+    const a = t.amount || '';
+    if (!a || a === 'N/A') return '—';
+    return a.startsWith('$') ? a : '$' + a;
+  }
+
+  /* Parse trade_published — "11 Mar 2026" → "2026-03-11" */
+  function parsePublishedDate(t) {
+    const raw = (t.trade_published || '').trim();
+    if (!raw || raw === 'N/A') return null;
+    if (/^\d{4}-\d{2}-\d{2}/.test(raw)) return raw.slice(0, 10);
+    const parts = raw.replace(/,/g, '').split(/\s+/);
+    if (parts.length >= 3) {
+      const day  = parseInt(parts[0], 10);
+      const mon  = MONTHS[(parts[1] || '').toLowerCase().slice(0, 3)];
+      const year = parseInt(parts[2], 10);
+      if (!isNaN(day) && mon !== undefined && !isNaN(year)) {
+        return new Date(year, mon, day).toISOString().slice(0, 10);
+      }
+    }
+    return null;
+  }
+
+  /* -- Filter & render -- */
+  function applyFilters(trades) {
+    const search = searchInputEl.value.trim().toLowerCase();
+    let cutoff = null;
+    if (dateRange !== 'all') {
+      const d = new Date();
+      d.setDate(d.getDate() - parseInt(dateRange, 10));
+      cutoff = d.toISOString().slice(0, 10);
+    }
+
+    return trades.filter(t => {
+      if (filterParty !== 'all' && (t.party || '') !== filterParty) return false;
+      if (filterChamber !== 'all' && (t.chamber || '').toLowerCase() !== filterChamber.toLowerCase()) return false;
+      if (filterTxType !== 'all' && (t.transaction_type || '').toUpperCase() !== filterTxType) return false;
+      const filedDate = parsePublishedDate(t);
+      if (cutoff && filedDate && filedDate < cutoff) return false;
+      if (search) {
+        const haystack = [
+          t.politician_name, t.company, t.ticker, t.party, t.state, t.sector
+        ].join(' ').toLowerCase();
+        if (!haystack.includes(search)) return false;
+      }
+      return true;
+    });
+  }
+
+  function sortTrades(trades) {
+    return [...trades].sort((a, b) => {
+      let va, vb;
+      if (sortCol === 'traded_on') {
+        va = parseTradeDate(a) || '';
+        vb = parseTradeDate(b) || '';
+      } else if (sortCol === 'trade_published') {
+        va = parsePublishedDate(a) || '';
+        vb = parsePublishedDate(b) || '';
+      } else if (sortCol === 'filed_after_days') {
+        va = parseInt(a.filed_after_days || 0, 10);
+        vb = parseInt(b.filed_after_days || 0, 10);
+      } else {
+        va = String(a[sortCol] || '').toLowerCase();
+        vb = String(b[sortCol] || '').toLowerCase();
+      }
+      if (va < vb) return sortDir === 'asc' ? -1 : 1;
+      if (va > vb) return sortDir === 'asc' ?  1 : -1;
+      return 0;
+    });
+  }
+
+  function buildRow(t) {
+    const isoDate    = parseTradeDate(t) || '';
+    const dateDisp   = formatDateDisplay(isoDate);
+    const pubIso     = parsePublishedDate(t);
+    const pubDisp    = pubIso ? formatDateDisplay(pubIso) : (t.trade_published || '—');
+    const txType     = (t.transaction_type || '').toUpperCase();
+    const ticker     = (t.ticker || '').trim();
+    const company    = (t.company || '').trim();
+    const filedDays  = t.filed_after_days ? `${t.filed_after_days}d` : '—';
+    const amount     = normaliseAmount(t);
+    const rowCls     = txType === 'BUY' ? 'row-buy' : txType === 'SELL' ? 'row-sell' : '';
+    const stateStr   = t.state ? ` · ${escHtml(t.state)}` : '';
+
+    return `<tr class="${rowCls}">
+  <td style="font-size:12px;line-height:1.6">
+    <div style="color:var(--text);font-weight:600">${pubDisp}</div>
+    <div style="color:var(--muted);font-size:11px">Traded: ${escHtml(dateDisp)}</div>
+  </td>
+  <td class="td-ticker td-politician">${escHtml(t.politician_name || '—')}</td>
+  <td>
+    <span class="badge-party ${partyClass(t.party)}">${escHtml(partyShort(t.party))}</span>
+    <span class="badge-chamber ${chamberClass(t.chamber)}" style="margin-left:3px">${escHtml(t.chamber || '?')}${stateStr}</span>
+  </td>
+  <td>
+    <div class="td-company" title="${escHtml(company)}">${escHtml(company || '—')}</div>
+    ${t.sector ? `<div style="font-size:10px;color:var(--muted);margin-top:2px">${escHtml(t.sector)}</div>` : ''}
+  </td>
+  <td class="td-ticker">${ticker && ticker !== 'N/A' ? escHtml(ticker) : '<span style="color:var(--muted)">—</span>'}</td>
+  <td><span class="badge-tx ${txClass(txType)}">${escHtml(txType || '—')}</span></td>
+  <td class="td-amount">${escHtml(amount)}</td>
+  <td class="td-filed">${escHtml(filedDays)}</td>
+</tr>`;
+  }
+
+  function updateStats(filtered, all) {
+    const buys  = filtered.filter(t => (t.transaction_type || '').toUpperCase() === 'BUY').length;
+    const sells = filtered.filter(t => (t.transaction_type || '').toUpperCase() === 'SELL').length;
+    const politicians = new Set(filtered.map(t => t.politician_name)).size;
+    statTotal.textContent      = filtered.length.toLocaleString();
+    statBuys.textContent       = buys.toLocaleString();
+    statSells.textContent      = sells.toLocaleString();
+    statPoliticians.textContent = politicians.toLocaleString();
+  }
+
+  function renderTable() {
+    const filtered = applyFilters(allTrades);
+    const sorted   = sortTrades(filtered);
+
+    noResultsEl.style.display = sorted.length === 0 ? 'flex' : 'none';
+    tableBodyEl.innerHTML = sorted.map(buildRow).join('');
+    updateStats(filtered, allTrades);
+    updateSortArrows();
+  }
+
+  /* -- Sort arrows -- */
+  function updateSortArrows() {
+    tableEl.querySelectorAll('th[data-col]').forEach(th => {
+      const arrow = th.querySelector('.sort-arrow');
+      if (!arrow) return;
+      if (th.dataset.col === sortCol) {
+        arrow.textContent = sortDir === 'asc' ? ' ↑' : ' ↓';
+        arrow.style.color = 'var(--gold)';
+      } else {
+        arrow.textContent = '';
+        arrow.style.color = '';
+      }
+    });
+  }
+
+  /* -- Event listeners -- */
+  tableEl.querySelectorAll('th[data-col]').forEach(th => {
+    th.style.cursor = 'pointer';
+    th.addEventListener('click', () => {
+      if (sortCol === th.dataset.col) {
+        sortDir = sortDir === 'asc' ? 'desc' : 'asc';
+      } else {
+        sortCol = th.dataset.col;
+        sortDir = 'desc';
+      }
+      renderTable();
+    });
+  });
+
+  searchInputEl.addEventListener('input', renderTable);
+
+  document.getElementById('party-group').addEventListener('click', e => {
+    const btn = e.target.closest('[data-party]');
+    if (!btn) return;
+    filterParty = btn.dataset.party;
+    document.querySelectorAll('#party-group .btn-range').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    renderTable();
+  });
+
+  document.getElementById('chamber-group').addEventListener('click', e => {
+    const btn = e.target.closest('[data-chamber]');
+    if (!btn) return;
+    filterChamber = btn.dataset.chamber;
+    document.querySelectorAll('#chamber-group .btn-range').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    renderTable();
+  });
+
+  document.getElementById('type-group').addEventListener('click', e => {
+    const btn = e.target.closest('[data-txtype]');
+    if (!btn) return;
+    filterTxType = btn.dataset.txtype;
+    document.querySelectorAll('#type-group .btn-range').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    renderTable();
+  });
+
+  document.getElementById('date-range-group').addEventListener('click', e => {
+    const btn = e.target.closest('[data-range]');
+    if (!btn) return;
+    dateRange = btn.dataset.range;
+    document.querySelectorAll('#date-range-group .btn-range').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    renderTable();
+  });
+
+  btnReset.addEventListener('click', () => {
+    searchInputEl.value = '';
+    filterParty   = 'all';
+    filterChamber = 'all';
+    filterTxType  = 'all';
+    dateRange     = 'all';
+    ['party-group','chamber-group','type-group','date-range-group'].forEach(id => {
+      const grp = document.getElementById(id);
+      grp.querySelectorAll('.btn-range').forEach(b => b.classList.remove('active'));
+      const allBtn = grp.querySelector('[data-party="all"],[data-chamber="all"],[data-txtype="all"],[data-range="all"]');
+      if (allBtn) allBtn.classList.add('active');
+    });
+    renderTable();
+  });
+
+  /* -- Dedup trades by id -- */
+  function dedup(trades) {
+    const seen = new Set();
+    return trades.filter(t => {
+      if (!t.id || seen.has(t.id)) return false;
+      seen.add(t.id);
+      return true;
+    });
+  }
+
+  /* -- Data fetch -- */
+  function showError(msg) {
+    errorBannerEl.innerHTML = `<div class="error-banner">${escHtml(msg)}</div>`;
+  }
+
+  async function loadData() {
+    try {
+      const url = DATA_URL + '?_=' + Date.now();
+      const resp = await fetch(url);
+      if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+      const raw = await resp.json();
+      allTrades = dedup(Array.isArray(raw) ? raw : []);
+
+      // Sort by filed/published date newest first by default
+      allTrades.sort((a, b) => {
+        const da = parsePublishedDate(a) || '';
+        const db = parsePublishedDate(b) || '';
+        return db < da ? -1 : db > da ? 1 : 0;
+      });
+
+      const newest = allTrades.length > 0 ? parseTradeDate(allTrades[0]) : null;
+      lastUpdatedEl.textContent = newest ? `Filed ${formatDateDisplay(newest)}` : 'Loaded';
+      if (tradeCountEl) tradeCountEl.textContent = allTrades.length + ' trades';
+
+      renderTable();
+    } catch (err) {
+      showError('Failed to load congressional trade data. Please try again later.');
+      tableBodyEl.innerHTML = '';
+      console.error(err);
+    }
+  }
+
+  loadData();
+  setInterval(loadData, REFRESH_INTERVAL_MS);
+
+})();
+</script>
+
+<script>
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('/sw.js').catch(() => {});
+}
+</script>
+</body>
+</html>
