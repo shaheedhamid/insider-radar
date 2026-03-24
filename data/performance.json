@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-24",
-  "entry_count": 646,
+  "entry_count": 647,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -151,10 +151,10 @@
         "2026-03-19": 0.157,
         "2026-03-20": 0.155,
         "2026-03-23": 0.1243,
-        "2026-03-24": 0.1179
+        "2026-03-24": 0.1101
       },
-      "latest_price": 0.1179,
-      "return_pct": 47.38,
+      "latest_price": 0.1101,
+      "return_pct": 37.62,
       "last_snapshot": "2026-03-24"
     },
     {
@@ -12841,10 +12841,10 @@
         "2026-03-19": 0.705,
         "2026-03-20": 0.71,
         "2026-03-23": 0.8301,
-        "2026-03-24": 0.919
+        "2026-03-24": 0.89
       },
-      "latest_price": 0.919,
-      "return_pct": 282.92,
+      "latest_price": 0.89,
+      "return_pct": 270.83,
       "last_snapshot": "2026-03-24"
     },
     {
@@ -13111,10 +13111,10 @@
         "2026-03-19": 11.56,
         "2026-03-20": 11.2,
         "2026-03-23": 11.2,
-        "2026-03-24": 11.2
+        "2026-03-24": 11.3321
       },
-      "latest_price": 11.2,
-      "return_pct": -25.33,
+      "latest_price": 11.3321,
+      "return_pct": -24.45,
       "last_snapshot": "2026-03-24"
     },
     {
@@ -17696,10 +17696,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-23": 0.8301,
-        "2026-03-24": 0.919
+        "2026-03-24": 0.89
       },
-      "latest_price": 0.919,
-      "return_pct": 282.92,
+      "latest_price": 0.89,
+      "return_pct": 270.83,
       "last_snapshot": "2026-03-24"
     },
     {
@@ -18054,6 +18054,26 @@
       },
       "latest_price": 11.85,
       "return_pct": 0.42,
+      "last_snapshot": "2026-03-24"
+    },
+    {
+      "id": "US|KLTR|2026-03-23|Levandov Richard",
+      "market": "US",
+      "ticker": "KLTR",
+      "yf_symbol": "KLTR",
+      "company": "Kaltura Inc",
+      "insider_name": "Levandov Richard",
+      "title": "Dir",
+      "trade_date": "2026-03-23",
+      "trade_price": 1.22,
+      "value": 48920.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-24": 1.22
+      },
+      "latest_price": 1.22,
+      "return_pct": 0.0,
       "last_snapshot": "2026-03-24"
     }
   ]
