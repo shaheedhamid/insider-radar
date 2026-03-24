@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-24T21:31:51Z",
-  "trade_count": 5645,
+  "last_updated": "2026-03-24T23:23:50Z",
+  "trade_count": 5646,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -84912,7 +84912,7 @@
       "owned": "1173418",
       "delta_own": "+3%",
       "value": "1212689",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-11",
@@ -86960,7 +86960,7 @@
       "owned": "1202912",
       "delta_own": "+3%",
       "value": "1006335",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-13",
@@ -87920,7 +87920,7 @@
       "owned": "1227912",
       "delta_own": "+2%",
       "value": "738750",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-16",
@@ -89152,7 +89152,7 @@
       "owned": "1280912",
       "delta_own": "+4%",
       "value": "1509440",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-19",
@@ -89984,7 +89984,7 @@
       "owned": "1320912",
       "delta_own": "+3%",
       "value": "1184000",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-23",
@@ -90321,6 +90321,22 @@
       "delta_own": "+3%",
       "value": "88913",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-24",
+      "filing_time": "18:01",
+      "trade_date": "2026-03-23",
+      "ticker": "BETR",
+      "company": "Better Home & Finance Holding Co",
+      "insider_name": "Garg Vishal",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "29.19",
+      "qty": "21200",
+      "owned": "52660",
+      "delta_own": "+67%",
+      "value": "618932",
+      "cluster_buy": true
     }
   ]
 }

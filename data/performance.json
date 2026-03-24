@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-24",
-  "entry_count": 663,
+  "entry_count": 664,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -18394,6 +18394,26 @@
       },
       "latest_price": 8.73,
       "return_pct": -0.8,
+      "last_snapshot": "2026-03-24"
+    },
+    {
+      "id": "US|BETR|2026-03-23|Garg Vishal",
+      "market": "US",
+      "ticker": "BETR",
+      "yf_symbol": "BETR",
+      "company": "Better Home & Finance Holding Co",
+      "insider_name": "Garg Vishal",
+      "title": "CEO, 10%",
+      "trade_date": "2026-03-23",
+      "trade_price": 29.19,
+      "value": 618932.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-24": 28.99
+      },
+      "latest_price": 28.99,
+      "return_pct": -0.69,
       "last_snapshot": "2026-03-24"
     }
   ]

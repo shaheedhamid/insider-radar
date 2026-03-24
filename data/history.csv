@@ -5644,3 +5644,4 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-24,17:12,2026-03-23,JAN,"Janus Living, Inc.",Miller Jeffrey H,COO,P - Purchase,20.00,7500,7500,New,150000,True
 2026-03-24,17:12,2026-03-19,NXRT,"Nexpoint Residential Trust, Inc.",Richards Paul,See Remarks,P - Purchase,24.73,1700,34347,+5%,42037,True
 2026-03-24,16:45,2026-03-24,KELYA,Kelly Services Inc,Layden Christopher D.,"Pres,, CEO",P - Purchase,8.80,10100,382613,+3%,88913,False
+2026-03-24,18:01,2026-03-23,BETR,Better Home & Finance Holding Co,Garg Vishal,"CEO, 10%",P - Purchase,29.19,21200,52660,+67%,618932,True
