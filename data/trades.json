@@ -1772,6 +1772,195 @@
     "scraped_at": "2026-03-03T06:07:47.231168"
   },
   {
+    "id": "20003795776",
+    "politician_name": "Timothy Moore",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "NC",
+    "company": "Cracker Barrel Old Country Store Inc",
+    "ticker": "CBRL:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-03-23",
+    "trade_published": "2026-03-25",
+    "filed_after_days": "1",
+    "price": "$26.94",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-03-25T15:20:36.807306+00:00"
+  },
+  {
+    "id": "20003795781",
+    "politician_name": "Timothy Moore",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "NC",
+    "company": "LGI Homes Inc",
+    "ticker": "LGIH:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-03-20",
+    "trade_published": "2026-03-25",
+    "filed_after_days": "4",
+    "price": "$34.24",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-03-25T15:20:36.807359+00:00"
+  },
+  {
+    "id": "20003795780",
+    "politician_name": "Timothy Moore",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "NC",
+    "company": "LGI Homes Inc",
+    "ticker": "LGIH:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-03-19",
+    "trade_published": "2026-03-25",
+    "filed_after_days": "5",
+    "price": "$37.06",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-03-25T15:20:36.807353+00:00"
+  },
+  {
+    "id": "20003795779",
+    "politician_name": "Timothy Moore",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "NC",
+    "company": "LGI Homes Inc",
+    "ticker": "LGIH:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-03-18",
+    "trade_published": "2026-03-25",
+    "filed_after_days": "6",
+    "price": "$38.25",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-03-25T15:20:36.807347+00:00"
+  },
+  {
+    "id": "20003795778",
+    "politician_name": "Timothy Moore",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "NC",
+    "company": "Krispy Kreme Inc",
+    "ticker": "DNUT:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-03-17",
+    "trade_published": "2026-03-25",
+    "filed_after_days": "7",
+    "price": "$3.59",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-03-25T15:20:36.807341+00:00"
+  },
+  {
+    "id": "20003795784",
+    "politician_name": "Timothy Moore",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "NC",
+    "company": "SIMPLY GOOD FOODS COMPANY",
+    "ticker": "",
+    "sector": "consumer-staples",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-03-13",
+    "trade_published": "2026-03-25",
+    "filed_after_days": "11",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-03-25T15:20:36.807391+00:00"
+  },
+  {
+    "id": "20003795777",
+    "politician_name": "Timothy Moore",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "NC",
+    "company": "Harley-Davidson Inc",
+    "ticker": "HOG:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-03-12",
+    "trade_published": "2026-03-25",
+    "filed_after_days": "12",
+    "price": "$17.97",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-03-25T15:20:36.807333+00:00"
+  },
+  {
+    "id": "20003795782",
+    "politician_name": "Timothy Moore",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "NC",
+    "company": "LGI Homes Inc",
+    "ticker": "LGIH:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-03-12",
+    "trade_published": "2026-03-25",
+    "filed_after_days": "12",
+    "price": "$41.03",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-03-25T15:20:36.807367+00:00"
+  },
+  {
+    "id": "20003795783",
+    "politician_name": "Timothy Moore",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "NC",
+    "company": "SIMPLY GOOD FOODS COMPANY",
+    "ticker": "",
+    "sector": "consumer-staples",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-03-12",
+    "trade_published": "2026-03-25",
+    "filed_after_days": "12",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-03-25T15:20:36.807384+00:00"
+  },
+  {
     "id": "20003795758",
     "politician_name": "David Taylor",
     "party": "Republican",
@@ -1790,7 +1979,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-03-25T14:03:19.145032+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807455+00:00"
   },
   {
     "id": "20003795761",
@@ -1811,7 +2000,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-03-25T14:03:19.145071+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807471+00:00"
   },
   {
     "id": "20003795762",
@@ -1832,7 +2021,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-03-25T14:03:19.145078+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807476+00:00"
   },
   {
     "id": "20003795763",
@@ -1853,7 +2042,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-03-25T14:03:19.145084+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807483+00:00"
   },
   {
     "id": "20003795766",
@@ -1874,7 +2063,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-03-25T14:03:19.145112+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807496+00:00"
   },
   {
     "id": "20003795767",
@@ -1895,7 +2084,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-03-25T14:03:19.145121+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807500+00:00"
   },
   {
     "id": "20003795729",
@@ -1916,7 +2105,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC",
-    "scraped_at": "2026-03-25T14:03:19.145363+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807696+00:00"
   },
   {
     "id": "20003795730",
@@ -1937,7 +2126,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - E*TRADE #2",
-    "scraped_at": "2026-03-25T14:03:19.145367+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807700+00:00"
   },
   {
     "id": "20003795759",
@@ -1958,7 +2147,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-03-25T14:03:19.145053+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807460+00:00"
   },
   {
     "id": "20003795760",
@@ -1979,7 +2168,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-03-25T14:03:19.145064+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807467+00:00"
   },
   {
     "id": "20003795764",
@@ -2000,7 +2189,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-03-25T14:03:19.145090+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807487+00:00"
   },
   {
     "id": "20003795765",
@@ -2021,7 +2210,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-03-25T14:03:19.145105+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807491+00:00"
   },
   {
     "id": "20003795768",
@@ -2042,7 +2231,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-03-25T14:03:19.145129+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807507+00:00"
   },
   {
     "id": "20003795744",
@@ -2063,7 +2252,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: JP Morgan Brokerage Account #4",
-    "scraped_at": "2026-03-25T14:03:19.145290+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807622+00:00"
   },
   {
     "id": "10000064735",
@@ -2147,7 +2336,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-03-25T14:03:19.145486+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807821+00:00"
   },
   {
     "id": "10000064734",
@@ -2231,7 +2420,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Dividend Reinvestment",
-    "scraped_at": "2026-03-25T14:03:19.145255+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807585+00:00"
   },
   {
     "id": "20003795753",
@@ -2252,7 +2441,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: W.S.B Trust > UBS Financial Services 26 Description: Dividend reinvestment in a professionally managed account \u00e2\u0080\u0093 Business Development Company.",
-    "scraped_at": "2026-03-25T14:03:19.145233+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807560+00:00"
   },
   {
     "id": "20003795716",
@@ -2273,7 +2462,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-03-25T14:03:19.145412+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807749+00:00"
   },
   {
     "id": "20003795721",
@@ -2294,7 +2483,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-03-25T14:03:19.145439+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807775+00:00"
   },
   {
     "id": "20003795714",
@@ -2315,7 +2504,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-03-25T14:03:19.145403+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807739+00:00"
   },
   {
     "id": "20003795775",
@@ -2336,7 +2525,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-03-25T14:03:19.145208+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807543+00:00"
   },
   {
     "id": "10000064728",
@@ -2357,7 +2546,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-03-25T14:03:19.145482+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807817+00:00"
   },
   {
     "id": "10000064733",
@@ -2378,7 +2567,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-03-25T14:03:19.145503+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807840+00:00"
   },
   {
     "id": "10000064740",
@@ -2441,7 +2630,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-03-25T14:03:19.145135+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807512+00:00"
   },
   {
     "id": "20003795770",
@@ -2462,7 +2651,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-03-25T14:03:19.145140+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807518+00:00"
   },
   {
     "id": "20003795771",
@@ -2483,7 +2672,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-03-25T14:03:19.145147+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807523+00:00"
   },
   {
     "id": "20003795772",
@@ -2504,7 +2693,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-03-25T14:03:19.145152+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807527+00:00"
   },
   {
     "id": "20003795773",
@@ -2525,7 +2714,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-03-25T14:03:19.145184+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807532+00:00"
   },
   {
     "id": "20003795774",
@@ -2546,7 +2735,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-03-25T14:03:19.145200+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807539+00:00"
   },
   {
     "id": "20003795743",
@@ -2567,7 +2756,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: JP Morgan Brokerage Account #4",
-    "scraped_at": "2026-03-25T14:03:19.145286+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807616+00:00"
   },
   {
     "id": "20003795717",
@@ -2588,7 +2777,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-03-25T14:03:19.145419+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807754+00:00"
   },
   {
     "id": "20003795724",
@@ -2609,7 +2798,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Bill's IRA Description: 02079KAY3",
-    "scraped_at": "2026-03-25T14:03:19.145454+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807788+00:00"
   },
   {
     "id": "20003795725",
@@ -2630,7 +2819,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Bill's IRA Description: 171239AK2",
-    "scraped_at": "2026-03-25T14:03:19.145459+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807793+00:00"
   },
   {
     "id": "20003795726",
@@ -2651,7 +2840,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Bill's IRA Description: 912797TA5",
-    "scraped_at": "2026-03-25T14:03:19.145462+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807799+00:00"
   },
   {
     "id": "20003795751",
@@ -2672,7 +2861,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Subholding Of: W.S.B Trust > UBS Financial Services 26 Description: Professional managed account.",
-    "scraped_at": "2026-03-25T14:03:19.145222+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807552+00:00"
   },
   {
     "id": "20003795747",
@@ -2693,7 +2882,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-03-25T14:03:19.145269+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807600+00:00"
   },
   {
     "id": "20003795755",
@@ -2714,7 +2903,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: W.S.B Trust > UBS Financial Services Inc 35 Description: Professionally managed account.",
-    "scraped_at": "2026-03-25T14:03:19.145241+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807573+00:00"
   },
   {
     "id": "20003795733",
@@ -2735,7 +2924,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-03-25T14:03:19.145307+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807638+00:00"
   },
   {
     "id": "20003795734",
@@ -2756,7 +2945,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership Description: 0.750%, 4/30/2026",
-    "scraped_at": "2026-03-25T14:03:19.145311+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807642+00:00"
   },
   {
     "id": "20003795735",
@@ -2777,7 +2966,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership Description: 4.625%, 10/15/2026",
-    "scraped_at": "2026-03-25T14:03:19.145315+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807646+00:00"
   },
   {
     "id": "20003795737",
@@ -2798,7 +2987,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Thomas Suozzi IRA FBO Thomas Suozzi",
-    "scraped_at": "2026-03-25T14:03:19.145326+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807657+00:00"
   },
   {
     "id": "20003795738",
@@ -2819,7 +3008,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Thomas Suozzi IRA FBO Thomas Suozzi",
-    "scraped_at": "2026-03-25T14:03:19.145331+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807661+00:00"
   },
   {
     "id": "20003795739",
@@ -2840,7 +3029,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Thomas Suozzi IRA FBO Thomas Suozzi",
-    "scraped_at": "2026-03-25T14:03:19.145338+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807668+00:00"
   },
   {
     "id": "20003795740",
@@ -2861,7 +3050,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Thomas Suozzi IRA FBO Thomas Suozzi",
-    "scraped_at": "2026-03-25T14:03:19.145342+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807673+00:00"
   },
   {
     "id": "20003795741",
@@ -2882,7 +3071,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: National Securities- Advisor Discretion Account",
-    "scraped_at": "2026-03-25T14:03:19.145346+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807679+00:00"
   },
   {
     "id": "20003795708",
@@ -2903,7 +3092,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-03-25T14:03:19.145375+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807707+00:00"
   },
   {
     "id": "20003795723",
@@ -2924,7 +3113,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-03-25T14:03:19.145450+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807784+00:00"
   },
   {
     "id": "20003795757",
@@ -2945,7 +3134,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: W.S.B Trust > UBS Financial Services Inc 35 Description: Professionally managed account.",
-    "scraped_at": "2026-03-25T14:03:19.145251+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807581+00:00"
   },
   {
     "id": "20003795742",
@@ -2966,7 +3155,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: National Securities- Advisor Discretion Account",
-    "scraped_at": "2026-03-25T14:03:19.145350+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807683+00:00"
   },
   {
     "id": "20003795756",
@@ -2987,7 +3176,196 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: W.S.B Trust > UBS Financial Services Inc 35 Description: Professionally managed account.",
-    "scraped_at": "2026-03-25T14:03:19.145245+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807577+00:00"
+  },
+  {
+    "id": "10000064785",
+    "politician_name": "Angus King",
+    "party": "Other",
+    "chamber": "Senate",
+    "state": "ME",
+    "company": "Uber Technologies Inc",
+    "ticker": "UBER:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-02-13",
+    "trade_published": "2026-03-24",
+    "filed_after_days": "39",
+    "price": "$69.99",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-03-25T15:20:36.807397+00:00"
+  },
+  {
+    "id": "10000064786",
+    "politician_name": "Angus King",
+    "party": "Other",
+    "chamber": "Senate",
+    "state": "ME",
+    "company": "PayPal Holdings Inc",
+    "ticker": "PYPL:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-02-13",
+    "trade_published": "2026-03-24",
+    "filed_after_days": "39",
+    "price": "$40.29",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-03-25T15:20:36.807407+00:00"
+  },
+  {
+    "id": "10000064787",
+    "politician_name": "Angus King",
+    "party": "Other",
+    "chamber": "Senate",
+    "state": "ME",
+    "company": "ON HOLDING AG",
+    "ticker": "ONON:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-02-13",
+    "trade_published": "2026-03-24",
+    "filed_after_days": "39",
+    "price": "$45.29",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-03-25T15:20:36.807413+00:00"
+  },
+  {
+    "id": "10000064788",
+    "politician_name": "Angus King",
+    "party": "Other",
+    "chamber": "Senate",
+    "state": "ME",
+    "company": "Netflix Inc",
+    "ticker": "NFLX:US",
+    "sector": "communication-services",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-02-13",
+    "trade_published": "2026-03-24",
+    "filed_after_days": "39",
+    "price": "$76.87",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-03-25T15:20:36.807421+00:00"
+  },
+  {
+    "id": "10000064789",
+    "politician_name": "Angus King",
+    "party": "Other",
+    "chamber": "Senate",
+    "state": "ME",
+    "company": "Microsoft Corp",
+    "ticker": "MSFT:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-02-13",
+    "trade_published": "2026-03-24",
+    "filed_after_days": "39",
+    "price": "$401.32",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-03-25T15:20:36.807426+00:00"
+  },
+  {
+    "id": "10000064790",
+    "politician_name": "Angus King",
+    "party": "Other",
+    "chamber": "Senate",
+    "state": "ME",
+    "company": "Meta Platforms Inc",
+    "ticker": "META:US",
+    "sector": "communication-services",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-02-13",
+    "trade_published": "2026-03-24",
+    "filed_after_days": "39",
+    "price": "$639.77",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-03-25T15:20:36.807431+00:00"
+  },
+  {
+    "id": "10000064791",
+    "politician_name": "Angus King",
+    "party": "Other",
+    "chamber": "Senate",
+    "state": "ME",
+    "company": "Eli Lilly and Co",
+    "ticker": "LLY:US",
+    "sector": "health-care",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-02-13",
+    "trade_published": "2026-03-24",
+    "filed_after_days": "39",
+    "price": "$1,040.00",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-03-25T15:20:36.807437+00:00"
+  },
+  {
+    "id": "10000064792",
+    "politician_name": "Angus King",
+    "party": "Other",
+    "chamber": "Senate",
+    "state": "ME",
+    "company": "Blackstone Group Inc",
+    "ticker": "BX:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-02-13",
+    "trade_published": "2026-03-24",
+    "filed_after_days": "39",
+    "price": "$129.86",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-03-25T15:20:36.807442+00:00"
+  },
+  {
+    "id": "10000064793",
+    "politician_name": "Angus King",
+    "party": "Other",
+    "chamber": "Senate",
+    "state": "ME",
+    "company": "AUTODESK Inc",
+    "ticker": "ADSK:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-02-13",
+    "trade_published": "2026-03-24",
+    "filed_after_days": "39",
+    "price": "$231.22",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-03-25T15:20:36.807449+00:00"
   },
   {
     "id": "20003795746",
@@ -3008,7 +3386,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Description: Pooled Investment Fund",
-    "scraped_at": "2026-03-25T14:03:19.145265+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807596+00:00"
   },
   {
     "id": "20003795736",
@@ -3029,7 +3407,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-03-25T14:03:19.145320+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807653+00:00"
   },
   {
     "id": "10000064727",
@@ -3050,7 +3428,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-03-25T14:03:19.145478+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807811+00:00"
   },
   {
     "id": "10000064732",
@@ -3071,7 +3449,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-03-25T14:03:19.145497+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807837+00:00"
   },
   {
     "id": "10000064739",
@@ -3134,7 +3512,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Roth IRA",
-    "scraped_at": "2026-03-25T14:03:19.145282+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807609+00:00"
   },
   {
     "id": "10000064726",
@@ -3155,7 +3533,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-03-25T14:03:19.145473+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807808+00:00"
   },
   {
     "id": "10000064731",
@@ -3176,7 +3554,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-03-25T14:03:19.145493+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807833+00:00"
   },
   {
     "id": "10000064738",
@@ -3260,7 +3638,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-03-25T14:03:19.145237+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807568+00:00"
   },
   {
     "id": "20003795731",
@@ -3281,7 +3659,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-03-25T14:03:19.145295+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807629+00:00"
   },
   {
     "id": "20003795732",
@@ -3302,7 +3680,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-03-25T14:03:19.145300+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807633+00:00"
   },
   {
     "id": "20003795710",
@@ -3323,7 +3701,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-03-25T14:03:19.145384+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807717+00:00"
   },
   {
     "id": "20003795715",
@@ -3344,7 +3722,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-03-25T14:03:19.145407+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807744+00:00"
   },
   {
     "id": "20003795722",
@@ -3365,7 +3743,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-03-25T14:03:19.145443+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807779+00:00"
   },
   {
     "id": "10000064725",
@@ -3386,7 +3764,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-03-25T14:03:19.145466+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807804+00:00"
   },
   {
     "id": "10000064730",
@@ -3407,7 +3785,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-03-25T14:03:19.145490+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807827+00:00"
   },
   {
     "id": "10000064736",
@@ -3533,7 +3911,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: W.S.B Trust > UBS Financial Services 26 Description: Dividend reinvestment in a professionally managed account \u00e2\u0080\u0093 Business Development Company.",
-    "scraped_at": "2026-03-25T14:03:19.145213+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807548+00:00"
   },
   {
     "id": "20003795752",
@@ -3554,7 +3932,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: W.S.B Trust > UBS Financial Services 26 Description: Divided reinvestment in a professionally managed account.",
-    "scraped_at": "2026-03-25T14:03:19.145229+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807556+00:00"
   },
   {
     "id": "20003795745",
@@ -3575,7 +3953,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Description: Private Equity General Partnership",
-    "scraped_at": "2026-03-25T14:03:19.145259+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807591+00:00"
   },
   {
     "id": "20003795709",
@@ -3596,7 +3974,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-03-25T14:03:19.145380+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807711+00:00"
   },
   {
     "id": "20003795711",
@@ -3617,7 +3995,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-03-25T14:03:19.145390+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807722+00:00"
   },
   {
     "id": "20003795713",
@@ -3638,7 +4016,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-03-25T14:03:19.145399+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807730+00:00"
   },
   {
     "id": "20003795718",
@@ -3659,7 +4037,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-03-25T14:03:19.145425+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807758+00:00"
   },
   {
     "id": "20003795748",
@@ -3680,7 +4058,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Description: Venture Capital Fund",
-    "scraped_at": "2026-03-25T14:03:19.145277+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807604+00:00"
   },
   {
     "id": "20003795727",
@@ -3701,7 +4079,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: IRA #3 Description: Received Huntington Banc Shares Series-L in exchange for asset listed above due to corporate action.",
-    "scraped_at": "2026-03-25T14:03:19.145354+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807687+00:00"
   },
   {
     "id": "20003795728",
@@ -3722,7 +4100,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: IRA #3 Description: Received asset listed above in exchange for Cadence Bank Preferred Shares due to corporate action.",
-    "scraped_at": "2026-03-25T14:03:19.145358+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807692+00:00"
   },
   {
     "id": "20003795712",
@@ -3743,7 +4121,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-03-25T14:03:19.145394+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807726+00:00"
   },
   {
     "id": "20003795719",
@@ -3764,7 +4142,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-03-25T14:03:19.145430+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807763+00:00"
   },
   {
     "id": "20003795720",
@@ -3785,7 +4163,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-03-25T14:03:19.145434+00:00"
+    "scraped_at": "2026-03-25T15:20:36.807771+00:00"
   },
   {
     "politician_name": "Chuck Fleischmann",
