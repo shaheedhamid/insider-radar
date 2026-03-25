@@ -5662,3 +5662,5 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-25,17:48,2026-03-25,BETR,Better Home & Finance Holding Co,Garg Vishal,"CEO, 10%",P - Purchase,29.90,2217,54877,+4%,66298,True
 2026-03-25,17:36,2026-03-23,RPC,"Ridgepost Capital, Inc.",McCoy David M.,See Remarks,P - Purchase,7.37,70000,270068,+35%,515900,False
 2026-03-25,17:32,2026-03-24,TPST,"Tempest Therapeutics, Inc.",Angel Matthew,"CEO, Pres, 10%",P - Purchase,2.16,231482,5068552,+5%,500001,False
+2026-03-25,19:01,2026-03-19,HQ,Horizon Quantum Holdings Ltd.,Lambert Danielle,Dir,P - Purchase,11.82,84602,84602,New,999996,False
+2026-03-25,18:33,2026-03-23,MGM,Mgm Resorts International,Iac Inc.,10%,P - Purchase,37.22,1000000,66822350,+2%,37223500,False

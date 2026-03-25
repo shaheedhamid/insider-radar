@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-25T22:27:01Z",
-  "trade_count": 5663,
+  "last_updated": "2026-03-25T23:26:38Z",
+  "trade_count": 5665,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -90608,6 +90608,38 @@
       "owned": "5068552",
       "delta_own": "+5%",
       "value": "500001",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-25",
+      "filing_time": "19:01",
+      "trade_date": "2026-03-19",
+      "ticker": "HQ",
+      "company": "Horizon Quantum Holdings Ltd.",
+      "insider_name": "Lambert Danielle",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "11.82",
+      "qty": "84602",
+      "owned": "84602",
+      "delta_own": "New",
+      "value": "999996",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-25",
+      "filing_time": "18:33",
+      "trade_date": "2026-03-23",
+      "ticker": "MGM",
+      "company": "Mgm Resorts International",
+      "insider_name": "Iac Inc.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "37.22",
+      "qty": "1000000",
+      "owned": "66822350",
+      "delta_own": "+2%",
+      "value": "37223500",
       "cluster_buy": false
     }
   ]

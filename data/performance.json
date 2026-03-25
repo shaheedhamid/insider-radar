@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-25",
-  "entry_count": 659,
+  "entry_count": 661,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -18711,6 +18711,46 @@
       },
       "latest_price": 1.75,
       "return_pct": -18.98,
+      "last_snapshot": "2026-03-25"
+    },
+    {
+      "id": "US|HQ|2026-03-19|Lambert Danielle",
+      "market": "US",
+      "ticker": "HQ",
+      "yf_symbol": "HQ",
+      "company": "Horizon Quantum Holdings Ltd.",
+      "insider_name": "Lambert Danielle",
+      "title": "Dir",
+      "trade_date": "2026-03-19",
+      "trade_price": 11.82,
+      "value": 999996.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-25": 11.1
+      },
+      "latest_price": 11.1,
+      "return_pct": -6.09,
+      "last_snapshot": "2026-03-25"
+    },
+    {
+      "id": "US|MGM|2026-03-23|Iac Inc.",
+      "market": "US",
+      "ticker": "MGM",
+      "yf_symbol": "MGM",
+      "company": "Mgm Resorts International",
+      "insider_name": "Iac Inc.",
+      "title": "10%",
+      "trade_date": "2026-03-23",
+      "trade_price": 37.22,
+      "value": 37223500.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-25": 37.11
+      },
+      "latest_price": 37.11,
+      "return_pct": -0.3,
       "last_snapshot": "2026-03-25"
     }
   ]
