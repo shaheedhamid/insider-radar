@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'insideredge-v3';
+const CACHE_VERSION = 'insideredge-v4';
 const STATIC_CACHE  = `${CACHE_VERSION}-static`;
 const DATA_CACHE    = `${CACHE_VERSION}-data`;
 
