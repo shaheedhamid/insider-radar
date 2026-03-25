@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-25T15:00:21Z",
-  "trade_count": 2715,
+  "last_updated": "2026-03-25T17:00:22Z",
+  "trade_count": 2717,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -40989,6 +40989,38 @@
       "qty": "2500",
       "price": "68.4968",
       "value": "171241",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4688114",
+      "trade_date": "2026-03-25",
+      "filing_date": "2026-03-25",
+      "company": "Clinch Resources Ltd.",
+      "ticker": "CLCH",
+      "insider_name": "Nix, Jon Eric",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "20000",
+      "price": "1.9500",
+      "value": "39000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4688077",
+      "trade_date": "2026-03-25",
+      "filing_date": "2026-03-25",
+      "company": "NanoXplore Inc.",
+      "ticker": "GRA",
+      "insider_name": "Azevedo, Pedro Azevedo",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "58000",
+      "price": "1.9132",
+      "value": "110965",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
