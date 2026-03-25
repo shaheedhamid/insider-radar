@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-25T19:00:23Z",
-  "trade_count": 2720,
+  "last_updated": "2026-03-25T21:00:24Z",
+  "trade_count": 2723,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -40751,7 +40751,7 @@
       "value": "100200",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4687852",
@@ -40943,7 +40943,7 @@
       "value": "36000",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4687966",
@@ -40959,7 +40959,7 @@
       "value": "18500",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4687989",
@@ -41072,6 +41072,54 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4688426",
+      "trade_date": "2026-03-25",
+      "filing_date": "2026-03-25",
+      "company": "i-80 Gold Corp.",
+      "ticker": "IAU",
+      "insider_name": "Young, Richard Scott",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "1000000",
+      "price": "1.9328",
+      "value": "1932800",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4688380",
+      "trade_date": "2026-03-25",
+      "filing_date": "2026-03-25",
+      "company": "Lavras Gold Corp.",
+      "ticker": "LGC",
+      "insider_name": "Lepard, Lawrence",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "145000",
+      "price": "1.8952",
+      "value": "274804",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4688439",
+      "trade_date": "2026-03-25",
+      "filing_date": "2026-03-25",
+      "company": "Sailfish Royalty Corp.",
+      "ticker": "FISH",
+      "insider_name": "McKenzie, Bryan Mark Albert",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "235000",
+      "price": "3.5500",
+      "value": "834250",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
