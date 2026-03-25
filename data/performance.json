@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-25",
-  "entry_count": 656,
+  "entry_count": 659,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -18651,6 +18651,66 @@
       },
       "latest_price": 1.8,
       "return_pct": 1.69,
+      "last_snapshot": "2026-03-25"
+    },
+    {
+      "id": "US|BETR|2026-03-25|Garg Vishal",
+      "market": "US",
+      "ticker": "BETR",
+      "yf_symbol": "BETR",
+      "company": "Better Home & Finance Holding Co",
+      "insider_name": "Garg Vishal",
+      "title": "CEO, 10%",
+      "trade_date": "2026-03-25",
+      "trade_price": 29.9,
+      "value": 66298.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-25": 28.59
+      },
+      "latest_price": 28.59,
+      "return_pct": -4.38,
+      "last_snapshot": "2026-03-25"
+    },
+    {
+      "id": "US|RPC|2026-03-23|McCoy David M.",
+      "market": "US",
+      "ticker": "RPC",
+      "yf_symbol": "RPC",
+      "company": "Ridgepost Capital, Inc.",
+      "insider_name": "McCoy David M.",
+      "title": "See Remarks",
+      "trade_date": "2026-03-23",
+      "trade_price": 7.37,
+      "value": 515900.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-25": 7.05
+      },
+      "latest_price": 7.05,
+      "return_pct": -4.34,
+      "last_snapshot": "2026-03-25"
+    },
+    {
+      "id": "US|TPST|2026-03-24|Angel Matthew",
+      "market": "US",
+      "ticker": "TPST",
+      "yf_symbol": "TPST",
+      "company": "Tempest Therapeutics, Inc.",
+      "insider_name": "Angel Matthew",
+      "title": "CEO, Pres, 10%",
+      "trade_date": "2026-03-24",
+      "trade_price": 2.16,
+      "value": 500001.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-25": 1.75
+      },
+      "latest_price": 1.75,
+      "return_pct": -18.98,
       "last_snapshot": "2026-03-25"
     }
   ]
