@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-25",
-  "entry_count": 642,
+  "entry_count": 643,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -18371,6 +18371,26 @@
       },
       "latest_price": 28.59,
       "return_pct": -2.06,
+      "last_snapshot": "2026-03-25"
+    },
+    {
+      "id": "US|KLTR|2026-03-24|Yekutiel Ron",
+      "market": "US",
+      "ticker": "KLTR",
+      "yf_symbol": "KLTR",
+      "company": "Kaltura Inc",
+      "insider_name": "Yekutiel Ron",
+      "title": "CEO",
+      "trade_date": "2026-03-24",
+      "trade_price": 1.24,
+      "value": 49568.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-25": 1.17
+      },
+      "latest_price": 1.17,
+      "return_pct": -5.65,
       "last_snapshot": "2026-03-25"
     }
   ]
