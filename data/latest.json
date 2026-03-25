@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-25T20:30:48Z",
-  "trade_count": 5658,
+  "last_updated": "2026-03-25T21:30:33Z",
+  "trade_count": 5660,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -90529,6 +90529,38 @@
       "delta_own": "+9%",
       "value": "100324",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-25",
+      "filing_time": "17:29",
+      "trade_date": "2026-03-23",
+      "ticker": "FRPH",
+      "company": "Frp Holdings, Inc.",
+      "insider_name": "Baker John D II",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "20.90",
+      "qty": "478468",
+      "owned": "3335861",
+      "delta_own": "+17%",
+      "value": "9999981",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-25",
+      "filing_time": "16:30",
+      "trade_date": "2026-03-19",
+      "ticker": "GLBS",
+      "company": "Globus Maritime Ltd",
+      "insider_name": "Feidakis Georgios",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.77",
+      "qty": "80032",
+      "owned": "5955827",
+      "delta_own": "+1%",
+      "value": "141300",
+      "cluster_buy": false
     }
   ]
 }

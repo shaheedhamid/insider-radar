@@ -5657,3 +5657,5 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-25,16:02,2026-03-23,TISI,Team Inc,Stenger Edward J.,Dir,P - Purchase,16.00,5000,14890,+51%,79991,False
 2026-03-25,16:01,2026-03-23,GSM,Ferroglobe Plc,Villar-Mir De Fuentes Silvia,Dir,P - Purchase,3.86,26000,273716,+10%,100324,True
 2026-03-25,16:01,2026-03-23,GSM,Ferroglobe Plc,Lopez Madrid Javier,Exec COB,P - Purchase,3.86,26000,299690,+9%,100324,True
+2026-03-25,17:29,2026-03-23,FRPH,"Frp Holdings, Inc.",Baker John D II,"Dir, 10%",P - Purchase,20.90,478468,3335861,+17%,9999981,False
+2026-03-25,16:30,2026-03-19,GLBS,Globus Maritime Ltd,Feidakis Georgios,Dir,P - Purchase,1.77,80032,5955827,+1%,141300,False
