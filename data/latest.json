@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-26T14:21:48Z",
-  "trade_count": 5669,
+  "last_updated": "2026-03-26T16:04:33Z",
+  "trade_count": 5671,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -90705,6 +90705,38 @@
       "delta_own": "+2%",
       "value": "2597900",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-26",
+      "filing_time": "10:36",
+      "trade_date": "2026-03-23",
+      "ticker": "RPC",
+      "company": "Ridgepost Capital, Inc.",
+      "insider_name": "McCoy David M.",
+      "title": "See Remarks",
+      "trade_type": "P - Purchase",
+      "price": "7.37",
+      "qty": "70000",
+      "owned": "270068",
+      "delta_own": "+35%",
+      "value": "515900",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-26",
+      "filing_time": "10:24",
+      "trade_date": "2026-03-24",
+      "ticker": "ALG",
+      "company": "Alamo Group Inc",
+      "insider_name": "Grooms Nina C",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "171.61",
+      "qty": "233",
+      "owned": "3077",
+      "delta_own": "+8%",
+      "value": "39985",
+      "cluster_buy": false
     }
   ]
 }
