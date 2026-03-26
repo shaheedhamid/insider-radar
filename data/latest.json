@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-26T22:19:44Z",
-  "trade_count": 5680,
+  "last_updated": "2026-03-26T23:23:55Z",
+  "trade_count": 5682,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -90880,6 +90880,38 @@
       "owned": "8788",
       "delta_own": "+13%",
       "value": "44500",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-26",
+      "filing_time": "18:57",
+      "trade_date": "2026-03-24",
+      "ticker": "ACOG",
+      "company": "Alpha Cognition Inc.",
+      "insider_name": "Opaleye Management Inc.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "5.41",
+      "qty": "20082",
+      "owned": "2550000",
+      "delta_own": "+1%",
+      "value": "108631",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-26",
+      "filing_time": "18:40",
+      "trade_date": "2026-03-24",
+      "ticker": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_type": "P - Purchase",
+      "price": "67.66",
+      "qty": "3747",
+      "owned": "5671550",
+      "delta_own": "0%",
+      "value": "253537",
       "cluster_buy": false
     }
   ]

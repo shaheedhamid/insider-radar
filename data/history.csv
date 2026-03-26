@@ -5679,3 +5679,5 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-26,16:45,2026-03-26,EZRA,"Reliance Global Group, Inc.",Beyman Ezra,"COB, CEO",P - Purchase,0.17,300000,959779,+45%,50970,False
 2026-03-26,16:30,2026-03-24,UUU,"Universal Safety Products, Inc.",Ault Milton C III,"Dir, 10%",P - Purchase,6.05,15000,698439,+2%,90800,False
 2026-03-26,18:02,2026-03-25,CTRN,Citi Trends Inc,Heath David A,Dir,P - Purchase,44.50,1000,8788,+13%,44500,False
+2026-03-26,18:57,2026-03-24,ACOG,Alpha Cognition Inc.,Opaleye Management Inc.,10%,P - Purchase,5.41,20082,2550000,+1%,108631,False
+2026-03-26,18:40,2026-03-24,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,"See Remarks, 10%",P - Purchase,67.66,3747,5671550,0%,253537,False
