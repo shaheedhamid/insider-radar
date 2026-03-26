@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-26T15:00:23Z",
-  "trade_count": 2728,
+  "last_updated": "2026-03-26T17:00:29Z",
+  "trade_count": 2729,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -41200,6 +41200,22 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4688711",
+      "trade_date": "2026-03-26",
+      "filing_date": "2026-03-26",
+      "company": "Pro Real Estate Investment Trust",
+      "ticker": "AP-UN",
+      "insider_name": "Parkit Enterprise Inc.",
+      "title": "10% Holder",
+      "security": "Units",
+      "qty": "14500",
+      "price": "6.3000",
+      "value": "91350",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
