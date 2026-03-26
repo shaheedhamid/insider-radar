@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-26T20:28:40Z",
-  "trade_count": 5677,
+  "last_updated": "2026-03-26T21:23:52Z",
+  "trade_count": 5679,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -90832,6 +90832,38 @@
       "owned": "622917",
       "delta_own": "+1%",
       "value": "25606",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-26",
+      "filing_time": "16:45",
+      "trade_date": "2026-03-26",
+      "ticker": "EZRA",
+      "company": "Reliance Global Group, Inc.",
+      "insider_name": "Beyman Ezra",
+      "title": "COB, CEO",
+      "trade_type": "P - Purchase",
+      "price": "0.17",
+      "qty": "300000",
+      "owned": "959779",
+      "delta_own": "+45%",
+      "value": "50970",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-26",
+      "filing_time": "16:30",
+      "trade_date": "2026-03-24",
+      "ticker": "UUU",
+      "company": "Universal Safety Products, Inc.",
+      "insider_name": "Ault Milton C III",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "6.05",
+      "qty": "15000",
+      "owned": "698439",
+      "delta_own": "+2%",
+      "value": "90800",
       "cluster_buy": false
     }
   ]

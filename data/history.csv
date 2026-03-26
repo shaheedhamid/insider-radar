@@ -5676,3 +5676,5 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-26,12:05,2026-03-24,NFJ,"Virtus Dividend, Interest & Premium Strategy Fund","Saba Capital Management, L.P.",10%,P - Purchase,12.59,58171,10021861,+1%,732111,False
 2026-03-26,16:15,2026-03-25,XZO,"Exzeo Group, Inc.",Patel Paresh,CEO,P - Purchase,14.81,2000,1586013,0%,29620,True
 2026-03-26,16:05,2026-03-25,ACCS,Access Newswire Inc.,Balbirnie Brian R,"Dir, CEO, 10%",P - Purchase,7.54,3396,622917,+1%,25606,False
+2026-03-26,16:45,2026-03-26,EZRA,"Reliance Global Group, Inc.",Beyman Ezra,"COB, CEO",P - Purchase,0.17,300000,959779,+45%,50970,False
+2026-03-26,16:30,2026-03-24,UUU,"Universal Safety Products, Inc.",Ault Milton C III,"Dir, 10%",P - Purchase,6.05,15000,698439,+2%,90800,False
