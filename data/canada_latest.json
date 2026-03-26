@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-26T21:00:28Z",
-  "trade_count": 2735,
+  "last_updated": "2026-03-26T23:00:24Z",
+  "trade_count": 2737,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -41312,6 +41312,38 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4689244",
+      "trade_date": "2026-03-26",
+      "filing_date": "2026-03-26",
+      "company": "Avante Corp.",
+      "ticker": "XX",
+      "insider_name": "Pollack, Jonathan",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "90600",
+      "price": "1.5000",
+      "value": "135900",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4689183",
+      "trade_date": "2026-03-26",
+      "filing_date": "2026-03-26",
+      "company": "Naughty Ventures Corp.",
+      "ticker": "BAD.CN",
+      "insider_name": "Naughty, Blair Lawrence",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "454000",
+      "price": "0.1350",
+      "value": "61290",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
