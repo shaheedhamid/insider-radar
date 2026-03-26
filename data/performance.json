@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-26",
-  "entry_count": 647,
+  "entry_count": 649,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -18924,6 +18924,46 @@
       },
       "latest_price": 0.7964,
       "return_pct": 34.98,
+      "last_snapshot": "2026-03-26"
+    },
+    {
+      "id": "US|BORR|2026-03-24|Currie Jeffrey",
+      "market": "US",
+      "ticker": "BORR",
+      "yf_symbol": "BORR",
+      "company": "Borr Drilling Ltd",
+      "insider_name": "Currie Jeffrey",
+      "title": "Dir",
+      "trade_date": "2026-03-24",
+      "trade_price": 5.31,
+      "value": 1327500.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-26": 5.55
+      },
+      "latest_price": 5.55,
+      "return_pct": 4.52,
+      "last_snapshot": "2026-03-26"
+    },
+    {
+      "id": "US|BORR|2026-03-24|Troim Tor Olav",
+      "market": "US",
+      "ticker": "BORR",
+      "yf_symbol": "BORR",
+      "company": "Borr Drilling Ltd",
+      "insider_name": "Troim Tor Olav",
+      "title": "Dir",
+      "trade_date": "2026-03-24",
+      "trade_price": 5.2,
+      "value": 2597900.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-26": 5.55
+      },
+      "latest_price": 5.55,
+      "return_pct": 6.73,
       "last_snapshot": "2026-03-26"
     }
   ]

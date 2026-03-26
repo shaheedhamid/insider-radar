@@ -5666,3 +5666,5 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-25,18:33,2026-03-23,MGM,Mgm Resorts International,Iac Inc.,10%,P - Purchase,37.22,1000000,66822350,+2%,37223500,False
 2026-03-25,20:02,2026-03-23,SRZN,"Surrozen, Inc./De","Tcg Crossover Gp Ii, LLC",10%,P - Purchase,24.72,121881,736547,+20%,3012768,False
 2026-03-25,19:57,2026-03-13,TLPH,"Talphera, Inc.",Angotti Vincent J.,CEO,P - Purchase,0.59,213310,800705,+36%,125000,False
+2026-03-26,08:29,2026-03-24,BORR,Borr Drilling Ltd,Currie Jeffrey,Dir,P - Purchase,5.31,250000,354423,+239%,1327500,True
+2026-03-26,08:24,2026-03-24,BORR,Borr Drilling Ltd,Troim Tor Olav,Dir,P - Purchase,5.20,500000,25704808,+2%,2597900,True

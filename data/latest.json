@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-26T11:43:23Z",
-  "trade_count": 5667,
+  "last_updated": "2026-03-26T12:54:26Z",
+  "trade_count": 5669,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -90673,6 +90673,38 @@
       "delta_own": "+36%",
       "value": "125000",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-26",
+      "filing_time": "08:29",
+      "trade_date": "2026-03-24",
+      "ticker": "BORR",
+      "company": "Borr Drilling Ltd",
+      "insider_name": "Currie Jeffrey",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "5.31",
+      "qty": "250000",
+      "owned": "354423",
+      "delta_own": "+239%",
+      "value": "1327500",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-26",
+      "filing_time": "08:24",
+      "trade_date": "2026-03-24",
+      "ticker": "BORR",
+      "company": "Borr Drilling Ltd",
+      "insider_name": "Troim Tor Olav",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "5.20",
+      "qty": "500000",
+      "owned": "25704808",
+      "delta_own": "+2%",
+      "value": "2597900",
+      "cluster_buy": true
     }
   ]
 }
