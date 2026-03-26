@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-26",
-  "entry_count": 650,
+  "entry_count": 654,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -194,10 +194,10 @@
         "2026-03-23": 8.26,
         "2026-03-24": 8.15,
         "2026-03-25": 8.2,
-        "2026-03-26": 8.2
+        "2026-03-26": 8.15
       },
-      "latest_price": 8.2,
-      "return_pct": 17.14,
+      "latest_price": 8.15,
+      "return_pct": 16.43,
       "last_snapshot": "2026-03-26"
     },
     {
@@ -227,10 +227,10 @@
         "2026-03-23": 8.26,
         "2026-03-24": 8.15,
         "2026-03-25": 8.2,
-        "2026-03-26": 8.2
+        "2026-03-26": 8.15
       },
-      "latest_price": 8.2,
-      "return_pct": 17.14,
+      "latest_price": 8.15,
+      "return_pct": 16.43,
       "last_snapshot": "2026-03-26"
     },
     {
@@ -260,10 +260,10 @@
         "2026-03-23": 8.26,
         "2026-03-24": 8.15,
         "2026-03-25": 8.2,
-        "2026-03-26": 8.2
+        "2026-03-26": 8.15
       },
-      "latest_price": 8.2,
-      "return_pct": 17.14,
+      "latest_price": 8.15,
+      "return_pct": 16.43,
       "last_snapshot": "2026-03-26"
     },
     {
@@ -9674,10 +9674,10 @@
         "2026-03-23": 8.26,
         "2026-03-24": 8.15,
         "2026-03-25": 8.2,
-        "2026-03-26": 8.2
+        "2026-03-26": 8.15
       },
-      "latest_price": 8.2,
-      "return_pct": 3.67,
+      "latest_price": 8.15,
+      "return_pct": 3.03,
       "last_snapshot": "2026-03-26"
     },
     {
@@ -12446,10 +12446,10 @@
         "2026-03-23": 0.8301,
         "2026-03-24": 0.87,
         "2026-03-25": 0.885,
-        "2026-03-26": 0.856
+        "2026-03-26": 0.851
       },
-      "latest_price": 0.856,
-      "return_pct": 256.67,
+      "latest_price": 0.851,
+      "return_pct": 254.58,
       "last_snapshot": "2026-03-26"
     },
     {
@@ -14765,10 +14765,10 @@
         "2026-03-23": 8.26,
         "2026-03-24": 8.15,
         "2026-03-25": 8.2,
-        "2026-03-26": 8.2
+        "2026-03-26": 8.15
       },
-      "latest_price": 8.2,
-      "return_pct": -0.49,
+      "latest_price": 8.15,
+      "return_pct": -1.09,
       "last_snapshot": "2026-03-26"
     },
     {
@@ -16701,10 +16701,10 @@
         "2026-03-23": 8.26,
         "2026-03-24": 8.15,
         "2026-03-25": 8.2,
-        "2026-03-26": 8.2
+        "2026-03-26": 8.15
       },
-      "latest_price": 8.2,
-      "return_pct": -4.65,
+      "latest_price": 8.15,
+      "return_pct": -5.23,
       "last_snapshot": "2026-03-26"
     },
     {
@@ -17695,10 +17695,10 @@
         "2026-03-23": 0.8301,
         "2026-03-24": 0.87,
         "2026-03-25": 0.885,
-        "2026-03-26": 0.856
+        "2026-03-26": 0.851
       },
-      "latest_price": 0.856,
-      "return_pct": 256.67,
+      "latest_price": 0.851,
+      "return_pct": 254.58,
       "last_snapshot": "2026-03-26"
     },
     {
@@ -18984,6 +18984,86 @@
       },
       "latest_price": 169.15,
       "return_pct": -1.43,
+      "last_snapshot": "2026-03-26"
+    },
+    {
+      "id": "US|BBSI|2026-03-26|Finn Mark Steven",
+      "market": "US",
+      "ticker": "BBSI",
+      "yf_symbol": "BBSI",
+      "company": "Barrett Business Services Inc",
+      "insider_name": "Finn Mark Steven",
+      "title": "Dir",
+      "trade_date": "2026-03-26",
+      "trade_price": 29.4,
+      "value": 29397.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-26": 28.95
+      },
+      "latest_price": 28.95,
+      "return_pct": -1.53,
+      "last_snapshot": "2026-03-26"
+    },
+    {
+      "id": "US|PICS|2026-03-25|Augusto Cazotto Andre",
+      "market": "US",
+      "ticker": "PICS",
+      "yf_symbol": "PICS",
+      "company": "Pics N.V.",
+      "insider_name": "Augusto Cazotto Andre",
+      "title": "IR, Strategy, M, A Officer",
+      "trade_date": "2026-03-25",
+      "trade_price": 11.55,
+      "value": 75075.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-26": 11.3
+      },
+      "latest_price": 11.3,
+      "return_pct": -2.16,
+      "last_snapshot": "2026-03-26"
+    },
+    {
+      "id": "US|UMH|2026-03-25|Quigley Kenneth K Jr",
+      "market": "US",
+      "ticker": "UMH",
+      "yf_symbol": "UMH",
+      "company": "Umh Properties, Inc.",
+      "insider_name": "Quigley Kenneth K Jr",
+      "title": "Dir",
+      "trade_date": "2026-03-25",
+      "trade_price": 14.34,
+      "value": 35850.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-26": 14.34
+      },
+      "latest_price": 14.34,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-03-26"
+    },
+    {
+      "id": "US|NFJ|2026-03-24|Saba Capital Management, L.P.",
+      "market": "US",
+      "ticker": "NFJ",
+      "yf_symbol": "NFJ",
+      "company": "Virtus Dividend, Interest & Premium Strategy Fund",
+      "insider_name": "Saba Capital Management, L.P.",
+      "title": "10%",
+      "trade_date": "2026-03-24",
+      "trade_price": 12.59,
+      "value": 732111.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-26": 12.74
+      },
+      "latest_price": 12.74,
+      "return_pct": 1.19,
       "last_snapshot": "2026-03-26"
     }
   ]

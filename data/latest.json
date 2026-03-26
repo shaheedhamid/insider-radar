@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-26T16:04:33Z",
-  "trade_count": 5671,
+  "last_updated": "2026-03-26T17:54:26Z",
+  "trade_count": 5675,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -90048,7 +90048,7 @@
       "owned": "100000",
       "delta_own": "New",
       "value": "1180000",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-24",
@@ -90736,6 +90736,70 @@
       "owned": "3077",
       "delta_own": "+8%",
       "value": "39985",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-26",
+      "filing_time": "13:29",
+      "trade_date": "2026-03-26",
+      "ticker": "BBSI",
+      "company": "Barrett Business Services Inc",
+      "insider_name": "Finn Mark Steven",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "29.40",
+      "qty": "1000",
+      "owned": "19943",
+      "delta_own": "+5%",
+      "value": "29397",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-26",
+      "filing_time": "13:00",
+      "trade_date": "2026-03-25",
+      "ticker": "PICS",
+      "company": "Pics N.V.",
+      "insider_name": "Augusto Cazotto Andre",
+      "title": "IR, Strategy, M, A Officer",
+      "trade_type": "P - Purchase",
+      "price": "11.55",
+      "qty": "6500",
+      "owned": "6500",
+      "delta_own": "New",
+      "value": "75075",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-26",
+      "filing_time": "12:20",
+      "trade_date": "2026-03-25",
+      "ticker": "UMH",
+      "company": "Umh Properties, Inc.",
+      "insider_name": "Quigley Kenneth K Jr",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "14.34",
+      "qty": "2500",
+      "owned": "42367",
+      "delta_own": "+6%",
+      "value": "35850",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-26",
+      "filing_time": "12:05",
+      "trade_date": "2026-03-24",
+      "ticker": "NFJ",
+      "company": "Virtus Dividend, Interest & Premium Strategy Fund",
+      "insider_name": "Saba Capital Management, L.P.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "12.59",
+      "qty": "58171",
+      "owned": "10021861",
+      "delta_own": "+1%",
+      "value": "732111",
       "cluster_buy": false
     }
   ]

@@ -5670,3 +5670,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-26,08:24,2026-03-24,BORR,Borr Drilling Ltd,Troim Tor Olav,Dir,P - Purchase,5.20,500000,25704808,+2%,2597900,True
 2026-03-26,10:36,2026-03-23,RPC,"Ridgepost Capital, Inc.",McCoy David M.,See Remarks,P - Purchase,7.37,70000,270068,+35%,515900,False
 2026-03-26,10:24,2026-03-24,ALG,Alamo Group Inc,Grooms Nina C,Dir,P - Purchase,171.61,233,3077,+8%,39985,False
+2026-03-26,13:29,2026-03-26,BBSI,Barrett Business Services Inc,Finn Mark Steven,Dir,P - Purchase,29.40,1000,19943,+5%,29397,False
+2026-03-26,13:00,2026-03-25,PICS,Pics N.V.,Augusto Cazotto Andre,"IR, Strategy, M, A Officer",P - Purchase,11.55,6500,6500,New,75075,True
+2026-03-26,12:20,2026-03-25,UMH,"Umh Properties, Inc.",Quigley Kenneth K Jr,Dir,P - Purchase,14.34,2500,42367,+6%,35850,False
+2026-03-26,12:05,2026-03-24,NFJ,"Virtus Dividend, Interest & Premium Strategy Fund","Saba Capital Management, L.P.",10%,P - Purchase,12.59,58171,10021861,+1%,732111,False
