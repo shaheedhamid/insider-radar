@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-27T15:00:26Z",
-  "trade_count": 2738,
+  "last_updated": "2026-03-27T17:00:24Z",
+  "trade_count": 2741,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -39455,7 +39455,7 @@
       "value": "195140",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4682265",
@@ -41360,6 +41360,54 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4689697",
+      "trade_date": "2026-03-27",
+      "filing_date": "2026-03-27",
+      "company": "Clinch Resources Ltd.",
+      "ticker": "CLCH",
+      "insider_name": "Nix, Jon Eric",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "20000",
+      "price": "1.6500",
+      "value": "33000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4689450",
+      "trade_date": "2026-03-27",
+      "filing_date": "2026-03-27",
+      "company": "SITKA GOLD CORP.",
+      "ticker": "SIG",
+      "insider_name": "Archambeault, Louis",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "50000",
+      "price": "0.8100",
+      "value": "40500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4689467",
+      "trade_date": "2026-03-27",
+      "filing_date": "2026-03-27",
+      "company": "Total Energy Services Inc.",
+      "ticker": "TOT",
+      "insider_name": "Chow, George K.",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "1600",
+      "price": "23.1925",
+      "value": "37108",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
