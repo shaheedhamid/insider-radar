@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-27T13:00:27Z",
-  "trade_count": 2737,
+  "last_updated": "2026-03-27T15:00:26Z",
+  "trade_count": 2738,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -41341,6 +41341,22 @@
       "qty": "454000",
       "price": "0.1350",
       "value": "61290",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4689398",
+      "trade_date": "2026-03-27",
+      "filing_date": "2026-03-27",
+      "company": "Digital Commodities Inc.",
+      "ticker": "DIGI.CN",
+      "insider_name": "Sutton, Brayden Robert",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "500000",
+      "price": "0.0300",
+      "value": "15000",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
