@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-27",
-  "entry_count": 658,
+  "entry_count": 662,
   "entries": [
     {
       "id": "US|LOGC|2026-02-26|Bobbili Raja",
@@ -19620,6 +19620,86 @@
       },
       "latest_price": 36.1,
       "return_pct": -0.63,
+      "last_snapshot": "2026-03-27"
+    },
+    {
+      "id": "US|RPAY|2026-03-25|Forager Fund, L.P.",
+      "market": "US",
+      "ticker": "RPAY",
+      "yf_symbol": "RPAY",
+      "company": "Repay Holdings Corp",
+      "insider_name": "Forager Fund, L.P.",
+      "title": "10%",
+      "trade_date": "2026-03-25",
+      "trade_price": 3.01,
+      "value": 1935060.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-27": 3.04
+      },
+      "latest_price": 3.04,
+      "return_pct": 1.0,
+      "last_snapshot": "2026-03-27"
+    },
+    {
+      "id": "US|PANW|2026-03-27|Arora Nikesh",
+      "market": "US",
+      "ticker": "PANW",
+      "yf_symbol": "PANW",
+      "company": "Palo Alto Networks Inc",
+      "insider_name": "Arora Nikesh",
+      "title": "CEO",
+      "trade_date": "2026-03-27",
+      "trade_price": 146.88,
+      "value": 9999977.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-27": 156.36
+      },
+      "latest_price": 156.36,
+      "return_pct": 6.45,
+      "last_snapshot": "2026-03-27"
+    },
+    {
+      "id": "US|MED|2026-03-20|Chard Daniel R",
+      "market": "US",
+      "ticker": "MED",
+      "yf_symbol": "MED",
+      "company": "Medifast Inc",
+      "insider_name": "Chard Daniel R",
+      "title": "COB, CEO",
+      "trade_date": "2026-03-20",
+      "trade_price": 10.11,
+      "value": 178725.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-27": 9.63
+      },
+      "latest_price": 9.63,
+      "return_pct": -4.75,
+      "last_snapshot": "2026-03-27"
+    },
+    {
+      "id": "US|CRT|2026-03-25|Oliver Eric L",
+      "market": "US",
+      "ticker": "CRT",
+      "yf_symbol": "CRT",
+      "company": "Cross Timbers Royalty Trust",
+      "insider_name": "Oliver Eric L",
+      "title": "10%",
+      "trade_date": "2026-03-25",
+      "trade_price": 9.71,
+      "value": 284544.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-27": 9.99
+      },
+      "latest_price": 9.99,
+      "return_pct": 2.88,
       "last_snapshot": "2026-03-27"
     }
   ]

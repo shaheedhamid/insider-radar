@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-27T21:27:28Z",
-  "trade_count": 5693,
+  "last_updated": "2026-03-27T22:23:10Z",
+  "trade_count": 5697,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -91088,6 +91088,70 @@
       "owned": "15326",
       "delta_own": "+82%",
       "value": "251440",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-27",
+      "filing_time": "18:16",
+      "trade_date": "2026-03-25",
+      "ticker": "RPAY",
+      "company": "Repay Holdings Corp",
+      "insider_name": "Forager Fund, L.P.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "3.01",
+      "qty": "642837",
+      "owned": "9242937",
+      "delta_own": "+7%",
+      "value": "1935060",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-27",
+      "filing_time": "18:11",
+      "trade_date": "2026-03-27",
+      "ticker": "PANW",
+      "company": "Palo Alto Networks Inc",
+      "insider_name": "Arora Nikesh",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "146.88",
+      "qty": "68085",
+      "owned": "1101946",
+      "delta_own": "+7%",
+      "value": "9999977",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-27",
+      "filing_time": "17:51",
+      "trade_date": "2026-03-20",
+      "ticker": "MED",
+      "company": "Medifast Inc",
+      "insider_name": "Chard Daniel R",
+      "title": "COB, CEO",
+      "trade_type": "P - Purchase",
+      "price": "10.11",
+      "qty": "17678",
+      "owned": "355609",
+      "delta_own": "+5%",
+      "value": "178725",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-27",
+      "filing_time": "17:44",
+      "trade_date": "2026-03-25",
+      "ticker": "CRT",
+      "company": "Cross Timbers Royalty Trust",
+      "insider_name": "Oliver Eric L",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "9.71",
+      "qty": "29293",
+      "owned": "629384",
+      "delta_own": "+5%",
+      "value": "284544",
       "cluster_buy": false
     }
   ]
