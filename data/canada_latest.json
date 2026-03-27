@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-27T21:00:22Z",
-  "trade_count": 2750,
+  "last_updated": "2026-03-27T23:00:24Z",
+  "trade_count": 2752,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -41552,6 +41552,38 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4690326",
+      "trade_date": "2026-03-27",
+      "filing_date": "2026-03-27",
+      "company": "Koryx Copper S.A. (formerly Koryx Copper Inc.)",
+      "ticker": "",
+      "insider_name": "Daun, Heye Edmund",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "66600",
+      "price": "3.2439",
+      "value": "216043",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4690385",
+      "trade_date": "2026-03-27",
+      "filing_date": "2026-03-27",
+      "company": "Savaria Corporation",
+      "ticker": "SIS",
+      "insider_name": "Bourassa, Marcel",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "103000",
+      "price": "26.0300",
+      "value": "2681090",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
