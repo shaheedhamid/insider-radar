@@ -5686,3 +5686,8 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-27,09:33,2026-03-26,PICS,Pics N.V.,Chedid Simoes Eduardo,CEO,P - Purchase,11.52,87505,87505,New,1008058,True
 2026-03-27,14:34,2026-03-25,IAUX,I-80 Gold Corp.,Young Richard Scott,"Pres, CEO",P - Purchase,1.40,1000000,5337000,+23%,1400000,False
 2026-03-27,14:25,2026-03-26,FMNB,Farmers National Banc Corp /Oh/,Varischetti Nicholas D,Dir,P - Purchase,12.97,73000,228529,+47%,946810,False
+2026-03-27,16:24,2026-03-27,TGEN,Tecogen Inc.,Hirsch Susan B,Dir,P - Purchase,2.54,10000,260416,+4%,25400,False
+2026-03-27,16:21,2026-03-02,AXR,Amrep Corp.,Dahl James H,10%,P - Purchase,25.69,3200,470398,+1%,82220,False
+2026-03-27,16:16,2026-03-26,XZO,"Exzeo Group, Inc.",Patel Paresh,CEO,P - Purchase,14.52,2000,1588013,0%,29040,True
+2026-03-27,16:10,2026-03-26,LFT,"Lument Finance Trust, Inc.",Keenan Walter C,Dir,P - Purchase,19.63,5000,10400,+93%,98150,False
+2026-03-27,16:10,2026-03-26,LFT,"Lument Finance Trust, Inc.",Keenan Walter C,Dir,P - Purchase,19.50,1500,5400,+38%,29250,False

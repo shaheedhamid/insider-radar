@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-27",
-  "entry_count": 653,
+  "entry_count": 657,
   "entries": [
     {
       "id": "US|LOGC|2026-02-26|Bobbili Raja",
@@ -12395,10 +12395,10 @@
         "2026-03-24": 0.87,
         "2026-03-25": 0.885,
         "2026-03-26": 0.85,
-        "2026-03-27": 0.845
+        "2026-03-27": 0.83
       },
-      "latest_price": 0.845,
-      "return_pct": 252.08,
+      "latest_price": 0.83,
+      "return_pct": 245.83,
       "last_snapshot": "2026-03-27"
     },
     {
@@ -17745,10 +17745,10 @@
         "2026-03-24": 30.6,
         "2026-03-25": 30.6,
         "2026-03-26": 30.6,
-        "2026-03-27": 30.6
+        "2026-03-27": 30.25
       },
-      "latest_price": 30.6,
-      "return_pct": 0.03,
+      "latest_price": 30.25,
+      "return_pct": -1.11,
       "last_snapshot": "2026-03-27"
     },
     {
@@ -17769,10 +17769,10 @@
         "2026-03-24": 30.6,
         "2026-03-25": 30.6,
         "2026-03-26": 30.6,
-        "2026-03-27": 30.6
+        "2026-03-27": 30.25
       },
-      "latest_price": 30.6,
-      "return_pct": 0.03,
+      "latest_price": 30.25,
+      "return_pct": -1.11,
       "last_snapshot": "2026-03-27"
     },
     {
@@ -17817,10 +17817,10 @@
         "2026-03-24": 30.6,
         "2026-03-25": 30.6,
         "2026-03-26": 30.6,
-        "2026-03-27": 30.6
+        "2026-03-27": 30.25
       },
-      "latest_price": 30.6,
-      "return_pct": 0.03,
+      "latest_price": 30.25,
+      "return_pct": -1.11,
       "last_snapshot": "2026-03-27"
     },
     {
@@ -17841,10 +17841,10 @@
         "2026-03-24": 0.87,
         "2026-03-25": 0.885,
         "2026-03-26": 0.85,
-        "2026-03-27": 0.845
+        "2026-03-27": 0.83
       },
-      "latest_price": 0.845,
-      "return_pct": 252.08,
+      "latest_price": 0.83,
+      "return_pct": 245.83,
       "last_snapshot": "2026-03-27"
     },
     {
@@ -17985,10 +17985,10 @@
         "2026-03-24": 30.6,
         "2026-03-25": 30.6,
         "2026-03-26": 30.6,
-        "2026-03-27": 30.6
+        "2026-03-27": 30.25
       },
-      "latest_price": 30.6,
-      "return_pct": 0.03,
+      "latest_price": 30.25,
+      "return_pct": -1.11,
       "last_snapshot": "2026-03-27"
     },
     {
@@ -18009,10 +18009,10 @@
         "2026-03-24": 30.6,
         "2026-03-25": 30.6,
         "2026-03-26": 30.6,
-        "2026-03-27": 30.6
+        "2026-03-27": 30.25
       },
-      "latest_price": 30.6,
-      "return_pct": 0.03,
+      "latest_price": 30.25,
+      "return_pct": -1.11,
       "last_snapshot": "2026-03-27"
     },
     {
@@ -18057,10 +18057,10 @@
         "2026-03-24": 30.6,
         "2026-03-25": 30.6,
         "2026-03-26": 30.6,
-        "2026-03-27": 30.6
+        "2026-03-27": 30.25
       },
-      "latest_price": 30.6,
-      "return_pct": 0.03,
+      "latest_price": 30.25,
+      "return_pct": -1.11,
       "last_snapshot": "2026-03-27"
     },
     {
@@ -19520,6 +19520,86 @@
       },
       "latest_price": 13.01,
       "return_pct": 0.31,
+      "last_snapshot": "2026-03-27"
+    },
+    {
+      "id": "US|TGEN|2026-03-27|Hirsch Susan B",
+      "market": "US",
+      "ticker": "TGEN",
+      "yf_symbol": "TGEN",
+      "company": "Tecogen Inc.",
+      "insider_name": "Hirsch Susan B",
+      "title": "Dir",
+      "trade_date": "2026-03-27",
+      "trade_price": 2.54,
+      "value": 25400.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-27": 2.62
+      },
+      "latest_price": 2.62,
+      "return_pct": 3.15,
+      "last_snapshot": "2026-03-27"
+    },
+    {
+      "id": "US|AXR|2026-03-02|Dahl James H",
+      "market": "US",
+      "ticker": "AXR",
+      "yf_symbol": "AXR",
+      "company": "Amrep Corp.",
+      "insider_name": "Dahl James H",
+      "title": "10%",
+      "trade_date": "2026-03-02",
+      "trade_price": 25.69,
+      "value": 82220.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-27": 26.94
+      },
+      "latest_price": 26.94,
+      "return_pct": 4.87,
+      "last_snapshot": "2026-03-27"
+    },
+    {
+      "id": "US|XZO|2026-03-26|Patel Paresh",
+      "market": "US",
+      "ticker": "XZO",
+      "yf_symbol": "XZO",
+      "company": "Exzeo Group, Inc.",
+      "insider_name": "Patel Paresh",
+      "title": "CEO",
+      "trade_date": "2026-03-26",
+      "trade_price": 14.52,
+      "value": 29040.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-27": 14
+      },
+      "latest_price": 14,
+      "return_pct": -3.58,
+      "last_snapshot": "2026-03-27"
+    },
+    {
+      "id": "US|LFT|2026-03-26|Keenan Walter C",
+      "market": "US",
+      "ticker": "LFT",
+      "yf_symbol": "LFT",
+      "company": "Lument Finance Trust, Inc.",
+      "insider_name": "Keenan Walter C",
+      "title": "Dir",
+      "trade_date": "2026-03-26",
+      "trade_price": 19.63,
+      "value": 98150.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-27": 1.26
+      },
+      "latest_price": 1.26,
+      "return_pct": -93.58,
       "last_snapshot": "2026-03-27"
     }
   ]
