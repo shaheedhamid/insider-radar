@@ -112,9 +112,9 @@
     .stat-card:nth-child(3)::before { background: linear-gradient(90deg, var(--green),  transparent); }
     .stat-card:nth-child(4)::before { background: linear-gradient(90deg, var(--gold),   transparent); }
     .stat-card::after { content: ''; position: absolute; inset: 0; opacity: 0; transition: opacity .25s; pointer-events: none; }
-    .stat-card:nth-child(1)::after { background: radial-gradient(ellipse at 0% 0%, rgba(240,168,0,.07)  0%, transparent 70%); }
+    .stat-card:nth-child(1)::after { background: radial-gradient(ellipse at 0% 0%, rgba(47,128,237,.07)  0%, transparent 70%); }
     .stat-card:nth-child(2)::after { background: radial-gradient(ellipse at 0% 0%, rgba(255,112,67,.07)  0%, transparent 70%); }
-    .stat-card:nth-child(3)::after { background: radial-gradient(ellipse at 0% 0%, rgba(240,168,0,.07)  0%, transparent 70%); }
+    .stat-card:nth-child(3)::after { background: radial-gradient(ellipse at 0% 0%, rgba(80,200,120,.07)  0%, transparent 70%); }
     .stat-card:nth-child(4)::after { background: radial-gradient(ellipse at 0% 0%, rgba(240,168,0,.07)   0%, transparent 70%); }
     .stat-card:hover::after { opacity: 1; }
     .stat-card:nth-child(1) .stat-icon { background: var(--blue-bg);   color: var(--blue);   }
@@ -183,6 +183,7 @@
     /* Title badges */
     .badge-title { display: inline-block; border-radius: 5px; padding: 2px 8px; font-size: 10px; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; white-space: nowrap; }
     .badge-title.ceo-chair { background: var(--green-bg);  color: var(--green);  border: 1px solid rgba(240,168,0,.25); }
+    .badge-title.cfo       { background: var(--orange-bg); color: var(--orange); border: 1px solid rgba(255,112,67,.25); }
     .badge-title.vp        { background: var(--gold-bg);   color: var(--gold);   border: 1px solid rgba(47,128,237,.25); }
     .badge-title.dir       { background: var(--blue-bg);   color: var(--blue);   border: 1px solid rgba(240,168,0,.25); }
     .badge-title.other     { background: var(--surface3);  color: var(--muted2); border: 1px solid var(--border2); }
@@ -463,7 +464,7 @@
   </div>
 </div>
 
-<!-- ================================================================== */
+<!-- ================================================================== -->
 <!-- FOOTER                                                               -->
 <!-- ================================================================== -->
 <footer>
@@ -509,7 +510,6 @@
   /* DOM refs                                                              */
   /* ------------------------------------------------------------------ */
   const lastUpdatedEl  = document.getElementById('last-updated');
-  const tradeCountEl   = document.getElementById('trade-count');
   const tradeCountEls  = document.querySelectorAll('.trade-count-badge');
   function setTradeCount(text) { tradeCountEls.forEach(el => el.textContent = text); }
   const refreshDotEl   = document.getElementById('refresh-dot');
@@ -570,7 +570,7 @@
 
   function titleBadge(title) {
     const cls = classifyTitle(title);
-    const cssClasses = { ceo: 'ceo-chair', director: 'dir', cfo: 'vp', vp: 'vp', other: 'other' };
+    const cssClasses = { ceo: 'ceo-chair', director: 'dir', cfo: 'cfo', vp: 'vp', other: 'other' };
     const display = title.length > 22 ? title.substring(0, 22) + '…' : title;
     return `<span class="badge-title ${cssClasses[cls]}" title="${escHtml(title)}">${escHtml(display)}</span>`;
   }
@@ -606,7 +606,7 @@
   function applyFilters(trades) {
     const { search, title, minValue, dateRange } = getFilters();
     let cutoff = null;
-    if (dateRange !== 'all' && !search) {
+    if (dateRange !== 'all') {
       const d = new Date();
       d.setDate(d.getDate() - parseInt(dateRange, 10));
       cutoff = d.toISOString().slice(0, 10);

@@ -86,9 +86,9 @@
     .stat-card:nth-child(3)::before { background: linear-gradient(90deg, var(--green),  transparent); }
     .stat-card:nth-child(4)::before { background: linear-gradient(90deg, var(--gold),   transparent); }
     .stat-card::after { content: ''; position: absolute; inset: 0; opacity: 0; transition: opacity .25s; pointer-events: none; }
-    .stat-card:nth-child(1)::after { background: radial-gradient(ellipse at 0% 0%, rgba(240,168,0,.07)  0%, transparent 70%); }
+    .stat-card:nth-child(1)::after { background: radial-gradient(ellipse at 0% 0%, rgba(47,128,237,.07)  0%, transparent 70%); }
     .stat-card:nth-child(2)::after { background: radial-gradient(ellipse at 0% 0%, rgba(255,112,67,.07)  0%, transparent 70%); }
-    .stat-card:nth-child(3)::after { background: radial-gradient(ellipse at 0% 0%, rgba(240,168,0,.07)  0%, transparent 70%); }
+    .stat-card:nth-child(3)::after { background: radial-gradient(ellipse at 0% 0%, rgba(80,200,120,.07)  0%, transparent 70%); }
     .stat-card:nth-child(4)::after { background: radial-gradient(ellipse at 0% 0%, rgba(240,168,0,.07)   0%, transparent 70%); }
     .stat-card:hover::after { opacity: 1; }
     .stat-card:nth-child(1) .stat-icon { background: var(--blue-bg);   color: var(--blue);   }
@@ -103,14 +103,29 @@
       border-radius: 20px; padding: 4px 12px; color: var(--gold); letter-spacing: .04em;
     }
 
-.btn-pro {
+    .btn-pro {
       display: inline-flex; align-items: center; gap: 6px;
-      background: linear-gradient(135deg, var(--gold) 0%, #c07800 100%);
+      background: linear-gradient(135deg, var(--gold) 0%, #1a56c4 100%);
       color: #0c0d0f; font-size: 12px; font-weight: 700; letter-spacing: .04em;
       padding: 7px 16px; border-radius: 6px; border: none; cursor: pointer;
       transition: opacity .15s, transform .1s; text-transform: uppercase; white-space: nowrap;
     }
     .btn-pro:hover { opacity: .9; transform: translateY(-1px); color: #0c0d0f; }
+
+    /* Cluster buy stat card — clickable filter */
+    #stat-card-clusters {
+      cursor: pointer;
+      transition: background .15s, box-shadow .15s;
+    }
+    #stat-card-clusters:hover { background: var(--surface2); }
+    #stat-card-clusters.active {
+      background: rgba(255,112,67,.08);
+      box-shadow: inset 0 0 0 1px rgba(255,112,67,.35);
+    }
+    #stat-card-clusters.active .stat-label::after {
+      content: ' — ON';
+      color: var(--orange);
+    }
 
     /* Market closed banner */
     #market-closed-banner {
@@ -143,6 +158,7 @@
     /* Title badges */
     .badge-title { display: inline-block; border-radius: 5px; padding: 2px 8px; font-size: 10px; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; white-space: nowrap; }
     .badge-title.ceo-chair { background: var(--green-bg);  color: var(--green);  border: 1px solid rgba(240,168,0,.25); }
+    .badge-title.cfo       { background: var(--orange-bg); color: var(--orange); border: 1px solid rgba(255,112,67,.25); }
     .badge-title.vp        { background: var(--gold-bg);   color: var(--gold);   border: 1px solid rgba(240,168,0,.25); }
     .badge-title.dir       { background: var(--blue-bg);   color: var(--blue);   border: 1px solid rgba(240,168,0,.25); }
     .badge-title.other     { background: var(--surface3);  color: var(--muted2); border: 1px solid var(--border2); }
@@ -152,7 +168,7 @@
 <body>
 
 <div class="topbar">
-  Tracking Canadian insider filings from <strong>SEDI</strong>. Data refreshed every 30 minutes on weekdays.
+  Tracking SEDI open-market purchases of <strong>CAD$15,000+</strong> only — smaller trades excluded to surface high-conviction signals.
 </div>
 
 <!-- ================================================================== -->
@@ -242,9 +258,6 @@
 
 <div class="gold-rule"></div>
 
-<div class="data-note">
-  ℹ️ Tracking SEDI open-market purchases of <strong>CAD$15,000+</strong> only — smaller trades excluded to surface high-conviction signals.
-</div>
 
 <!-- ================================================================== -->
 <!-- ERROR BANNER                                                         -->
@@ -268,7 +281,7 @@
     <div class="stat-value accent" id="stat-visible">—</div>
   </div>
 
-  <div class="stat-card">
+  <div class="stat-card" id="stat-card-clusters" title="Click to filter cluster buys only">
     <div class="stat-header">
       <div class="stat-icon">
         <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
@@ -310,6 +323,17 @@
   </div>
 
 </div>
+
+<!-- ================================================================== -->
+<!-- SEO INTRO (visually hidden)                                          -->
+<!-- ================================================================== -->
+<h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">
+  Canadian Insider Trading Tracker — TSX &amp; TSX-V SEDI Filings
+</h1>
+<p style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">
+  Monitor real-time Canadian SEDI insider purchases on the TSX and TSX Venture Exchange.
+  Filter by role, trade size (CAD$15K+), and date to surface high-conviction cluster buy signals.
+</p>
 
 <!-- ================================================================== -->
 <!-- FILTERS                                                              -->
@@ -413,7 +437,7 @@
   </div>
 </div>
 
-<!-- ================================================================== */
+<!-- ================================================================== -->
 <!-- FOOTER                                                               -->
 <!-- ================================================================== -->
 <footer>
@@ -453,12 +477,12 @@
   let expandedTickers = new Set();
   let dateRange       = '1';
   let minValue        = 0;
+  let clusterOnly     = false;
 
   /* ------------------------------------------------------------------ */
   /* DOM refs                                                              */
   /* ------------------------------------------------------------------ */
   const lastUpdatedEl  = document.getElementById('last-updated');
-  const tradeCountEl   = document.getElementById('trade-count');
   const tradeCountEls  = document.querySelectorAll('.trade-count-badge');
   function setTradeCount(text) { tradeCountEls.forEach(el => el.textContent = text); }
   const refreshDotEl   = document.getElementById('refresh-dot');
@@ -473,10 +497,11 @@
   const dateRangeGroupEl = document.getElementById('date-range-group');
   const minValueGroupEl  = document.getElementById('min-value-group');
 
-  const statVisible    = document.getElementById('stat-visible');
-  const statClusters   = document.getElementById('stat-clusters');
-  const statTotalValue = document.getElementById('stat-total-value');
-  const statTickers    = document.getElementById('stat-tickers');
+  const statVisible      = document.getElementById('stat-visible');
+  const statClusters     = document.getElementById('stat-clusters');
+  const statTotalValue   = document.getElementById('stat-total-value');
+  const statTickers      = document.getElementById('stat-tickers');
+  const statCardClusters = document.getElementById('stat-card-clusters');
 
   /* ------------------------------------------------------------------ */
   /* Utilities                                                             */
@@ -518,7 +543,7 @@
 
   function titleBadge(title) {
     const cls = classifyTitle(title);
-    const cssClasses = { ceo: 'ceo-chair', director: 'dir', cfo: 'vp', vp: 'vp', other: 'other' };
+    const cssClasses = { ceo: 'ceo-chair', director: 'dir', cfo: 'cfo', vp: 'vp', other: 'other' };
     const display = title.length > 22 ? title.substring(0, 22) + '…' : title;
     return `<span class="badge-title ${cssClasses[cls]}" title="${escHtml(title)}">${escHtml(display)}</span>`;
   }
@@ -554,7 +579,7 @@
   function applyFilters(trades) {
     const { search, title, minValue, dateRange } = getFilters();
     let cutoff = null;
-    if (dateRange !== 'all' && !search) {
+    if (dateRange !== 'all') {
       const d = new Date();
       d.setDate(d.getDate() - parseInt(dateRange, 10));
       cutoff = d.toISOString().slice(0, 10);
@@ -563,6 +588,7 @@
       if (parseNumber(t.value) < minValue) return false;
       if (title !== 'all' && classifyTitle(t.title) !== title) return false;
       if (cutoff && (t.filing_date || '') < cutoff) return false;
+      if (clusterOnly && !t.cluster_buy) return false;
       if (search) {
         const hay = ((t.ticker || '') + ' ' + (t.company || '') + ' ' + (t.insider_name || '')).toLowerCase();
         if (!hay.includes(search)) return false;
@@ -721,11 +747,11 @@
               <td class="td-date">${escHtml(t.filing_date || '—')}</td>
               <td class="td-ticker">&nbsp;&nbsp;${escHtml(t.ticker || '—')}</td>
               <td class="td-company" title="${escHtml(t.company || '')}">${escHtml(t.company || '—')}</td>
-              <td class="td-insider">${escHtml(t.insider_name || '—')}</td>
+              <td class="td-insider" title="${escHtml(t.insider_name || '')}">${escHtml(t.insider_name || '—')}</td>
               <td>${titleBadge(t.title || 'Unknown')}</td>
               <td class="td-value">${formatCurrency(val)}</td>
               <td class="td-num">${formatShares(qty)}</td>
-              <td class="td-num">${price > 0 ? '$' + price.toFixed(2) : '—'}</td>
+              <td class="td-num">${price > 0 ? 'CAD$' + price.toFixed(2) : '—'}</td>
               <td>${t.cluster_buy ? clusterBadgeHTML : ''}</td>
             </tr>`);
           });
@@ -739,11 +765,11 @@
           <td class="td-date">${escHtml(t.filing_date || '—')}</td>
           <td class="td-ticker">${escHtml(t.ticker || '—')}</td>
           <td class="td-company" title="${escHtml(t.company || '')}">${escHtml(t.company || '—')}</td>
-          <td class="td-insider">${escHtml(t.insider_name || '—')}</td>
+          <td class="td-insider" title="${escHtml(t.insider_name || '')}">${escHtml(t.insider_name || '—')}</td>
           <td>${titleBadge(t.title || 'Unknown')}</td>
           <td class="td-value">${formatCurrency(val)}</td>
           <td class="td-num">${formatShares(qty)}</td>
-          <td class="td-num">${price > 0 ? '$' + price.toFixed(2) : '—'}</td>
+          <td class="td-num">${price > 0 ? 'CAD$' + price.toFixed(2) : '—'}</td>
           <td>${t.cluster_buy ? clusterBadgeHTML : ''}</td>
         </tr>`);
       }
@@ -804,11 +830,19 @@
     });
   });
 
+  statCardClusters.addEventListener('click', () => {
+    clusterOnly = !clusterOnly;
+    statCardClusters.classList.toggle('active', clusterOnly);
+    renderTable();
+  });
+
   btnReset.addEventListener('click', () => {
     searchInputEl.value = '';
     titleFilterEl.value = 'all';
     dateRange           = '1';
     minValue            = 0;
+    clusterOnly         = false;
+    statCardClusters.classList.remove('active');
     dateRangeGroupEl.querySelectorAll('.btn-range').forEach(b => {
       b.classList.toggle('active', b.dataset.range === '1');
     });
