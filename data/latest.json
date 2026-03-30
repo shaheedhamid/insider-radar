@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-30T18:48:27Z",
-  "trade_count": 5715,
+  "last_updated": "2026-03-30T19:50:25Z",
+  "trade_count": 5716,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -91441,6 +91441,22 @@
       "delta_own": "+1%",
       "value": "720923",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-30",
+      "filing_time": "15:48",
+      "trade_date": "2025-08-22",
+      "ticker": "FDSB",
+      "company": "Fifth District Bancorp, Inc.",
+      "insider_name": "Smith Shane Michael",
+      "title": "Chief Credit Officer",
+      "trade_type": "P - Purchase",
+      "price": "13.45",
+      "qty": "2701",
+      "owned": "25547",
+      "delta_own": "+12%",
+      "value": "36338",
+      "cluster_buy": false
     }
   ]
 }
