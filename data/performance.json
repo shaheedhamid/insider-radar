@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-30",
-  "entry_count": 612,
+  "entry_count": 618,
   "entries": [
     {
       "id": "US|SOFI|2026-03-02|Noto Anthony",
@@ -8184,10 +8184,10 @@
         "2026-03-27": 8.05,
         "2026-03-28": 8.06,
         "2026-03-29": 8.06,
-        "2026-03-30": 8.06
+        "2026-03-30": 8.1
       },
-      "latest_price": 8.06,
-      "return_pct": 1.9,
+      "latest_price": 8.1,
+      "return_pct": 2.4,
       "last_snapshot": "2026-03-30"
     },
     {
@@ -11328,10 +11328,10 @@
         "2026-03-27": 0.83,
         "2026-03-28": 0.84,
         "2026-03-29": 0.84,
-        "2026-03-30": 0.84
+        "2026-03-30": 0.88
       },
-      "latest_price": 0.84,
-      "return_pct": 250.0,
+      "latest_price": 0.88,
+      "return_pct": 266.67,
       "last_snapshot": "2026-03-30"
     },
     {
@@ -13975,10 +13975,10 @@
         "2026-03-27": 8.05,
         "2026-03-28": 8.06,
         "2026-03-29": 8.06,
-        "2026-03-30": 8.06
+        "2026-03-30": 8.1
       },
-      "latest_price": 8.06,
-      "return_pct": -2.18,
+      "latest_price": 8.1,
+      "return_pct": -1.7,
       "last_snapshot": "2026-03-30"
     },
     {
@@ -16203,10 +16203,10 @@
         "2026-03-27": 8.05,
         "2026-03-28": 8.06,
         "2026-03-29": 8.06,
-        "2026-03-30": 8.06
+        "2026-03-30": 8.1
       },
-      "latest_price": 8.06,
-      "return_pct": -6.28,
+      "latest_price": 8.1,
+      "return_pct": -5.81,
       "last_snapshot": "2026-03-30"
     },
     {
@@ -17365,10 +17365,10 @@
         "2026-03-27": 0.83,
         "2026-03-28": 0.84,
         "2026-03-29": 0.84,
-        "2026-03-30": 0.84
+        "2026-03-30": 0.88
       },
-      "latest_price": 0.84,
-      "return_pct": 250.0,
+      "latest_price": 0.88,
+      "return_pct": 266.67,
       "last_snapshot": "2026-03-30"
     },
     {
@@ -19686,6 +19686,126 @@
       },
       "latest_price": 23.15,
       "return_pct": 518.98,
+      "last_snapshot": "2026-03-30"
+    },
+    {
+      "id": "US|LMND|2026-03-10|Angelidis-Smith Maria",
+      "market": "US",
+      "ticker": "LMND",
+      "yf_symbol": "LMND",
+      "company": "Lemonade, Inc.",
+      "insider_name": "Angelidis-Smith Maria",
+      "title": "Dir",
+      "trade_date": "2026-03-10",
+      "trade_price": 55.55,
+      "value": 485478.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-30": 60.7
+      },
+      "latest_price": 60.7,
+      "return_pct": 9.27,
+      "last_snapshot": "2026-03-30"
+    },
+    {
+      "id": "US|TOI|2026-03-27|Chernett Jorey",
+      "market": "US",
+      "ticker": "TOI",
+      "yf_symbol": "TOI",
+      "company": "Oncology Institute, Inc.",
+      "insider_name": "Chernett Jorey",
+      "title": "10%",
+      "trade_date": "2026-03-27",
+      "trade_price": 2.96,
+      "value": 81190.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-30": 2.96
+      },
+      "latest_price": 2.96,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-03-30"
+    },
+    {
+      "id": "US|STIM|2026-03-27|Chernett Jorey",
+      "market": "US",
+      "ticker": "STIM",
+      "yf_symbol": "STIM",
+      "company": "Neuronetics, Inc.",
+      "insider_name": "Chernett Jorey",
+      "title": "10%",
+      "trade_date": "2026-03-27",
+      "trade_price": 1.35,
+      "value": 675000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-30": 1.29
+      },
+      "latest_price": 1.29,
+      "return_pct": -4.44,
+      "last_snapshot": "2026-03-30"
+    },
+    {
+      "id": "US|IPX|2026-03-27|Symonds Toby Edgcumbe",
+      "market": "US",
+      "ticker": "IPX",
+      "yf_symbol": "IPX",
+      "company": "Iperionx Ltd",
+      "insider_name": "Symonds Toby Edgcumbe",
+      "title": "Pres",
+      "trade_date": "2026-03-27",
+      "trade_price": 23.87,
+      "value": 262552.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-30": 23.15
+      },
+      "latest_price": 23.15,
+      "return_pct": -3.02,
+      "last_snapshot": "2026-03-30"
+    },
+    {
+      "id": "US|IPX|2026-03-27|Tripeny R Tony",
+      "market": "US",
+      "ticker": "IPX",
+      "yf_symbol": "IPX",
+      "company": "Iperionx Ltd",
+      "insider_name": "Tripeny R Tony",
+      "title": "Dir",
+      "trade_date": "2026-03-27",
+      "trade_price": 23.76,
+      "value": 99464.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-30": 23.15
+      },
+      "latest_price": 23.15,
+      "return_pct": -2.57,
+      "last_snapshot": "2026-03-30"
+    },
+    {
+      "id": "US|IPX|2026-03-27|Hannigan Todd",
+      "market": "US",
+      "ticker": "IPX",
+      "yf_symbol": "IPX",
+      "company": "Iperionx Ltd",
+      "insider_name": "Hannigan Todd",
+      "title": "Dir",
+      "trade_date": "2026-03-27",
+      "trade_price": 3.2,
+      "value": 720923.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-30": 23.15
+      },
+      "latest_price": 23.15,
+      "return_pct": 623.44,
       "last_snapshot": "2026-03-30"
     }
   ]

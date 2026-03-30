@@ -5706,5 +5706,11 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-30,08:47,2026-03-27,LENZ,"Lenz Therapeutics, Inc.",George Jeffrey P.,Dir,P - Purchase,8.92,5592,5592,New,49890,True
 2026-03-30,08:46,2026-03-27,LENZ,"Lenz Therapeutics, Inc.",Schimmelpennink Evert B.,"Pres, CEO, Secretary",P - Purchase,8.95,28089,77289,+57%,251411,True
 2026-03-30,08:46,2026-03-27,LENZ,"Lenz Therapeutics, Inc.",Chevallard Daniel R.,CFO,P - Purchase,8.57,7500,12886,+139%,64275,True
-2026-03-30,08:38,2026-03-27,IPX,Iperionx Ltd,Arima Anastasios,CEO,P - Purchase,3.74,479800,12958158,+4%,1793110,False
+2026-03-30,08:38,2026-03-27,IPX,Iperionx Ltd,Arima Anastasios,CEO,P - Purchase,3.74,479800,12958158,+4%,1793110,True
 2026-03-30,08:36,2026-03-26,FMNB,Farmers National Banc Corp /Oh/,Varischetti Nicholas D,Dir,P - Purchase,12.90,2000,230529,+1%,25800,False
+2026-03-30,09:57,2026-03-10,LMND,"Lemonade, Inc.",Angelidis-Smith Maria,Dir,P - Purchase,55.55,8740,53840,+19%,485478,False
+2026-03-30,09:38,2026-03-27,TOI,"Oncology Institute, Inc.",Chernett Jorey,10%,P - Purchase,2.96,27429,10479358,0%,81190,False
+2026-03-30,09:37,2026-03-27,STIM,"Neuronetics, Inc.",Chernett Jorey,10%,P - Purchase,1.35,500000,9393276,+6%,675000,False
+2026-03-30,09:23,2026-03-27,IPX,Iperionx Ltd,Symonds Toby Edgcumbe,Pres,P - Purchase,23.87,11000,3902345,0%,262552,True
+2026-03-30,09:08,2026-03-27,IPX,Iperionx Ltd,Tripeny R Tony,Dir,P - Purchase,23.76,4187,93974,+5%,99464,True
+2026-03-30,08:57,2026-03-27,IPX,Iperionx Ltd,Hannigan Todd,Dir,P - Purchase,3.20,225225,26132798,+1%,720923,True
