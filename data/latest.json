@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-30T20:36:18Z",
-  "trade_count": 5717,
+  "last_updated": "2026-03-30T21:34:43Z",
+  "trade_count": 5720,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -91472,6 +91472,54 @@
       "owned": "10182692",
       "delta_own": "+2%",
       "value": "1997956",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-30",
+      "filing_time": "17:30",
+      "trade_date": "2026-03-26",
+      "ticker": "CME",
+      "company": "Cme Group Inc.",
+      "insider_name": "Shepard William R",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "297.38",
+      "qty": "1470",
+      "owned": "262657",
+      "delta_own": "+1%",
+      "value": "437101",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-30",
+      "filing_time": "17:30",
+      "trade_date": "2026-03-27",
+      "ticker": "XZO",
+      "company": "Exzeo Group, Inc.",
+      "insider_name": "Patel Paresh",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "13.89",
+      "qty": "2000",
+      "owned": "1590013",
+      "delta_own": "0%",
+      "value": "27780",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-30",
+      "filing_time": "17:29",
+      "trade_date": "2026-03-26",
+      "ticker": "XLO",
+      "company": "Xilio Therapeutics, Inc.",
+      "insider_name": "Shannon James Samuel",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "8.79",
+      "qty": "5000",
+      "owned": "10000",
+      "delta_own": "+100%",
+      "value": "43950",
       "cluster_buy": false
     }
   ]

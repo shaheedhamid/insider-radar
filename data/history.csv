@@ -5716,3 +5716,6 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-30,08:57,2026-03-27,IPX,Iperionx Ltd,Hannigan Todd,Dir,P - Purchase,3.20,225225,26132798,+1%,720923,True
 2026-03-30,15:48,2025-08-22,FDSB,"Fifth District Bancorp, Inc.",Smith Shane Michael,Chief Credit Officer,P - Purchase,13.45,2701,25547,+12%,36338,False
 2026-03-30,15:55,2026-03-26,NFJ,"Virtus Dividend, Interest & Premium Strategy Fund","Saba Capital Management, L.P.",10%,P - Purchase,12.42,160831,10182692,+2%,1997956,False
+2026-03-30,17:30,2026-03-26,CME,Cme Group Inc.,Shepard William R,Dir,P - Purchase,297.38,1470,262657,+1%,437101,False
+2026-03-30,17:30,2026-03-27,XZO,"Exzeo Group, Inc.",Patel Paresh,CEO,P - Purchase,13.89,2000,1590013,0%,27780,True
+2026-03-30,17:29,2026-03-26,XLO,"Xilio Therapeutics, Inc.",Shannon James Samuel,Dir,P - Purchase,8.79,5000,10000,+100%,43950,False

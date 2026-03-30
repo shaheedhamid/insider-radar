@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-30",
-  "entry_count": 619,
+  "entry_count": 622,
   "entries": [
     {
       "id": "US|SOFI|2026-03-02|Noto Anthony",
@@ -19826,6 +19826,66 @@
       },
       "latest_price": 12.35,
       "return_pct": -0.56,
+      "last_snapshot": "2026-03-30"
+    },
+    {
+      "id": "US|CME|2026-03-26|Shepard William R",
+      "market": "US",
+      "ticker": "CME",
+      "yf_symbol": "CME",
+      "company": "Cme Group Inc.",
+      "insider_name": "Shepard William R",
+      "title": "Dir",
+      "trade_date": "2026-03-26",
+      "trade_price": 297.38,
+      "value": 437101.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-30": 293.78
+      },
+      "latest_price": 293.78,
+      "return_pct": -1.21,
+      "last_snapshot": "2026-03-30"
+    },
+    {
+      "id": "US|XZO|2026-03-27|Patel Paresh",
+      "market": "US",
+      "ticker": "XZO",
+      "yf_symbol": "XZO",
+      "company": "Exzeo Group, Inc.",
+      "insider_name": "Patel Paresh",
+      "title": "CEO",
+      "trade_date": "2026-03-27",
+      "trade_price": 13.89,
+      "value": 27780.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-30": 13.73
+      },
+      "latest_price": 13.73,
+      "return_pct": -1.15,
+      "last_snapshot": "2026-03-30"
+    },
+    {
+      "id": "US|XLO|2026-03-26|Shannon James Samuel",
+      "market": "US",
+      "ticker": "XLO",
+      "yf_symbol": "XLO",
+      "company": "Xilio Therapeutics, Inc.",
+      "insider_name": "Shannon James Samuel",
+      "title": "Dir",
+      "trade_date": "2026-03-26",
+      "trade_price": 8.79,
+      "value": 43950.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-30": 8.32
+      },
+      "latest_price": 8.32,
+      "return_pct": -5.35,
       "last_snapshot": "2026-03-30"
     }
   ]
