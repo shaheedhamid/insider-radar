@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-30T17:00:20Z",
-  "trade_count": 2760,
+  "last_updated": "2026-03-30T19:00:20Z",
+  "trade_count": 2761,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -41712,6 +41712,22 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4691150",
+      "trade_date": "2026-03-30",
+      "filing_date": "2026-03-30",
+      "company": "Vitalhub Corp.",
+      "ticker": "VHI",
+      "insider_name": "Shen, Anthony Pius",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "7000",
+      "price": "7.1100",
+      "value": "49770",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
