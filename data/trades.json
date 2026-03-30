@@ -1790,7 +1790,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Description: Sold 75 shares at $72.22 for a total of $5,416.50.",
-    "scraped_at": "2026-03-30T07:19:34.973146+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601067+00:00"
   },
   {
     "id": "20003795776",
@@ -1811,7 +1811,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-03-30T07:19:34.973231+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601153+00:00"
   },
   {
     "id": "20003795781",
@@ -1832,7 +1832,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-03-30T07:19:34.973258+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601179+00:00"
   },
   {
     "id": "20003795780",
@@ -1853,7 +1853,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-03-30T07:19:34.973253+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601174+00:00"
   },
   {
     "id": "20003795779",
@@ -1874,7 +1874,28 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-03-30T07:19:34.973249+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601170+00:00"
+  },
+  {
+    "id": "10000064807",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "ALLEGHENY COUNTY AIRPORT AUTHORITY",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-03-17",
+    "trade_published": "2026-03-28",
+    "filed_after_days": "11",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Self",
+    "comment": "Rate/Coupon: 5.5% Matures: 2050-01-01",
+    "scraped_at": "2026-03-30T08:53:36.601014+00:00"
   },
   {
     "id": "20003795778",
@@ -1895,7 +1916,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-03-30T07:19:34.973244+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601165+00:00"
   },
   {
     "id": "20003795784",
@@ -1916,7 +1937,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-03-30T07:19:34.973271+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601193+00:00"
   },
   {
     "id": "20003795777",
@@ -1937,7 +1958,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-03-30T07:19:34.973236+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601160+00:00"
   },
   {
     "id": "20003795782",
@@ -1958,7 +1979,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-03-30T07:19:34.973262+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601185+00:00"
   },
   {
     "id": "20003795783",
@@ -1979,7 +2000,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-03-30T07:19:34.973266+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601189+00:00"
   },
   {
     "id": "20003795758",
@@ -2000,7 +2021,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-03-30T07:19:34.973321+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601245+00:00"
   },
   {
     "id": "20003795761",
@@ -2021,7 +2042,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-03-30T07:19:34.973334+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601260+00:00"
   },
   {
     "id": "20003795762",
@@ -2042,7 +2063,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-03-30T07:19:34.973340+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601266+00:00"
   },
   {
     "id": "20003795763",
@@ -2063,7 +2084,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-03-30T07:19:34.973344+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601271+00:00"
   },
   {
     "id": "20003795766",
@@ -2084,7 +2105,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-03-30T07:19:34.973359+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601284+00:00"
   },
   {
     "id": "20003795767",
@@ -2105,7 +2126,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-03-30T07:19:34.973364+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601291+00:00"
   },
   {
     "id": "20003795729",
@@ -2126,7 +2147,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC",
-    "scraped_at": "2026-03-30T07:19:34.973546+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601500+00:00"
   },
   {
     "id": "20003795730",
@@ -2147,7 +2168,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - E*TRADE #2",
-    "scraped_at": "2026-03-30T07:19:34.973550+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601504+00:00"
   },
   {
     "id": "20003795759",
@@ -2168,7 +2189,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-03-30T07:19:34.973325+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601249+00:00"
   },
   {
     "id": "20003795760",
@@ -2189,7 +2210,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-03-30T07:19:34.973329+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601256+00:00"
   },
   {
     "id": "20003795764",
@@ -2210,7 +2231,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-03-30T07:19:34.973350+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601276+00:00"
   },
   {
     "id": "20003795765",
@@ -2231,7 +2252,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-03-30T07:19:34.973355+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601280+00:00"
   },
   {
     "id": "20003795768",
@@ -2252,7 +2273,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-03-30T07:19:34.973368+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601301+00:00"
   },
   {
     "id": "10000064795",
@@ -2273,7 +2294,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
-    "scraped_at": "2026-03-30T07:19:34.973153+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601073+00:00"
   },
   {
     "id": "20003795744",
@@ -2294,7 +2315,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: JP Morgan Brokerage Account #4",
-    "scraped_at": "2026-03-30T07:19:34.973472+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601429+00:00"
   },
   {
     "id": "10000064735",
@@ -2360,6 +2381,27 @@
     "scraped_at": "2026-03-25T14:03:19.145576+00:00"
   },
   {
+    "id": "10000064808",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "PHILADELPHIA WATER DEPARTMENT",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-03-03",
+    "trade_published": "2026-03-28",
+    "filed_after_days": "25",
+    "price": "N/A",
+    "value": 750000,
+    "amount": "$500K\u2013$1M",
+    "owner": "Self",
+    "comment": "Rate/Coupon: 5.25% Matures: 2054-09-01",
+    "scraped_at": "2026-03-30T08:53:36.601038+00:00"
+  },
+  {
     "id": "10000064796",
     "politician_name": "David McCormick",
     "party": "Republican",
@@ -2378,7 +2420,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
-    "scraped_at": "2026-03-30T07:19:34.973159+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601079+00:00"
   },
   {
     "id": "10000064729",
@@ -2483,7 +2525,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Dividend Reinvestment",
-    "scraped_at": "2026-03-30T07:19:34.973443+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601393+00:00"
   },
   {
     "id": "10000064797",
@@ -2504,7 +2546,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2027-12-01",
-    "scraped_at": "2026-03-30T07:19:34.973165+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601086+00:00"
   },
   {
     "id": "20003795753",
@@ -2525,7 +2567,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: W.S.B Trust > UBS Financial Services 26 Description: Dividend reinvestment in a professionally managed account \u00e2\u0080\u0093 Business Development Company.",
-    "scraped_at": "2026-03-30T07:19:34.973421+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601354+00:00"
   },
   {
     "id": "20003795716",
@@ -2546,7 +2588,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-03-30T07:19:34.973596+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601554+00:00"
   },
   {
     "id": "20003795721",
@@ -2588,7 +2630,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2030-12-01",
-    "scraped_at": "2026-03-30T07:19:34.973170+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601100+00:00"
   },
   {
     "id": "10000064799",
@@ -2609,7 +2651,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 4% Matures: 2032-05-15",
-    "scraped_at": "2026-03-30T07:19:34.973179+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601107+00:00"
   },
   {
     "id": "20003795714",
@@ -2630,7 +2672,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-03-30T07:19:34.973584+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601542+00:00"
   },
   {
     "id": "10000064800",
@@ -2651,7 +2693,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2035-04-01",
-    "scraped_at": "2026-03-30T07:19:34.973192+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601113+00:00"
   },
   {
     "id": "10000064801",
@@ -2672,7 +2714,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "GS Managed Structured Note Strategy S&amp;P 500 Linked Note",
-    "scraped_at": "2026-03-30T07:19:34.973199+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601119+00:00"
   },
   {
     "id": "10000064802",
@@ -2693,7 +2735,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "GS Managed Structured Note Strategy S&amp;P 500 Linked Note",
-    "scraped_at": "2026-03-30T07:19:34.973204+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601123+00:00"
   },
   {
     "id": "10000064803",
@@ -2714,7 +2756,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
-    "scraped_at": "2026-03-30T07:19:34.973208+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601130+00:00"
   },
   {
     "id": "20003795786",
@@ -2735,7 +2777,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Not Disclosed",
     "comment": "US Treasury Bills, due 8/20/2026 [GS] Subholding Of: Stephens Advantage Account",
-    "scraped_at": "2026-03-30T07:19:34.973116+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601048+00:00"
   },
   {
     "id": "10000064804",
@@ -2756,7 +2798,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "GS Managed Structured Note Strategy S&amp;P 500 Linked Note",
-    "scraped_at": "2026-03-30T07:19:34.973212+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601134+00:00"
   },
   {
     "id": "10000064805",
@@ -2777,7 +2819,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "GS Managed Structured Note Strategy S&amp;P 500 Linked Note",
-    "scraped_at": "2026-03-30T07:19:34.973218+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601137+00:00"
   },
   {
     "id": "20003795775",
@@ -2798,7 +2840,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-03-30T07:19:34.973405+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601336+00:00"
   },
   {
     "id": "10000064728",
@@ -2903,7 +2945,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2033-02-01",
-    "scraped_at": "2026-03-30T07:19:34.973222+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601141+00:00"
   },
   {
     "id": "20003795769",
@@ -2924,7 +2966,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-03-30T07:19:34.973374+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601305+00:00"
   },
   {
     "id": "20003795770",
@@ -2945,7 +2987,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-03-30T07:19:34.973379+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601312+00:00"
   },
   {
     "id": "20003795771",
@@ -2966,7 +3008,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-03-30T07:19:34.973383+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601316+00:00"
   },
   {
     "id": "20003795772",
@@ -2987,7 +3029,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-03-30T07:19:34.973389+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601321+00:00"
   },
   {
     "id": "20003795773",
@@ -3008,7 +3050,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-03-30T07:19:34.973395+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601327+00:00"
   },
   {
     "id": "20003795774",
@@ -3029,7 +3071,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-03-30T07:19:34.973399+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601331+00:00"
   },
   {
     "id": "20003795743",
@@ -3050,7 +3092,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: JP Morgan Brokerage Account #4",
-    "scraped_at": "2026-03-30T07:19:34.973468+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601424+00:00"
   },
   {
     "id": "20003795717",
@@ -3071,7 +3113,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-03-30T07:19:34.973601+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601558+00:00"
   },
   {
     "id": "20003795724",
@@ -3155,7 +3197,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Subholding Of: W.S.B Trust > UBS Financial Services 26 Description: Professional managed account.",
-    "scraped_at": "2026-03-30T07:19:34.973413+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601344+00:00"
   },
   {
     "id": "20003795747",
@@ -3176,7 +3218,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-03-30T07:19:34.973456+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601408+00:00"
   },
   {
     "id": "20003795755",
@@ -3197,7 +3239,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: W.S.B Trust > UBS Financial Services Inc 35 Description: Professionally managed account.",
-    "scraped_at": "2026-03-30T07:19:34.973430+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601364+00:00"
   },
   {
     "id": "20003795733",
@@ -3218,7 +3260,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-03-30T07:19:34.973489+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601443+00:00"
   },
   {
     "id": "20003795734",
@@ -3239,7 +3281,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership Description: 0.750%, 4/30/2026",
-    "scraped_at": "2026-03-30T07:19:34.973493+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601447+00:00"
   },
   {
     "id": "20003795735",
@@ -3260,7 +3302,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership Description: 4.625%, 10/15/2026",
-    "scraped_at": "2026-03-30T07:19:34.973496+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601451+00:00"
   },
   {
     "id": "20003795737",
@@ -3281,7 +3323,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Thomas Suozzi IRA FBO Thomas Suozzi",
-    "scraped_at": "2026-03-30T07:19:34.973507+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601462+00:00"
   },
   {
     "id": "20003795738",
@@ -3302,7 +3344,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Thomas Suozzi IRA FBO Thomas Suozzi",
-    "scraped_at": "2026-03-30T07:19:34.973511+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601466+00:00"
   },
   {
     "id": "20003795739",
@@ -3323,7 +3365,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Thomas Suozzi IRA FBO Thomas Suozzi",
-    "scraped_at": "2026-03-30T07:19:34.973516+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601473+00:00"
   },
   {
     "id": "20003795740",
@@ -3344,7 +3386,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Thomas Suozzi IRA FBO Thomas Suozzi",
-    "scraped_at": "2026-03-30T07:19:34.973520+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601477+00:00"
   },
   {
     "id": "20003795741",
@@ -3365,7 +3407,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: National Securities- Advisor Discretion Account",
-    "scraped_at": "2026-03-30T07:19:34.973528+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601483+00:00"
   },
   {
     "id": "20003795708",
@@ -3386,7 +3428,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-03-30T07:19:34.973554+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601510+00:00"
   },
   {
     "id": "20003795723",
@@ -3428,7 +3470,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: W.S.B Trust > UBS Financial Services Inc 35 Description: Professionally managed account.",
-    "scraped_at": "2026-03-30T07:19:34.973439+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601389+00:00"
   },
   {
     "id": "20003795742",
@@ -3449,7 +3491,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: National Securities- Advisor Discretion Account",
-    "scraped_at": "2026-03-30T07:19:34.973532+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601487+00:00"
   },
   {
     "id": "20003795756",
@@ -3470,7 +3512,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: W.S.B Trust > UBS Financial Services Inc 35 Description: Professionally managed account.",
-    "scraped_at": "2026-03-30T07:19:34.973435+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601384+00:00"
   },
   {
     "id": "10000064785",
@@ -3491,7 +3533,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-03-30T07:19:34.973276+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601198+00:00"
   },
   {
     "id": "10000064786",
@@ -3512,7 +3554,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-03-30T07:19:34.973280+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601204+00:00"
   },
   {
     "id": "10000064787",
@@ -3533,7 +3575,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-03-30T07:19:34.973285+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601208+00:00"
   },
   {
     "id": "10000064788",
@@ -3554,7 +3596,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-03-30T07:19:34.973290+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601215+00:00"
   },
   {
     "id": "10000064789",
@@ -3575,7 +3617,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-03-30T07:19:34.973296+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601219+00:00"
   },
   {
     "id": "10000064790",
@@ -3596,7 +3638,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-03-30T07:19:34.973300+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601223+00:00"
   },
   {
     "id": "10000064791",
@@ -3617,7 +3659,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-03-30T07:19:34.973306+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601229+00:00"
   },
   {
     "id": "10000064792",
@@ -3638,7 +3680,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-03-30T07:19:34.973311+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601234+00:00"
   },
   {
     "id": "10000064793",
@@ -3659,7 +3701,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-03-30T07:19:34.973315+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601240+00:00"
   },
   {
     "id": "20003795746",
@@ -3680,7 +3722,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Description: Pooled Investment Fund",
-    "scraped_at": "2026-03-30T07:19:34.973451+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601404+00:00"
   },
   {
     "id": "20003795736",
@@ -3701,7 +3743,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-03-30T07:19:34.973501+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601457+00:00"
   },
   {
     "id": "10000064727",
@@ -3806,7 +3848,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Roth IRA",
-    "scraped_at": "2026-03-30T07:19:34.973464+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601417+00:00"
   },
   {
     "id": "10000064726",
@@ -3932,7 +3974,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-03-30T07:19:34.973425+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601360+00:00"
   },
   {
     "id": "20003795731",
@@ -3953,7 +3995,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-03-30T07:19:34.973478+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601434+00:00"
   },
   {
     "id": "20003795732",
@@ -3974,7 +4016,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-03-30T07:19:34.973484+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601439+00:00"
   },
   {
     "id": "20003795710",
@@ -3995,7 +4037,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-03-30T07:19:34.973565+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601523+00:00"
   },
   {
     "id": "20003795715",
@@ -4016,7 +4058,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-03-30T07:19:34.973591+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601548+00:00"
   },
   {
     "id": "20003795722",
@@ -4205,7 +4247,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: W.S.B Trust > UBS Financial Services 26 Description: Dividend reinvestment in a professionally managed account \u00e2\u0080\u0093 Business Development Company.",
-    "scraped_at": "2026-03-30T07:19:34.973409+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601340+00:00"
   },
   {
     "id": "20003795752",
@@ -4226,7 +4268,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: W.S.B Trust > UBS Financial Services 26 Description: Divided reinvestment in a professionally managed account.",
-    "scraped_at": "2026-03-30T07:19:34.973417+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601348+00:00"
   },
   {
     "id": "20003795745",
@@ -4247,7 +4289,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Description: Private Equity General Partnership",
-    "scraped_at": "2026-03-30T07:19:34.973447+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601400+00:00"
   },
   {
     "id": "20003795709",
@@ -4268,7 +4310,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-03-30T07:19:34.973559+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601515+00:00"
   },
   {
     "id": "20003795711",
@@ -4289,7 +4331,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-03-30T07:19:34.973569+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601527+00:00"
   },
   {
     "id": "20003795713",
@@ -4310,7 +4352,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-03-30T07:19:34.973579+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601536+00:00"
   },
   {
     "id": "20003795718",
@@ -4331,7 +4373,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-03-30T07:19:34.973607+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601562+00:00"
   },
   {
     "id": "10000064794",
@@ -4352,7 +4394,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Pfizer Inc 717081FE8 Rate/Coupon: 4.500% Matures: 2032-11-15",
-    "scraped_at": "2026-03-30T07:19:34.973226+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601145+00:00"
   },
   {
     "id": "20003795748",
@@ -4373,7 +4415,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Description: Venture Capital Fund",
-    "scraped_at": "2026-03-30T07:19:34.973459+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601412+00:00"
   },
   {
     "id": "20003795727",
@@ -4394,7 +4436,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: IRA #3 Description: Received Huntington Banc Shares Series-L in exchange for asset listed above due to corporate action.",
-    "scraped_at": "2026-03-30T07:19:34.973537+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601491+00:00"
   },
   {
     "id": "20003795728",
@@ -4415,7 +4457,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: IRA #3 Description: Received asset listed above in exchange for Cadence Bank Preferred Shares due to corporate action.",
-    "scraped_at": "2026-03-30T07:19:34.973541+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601495+00:00"
   },
   {
     "id": "20003795712",
@@ -4436,7 +4478,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-03-30T07:19:34.973575+00:00"
+    "scraped_at": "2026-03-30T08:53:36.601531+00:00"
   },
   {
     "id": "20003795719",
