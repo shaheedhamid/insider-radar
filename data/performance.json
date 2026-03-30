@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-30",
-  "entry_count": 626,
+  "entry_count": 627,
   "entries": [
     {
       "id": "US|SOFI|2026-03-02|Noto Anthony",
@@ -19966,6 +19966,26 @@
       },
       "latest_price": 26.42,
       "return_pct": -2.04,
+      "last_snapshot": "2026-03-30"
+    },
+    {
+      "id": "US|GO|2026-03-27|Ragatz Erik D.",
+      "market": "US",
+      "ticker": "GO",
+      "yf_symbol": "GO",
+      "company": "Grocery Outlet Holding Corp.",
+      "insider_name": "Ragatz Erik D.",
+      "title": "Dir",
+      "trade_date": "2026-03-27",
+      "trade_price": 7.06,
+      "value": 882500.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-30": 7.07
+      },
+      "latest_price": 7.07,
+      "return_pct": 0.14,
       "last_snapshot": "2026-03-30"
     }
   ]
