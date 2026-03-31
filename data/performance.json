@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-31",
-  "entry_count": 644,
+  "entry_count": 647,
   "entries": [
     {
       "id": "US|SOFI|2026-03-02|Noto Anthony",
@@ -20939,6 +20939,66 @@
       },
       "latest_price": 5.32,
       "return_pct": 5.14,
+      "last_snapshot": "2026-03-31"
+    },
+    {
+      "id": "US|CRT|2026-03-27|Oliver Eric L",
+      "market": "US",
+      "ticker": "CRT",
+      "yf_symbol": "CRT",
+      "company": "Cross Timbers Royalty Trust",
+      "insider_name": "Oliver Eric L",
+      "title": "10%",
+      "trade_date": "2026-03-27",
+      "trade_price": 10.24,
+      "value": 701102.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-31": 11
+      },
+      "latest_price": 11,
+      "return_pct": 7.42,
+      "last_snapshot": "2026-03-31"
+    },
+    {
+      "id": "US|ZBIO|2026-03-31|Lu Hongbo",
+      "market": "US",
+      "ticker": "ZBIO",
+      "yf_symbol": "ZBIO",
+      "company": "Zenas Biopharma, Inc.",
+      "insider_name": "Lu Hongbo",
+      "title": "Dir",
+      "trade_date": "2026-03-31",
+      "trade_price": 20.0,
+      "value": 1500000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-31": 18.225
+      },
+      "latest_price": 18.225,
+      "return_pct": -8.87,
+      "last_snapshot": "2026-03-31"
+    },
+    {
+      "id": "US|RZLT|2026-03-30|Evans Daron",
+      "market": "US",
+      "ticker": "RZLT",
+      "yf_symbol": "RZLT",
+      "company": "Rezolute, Inc.",
+      "insider_name": "Evans Daron",
+      "title": "CFO",
+      "trade_date": "2026-03-30",
+      "trade_price": 2.85,
+      "value": 28500.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-31": 2.85
+      },
+      "latest_price": 2.85,
+      "return_pct": 0.0,
       "last_snapshot": "2026-03-31"
     }
   ]

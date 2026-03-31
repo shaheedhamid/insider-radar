@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-31T20:35:05Z",
-  "trade_count": 5745,
+  "last_updated": "2026-03-31T21:30:48Z",
+  "trade_count": 5748,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -91920,6 +91920,54 @@
       "owned": "2561850",
       "delta_own": "0%",
       "value": "60019",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-31",
+      "filing_time": "17:20",
+      "trade_date": "2026-03-27",
+      "ticker": "CRT",
+      "company": "Cross Timbers Royalty Trust",
+      "insider_name": "Oliver Eric L",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "10.24",
+      "qty": "68467",
+      "owned": "697851",
+      "delta_own": "+11%",
+      "value": "701102",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-31",
+      "filing_time": "17:00",
+      "trade_date": "2026-03-31",
+      "ticker": "ZBIO",
+      "company": "Zenas Biopharma, Inc.",
+      "insider_name": "Lu Hongbo",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "20.00",
+      "qty": "75000",
+      "owned": "422968",
+      "delta_own": "+22%",
+      "value": "1500000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-31",
+      "filing_time": "16:59",
+      "trade_date": "2026-03-30",
+      "ticker": "RZLT",
+      "company": "Rezolute, Inc.",
+      "insider_name": "Evans Daron",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "2.85",
+      "qty": "10000",
+      "owned": "511462",
+      "delta_own": "+2%",
+      "value": "28500",
       "cluster_buy": false
     }
   ]
