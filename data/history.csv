@@ -5738,3 +5738,9 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-31,08:24,2026-03-30,SBSW,Sibanye Stillwater Ltd,Carter Charles Edward,Chief Regional Officer: Amer.,P - Purchase,11.40,10000,180000,+6%,114000,True
 2026-03-31,07:58,2023-03-31,QFIN,"Qfin Holdings, Inc.",Chen Xiaohuan,Dir,P - Purchase,12.79,250000,205000,-556%,3197900,False
 2026-03-31,13:11,2026-03-30,CIA,"Citizens, Inc.",Stenberg Jon,"Pres, CEO",P - Purchase,4.70,50000,437699,+13%,235000,False
+2026-03-31,16:32,2026-03-27,EPSN,Epsilon Energy Ltd.,Stabell Jason,CEO,P - Purchase,6.21,20000,1061804,+2%,124180,False
+2026-03-31,16:15,2026-03-30,XZO,"Exzeo Group, Inc.",Patel Paresh,CEO,P - Purchase,14.08,2000,1592013,0%,28160,True
+2026-03-31,16:15,2026-03-30,GLBS,Globus Maritime Ltd,Feidakis Georgios,Dir,P - Purchase,1.93,15395,5982322,0%,29695,False
+2026-03-31,16:15,2026-03-27,MLYS,"Mineralys Therapeutics, Inc.","Ra Capital Management, L.P.",Dir,P - Purchase,23.75,369000,7692750,+5%,8762797,False
+2026-03-31,16:08,2026-03-27,SATL,Satellogic Inc.,Dunn Rick,CFO,P - Purchase,5.51,35745,228028,+19%,197089,False
+2026-03-31,16:05,2026-03-27,ACOG,Alpha Cognition Inc.,Opaleye Management Inc.,10%,P - Purchase,5.06,11850,2561850,0%,60019,False
