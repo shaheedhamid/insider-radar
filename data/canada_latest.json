@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-31T13:00:28Z",
-  "trade_count": 2764,
+  "last_updated": "2026-03-31T15:00:23Z",
+  "trade_count": 2765,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -41773,6 +41773,22 @@
       "qty": "89300",
       "price": "0.6189",
       "value": "55267",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4691973",
+      "trade_date": "2026-03-31",
+      "filing_date": "2026-03-31",
+      "company": "Morguard Corporation",
+      "ticker": "MRC",
+      "insider_name": "Armoyan, Sime",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "300",
+      "price": "114.7500",
+      "value": "34425",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
