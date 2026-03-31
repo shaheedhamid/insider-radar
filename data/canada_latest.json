@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-31T15:00:23Z",
-  "trade_count": 2765,
+  "last_updated": "2026-03-31T17:00:23Z",
+  "trade_count": 2767,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -40047,7 +40047,7 @@
       "value": "200045",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4684398",
@@ -41789,6 +41789,38 @@
       "qty": "300",
       "price": "114.7500",
       "value": "34425",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4692087",
+      "trade_date": "2026-03-31",
+      "filing_date": "2026-03-31",
+      "company": "Boyd Group Services Inc.",
+      "ticker": "BYD",
+      "insider_name": "Kaner, Brian",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "1180",
+      "price": "127.0700",
+      "value": "149942",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4692283",
+      "trade_date": "2026-03-31",
+      "filing_date": "2026-03-31",
+      "company": "Freehold Royalties Ltd.",
+      "ticker": "FRU",
+      "insider_name": "Strem, Colin",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "4000",
+      "price": "17.3696",
+      "value": "69478",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
