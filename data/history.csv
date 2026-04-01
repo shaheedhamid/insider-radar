@@ -5760,3 +5760,4 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-01,11:48,2026-03-31,OTH,Off the Hook Ys Inc.,John Brian,"CEO, Dir, 10%",P - Purchase,2.06,53350,1253350,+4%,109848,False
 2026-04-01,11:29,2026-03-31,NRGV,"Energy Vault Holdings, Inc.",Piconi Robert,"CEO, 10%",P - Purchase,3.21,12500,16921594,0%,40120,False
 2026-04-01,11:12,2026-03-30,NFJ,"Virtus Dividend, Interest & Premium Strategy Fund","Saba Capital Management, L.P.",10%,P - Purchase,12.39,30502,10213194,0%,377920,False
+2026-04-01,13:27,2026-03-31,SBSW,Sibanye Stillwater Ltd,Nkosi Themba George,"Chief People, Culture Officer",P - Purchase,2.91,11865,242248,+5%,34527,True

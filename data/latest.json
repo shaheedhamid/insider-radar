@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-01T16:02:32Z",
-  "trade_count": 5761,
+  "last_updated": "2026-04-01T17:43:08Z",
+  "trade_count": 5762,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -92177,6 +92177,22 @@
       "delta_own": "0%",
       "value": "377920",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-01",
+      "filing_time": "13:27",
+      "trade_date": "2026-03-31",
+      "ticker": "SBSW",
+      "company": "Sibanye Stillwater Ltd",
+      "insider_name": "Nkosi Themba George",
+      "title": "Chief People, Culture Officer",
+      "trade_type": "P - Purchase",
+      "price": "2.91",
+      "qty": "11865",
+      "owned": "242248",
+      "delta_own": "+5%",
+      "value": "34527",
+      "cluster_buy": true
     }
   ]
 }
