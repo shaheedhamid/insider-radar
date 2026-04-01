@@ -5752,3 +5752,5 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-31,20:14,2026-03-30,ZBIO,"Zenas Biopharma, Inc.",Moulder Leon O Jr,CEO,P - Purchase,18.91,54000,2186122,+3%,1021140,True
 2026-03-31,19:52,2026-03-30,IAUX,I-80 Gold Corp.,Seaman John William,Dir,P - Purchase,1.42,32000,387897,+9%,45440,True
 2026-03-31,19:38,2026-03-27,PAGS,Pagseguro Digital Ltd.,Frias Luis,Dir,P - Purchase,9.97,498500,127713867,0%,4967553,False
+2026-04-01,06:45,2026-03-31,TSM,Taiwan Semiconductor Manufacturing Co Ltd,Burns Ursula M,Dir,P - Purchase,322.05,1000,3617,+38%,322050,True
+2026-04-01,06:03,2026-03-30,HUIZ,Huize Holding Ltd,Ma Cunjun,"CEO, 10%",P - Purchase,0.01,7842032,17862032,+78%,113976,False

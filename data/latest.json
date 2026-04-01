@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-01T10:00:26Z",
-  "trade_count": 5753,
+  "last_updated": "2026-04-01T11:03:24Z",
+  "trade_count": 5755,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -92048,6 +92048,38 @@
       "owned": "127713867",
       "delta_own": "0%",
       "value": "4967553",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-01",
+      "filing_time": "06:45",
+      "trade_date": "2026-03-31",
+      "ticker": "TSM",
+      "company": "Taiwan Semiconductor Manufacturing Co Ltd",
+      "insider_name": "Burns Ursula M",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "322.05",
+      "qty": "1000",
+      "owned": "3617",
+      "delta_own": "+38%",
+      "value": "322050",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-01",
+      "filing_time": "06:03",
+      "trade_date": "2026-03-30",
+      "ticker": "HUIZ",
+      "company": "Huize Holding Ltd",
+      "insider_name": "Ma Cunjun",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "0.01",
+      "qty": "7842032",
+      "owned": "17862032",
+      "delta_own": "+78%",
+      "value": "113976",
       "cluster_buy": false
     }
   ]
