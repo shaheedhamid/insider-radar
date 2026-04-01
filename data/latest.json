@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-01T20:36:31Z",
-  "trade_count": 5788,
+  "last_updated": "2026-04-01T21:34:33Z",
+  "trade_count": 5791,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -92609,6 +92609,54 @@
       "delta_own": "+1%",
       "value": "37863",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-01",
+      "filing_time": "17:10",
+      "trade_date": "2026-03-31",
+      "ticker": "GTLB",
+      "company": "Gitlab Inc.",
+      "insider_name": "Staples William",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "21.35",
+      "qty": "6010",
+      "owned": "344651",
+      "delta_own": "+2%",
+      "value": "128342",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-01",
+      "filing_time": "17:00",
+      "trade_date": "2026-03-30",
+      "ticker": "RBRK",
+      "company": "Rubrik, Inc.",
+      "insider_name": "McLaughlin Mark D",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "47.21",
+      "qty": "10638",
+      "owned": "13639",
+      "delta_own": "+354%",
+      "value": "502220",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-01",
+      "filing_time": "16:39",
+      "trade_date": "2026-03-30",
+      "ticker": "FMAC",
+      "company": "Future Money Acquisition Corp",
+      "insider_name": "Future Wealth Capital Corp.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "10.00",
+      "qty": "304000",
+      "owned": "4666069",
+      "delta_own": "+7%",
+      "value": "3040000",
+      "cluster_buy": false
     }
   ]
 }

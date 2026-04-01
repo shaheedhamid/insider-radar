@@ -5787,3 +5787,6 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-01,15:58,2026-03-31,SPG,Simon Property Group Inc.,Stewart Marta R,Dir,P - Purchase,183.80,196,16696,+1%,36025,True
 2026-04-01,15:56,2026-03-31,SPG,Simon Property Group Inc.,Smith Daniel C.,Dir,P - Purchase,183.80,355,33035,+1%,65249,True
 2026-04-01,15:54,2026-03-31,SPG,Simon Property Group Inc.,Selig Stefan M,Dir,P - Purchase,183.80,206,32483,+1%,37863,True
+2026-04-01,17:10,2026-03-31,GTLB,Gitlab Inc.,Staples William,CEO,P - Purchase,21.35,6010,344651,+2%,128342,False
+2026-04-01,17:00,2026-03-30,RBRK,"Rubrik, Inc.",McLaughlin Mark D,Dir,P - Purchase,47.21,10638,13639,+354%,502220,False
+2026-04-01,16:39,2026-03-30,FMAC,Future Money Acquisition Corp,Future Wealth Capital Corp.,10%,P - Purchase,10.00,304000,4666069,+7%,3040000,False

@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-01",
-  "entry_count": 647,
+  "entry_count": 650,
   "entries": [
     {
       "id": "US|CABO|2026-03-03|Koetje Todd M",
@@ -20950,6 +20950,64 @@
       "latest_price": 186.53,
       "return_pct": 1.49,
       "last_snapshot": "2026-04-01"
+    },
+    {
+      "id": "US|GTLB|2026-03-31|Staples William",
+      "market": "US",
+      "ticker": "GTLB",
+      "yf_symbol": "GTLB",
+      "company": "Gitlab Inc.",
+      "insider_name": "Staples William",
+      "title": "CEO",
+      "trade_date": "2026-03-31",
+      "trade_price": 21.35,
+      "value": 128342.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-01": 21.64
+      },
+      "latest_price": 21.64,
+      "return_pct": 1.36,
+      "last_snapshot": "2026-04-01"
+    },
+    {
+      "id": "US|RBRK|2026-03-30|McLaughlin Mark D",
+      "market": "US",
+      "ticker": "RBRK",
+      "yf_symbol": "RBRK",
+      "company": "Rubrik, Inc.",
+      "insider_name": "McLaughlin Mark D",
+      "title": "Dir",
+      "trade_date": "2026-03-30",
+      "trade_price": 47.21,
+      "value": 502220.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-01": 48.97
+      },
+      "latest_price": 48.97,
+      "return_pct": 3.73,
+      "last_snapshot": "2026-04-01"
+    },
+    {
+      "id": "US|FMAC|2026-03-30|Future Wealth Capital Corp.",
+      "market": "US",
+      "ticker": "FMAC",
+      "yf_symbol": "FMAC",
+      "company": "Future Money Acquisition Corp",
+      "insider_name": "Future Wealth Capital Corp.",
+      "title": "10%",
+      "trade_date": "2026-03-30",
+      "trade_price": 10.0,
+      "value": 3040000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {},
+      "latest_price": null,
+      "return_pct": null,
+      "last_snapshot": null
     }
   ]
 }
