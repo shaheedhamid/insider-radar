@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-02T19:00:16Z",
-  "trade_count": 2794,
+  "last_updated": "2026-04-02T21:00:17Z",
+  "trade_count": 2795,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -42253,6 +42253,22 @@
       "qty": "1300",
       "price": "18.4200",
       "value": "23946",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4696553",
+      "trade_date": "2026-04-02",
+      "filing_date": "2026-04-02",
+      "company": "NevGold Corp.",
+      "ticker": "NAU",
+      "insider_name": "Bonifacio, Brandon Gennaro",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "35000",
+      "price": "1.4400",
+      "value": "50400",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
