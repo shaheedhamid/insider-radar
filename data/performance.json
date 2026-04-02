@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-02",
-  "entry_count": 620,
+  "entry_count": 623,
   "entries": [
     {
       "id": "US|MORN|2026-03-04|Holt Michael",
@@ -6167,8 +6167,8 @@
         "2026-04-01": 8.1,
         "2026-04-02": 8.2
       },
-      "latest_price": 8.07,
-      "return_pct": 2.02,
+      "latest_price": 8.11,
+      "return_pct": 2.53,
       "last_snapshot": "2026-04-02"
     },
     {
@@ -9590,8 +9590,8 @@
         "2026-04-01": 0.731,
         "2026-04-02": 0.73
       },
-      "latest_price": 0.726,
-      "return_pct": 202.5,
+      "latest_price": 0.75,
+      "return_pct": 212.5,
       "last_snapshot": "2026-04-02"
     },
     {
@@ -12448,8 +12448,8 @@
         "2026-04-01": 8.1,
         "2026-04-02": 8.2
       },
-      "latest_price": 8.07,
-      "return_pct": -2.06,
+      "latest_price": 8.11,
+      "return_pct": -1.58,
       "last_snapshot": "2026-04-02"
     },
     {
@@ -14828,8 +14828,8 @@
         "2026-04-01": 8.1,
         "2026-04-02": 8.2
       },
-      "latest_price": 8.07,
-      "return_pct": -6.16,
+      "latest_price": 8.11,
+      "return_pct": -5.7,
       "last_snapshot": "2026-04-02"
     },
     {
@@ -16116,8 +16116,8 @@
         "2026-04-01": 0.731,
         "2026-04-02": 0.73
       },
-      "latest_price": 0.726,
-      "return_pct": 202.5,
+      "latest_price": 0.75,
+      "return_pct": 212.5,
       "last_snapshot": "2026-04-02"
     },
     {
@@ -17397,8 +17397,8 @@
         "2026-04-01": 15.94,
         "2026-04-02": 15.94
       },
-      "latest_price": 15.9006,
-      "return_pct": -0.62,
+      "latest_price": 15.8,
+      "return_pct": -1.25,
       "last_snapshot": "2026-04-02"
     },
     {
@@ -20004,8 +20004,8 @@
         "2026-04-01": 15.94,
         "2026-04-02": 15.94
       },
-      "latest_price": 15.9006,
-      "return_pct": 7.15,
+      "latest_price": 15.8,
+      "return_pct": 6.47,
       "last_snapshot": "2026-04-02"
     },
     {
@@ -20421,6 +20421,66 @@
       },
       "latest_price": 16.3,
       "return_pct": -6.11,
+      "last_snapshot": "2026-04-02"
+    },
+    {
+      "id": "US|SVC|2026-04-02|Donley Brian E.",
+      "market": "US",
+      "ticker": "SVC",
+      "yf_symbol": "SVC",
+      "company": "Service Properties Trust",
+      "insider_name": "Donley Brian E.",
+      "title": "CFO, Treasurer",
+      "trade_date": "2026-04-02",
+      "trade_price": 1.2,
+      "value": 66000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-02": 1.18
+      },
+      "latest_price": 1.18,
+      "return_pct": -1.67,
+      "last_snapshot": "2026-04-02"
+    },
+    {
+      "id": "US|SVC|2026-04-02|Bilotto Christopher J.",
+      "market": "US",
+      "ticker": "SVC",
+      "yf_symbol": "SVC",
+      "company": "Service Properties Trust",
+      "insider_name": "Bilotto Christopher J.",
+      "title": "Pres, CEO",
+      "trade_date": "2026-04-02",
+      "trade_price": 1.2,
+      "value": 120000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-02": 1.18
+      },
+      "latest_price": 1.18,
+      "return_pct": -1.67,
+      "last_snapshot": "2026-04-02"
+    },
+    {
+      "id": "US|SVC|2026-04-02|Portnoy Adam D.",
+      "market": "US",
+      "ticker": "SVC",
+      "yf_symbol": "SVC",
+      "company": "Service Properties Trust",
+      "insider_name": "Portnoy Adam D.",
+      "title": "Dir",
+      "trade_date": "2026-04-02",
+      "trade_price": 1.2,
+      "value": 49999999.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-02": 1.18
+      },
+      "latest_price": 1.18,
+      "return_pct": -1.67,
       "last_snapshot": "2026-04-02"
     }
   ]

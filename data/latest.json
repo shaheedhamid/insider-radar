@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-02T17:42:54Z",
-  "trade_count": 5796,
+  "last_updated": "2026-04-02T19:43:47Z",
+  "trade_count": 5799,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -92737,6 +92737,54 @@
       "delta_own": "+33%",
       "value": "297395",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-02",
+      "filing_time": "14:04",
+      "trade_date": "2026-04-02",
+      "ticker": "SVC",
+      "company": "Service Properties Trust",
+      "insider_name": "Donley Brian E.",
+      "title": "CFO, Treasurer",
+      "trade_type": "P - Purchase",
+      "price": "1.20",
+      "qty": "55000",
+      "owned": "203660",
+      "delta_own": "+37%",
+      "value": "66000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-02",
+      "filing_time": "14:03",
+      "trade_date": "2026-04-02",
+      "ticker": "SVC",
+      "company": "Service Properties Trust",
+      "insider_name": "Bilotto Christopher J.",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "1.20",
+      "qty": "100000",
+      "owned": "298369",
+      "delta_own": "+50%",
+      "value": "120000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-02",
+      "filing_time": "14:02",
+      "trade_date": "2026-04-02",
+      "ticker": "SVC",
+      "company": "Service Properties Trust",
+      "insider_name": "Portnoy Adam D.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.20",
+      "qty": "41666666",
+      "owned": "43698330",
+      "delta_own": ">999%",
+      "value": "49999999",
+      "cluster_buy": true
     }
   ]
 }

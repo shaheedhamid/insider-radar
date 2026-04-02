@@ -5795,3 +5795,6 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-02,06:07,2026-03-30,LODE,Comstock Inc.,Drozdoff Leo M,Dir,P - Purchase,3.00,28000,178481,+19%,84000,False
 2026-04-02,07:17,2026-03-31,BNR,Burning Rock Biotech Ltd,Han Yusheng,Dir,P - Purchase,17.36,314870,17672676,+2%,5466143,False
 2026-04-02,08:47,2023-05-15,BPRN,"Princeton Bancorp, Inc.",Shueh Stephen,Dir,P - Purchase,28.32,10500,42038,+33%,297395,False
+2026-04-02,14:04,2026-04-02,SVC,Service Properties Trust,Donley Brian E.,"CFO, Treasurer",P - Purchase,1.20,55000,203660,+37%,66000,True
+2026-04-02,14:03,2026-04-02,SVC,Service Properties Trust,Bilotto Christopher J.,"Pres, CEO",P - Purchase,1.20,100000,298369,+50%,120000,True
+2026-04-02,14:02,2026-04-02,SVC,Service Properties Trust,Portnoy Adam D.,Dir,P - Purchase,1.20,41666666,43698330,>999%,49999999,True
