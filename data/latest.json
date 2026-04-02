@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-02T11:39:35Z",
-  "trade_count": 5795,
+  "last_updated": "2026-04-02T12:52:52Z",
+  "trade_count": 5796,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -92720,6 +92720,22 @@
       "owned": "17672676",
       "delta_own": "+2%",
       "value": "5466143",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-02",
+      "filing_time": "08:47",
+      "trade_date": "2023-05-15",
+      "ticker": "BPRN",
+      "company": "Princeton Bancorp, Inc.",
+      "insider_name": "Shueh Stephen",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "28.32",
+      "qty": "10500",
+      "owned": "42038",
+      "delta_own": "+33%",
+      "value": "297395",
       "cluster_buy": false
     }
   ]
