@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-02T17:00:17Z",
-  "trade_count": 2793,
+  "last_updated": "2026-04-02T19:00:16Z",
+  "trade_count": 2794,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -42237,6 +42237,22 @@
       "qty": "75000",
       "price": "0.8500",
       "value": "63750",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4695725",
+      "trade_date": "2026-04-02",
+      "filing_date": "2026-04-02",
+      "company": "North American Construction Group Ltd.",
+      "ticker": "NOA",
+      "insider_name": "Saint-Laurent, Maryse C.",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "1300",
+      "price": "18.4200",
+      "value": "23946",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
