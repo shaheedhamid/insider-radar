@@ -6167,8 +6167,8 @@
         "2026-04-01": 8.1,
         "2026-04-02": 8.2
       },
-      "latest_price": 8.16,
-      "return_pct": 3.16,
+      "latest_price": 8.07,
+      "return_pct": 2.02,
       "last_snapshot": "2026-04-02"
     },
     {
@@ -9590,8 +9590,8 @@
         "2026-04-01": 0.731,
         "2026-04-02": 0.73
       },
-      "latest_price": 0.7799,
-      "return_pct": 224.96,
+      "latest_price": 0.726,
+      "return_pct": 202.5,
       "last_snapshot": "2026-04-02"
     },
     {
@@ -12448,8 +12448,8 @@
         "2026-04-01": 8.1,
         "2026-04-02": 8.2
       },
-      "latest_price": 8.16,
-      "return_pct": -0.97,
+      "latest_price": 8.07,
+      "return_pct": -2.06,
       "last_snapshot": "2026-04-02"
     },
     {
@@ -14828,8 +14828,8 @@
         "2026-04-01": 8.1,
         "2026-04-02": 8.2
       },
-      "latest_price": 8.16,
-      "return_pct": -5.12,
+      "latest_price": 8.07,
+      "return_pct": -6.16,
       "last_snapshot": "2026-04-02"
     },
     {
@@ -16116,8 +16116,8 @@
         "2026-04-01": 0.731,
         "2026-04-02": 0.73
       },
-      "latest_price": 0.7799,
-      "return_pct": 224.96,
+      "latest_price": 0.726,
+      "return_pct": 202.5,
       "last_snapshot": "2026-04-02"
     },
     {
@@ -17397,8 +17397,8 @@
         "2026-04-01": 15.94,
         "2026-04-02": 15.94
       },
-      "latest_price": 15.97,
-      "return_pct": -0.19,
+      "latest_price": 15.9006,
+      "return_pct": -0.62,
       "last_snapshot": "2026-04-02"
     },
     {
@@ -20004,8 +20004,8 @@
         "2026-04-01": 15.94,
         "2026-04-02": 15.94
       },
-      "latest_price": 15.97,
-      "return_pct": 7.61,
+      "latest_price": 15.9006,
+      "return_pct": 7.15,
       "last_snapshot": "2026-04-02"
     },
     {
