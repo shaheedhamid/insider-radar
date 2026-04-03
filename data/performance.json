@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-03",
-  "entry_count": 617,
+  "entry_count": 618,
   "entries": [
     {
       "id": "US|IHRT|2026-03-05|Pittman Robert W",
@@ -20520,6 +20520,26 @@
       },
       "latest_price": 16.19,
       "return_pct": 0.5,
+      "last_snapshot": "2026-04-03"
+    },
+    {
+      "id": "US|XZO|2026-04-02|Patel Paresh",
+      "market": "US",
+      "ticker": "XZO",
+      "yf_symbol": "XZO",
+      "company": "Exzeo Group, Inc.",
+      "insider_name": "Patel Paresh",
+      "title": "CEO",
+      "trade_date": "2026-04-02",
+      "trade_price": 13.79,
+      "value": 27580.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-03": 14.26
+      },
+      "latest_price": 14.26,
+      "return_pct": 3.41,
       "last_snapshot": "2026-04-03"
     }
   ]
