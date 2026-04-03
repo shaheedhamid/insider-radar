@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-03T14:40:24Z",
-  "trade_count": 5811,
+  "last_updated": "2026-04-03T15:33:33Z",
+  "trade_count": 5812,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -92976,6 +92976,22 @@
       "owned": "710744",
       "delta_own": "+2%",
       "value": "135377",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-03",
+      "filing_time": "10:56",
+      "trade_date": "2026-04-01",
+      "ticker": "EJH",
+      "company": "E-Home Household Service Holdings Ltd",
+      "insider_name": "Wenshan Xie",
+      "title": "COB, CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "1.25",
+      "qty": "540000",
+      "owned": "552295",
+      "delta_own": ">999%",
+      "value": "675000",
       "cluster_buy": false
     }
   ]

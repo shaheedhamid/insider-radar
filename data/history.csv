@@ -5810,3 +5810,4 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-02,17:05,2026-04-02,LPCN,Lipocine Inc.,Patel Mahesh V.,CEO,P - Purchase,2.02,25000,135679,+23%,50500,False
 2026-04-02,17:02,2026-03-31,ZBIO,"Zenas Biopharma, Inc.",Lu Hongbo,Dir,P - Purchase,18.63,3768,426736,+1%,70198,True
 2026-04-02,17:47,2026-03-31,CRT,Cross Timbers Royalty Trust,Oliver Eric L,10%,P - Purchase,10.50,12893,710744,+2%,135377,False
+2026-04-03,10:56,2026-04-01,EJH,E-Home Household Service Holdings Ltd,Wenshan Xie,"COB, CEO, 10%",P - Purchase,1.25,540000,552295,>999%,675000,False

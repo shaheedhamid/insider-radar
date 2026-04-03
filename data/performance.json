@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-03",
-  "entry_count": 611,
+  "entry_count": 612,
   "entries": [
     {
       "id": "US|IHRT|2026-03-05|Pittman Robert W",
@@ -20400,6 +20400,26 @@
       },
       "latest_price": 10.75,
       "return_pct": 2.38,
+      "last_snapshot": "2026-04-03"
+    },
+    {
+      "id": "US|EJH|2026-04-01|Wenshan Xie",
+      "market": "US",
+      "ticker": "EJH",
+      "yf_symbol": "EJH",
+      "company": "E-Home Household Service Holdings Ltd",
+      "insider_name": "Wenshan Xie",
+      "title": "COB, CEO, 10%",
+      "trade_date": "2026-04-01",
+      "trade_price": 1.25,
+      "value": 675000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-03": 2
+      },
+      "latest_price": 2,
+      "return_pct": 60.0,
       "last_snapshot": "2026-04-03"
     }
   ]
