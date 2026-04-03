@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-03",
-  "entry_count": 613,
+  "entry_count": 614,
   "entries": [
     {
       "id": "US|IHRT|2026-03-05|Pittman Robert W",
@@ -20440,6 +20440,26 @@
       },
       "latest_price": 1.32,
       "return_pct": -1.49,
+      "last_snapshot": "2026-04-03"
+    },
+    {
+      "id": "US|LULU|2026-04-01|Maestrini Andre",
+      "market": "US",
+      "ticker": "LULU",
+      "yf_symbol": "LULU",
+      "company": "Lululemon Athletica Inc.",
+      "insider_name": "Maestrini Andre",
+      "title": "Pres, CCO, Interim Co-CEO",
+      "trade_date": "2026-04-01",
+      "trade_price": 151.02,
+      "value": 494591.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-03": 155.72
+      },
+      "latest_price": 155.72,
+      "return_pct": 3.11,
       "last_snapshot": "2026-04-03"
     }
   ]

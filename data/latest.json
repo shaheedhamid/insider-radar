@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-03T16:30:08Z",
-  "trade_count": 5813,
+  "last_updated": "2026-04-03T17:26:50Z",
+  "trade_count": 5814,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -89648,7 +89648,7 @@
       "owned": "6362",
       "delta_own": ">999%",
       "value": "999978",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-23",
@@ -93009,6 +93009,22 @@
       "delta_own": "New",
       "value": "1813858",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-03",
+      "filing_time": "12:44",
+      "trade_date": "2026-04-01",
+      "ticker": "LULU",
+      "company": "Lululemon Athletica Inc.",
+      "insider_name": "Maestrini Andre",
+      "title": "Pres, CCO, Interim Co-CEO",
+      "trade_type": "P - Purchase",
+      "price": "151.02",
+      "qty": "3275",
+      "owned": "34551",
+      "delta_own": "+10%",
+      "value": "494591",
+      "cluster_buy": true
     }
   ]
 }
