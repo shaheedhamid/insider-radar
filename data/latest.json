@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-03T21:25:24Z",
-  "trade_count": 5820,
+  "last_updated": "2026-04-03T22:24:35Z",
+  "trade_count": 5821,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -93120,6 +93120,22 @@
       "owned": "3511896",
       "delta_own": "+26%",
       "value": "1498980",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-03",
+      "filing_time": "17:45",
+      "trade_date": "2026-04-01",
+      "ticker": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_type": "P - Purchase",
+      "price": "68.84",
+      "qty": "2463",
+      "owned": "5677839",
+      "delta_own": "0%",
+      "value": "169546",
       "cluster_buy": false
     }
   ]

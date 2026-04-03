@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-03",
-  "entry_count": 620,
+  "entry_count": 621,
   "entries": [
     {
       "id": "US|IHRT|2026-03-05|Pittman Robert W",
@@ -20578,6 +20578,26 @@
       },
       "latest_price": 2.28,
       "return_pct": 8.57,
+      "last_snapshot": "2026-04-03"
+    },
+    {
+      "id": "US|NMM|2026-04-01|Frangou Angeliki",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_date": "2026-04-01",
+      "trade_price": 68.84,
+      "value": 169546.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-03": 69.44
+      },
+      "latest_price": 69.44,
+      "return_pct": 0.87,
       "last_snapshot": "2026-04-03"
     }
   ]
