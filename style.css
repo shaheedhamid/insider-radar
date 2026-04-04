@@ -286,7 +286,8 @@ td { padding: 7px 12px; font-size: 13px; white-space: nowrap; vertical-align: mi
 
 .td-date    { font-size: 12px; font-family: var(--font-mono); color: var(--muted2); letter-spacing: .02em; }
 .td-time    { font-size: 11px; font-family: var(--font-mono); color: var(--muted); letter-spacing: .02em; }
-.td-ticker  { font-size: 14px; font-weight: 700; font-family: var(--font-mono); color: var(--gold-bright); letter-spacing: .05em; }
+.td-ticker  { font-size: 14px; font-weight: 700; font-family: var(--font-mono); color: var(--gold-bright); letter-spacing: .05em; padding-left: 22px; }
+.group-row .td-ticker { padding-left: 0; }
 .td-company { max-width: 200px; overflow: hidden; text-overflow: ellipsis; color: var(--text2); }
 .td-insider { max-width: 180px; overflow: hidden; text-overflow: ellipsis; }
 .td-value   { font-weight: 700; font-family: var(--font-mono); color: var(--gold); font-size: 13px; }
